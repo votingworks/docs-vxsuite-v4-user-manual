@@ -22,5 +22,5 @@ To tally results, each USB drive from the precincts and VxCentralScan must be lo
 
 When loaded, confirm that the presented file name, CVR count, and precinct(s) are as expected. Load CVR files from all of your scanners, VxScan and VxCentralScan.&#x20;
 
-<figure><img src="../.gitbook/assets/image (12).png" alt="" width="396"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (55).png" alt="" width="396"><figcaption></figcaption></figure>
 

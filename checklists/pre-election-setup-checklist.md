@@ -91,6 +91,7 @@ To prepare for an election, complete the following steps:
 
 * [ ] insert Election Manager Card
 * [ ] insert USB drive with the Election Package from VxAdmin
+* [ ] select the precinct the VxScan will be assigned to (if applicable)
 * [ ] verify the title and date of election are correct
 * [ ] note VxScan will be in Test Ballot Mode
 * [ ] securely store Election Manager Card

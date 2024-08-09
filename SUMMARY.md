@@ -2,15 +2,15 @@
 
 * [VotingWorks](README.md)
 
-## Central System Setup
+## VxAdmin System Setup
 
-* [VxAdmin Hardware Setup](central-system-setup/vxadmin-hardware-setup.md)
-* [Configure VxAdmin](central-system-setup/configure-vxadmin.md)
-* [Setting Date & Time](central-system-setup/setting-date-and-time.md)
-* [Smartcards and User Roles](central-system-setup/programming-cards.md)
-* [USB Formatting](central-system-setup/usb-formatting.md)
-* [Save Election Package](central-system-setup/save-election-package.md)
-* [Unlocking/Locking Hardware](central-system-setup/unlocking-locking-hardware.md)
+* [VxAdmin Hardware Setup](vxadmin-system-setup/vxadmin-hardware-setup.md)
+* [Configure VxAdmin](vxadmin-system-setup/configure-vxadmin.md)
+* [Setting Date & Time](vxadmin-system-setup/setting-date-and-time.md)
+* [Smartcards and User Roles](vxadmin-system-setup/programming-cards.md)
+* [USB Formatting](vxadmin-system-setup/usb-formatting.md)
+* [Save Election Package](vxadmin-system-setup/save-election-package.md)
+* [Unlocking/Locking Hardware](vxadmin-system-setup/unlocking-locking-hardware.md)
 
 ## VxScan
 
@@ -22,7 +22,7 @@
 
 ## Logic & Accuracy Pre-Election Testing
 
-* [L\&A Overview](logic-and-accuracy-pre-election-testing/l-and-a-checklist.md)
+* [L\&A Overview](logic-and-accuracy-pre-election-testing/l-and-a-overview.md)
 * [L\&A Cleanup](logic-and-accuracy-pre-election-testing/prepare-for-election-day.md)
 
 ## Election Day Guides
@@ -68,3 +68,15 @@
 * [Election Night Checklist - VxCS](vxcentralscan/election-night-checklist-vxcs.md)
 * [Central Scanning](vxcentralscan/scanning-ballots.md)
 * [Retaining and Removing Files - VxCS](vxcentralscan/retaining-and-removing-files-vxcs.md)
+
+## VxMark
+
+* [VxMark Hardware Setup](vxmark/vxmark-hardware-setup.md)
+* [Configure VxMark](vxmark/configure-vxmark.md)
+* [Open/Close Polls](vxmark/open-close-polls.md)
+* [Voting Sessions](vxmark/voting-sessions.md)
+* [Voting Session Language & Settings](vxmark/voting-session-language-and-settings.md)
+* [VxMark Error Messages](vxmark/vxmark-error-messages.md)
+* [System Administrator Functions & System Diagnostics](vxmark/system-administrator-functions-and-system-diagnostics.md)
+* [Packing Up VxMark](vxmark/packing-up-vxmark.md)
+* [Retaining and Removing Files - VxMark](vxmark/retaining-and-removing-files-vxmark.md)

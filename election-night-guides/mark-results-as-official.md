@@ -12,10 +12,10 @@ You may not add additional CVR files, adjudicate write-ins, or add manual tallie
 
 To mark as official, select Reports from the side menu and select _`Mark Election Results as Official.`_
 
-<figure><img src="../.gitbook/assets/image (152).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (195).png" alt="" width="375"><figcaption></figcaption></figure>
 
 &#x20;Confirm by selecting _`Mark Election Results as Official.`_
 
-<figure><img src="../.gitbook/assets/image (153).png" alt="" width="271"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (196).png" alt="" width="271"><figcaption></figcaption></figure>
 
 All references to unofficial results in VxAdmin will be changed to official. You can print an official tally by selecting Reports from the side menu and selecting _`Full Election Tally Report.`_

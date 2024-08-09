@@ -20,7 +20,7 @@ The primary, bottom input tray (Tray 2) has a paper capacity of 150 to 250 piece
 
 VxCentralScan comes with the [Fujitsu fi-](https://www.fujitsu.com/us/Images/190613\_fi-7160\_Datasheet\_English\_R4.pdf)[8170](https://www.pfu-us.ricoh.com/scanners/fi/fi-8170) scanner, capable of scanning almost one ballot per second. We recommend using the scanner with the stacker (a.k.a output tray) down and fully extended, the stopper flipped up, and the detachable paper chute attached and fully extended:&#x20;
 
-<figure><img src="../.gitbook/assets/image (872).png" alt="" width="267"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (915).png" alt="" width="267"><figcaption></figcaption></figure>
 
 For more detailed instructions on how to set up the scanner, consult the product [Operator's Guide](https://origin.pfultd.com/downloads/IMAGE/manual/fi-7x8060/P3PC-4292-05ENZ0.pdf).&#x20;
 
