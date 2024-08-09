@@ -1,10 +1,10 @@
 # Election Night Checklist
 
-On election night, you will need [VxAdmin](../central-system-setup/vxadmin-hardware-setup.md) (laptop and printer). if scanning ballots centrally, you'll also need the [VxCentralScan](../vxcentralscan/vxcentralscan-hardware-setup.md) (laptop and scanner) and the [Election Night Checklist - VxCS](../vxcentralscan/election-night-checklist-vxcs.md).
+On election night, you will need [VxAdmin](../vxadmin-system-setup/vxadmin-hardware-setup.md) (laptop and printer). if scanning ballots centrally, you'll also need the [VxCentralScan](../vxcentralscan/vxcentralscan-hardware-setup.md) (laptop and scanner) and the [Election Night Checklist - VxCS](../vxcentralscan/election-night-checklist-vxcs.md).
 
 ### [Tallying](../election-night-guides/tally-results.md) and Saving Results
 
-* [ ] [set up VxAdmin](../central-system-setup/vxadmin-hardware-setup.md)
+* [ ] [set up VxAdmin](../vxadmin-system-setup/vxadmin-hardware-setup.md)
 * [ ] insert Election Manager Card
 * [ ] select Tally from the side menu and verify there are no CVRs on VxAdmin&#x20;
 * [ ] select Reports from the side menu, print an _`Unofficial Full Election Tally Report`_ as the Zero Report
@@ -19,5 +19,5 @@ On election night, you will need [VxAdmin](../central-system-setup/vxadmin-hardw
 * [ ] select Reports from the side menu, print or save an official _`Write-in Adjudication Report`_
 * [ ] save Results file to USB drive
 * [ ] remove Election Manager Card
-* [ ] pack up VxAdmin, seal and document as required
+* [ ] pack up VxAdmin, seal and document as required, store in a secure climate-controlled environment
 * [ ] secure USB drive(s) as required

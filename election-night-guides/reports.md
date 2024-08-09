@@ -16,7 +16,7 @@ To review results, select Reports from the side menu and select _`Full Election 
 
 The printed report should look like the image below with the election name and the VotingWorks logo.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="290"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (51).png" alt="" width="290"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 The Tally Report will include any total write-in count of one or more in a contest. If a specific write-in candidate has enough votes to be considered in the outcome of a contest, the report will list that candidate and their vote total. The Tally Report will not list every write-in adjudicated, the Write-In Adjudication Report will have the full list.
@@ -79,7 +79,7 @@ To print the report, select _`Unofficial Write-In Adjudication Report`_. An exam
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (827).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (870).png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 

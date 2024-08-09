@@ -12,7 +12,7 @@ Follow the [VxCentral Scan Hardware Setup](vxcentralscan-hardware-setup.md) inst
 
 Before scanning the first ballot batch, confirm that VxCentralScan displays No ballots have been scanned. If not,  select _`Delete All Batches`_ to clear the scanner.
 
-<figure><img src="../.gitbook/assets/image (873).png" alt="" width="266"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (916).png" alt="" width="266"><figcaption></figcaption></figure>
 
 Load a stack of ballots into the feeder tray of the scanner. VotingWorks recommends loading no more than 50 ballot sheets at time. The ballots need to be in a neat stack, unfolded and lying flat, but ballots can be in any orientation (e.g. upside down or backwards is fine).
 
@@ -46,7 +46,7 @@ If the scanner stops, remove the last ballot sheet scanned from the scanner outp
 
 The example below shows an **Overvote** detected that is being removed for review.
 
-<figure><img src="../.gitbook/assets/image (874).png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (917).png" alt="" width="269"><figcaption></figcaption></figure>
 
 A similar central review interface may be shown for other adjudication reasons depending on your election configuration including:
 
@@ -57,7 +57,7 @@ A similar central review interface may be shown for other adjudication reasons d
 
 VxCentralScan may show an **Unreadable** ballot screen for a properly marked ballot if it's unable to decode ballot information due to page skew, dust, or tampering of the ballot. When a ballot sheet is shown as unreadable, you can safely remove the ballot and re-scan the ballot sheet. If the ballot is unreadable on a second scan, you should remove the ballot for duplication.
 
-<figure><img src="../.gitbook/assets/image (875).png" alt="" width="265"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (918).png" alt="" width="265"><figcaption></figcaption></figure>
 
 ### Mode Mismatch
 
@@ -69,17 +69,17 @@ When all ballot batches (including any duplicated ballots) have been scanned, yo
 
 To save, select _`Save CVRs`_ in the top right.
 
-<figure><img src="../.gitbook/assets/image (876).png" alt="" width="266"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (919).png" alt="" width="266"><figcaption></figcaption></figure>
 
 You'll be prompted to insert a USB drive. Once recognized, select _`Save`_ and then _`Eject USB.`_
 
 <div>
 
-<figure><img src="../.gitbook/assets/image (144).png" alt="" width="188"><figcaption><p>Select Save</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (187).png" alt="" width="188"><figcaption><p>Select Save</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (145).png" alt="" width="188"><figcaption><p>Select Eject USB</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (188).png" alt="" width="188"><figcaption><p>Select Eject USB</p></figcaption></figure>
 
 </div>
 
@@ -93,7 +93,7 @@ If using multiple VxCentralScan stations, repeat for each one.
 
 After saving the CVRs, VotingWorks recommends also taking a backup of all data from the VxCentralScan station. To save a backup, navigate to the Settings menu and select _`Save Backup`_. Then navigate to the USB drive in the file dialog and save the backup .zip file. The file may take up to a few minutes to save.
 
-<figure><img src="../.gitbook/assets/image (877).png" alt="" width="266"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (920).png" alt="" width="266"><figcaption></figcaption></figure>
 
 
 

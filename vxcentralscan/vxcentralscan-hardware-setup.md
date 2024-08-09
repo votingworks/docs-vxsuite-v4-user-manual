@@ -10,7 +10,7 @@ description: >-
 
 **VxCentralScan** is a commercial off-the-shelf (COTS) laptop pre-installed with VxCentralScan software pre-installed and a Fujitsu scanner.
 
-![VxCentralScan in cases](<../.gitbook/assets/vxcentral in cases.png>) ![VxCentralScan set up](<../.gitbook/assets/image (819).png>)
+![VxCentralScan in cases](<../.gitbook/assets/vxcentral in cases.png>) ![VxCentralScan set up](<../.gitbook/assets/image (862).png>)
 
 Two models of Fujitsu scanners are supported: fi-8170 and fi-7600. The smaller fi-8170 (shown above) can scan batches of up to 30 ballots. The larger fi-7600 (shown below) enables larger batches of up to 100 ballots.
 
@@ -39,7 +39,7 @@ Two models of Fujitsu scanners are supported: fi-8170 and fi-7600. The smaller f
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (354).png" alt=""><figcaption><p>remove and document seals as necessary</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (397).png" alt=""><figcaption><p>remove and document seals as necessary</p></figcaption></figure>
 
  
 
@@ -54,7 +54,7 @@ Two models of Fujitsu scanners are supported: fi-8170 and fi-7600. The smaller f
   * [ ] pull the **scanner cord** (c) out and plug into the USB hub and the scanner
   * [ ] turn the laptop on
 
-![Remove laptop](<../.gitbook/assets/VxCentralScan case open laptop in.png>) ![Remove components](<../.gitbook/assets/Vxcentral scan case open laptop removed.png>) ![Plug components in](<../.gitbook/assets/image (818).png>)
+![Remove laptop](<../.gitbook/assets/VxCentralScan case open laptop in.png>) ![Remove components](<../.gitbook/assets/Vxcentral scan case open laptop removed.png>) ![Plug components in](<../.gitbook/assets/image (861).png>)
 
 VxCentralScan hardware setup is complete.
 
@@ -64,7 +64,7 @@ To pack up the VxCentralScan, simply place all of the components back into the c
 
 <div align="center">
 
-<figure><img src="../.gitbook/assets/image (367).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (410).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

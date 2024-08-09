@@ -8,10 +8,12 @@ A few functions in VxScan are limited to System Administrators and only appear i
 
 **Reboot to BIOS** - this function is reserved for VotingWorks support staff to boot the machine into the BIOS setup screen for firmware configuration.
 
-<figure><img src="../.gitbook/assets/image (39).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/06-sys-admin-screen.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Power Down** - select to turn off the VxScan.
 
 **Unconfigure Machine** - select _`Unconfigure Machine`_ to delete all data and the election configuration.
+
+**Hash Validation** - select _`Hash Validation`_ and navigate to check.voting.works on your phone and scan the QR code on the VxScan. The site will validate the QR code data and verify the machine is certified and software is unaltered.
 
 **Save Log File** - select _`Save Log File`_ to save the full log of VxScan activity to the /logs folder on the inserted USB drive.
