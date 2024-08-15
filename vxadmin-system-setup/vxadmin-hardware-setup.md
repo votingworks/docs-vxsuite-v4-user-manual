@@ -67,6 +67,10 @@ description: >-
   * [ ] pull the **printer cord** (c) out and plug into the USB hub and the printer
   * [ ] turn the laptop on
 
+{% hint style="info" %}
+An optional mouse is included.  Plug it in to the USB hub to use.
+{% endhint %}
+
 <div>
 
 <figure><img src="../.gitbook/assets/VxAdmin remove laptop.png" alt=""><figcaption><p>Remove laptop</p></figcaption></figure>

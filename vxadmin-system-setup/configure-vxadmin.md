@@ -24,7 +24,7 @@ Once configured, the Election screen will display the title and date of your ele
 
 ## Remove Election
 
-If you need to change an election package or reset VxAdmin for the next election, you must remove the unconfigure the machine.
+If you need to change an election package or reset VxAdmin for the next election, you must unconfigure the machine.
 
 Select Election from the side menu and select _`Unconfigure Machine`_.
 

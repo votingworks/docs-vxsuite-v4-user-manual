@@ -8,7 +8,7 @@ The following steps must be completed by the Election Manager.
 
 All tabulation functionality in VxAdmin is available by selecting Tally from the side menu. Insert a USB drive and select _`Load CVRs`_ to load the Cast Vote Records.
 
-To tally results, each USB drive from the precincts and VxCentralScan must be loaded. One at a time, insert the USB drive(s). A dialog box will pop up and show you each CVR file saved on the USB drive. Select _`Load`_ next to the file (official ballots, correct number of ballots, correct time) you'd like to load.
+To tally results, each USB drive from each VxScan and VxCentralScan must be loaded. One at a time, insert the USB drive(s). A dialog box will pop up and show you each CVR file saved on the USB drive. Select _`Load`_ next to the file (official ballots, correct number of ballots, correct time) you'd like to load.
 
 <div>
 

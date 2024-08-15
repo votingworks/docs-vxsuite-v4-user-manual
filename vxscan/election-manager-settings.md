@@ -23,7 +23,7 @@ If loading a new paper roll, the screen will walk you through removing the paper
 </div>
 
 {% hint style="info" %}
-Replacement of the paper roll can be completed at any point of time.  Using this printer flow is not required but can be helpful for someone who needs step-by-step instructions and wants to print a test page.&#x20;
+Replacement of the paper roll can be completed at any point of time.  Using this printer flow is not required but can be helpful for someone who needs step-by-step instructions and/or wants to print a test page.&#x20;
 {% endhint %}
 
 To replace or add a printer paper roll:
@@ -78,6 +78,9 @@ To replace or add a printer paper roll:
 
 </div>
 
+* [ ] close the printer-scanner access panel
+* [ ] close the USB drive panel
+
 ## CVRs and Logs
 
 **Save CVRs** - the VxScan Cast Vote Record (CVR) contains the images and the data for each ballot cast and is used to accumulate totals in VxAdmin. This file saves continuously to the USB drive throughout the day and again at the close of polls.  However, if that fails or another copy is needed, it can also be saved by selecting CVRs and Logs from the side menu and selecting _`Save CVRs`_.
@@ -88,7 +91,7 @@ To replace or add a printer paper roll:
 
 ## System Settings
 
-**Disable Double Sheet Detection -** use to disable the ultrasonic sensor on VxScan in the event it fails and improperly rejects single sheets as multiple sheets. If VxScan stops taking ballots or repeatedly displays the Ballot Not Counted - Multiple Sheets detected error message, contact customer support. This system setting should only be used if advised by VotingWorks support staff.
+**Disable Double Sheet Detection -** use to disable the ultrasonic sensor on VxScan in the event it fails and improperly rejects single sheets as multiple sheets. If VxScan stops taking ballots or repeatedly displays the Ballot Not Counted - Multiple Sheets detected error message, contact customer support. This system setting should only be used if advised by VotingWorks support team.
 
 **Calibrate Double Sheet Detection** - use to calibrate the ultrasonic sensor on VxScan before each election. Using two sheets of blank paper that is the same weight as your ballots, select _`Calibrate Double Sheet Detection`_ and insert sheets as directed on screen.&#x20;
 

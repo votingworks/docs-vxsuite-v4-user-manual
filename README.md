@@ -21,7 +21,7 @@ This guide walks you through the complete process to set up, test, and operate t
 
 VotingWorks consists of two subsystems:
 
-1. **Central System:** all equipment necessary for, election programming, central batch ballot scanning, results tabulation, and reporting.
+1. **Central System:** all equipment necessary for election programming, central batch ballot scanning, results tabulation, write-in adjudication, and reporting.
 2. **Precinct System:** all equipment necessary for use at the precinct to scan hand-marked ballots and provide an accessible ballot marking device for voters who need or prefer assistance marking a ballot.
 
 ### Central System
@@ -59,7 +59,7 @@ All votes cast using VotingWorks equipment are on paper ballots for security and
 There are two types of VotingWorks paper ballots:
 
 * **Hand-marked paper ballot**
-  * All absentee voters will receive a hand-marked paper ballot that is printed on-demand. Absentee ballots are scanned by election administrators using a high-speed central scanner (VxCentralScan) or the precinct scanner (VxScan).
+  * All absentee voters will receive a hand-marked paper ballot that is printed by a print vendor. Absentee ballots are scanned by election administrators using a high-speed central scanner (VxCentralScan) or the precinct scanner (VxScan).
   * Most in-precinct voters will receive a hand-marked paper ballot that is printed by a print vendor to hand mark. Precinct ballots are scanned by voters using a precinct scanner (VxScan).
 * **Machine-marked paper ballot** (via ballot marking device)
   * In-precinct voters may request to use the accessible ballot marking device (VxMark), which prints a voter verifiable paper ballot. Machine-marked precinct ballots are scanned by voters using the same precinct scanner (VxScan).

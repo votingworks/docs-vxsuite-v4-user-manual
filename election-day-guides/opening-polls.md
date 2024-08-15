@@ -26,6 +26,7 @@ To open the polls:
 </div>
 
 * [ ] one copy of the Polls Opened Report will print
+* [ ] tear to remove the report
 * [ ] select _`Reprint Polls Opened Report`_ to print more reports as necessary
 
 <div>
@@ -39,7 +40,7 @@ To open the polls:
 </div>
 
 * [ ] remove the Poll Worker Card from VxScan
-* [ ] seal and document the panel as required
+* [ ] seal and document the USB drive panel as required
 
 <figure><img src="../.gitbook/assets/VxScan poll worker door sealed.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -56,6 +57,6 @@ Below is an example of the Polls Opened Report. All contest totals should be zer
 <figure><img src="../.gitbook/assets/image (472).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-The interior panel should remain sealed and secure at all times unless a poll worker requires access. Any unauthorized access should be reported to an election administrator immediately.
+The USB drive panel should remain sealed and secure at all times unless a poll worker requires access. Any unauthorized access should be reported to an election administrator immediately.
 {% endhint %}
 

@@ -38,5 +38,5 @@ Select _`Close`_ to return to the contest menu.
 <figure><img src="../.gitbook/assets/image (84).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Write-in votes without the bubble marked are not included in tally reports until they are vote is assigned via adjudication. Anything marked invalid becomes an undervote if no other votes were marked in a contest.&#x20;
+Write-in votes without the bubble marked are not included in tally reports until their vote is assigned via adjudication. Anything marked invalid becomes an undervote if no other votes were marked in a contest.&#x20;
 {% endhint %}
