@@ -5,6 +5,7 @@
 * [ ] insert the Poll Worker Card
 * [ ] select _`Yes, Close the Polls`_
 * [ ] one copy of the Polls Closed Report will print
+* [ ] tear to remove the report
 
 <div>
 

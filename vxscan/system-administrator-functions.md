@@ -14,6 +14,6 @@ A few functions in VxScan are limited to System Administrators and only appear i
 
 **Unconfigure Machine** - select _`Unconfigure Machine`_ to delete all data and the election configuration.
 
-**Hash Validation** - select _`Hash Validation`_ and navigate to check.voting.works on your phone and scan the QR code on the VxScan. The site will validate the QR code data and verify the machine is certified and software is unaltered.
+**Hash Validation** - select _`Hash Validation`_ and navigate to check.voting.works on your phone and scan the QR code on the VxScan. The site will validate the QR code data and verify the software is the same as the certified version.
 
 **Save Log File** - select _`Save Log File`_ to save the full log of VxScan activity to the /logs folder on the inserted USB drive.

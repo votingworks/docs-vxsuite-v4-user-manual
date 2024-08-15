@@ -53,9 +53,9 @@ To remove election configuration (and all data) from VxScan with the Election Ma
 
 * [ ] Insert an Election Manager Card
 * [ ] Select _`Unconfigure Machine`_.
-*
-[ ] 
-    <figure><img src="../.gitbook/assets/image (36).png" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (36).png" alt="" width="375"><figcaption></figcaption></figure>
+
 * [ ] Confirm by selecting _`Yes, Delete Election Data.`_
 
 <figure><img src="../.gitbook/assets/image (158).png" alt="" width="188"><figcaption></figcaption></figure>

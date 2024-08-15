@@ -68,7 +68,7 @@ To power down the VxScan, insert a Poll Worker Card and select _`No`_ to access 
 
 ### Hash Validation
 
-VotingWorks equipment provides additional system security by allowing you to confirm the software is the same as the certified version. To confirm on VxScan, insert a Poll Worker Card, select _`No`_, and select _`Hash Validation.`_ Then navigate to check.voting.works on your phone and scan the QR code on the VxScan. The site will validate the QR code data and verify the machine and software.
+VotingWorks equipment provides additional system security by allowing you to confirm the software is the same as the certified version. To confirm on VxScan, insert a Poll Worker Card, select _`No`_, and select _`Hash Validation.`_ Then navigate to check.voting.works on your phone and scan the QR code on the VxScan. The site will validate the QR code data and verify the software is the same as the certified version.
 
 <div>
 
