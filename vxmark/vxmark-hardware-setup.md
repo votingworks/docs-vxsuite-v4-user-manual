@@ -4,7 +4,7 @@
 
 Part of the Precinct System, the VxMark is an accessible ballot marking device that gives voters the ability to mark their choices and print their ballot from a touchscreen.
 
-**VxMark** can be setup through the following steps:
+**VxMark** can be set up through the following steps:
 
 **Set up the stand**:
 

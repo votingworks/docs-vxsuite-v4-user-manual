@@ -1,7 +1,7 @@
 ---
 description: >-
-  Part of the Central System, VxCentralScan is used by local election
-  administrators to rapidly scan ballots.
+  Part of the Central System, VxCentralScan is used by election administrators
+  to rapidly scan ballots.
 ---
 
 # VxCentralScan Hardware Setup
@@ -34,7 +34,7 @@ Two models of Fujitsu scanners are supported: fi-8170 and fi-7600. The smaller f
 
 2**.  Setup VxCentralScan laptop:**
 
-* [ ] remove and document seals as necessary
+* [ ] remove and document seal(s) as necessary
 * [ ] open the case by lifting the latches on front
 
 <div align="left">

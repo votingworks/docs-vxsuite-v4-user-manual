@@ -32,7 +32,7 @@ To prepare for an election, complete the following steps:
 &#x20;  **VxAdmin**
 
 * [ ] insert System Administrator Card
-* [ ] select Definition from the side menu
+* [ ] select Election from the side menu
 * [ ] select _`Unconfigure Machine`_
 * [ ] securely store System Administrator Card
 

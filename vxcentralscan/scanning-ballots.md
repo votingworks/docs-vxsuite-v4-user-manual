@@ -4,7 +4,7 @@
 The following steps must be completed by the Election Manager.
 {% endhint %}
 
-VxCentralScan is a central scanning solution that allows you to quickly scan large batches of ballots. If you are using VxScan at your precincts, you can use VxCentralScan to scan absentee or vote by mail ballots on Election Day and mail, provisional, military ballots, or other ballots counted post-election day post-election. VxCentraScan can also be used to quickly verify a test deck and retabulate an out of balance precinct.&#x20;
+VxCentralScan is a central scanning solution that allows you to quickly scan large batches of ballots. If you are using VxScan at your precincts, you can use VxCentralScan to scan absentee or vote by mail ballots on Election Day and mail, provisional, military ballots, or other ballots counted post-election day. VxCentraScan can also be used to quickly verify a test deck and retabulate an out of balance precinct.&#x20;
 
 Follow the [VxCentral Scan Hardware Setup](vxcentralscan-hardware-setup.md) instructions to prepare the system for use.
 

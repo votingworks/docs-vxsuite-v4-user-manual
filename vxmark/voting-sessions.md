@@ -3,7 +3,7 @@
 ### Activating a Voting Session
 
 {% hint style="warning" %}
-A voter may bring their own Personal Assistive Technology (PAT) device (ex. jelly bean switch, sip and puff device, etc.) or headphones. It must have a 3.5mm plug or connector. Once plugged in, a test screen will pop up after the device is plugged in to assist in configuration.  See [System Administrator Functions & System Diagnostics ](system-administrator-functions-and-system-diagnostics.md)for instructions.&#x20;
+A voter may bring their own Personal Assistive Technology (PAT) device (ex. jelly bean switch, sip and puff device, etc.) or headphones. It must have a 3.5mm plug or connector. Once plugged in, a test screen will pop up to assist in configuration.  See [System Administrator Functions & System Diagnostics ](system-administrator-functions-and-system-diagnostics.md)for instructions.&#x20;
 {% endhint %}
 
 If a voter chooses to use the VxMark, you'll need to use your Poll Worker Card to select their ballot.&#x20;
@@ -53,7 +53,7 @@ If the wrong ballot style or precinct was selected, insert the Poll Worker Card 
 
 Let the voter know they can begin voting by selecting _`Start Voting`_.
 
-One contest will display at a time. The voter will select the candidate(s) of their choice. The voter moves to the next contest by selecting _`Next`_. The voter can skip a contest by selecting _`Next`_ without making a selection.  To return to a previous contest, select _`Back`_.  A _`More`_ button will display if there are more candidates or text that fit on a single screen.&#x20;
+One contest will display at a time. The voter will select the candidate(s) of their choice. The voter moves to the next contest by selecting _`Next`_. The voter can skip a contest by selecting _`Next`_ without making a selection.  To return to a previous contest, select _`Back`_.  A _`More`_ button will display if there are more candidates or text than fit on a single screen.&#x20;
 
 <div>
 
@@ -114,7 +114,7 @@ After working through all contests, a Review Your Votes screen appears that allo
 </div>
 
 {% hint style="warning" %}
-If the voter remove the ballot front the printer to review, the VxMark will ask if they are still voting. They should reload their ballot to cast the ballot. If the ballot is not reloaded, the VxMark will clear the ballot after five minutes of inactivity.
+If the voter removes the ballot from the printer to review, the VxMark will ask if they are still voting. They should reload their ballot to cast the ballot. If the ballot is not reloaded, the VxMark will clear the ballot after five minutes of inactivity.
 {% endhint %}
 
 The screen will show the ballot being cast and verify it was cast and dropped into the ballot bin.&#x20;
