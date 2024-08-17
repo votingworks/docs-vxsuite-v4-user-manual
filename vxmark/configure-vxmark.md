@@ -6,7 +6,7 @@ The following steps must be completed by an Election Manager.
 
 Before you configure VxMark, you must setup the machine. Follow [VxMark Hardware Setup](vxmark-hardware-setup.md) steps.
 
-To configure **VxScan**, you must do two things:
+To configure **VxMark**, you must do two things:
 
 1. [Save the election package](../vxadmin-system-setup/save-election-package.md) to a USB drive.
 2. [Create an Election Manager Card](../vxadmin-system-setup/programming-cards.md).
@@ -33,7 +33,7 @@ Under the accessible controller is the smartcard reader and the USB port. To acc
 
 An unconfigured machine will prompt you to insert an Election Manager Card to log in and then a USB drive with the election package saved from VxAdmin to configure.&#x20;
 
-After you insert the USB drive, VxMark will automatically begin loading all ballot styles for the election. After the election package is done loading, the Election Manager Settings screen will display in Test Ballot Mode.
+After the USB drive is inserted, VxMark will automatically begin loading all ballot styles for the election. After the election package is done loading, the Election Manager Settings screen will display in Test Ballot Mode.
 
 <div>
 

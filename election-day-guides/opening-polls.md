@@ -1,6 +1,6 @@
 # Opening Polls
 
-### Opening Polls on VxScan
+Opening Polls on VxScan
 
 After VxScan is plugged in, the Polls Closed screen will show.
 
@@ -40,9 +40,6 @@ To open the polls:
 </div>
 
 * [ ] remove the Poll Worker Card from VxScan
-* [ ] seal and document the USB drive panel as required
-
-<figure><img src="../.gitbook/assets/VxScan poll worker door sealed.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ##
 

@@ -36,7 +36,7 @@ To test the accessible controller, first make sure it is plugged in and a green 
 
 ### Printer/Scanner
 
-To test the printer/scanner, select _`Test Printer/Scanner`_.  The screen will prompt you to insert a blank sheet of paper and then a show a success screen when the process is complete.  Select _`Complete Test`_ to close the page.&#x20;
+To test the printer/scanner, select _`Test Printer/Scanner`_.  The screen will prompt you to insert a blank sheet of paper and then show a success screen when the process is complete.  Select _`Complete Test`_ to close the page.&#x20;
 
 
 

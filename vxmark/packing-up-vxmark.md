@@ -6,7 +6,7 @@ Pack up **VxMark** through the following steps:
 
 * [ ] push the power button to turn off
 * [ ] unplug and store the headphones
-* [ ] remove and storethe privacy shield
+* [ ] remove and store the privacy shield
 
 <div>
 
@@ -82,7 +82,7 @@ Pack up **VxMark** through the following steps:
 
 * [ ] remove the support bar
 * [ ] flip the stand over
-* [ ] with the legs facing up, pul a leg toward you and fold in
+* [ ] with the legs facing up, pull a leg toward you and fold in
 * [ ] continue until all legs are folded down
 
 <div>

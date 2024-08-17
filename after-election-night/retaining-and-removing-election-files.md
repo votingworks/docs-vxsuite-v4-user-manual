@@ -2,7 +2,7 @@
 
 ### Retaining Election Files
 
-After certification of an election and before configuring a new election, all election files and data should be saved and election package removed from the previous election.
+After certification of an election and before configuring a new election, all election files and data should be saved and the election package removed from the previous election.
 
 VotingWorks recommends retaining the following files after each election:
 
@@ -16,7 +16,7 @@ VotingWorks recommends retaining the following files after each election:
 * [ ] VxMark log file (if applicable - see [Retaining and Removing Files - VxMark](../vxmark/retaining-and-removing-files-vxmark.md))
 
 {% hint style="warning" %}
-**Note**: Ballots should have been secured post-tabulation. Follow state guidelines to ensure proper retention.
+Ballots should have been secured post-tabulation. Follow state guidelines to ensure proper retention.
 {% endhint %}
 
 ### VxAdmin&#x20;
@@ -58,7 +58,7 @@ VxScan CVRs include the VxScan's CVRs and ballot images. The log file contains t
 
 ### Removing Election Files
 
-In VxAdmin, log in with a System Administrator Card, select Definition from the side menu and select _`Unconfigure Machine`_.
+In VxAdmin, log in with a System Administrator Card, select Election from the side menu and select _`Unconfigure Machine`_.
 
 <figure><img src="../.gitbook/assets/image (43).png" alt="" width="267"><figcaption></figcaption></figure>
 

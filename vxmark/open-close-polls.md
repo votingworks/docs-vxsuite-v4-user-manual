@@ -12,7 +12,7 @@ If there is an orange banner that says "Test Ballot Mode" on the screen, contact
 
 To open the polls:
 
-* [ ] open the interior panel and insert the Poll Worker Card into the card reader
+* [ ] insert the Poll Worker Card into the card reader
 * [ ] select _`Open Polls`_
 * [ ] confirm by selecting _`Open Polls`_ again
 * [ ] remove the Poll Worker Card from VxMark
@@ -67,7 +67,8 @@ The polls are now closed.
 
 The _`Pause Voting`_ action in the poll worker actions screen is generally used by jurisdictions conducting early voting over multiple days or during an emergency situation. To pause voting and not allow ballots to be marked by VxMark:
 
-* [ ] insert a Poll Worker Card and select _`View More Actions`_
+* [ ] insert a Poll Worker Card&#x20;
+* [ ] select _`View More Actions`_
 * [ ] select _`Pause Voting`_
 * [ ] confirm by selecting _`Pause Voting`_
 
@@ -85,7 +86,7 @@ The _`Pause Voting`_ action in the poll worker actions screen is generally used 
 
 </div>
 
-* [ ] Remove the Poll Worker Card from VxMark. The polls are now paused.&#x20;
+* [ ] remove the Poll Worker Card from VxMark. The polls are now paused.&#x20;
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -94,7 +95,6 @@ To resume voting:
 * [ ] insert a Poll Worker Card&#x20;
 * [ ] select View More Actions
 * [ ] select _`Resume Voting`_
-* [ ] insert a piece of thermal paper into the back of the printer
 
 <div>
 
@@ -114,7 +114,7 @@ To resume voting:
 
 ### Hash Validation
 
-VotingWorks equipment provides additional system security by allowing you to confirm the software is the same as the certified version. To confirm on VxMark, insert a Poll Worker Card and select _`Hash Validation.`_ Then navigate to check.voting.works on your phone and scan the QR code on the VxScan. The site will validate the QR code data and verify the machine and software.
+VotingWorks equipment provides additional system security by allowing you to confirm the software is the same as the certified version. To confirm on VxMark, insert a Poll Worker Card and select _`Hash Validation`_. Then navigate to check.voting.works on your phone and scan the QR code on the VxMark. The site will validate the QR code data and verify the machine and software.
 
 <div>
 

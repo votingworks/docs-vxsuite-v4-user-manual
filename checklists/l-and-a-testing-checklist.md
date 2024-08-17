@@ -20,15 +20,15 @@ description: Complete all steps in the Pre-Election Setup Checklist prior to L&A
 * [ ] remove the Election Manager Card&#x20;
 * [ ] insert Poll Worker Card
 * [ ] select _`Yes, Open the Polls`_
-* [ ] insert a piece of thermal paper into the back of the printer
 * [ ] one copy of the Polls Opened Report will print (this is your Zero Report)
+* [ ] tear to remove the report
 * [ ] verify precinct name, election date, and totals are zero
 * [ ] remove the Poll Worker Card
 * [ ] run test ballots through the scanner as required
 * [ ] insert Poll Worker Card
 * [ ] select _`Yes, Close the Polls`_
-* [ ] insert a piece of thermal paper into the back of the printer
 * [ ] one copy of the Polls Closed Report will print
+* [ ] tear to remove the report
 * [ ] verify results match expected test ballot results
 * [ ] remove the Poll Worker Card
 * [ ] insert Election Manager Card
