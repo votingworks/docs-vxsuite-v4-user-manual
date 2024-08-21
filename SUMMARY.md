@@ -47,6 +47,7 @@
 
 ## Checklists
 
+* [Overview](checklists/overview.md)
 * [Pre-Election Setup Checklist](checklists/pre-election-setup-checklist.md)
 * [L\&A Testing Checklist](checklists/l-and-a-testing-checklist.md)
 * [Poll Worker Checklist](checklists/checklist.md)
