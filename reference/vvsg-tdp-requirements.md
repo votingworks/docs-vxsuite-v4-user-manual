@@ -3,7 +3,7 @@
 The following details which section(s) refer to VVSG TDP documentation requirements.&#x20;
 
 {% hint style="success" %}
-This User Manual in it's entirety maps to Requirement **3.1.5-A**. Including **A.1** and **A.2**.&#x20;
+This User Manual in it's entirety maps to Requirement **3.1.5-A**. Including **A.1,** **A.2, A.5,** and **A.6**.&#x20;
 
 **A.3** is covered by[ ](../vxadmin-system-setup/configure-vxadmin.md)[Configure VxAdmin](../vxadmin-system-setup/configure-vxadmin.md), [Configure VxCS](../vxcentralscan/configure-ballot-scanner.md), and [VxScan Error Messages.](../vxscan/vxscan-error-messages.md)
 
