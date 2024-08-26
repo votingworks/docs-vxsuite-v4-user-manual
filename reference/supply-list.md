@@ -11,6 +11,10 @@ When using a third party printer, VotingWorks recommends printing ballots on pap
 * 90# Index (162 GSM)
 * 65# Cover (177 GSM)&#x20;
 
+### Headphone Ear Covers
+
+Disposable headphone ear covers are recommended for use with the VxMark headphones for sanitation purposes like this:  [https://a.co/d/eAaRt1K](https://a.co/d/eAaRt1K)
+
 ### Marking Utensils
 
 There is no specific recommendation for a marking utensil but it should be an ink pen that dries quickly. No markers.
@@ -30,7 +34,7 @@ The HP printers for the VxAdmin (if purchased) use toner cartridge 58. HP offers
 * [HP 58A](https://www.hp.com/us-en/shop/pdp/hp-58a-black-original-laserjet-toner-cartridge) - regular size, prints approximately 3000 pages
 * [HP 58X](https://www.hp.com/us-en/shop/pdp/hp-58x-high-yield-black-original-laserjet-toner-cartridge) - high yield, prints approximately 10000 pages
 
-## USB Drive Recommendations and Compatibility
+### USB Drive Recommendations and Compatibility
 
 VotingWorks supports any USB 3.0+ drive that is 16GB or greater.&#x20;
 

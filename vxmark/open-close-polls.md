@@ -10,7 +10,7 @@ After VxMark is plugged in, the Polls Closed screen will show.
 If there is an orange banner that says "Test Ballot Mode" on the screen, contact your election administrator immediately to prepare the machine for the election.
 {% endhint %}
 
-To open the polls:
+**To open the polls:**
 
 * [ ] insert the Poll Worker Card into the card reader
 * [ ] select _`Open Polls`_

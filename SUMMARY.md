@@ -44,6 +44,7 @@
 ## After Election Night
 
 * [Retaining & Removing Election Files](after-election-night/retaining-and-removing-election-files.md)
+* [Post-Election Audit Resources](after-election-night/post-election-audit-resources.md)
 
 ## Checklists
 
@@ -81,3 +82,4 @@
 * [System Administrator Functions & System Diagnostics](vxmark/system-administrator-functions-and-system-diagnostics.md)
 * [Packing Up VxMark](vxmark/packing-up-vxmark.md)
 * [Retaining and Removing Files - VxMark](vxmark/retaining-and-removing-files-vxmark.md)
+* [VxMark Checklist](vxmark/vxmark-checklist.md)
