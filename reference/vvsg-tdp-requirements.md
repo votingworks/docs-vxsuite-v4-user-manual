@@ -34,7 +34,7 @@ Requirements **3.1.5-H** and **3.2-B.4** are covered by [L\&A Overview](../logic
 Requirement **3.1.5-I.3** is covered by [Opening Polls](../election-day-guides/opening-polls.md), [Closing Polls](../election-day-guides/closing-polls.md), [Reports](../election-night-guides/reports.md), and [Election Package Specifications](election-package-specification.md).&#x20;
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 Requirement **3.1.5-J.2** is covered by [Configure VxAdmin,](../vxadmin-system-setup/configure-vxadmin.md) [Configure VxScan](../vxscan/configure-vxscan.md), [Configure VxCentralScan](../vxcentralscan/configure-ballot-scanner.md), Configure VxMark, and [L\&A Overview](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md).
 {% endhint %}
 
@@ -46,7 +46,7 @@ Requirement **3.1.5.K.2** is covered by [Smartcards and User Roles](../vxadmin-s
 Requirement **3.1.5.K.3** is covered by [Retaining & Removing Election Files](../after-election-night/retaining-and-removing-election-files.md).
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 All **3.1.7** requirements are covered by [Smartcards and User Roles](../vxadmin-system-setup/programming-cards.md).&#x20;
 {% endhint %}
 
@@ -56,4 +56,8 @@ The [Poll Worker Guides](broken-reference) cover requirements **7.3-O** through 
 
 {% hint style="success" %}
 Requirement **9.1.3-C** is covered by [VxScan Error Messages.](../vxscan/vxscan-error-messages.md)
+{% endhint %}
+
+{% hint style="success" %}
+Requirement 9.1.4-B is covered by Post-Election Audit Resources.
 {% endhint %}

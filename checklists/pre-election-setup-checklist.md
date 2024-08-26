@@ -40,7 +40,7 @@ To prepare for an election, complete the following steps:
 
 * [ ] insert Election Manager Card&#x20;
 * [ ] select _`Unconfigure Machine`_
-* [ ] securely store Election Manger Card
+* [ ] securely store Election Manager Card
 
 ### Configure VxAdmin
 
