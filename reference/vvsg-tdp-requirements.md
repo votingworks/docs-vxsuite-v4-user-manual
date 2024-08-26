@@ -65,5 +65,5 @@ Requirement **9.1.3-C** is covered by [VxScan Error Messages.](../vxscan/vxscan-
 {% endhint %}
 
 {% hint style="success" %}
-Requirement 9.1.4-B is covered by Post-Election Audit Resources.
+Requirements **9.1.4-B** and **9.2-A** are covered by [Post-Election Audit Resources](../after-election-night/post-election-audit-resources.md).
 {% endhint %}
