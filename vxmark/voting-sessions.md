@@ -129,3 +129,6 @@ The screen will show the ballot being cast and verify it was cast and dropped in
 
 </div>
 
+{% hint style="info" %}
+If headphones are used, using earpad covers and replacing after use is recommended. See the [Supply List](../reference/supply-list.md) for more information.
+{% endhint %}

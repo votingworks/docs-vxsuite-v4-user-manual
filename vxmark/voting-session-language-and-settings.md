@@ -50,7 +50,7 @@ The default text size is _`Medium`_.  A user can select _`Small`_, _`Large`_, or
 
 #### Audio
 
-Audio is always defaulted on. Select _`Mute Audio`_ to mute all sound.  Select _`Enable Audio-Only Mode`_ to hide the screen. Voters using only audio to navigate through the ballot may want to hide the screen for privacy.
+Audio is always defaulted to on when headphones are plugged in. Select _`Mute Audio`_ to mute all sound.  Select _`Enable Audio-Only Mode`_ to hide the screen. Voters using only audio to navigate through the ballot may want to hide the screen for privacy. Additionally, a voter who has a T-coil neckloop may unplug the headphones and plug that device into the headphone jack.&#x20;
 
 <div>
 

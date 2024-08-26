@@ -8,6 +8,8 @@ This User Manual in it's entirety maps to Requirement **3.1.5-A**. Including **A
 **A.3** is covered by[ ](../vxadmin-system-setup/configure-vxadmin.md)[Configure VxAdmin](../vxadmin-system-setup/configure-vxadmin.md), [Configure VxCS](../vxcentralscan/configure-ballot-scanner.md), and [VxScan Error Messages.](../vxscan/vxscan-error-messages.md)
 
 **A.4** and **A.7** are covered by[ ](../vxadmin-system-setup/configure-vxadmin.md)[Configure VxAdmin](../vxadmin-system-setup/configure-vxadmin.md), [Configure VxCS](../vxcentralscan/configure-ballot-scanner.md), and [Configure VxScan](../vxscan/configure-vxscan.md).
+
+**A.8** is covered by Checklists [Overview](https://docs.voting.works/vxsuite-user-manual-v4/checklists/overview).&#x20;
 {% endhint %}
 
 {% hint style="success" %}
@@ -52,6 +54,10 @@ All **3.1.7** requirements are covered by [Smartcards and User Roles](../vxadmin
 
 {% hint style="success" %}
 The [Poll Worker Guides](broken-reference) cover requirements **7.3-O** through **7.3-O.2.c**.
+{% endhint %}
+
+{% hint style="success" %}
+Requirement **8.1.H** is covered by VxMark [Voting Sessions](../vxmark/voting-sessions.md) and the [Supply List](supply-list.md).
 {% endhint %}
 
 {% hint style="success" %}
