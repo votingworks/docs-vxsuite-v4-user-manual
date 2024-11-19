@@ -27,6 +27,10 @@ VxAdmin and VxCentralScan micro SD slots should be secured with transfer tamper 
 \
 VxAdmin and VxCentralScan laptop ports should be blocked with port blockers like this: [https://a.co/d/5zHubox](https://a.co/d/5zHubox)
 
+### Thermal Paper Roll
+
+Thermal paper rolls are 78' long. The number of elections that can print on one roll depends on the size and number of Polls Open/Close Reports printed. Changing rolls prior to every election is recommended.
+
 ### Toner Cartridges
 
 The HP printers for the VxAdmin (if purchased) use toner cartridge 58. HP offers two sizes:

@@ -4,9 +4,9 @@
 The following steps must be completed by an Election Manager.
 {% endhint %}
 
-Before you configure VxScan, you must setup the machine. Follow the steps in the [Poll Worker VxScan Setup Guide](../election-day-guides/vxscan-setup.md).
+Before you configure VxScan, you must set up the machine. Follow the steps in the [Poll Worker VxScan Setup Guide](../election-day-guides/vxscan-setup.md).
 
-To configure **VxScan**, you must do two things:
+To configure **VxScan**, you must do two things in **VxAdmin**:
 
 1. [Save the election package](../vxadmin-system-setup/save-election-package.md) to a USB drive.
 2. [Create an Election Manager Card](../vxadmin-system-setup/programming-cards.md).
@@ -49,7 +49,7 @@ Use the toggle button to switch between _`Test Ballot Mode`_ and _`Official Ball
 
 There are two ways to remove the election package, unconfigure the machine, and delete all data on the VxScan. \
 \
-To remove election configuration (and all data) from VxScan with the Election Manager Card:
+To remove the election configuration (and all data) from VxScan with an Election Manager Card:
 
 * [ ] Insert an Election Manager Card
 * [ ] Select _`Unconfigure Machine`_.
