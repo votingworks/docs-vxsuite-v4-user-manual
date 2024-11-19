@@ -1,5 +1,9 @@
 # Additional Poll Worker Actions
 
+{% hint style="info" %}
+The following steps must be completed by a Poll Worker.
+{% endhint %}
+
 ### Pause or Resume Voting
 
 The _`Pause Voting`_ action in the poll worker screen is generally used by jurisdictions conducting early voting over multiple days or during an emergency situation. To pause voting and not allow ballots to be received by VxScan:
@@ -48,11 +52,9 @@ One copy of the Voting Resumed Report will print. If additional reports are need
 
 <figure><img src="../.gitbook/assets/image (39).png" alt="" width="375"><figcaption></figcaption></figure>
 
-*
-
 Below is an example of the Voting Resumed Report.
 
-<figure><img src="../.gitbook/assets/image (902).png" alt="" width="317"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (916).png" alt="" width="317"><figcaption></figcaption></figure>
 
 ### Printing Previous Reports
 
@@ -68,7 +70,7 @@ To power down the VxScan, insert a Poll Worker Card and select _`No`_ to access 
 
 ### Hash Validation
 
-VotingWorks equipment provides additional system security by allowing you to confirm the software is the same as the certified version. To confirm on VxScan, insert a Poll Worker Card, select _`No`_, and select _`Hash Validation.`_ Then navigate to check.voting.works on your phone and scan the QR code on the VxScan. The site will validate the QR code data and verify the software is the same as the certified version.
+VotingWorks equipment provides additional system security by allowing you to confirm the software is the same as the certified version. To confirm on VxScan, insert a Poll Worker Card, select _`No`_, and select _`Hash Validation`_. Then navigate to check.voting.works on your phone and scan the QR code on the VxScan. The site will validate the QR code data and verify the software is the same as the certified version.
 
 <div>
 

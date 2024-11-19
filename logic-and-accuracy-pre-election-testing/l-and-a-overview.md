@@ -6,7 +6,7 @@ Logic & accuracy testing (L\&A) is meant to ensure that every component of the v
 
 Before starting the testing process, using an Election Manager Card, confirm VxAdmin does not have CVRs loaded. Select Reports from the side menu and select _`Full Election Tally Report`_ to print a "zero" report.
 
-<figure><img src="../.gitbook/assets/image (905).png" alt="" width="267"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (919).png" alt="" width="267"><figcaption></figcaption></figure>
 
 ### Test Ballot v. Official Ballot Mode&#x20;
 
@@ -18,8 +18,12 @@ In VxScan, insert an Election Manager Card, select Configuration from the side m
 
 In VxCentralScan, insert an Election Manager Card, select Settings from the side menu, and select  _`Toggle to Official Ballot Mode`_.&#x20;
 
-<figure><img src="../.gitbook/assets/image (907).png" alt="" width="266"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (921).png" alt="" width="266"><figcaption></figcaption></figure>
 
 In VxMark, insert an Election Manager Card and select the correct mode.
 
 <figure><img src="../.gitbook/assets/image (16).png" alt="" width="188"><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+An orange Test Ballot Mode banner will display at the top of each screen when the device is in Test Ballot Mode.&#x20;
+{% endhint %}

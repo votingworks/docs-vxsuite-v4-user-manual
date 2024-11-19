@@ -23,7 +23,7 @@ Pack up **VxMark** through the following steps:
 </div>
 
 * [ ] push the printer-scanner release button to open the cover
-* [ ] remove the ballot bin
+* [ ] lift the ballot bin to remove
 
 <div>
 

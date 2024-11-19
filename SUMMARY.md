@@ -7,7 +7,8 @@
 * [VxAdmin Hardware Setup](vxadmin-system-setup/vxadmin-hardware-setup.md)
 * [Configure VxAdmin](vxadmin-system-setup/configure-vxadmin.md)
 * [Setting Date & Time](vxadmin-system-setup/setting-date-and-time.md)
-* [Smartcards and User Roles](vxadmin-system-setup/programming-cards.md)
+* [Diagnostics  VxAdmin](vxadmin-system-setup/diagnostics-vxadmin.md)
+* [Smart Cards and User Roles](vxadmin-system-setup/programming-cards.md)
 * [USB Formatting](vxadmin-system-setup/usb-formatting.md)
 * [Save Election Package](vxadmin-system-setup/save-election-package.md)
 * [Unlocking/Locking Hardware](vxadmin-system-setup/unlocking-locking-hardware.md)
@@ -18,12 +19,13 @@
 * [Election Manager Settings](vxscan/election-manager-settings.md)
 * [Additional Poll Worker Actions](vxscan/additional-poll-worker-actions.md)
 * [VxScan Error Messages](vxscan/vxscan-error-messages.md)
-* [System Administrator Functions](vxscan/system-administrator-functions.md)
+* [System Administrator Functions & System Diagnostics](vxscan/system-administrator-functions-and-system-diagnostics.md)
 
 ## Logic & Accuracy Pre-Election Testing
 
 * [L\&A Overview](logic-and-accuracy-pre-election-testing/l-and-a-overview.md)
 * [L\&A Cleanup](logic-and-accuracy-pre-election-testing/prepare-for-election-day.md)
+* [Equipment Inspection & Transportation](logic-and-accuracy-pre-election-testing/equipment-inspection-and-transportation.md)
 
 ## Election Day Guides
 
@@ -35,7 +37,7 @@
 
 ## Election Night Guides
 
-* [Tally Results](election-night-guides/tally-results.md)
+* [Loading CVRs](election-night-guides/tally-results.md)
 * [Write-In Adjudication](election-night-guides/write-in-adjudication.md)
 * [Manual Tallies](election-night-guides/manual-tallies.md)
 * [Reports](election-night-guides/reports.md)
@@ -57,16 +59,19 @@
 ## Reference
 
 * [COTS Hardware](reference/hardware-specifications.md)
+* [Election Package Specification](reference/election-package-specification.md)
+* [Operations Environment](reference/operations-environment.md)
 * [Printer FAQs](reference/printer-faqs.md)
+* [Seals and Port Blockers](reference/seals-and-port-blockers.md)
 * [Supply List](reference/supply-list.md)
 * [VVSG TDP Requirements](reference/vvsg-tdp-requirements.md)
-* [Election Package Specification](reference/election-package-specification.md)
-* [Seals and Port Blockers](reference/seals-and-port-blockers.md)
 
 ## VxCentralScan
 
 * [VxCentralScan Hardware Setup](vxcentralscan/vxcentralscan-hardware-setup.md)
 * [Configure VxCentralScan](vxcentralscan/configure-ballot-scanner.md)
+* [Election Manager Settings VxCS](vxcentralscan/election-manager-settings-vxcs.md)
+* [Diagnostics VxCS](vxcentralscan/diagnostics-vxcs.md)
 * [Election Night Checklist - VxCS](vxcentralscan/election-night-checklist-vxcs.md)
 * [Central Scanning](vxcentralscan/scanning-ballots.md)
 * [Retaining and Removing Files - VxCS](vxcentralscan/retaining-and-removing-files-vxcs.md)

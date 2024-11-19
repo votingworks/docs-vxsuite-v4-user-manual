@@ -1,5 +1,9 @@
 # Election Manager Settings
 
+{% hint style="info" %}
+The following steps must be completed by an Election Manager.
+{% endhint %}
+
 ## Printer
 
 To replace a paper roll or print a test page, select Printer from the side menu and select _`Load Paper`_ or _`Print Test Page`_.&#x20;
@@ -91,9 +95,9 @@ To replace or add a printer paper roll:
 
 ## System Settings
 
-**Disable Double Sheet Detection -** use to disable the ultrasonic sensor on VxScan in the event it fails and improperly rejects single sheets as multiple sheets. If VxScan stops taking ballots or repeatedly displays the Ballot Not Counted - Multiple Sheets detected error message, contact customer support. This system setting should only be used if advised by VotingWorks support team.
+**Disable Double Sheet Detection -** use to disable the ultrasonic sensor on VxScan in the event it fails and improperly rejects single sheets as multiple sheets. If VxScan stops taking ballots or repeatedly displays the Ballot Not Counted - Multiple Sheets detected error message, contact customer support. This system setting should only be used if advised by the VotingWorks support team.
 
-**Calibrate Double Sheet Detection** - use to calibrate the ultrasonic sensor on VxScan before each election. Using two sheets of blank paper that is the same weight as your ballots, select _`Calibrate Double Sheet Detection`_ and insert sheets as directed on screen.&#x20;
+**Calibrate Double Sheet Detection** - use to calibrate the ultrasonic sensor on VxScan before each election. Using two sheets of blank paper that is the same weight as your ballots, select _`Calibrate Double Sheet Detection`_ and insert sheets as directed on screen. Repeat with a single sheet as prompted.
 
 **Set Time & Date** - use to change the system date and time. The time is automatically updated for Daylight Savings Time.  Select _`Set Date and Time`_ to change.
 

@@ -17,6 +17,9 @@ description: Complete all steps in the Pre-Election Setup Checklist prior to L&A
 * [ ] insert Election Manager Card
 * [ ] select _`Official Ballot Mode`_
 * [ ] select System Settings from the side menu and verify the date and time by selecting _`Set Date and Time`_
+* [ ] select System Settings from the side menu and select _`Calibrate Double Sheet Detection`_
+* [ ] insert two sheets of ballot paper as directed on screen
+* [ ] repeat with a single sheet as prompted
 * [ ] remove the Election Manager Card&#x20;
 * [ ] insert Poll Worker Card
 * [ ] select _`Yes, Open the Polls`_

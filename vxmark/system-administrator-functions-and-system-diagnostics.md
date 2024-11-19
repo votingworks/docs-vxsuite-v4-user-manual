@@ -105,3 +105,13 @@ To test the headphones, plug them in to the front of the VxMark, and select _`Te
 {% hint style="warning" %}
 If any test fails, try to unplug/replug in the component and try again. If the test continues to fail, restart the VxMark and try again. If both options continue to fail, a new device should be plugged in.
 {% endhint %}
+
+### Readiness Report
+
+The Readiness Report can be used as a record of system diagnostic verification.  Select _`Save Readiness Report`_ to save a copy to a USB drive.&#x20;
+
+<figure><img src="../.gitbook/assets/image (902).png" alt="" width="375"><figcaption></figcaption></figure>
+
+An example of a VxMark Readiness Report is below:
+
+<figure><img src="../.gitbook/assets/image (904).png" alt="" width="375"><figcaption></figcaption></figure>

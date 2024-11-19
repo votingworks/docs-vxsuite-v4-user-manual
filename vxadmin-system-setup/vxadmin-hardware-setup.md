@@ -1,6 +1,6 @@
 ---
 description: >-
-  Part of the Central System, VxAdmin is used by local election administrators
+  Part of the central system, VxAdmin is used by local election administrators
   to program elections and tabulate results on election night.
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 ### Hardware Overview
 
-**VxAdmin** is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software and an optional printer. All USB drives, cords, adapters, and programmable smartcards needed to operate the system are included and stored in an orange case.
+**VxAdmin** is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software and an optional printer. All USB drives, cords, adapters, and programmable smart cards needed to operate the system are included and stored in an orange case.
 
 <div>
 
@@ -89,7 +89,7 @@ VxAdmin hardware setup is complete.
 
 ### Packing Up VxAdmin
 
-To pack up the VxAdmin, simply place all of the components back into the case as displayed above. Secure the case as required by placing at least one seal through the eyelets highlighted below.
+To pack up the VxAdmin, simply place all of the components back into the case as displayed above. Secure the case as required by sealing the eyelets highlighted below.
 
 <figure><img src="../.gitbook/assets/image (692).png" alt="" width="188"><figcaption></figcaption></figure>
 

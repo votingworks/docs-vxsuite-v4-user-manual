@@ -143,3 +143,23 @@ description: >-
 {% hint style="warning" %}
 Once assembled, be sure to place the VxScan in an area of the room that allows for voter privacy as voted ballots are inserted into the scanner.
 {% endhint %}
+
+VxScan has an auxillary bin that can be used to for holding voted ballots when necessary. Most often this would be used in an emergency when the tabulator is not accepting ballots.
+
+To open the auxiliary bin, push the handle down and pull the bin towards you. Stop at the mid-way point. Seal the auxiliary bin when in use.&#x20;
+
+<div>
+
+<figure><img src="../.gitbook/assets/vxscan emergency bin.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/vxscan emergency bin out and sealed.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/vxscan - emergency bin putting a ballot in.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+To verify the bin is empty or to remove the ballots from the auxiliary bin, push the handle down and pull the bin all the way towards you.

@@ -4,17 +4,30 @@
 The following steps must be completed by the Election Manager.
 {% endhint %}
 
-## Save Election Package
+Before you configure VxCentralScan, you must setup the machine. Follow the steps in the [VxCentralScan Hardware Setu](vxcentralscan-hardware-setup.md)p.
 
-To configure VxCentralScan, you must first [save the election package](../vxadmin-system-setup/save-election-package.md) from VxAdmin to a USB drive.&#x20;
+To configure **VxCentralScan**, you must do two things in **VxAdmin**:
+
+1. [Save the election package](../vxadmin-system-setup/save-election-package.md) to a USB drive.
+2. [Create an Election Manager Card](../vxadmin-system-setup/programming-cards.md).
 
 ## Load Election Package
 
 Once the election package is saved to a USB drive, you can load the file to VxCentralScan.
 
-[Setup the VxCentralScan hardware](vxcentralscan-hardware-setup.md) and turn on the VxCentralScan laptop. Insert an Election Manager Card to configure VxCentralScan will be displayed.&#x20;
+[Setup the VxCentralScan hardware](vxcentralscan-hardware-setup.md) and turn on the VxCentralScan laptop. Insert an Election Manager Card to configure VxCentralScan will be displayed.
 
-<figure><img src="../.gitbook/assets/image (141).png" alt="" width="188"><figcaption></figcaption></figure>
+
+
+<div>
+
+<figure><img src="../.gitbook/assets/image (901).png" alt="" width="262"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/insert EM VxCS.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 Using an Election Manager Card, unlock the machine. Then follow the prompt to insert the USB drive with the election package. The election package will automatically load.
 

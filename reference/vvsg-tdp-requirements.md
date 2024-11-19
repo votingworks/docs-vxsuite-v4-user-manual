@@ -10,6 +10,8 @@ This User Manual in it's entirety maps to Requirement **3.1.5-A**. Including **A
 **A.4** and **A.7** are covered by[ ](../vxadmin-system-setup/configure-vxadmin.md)[Configure VxAdmin](../vxadmin-system-setup/configure-vxadmin.md), [Configure VxCS](../vxcentralscan/configure-ballot-scanner.md), and [Configure VxScan](../vxscan/configure-vxscan.md).
 
 **A.8** is covered by Checklists [Overview](https://docs.voting.works/vxsuite-user-manual-v4/checklists/overview).&#x20;
+
+**A.9** is covered by [Diagnostics VxAdmin](../vxadmin-system-setup/diagnostics-vxadmin.md), [VxScan System Administrator Functions & System Diagnostics](../vxscan/system-administrator-functions-and-system-diagnostics.md#system-diagnostics), [Diagnostics VxCS](../vxcentralscan/diagnostics-vxcs.md), and [VxMark System Administrator Functions & System Diagnostics.](../vxmark/system-administrator-functions-and-system-diagnostics.md#system-diagnostics)&#x20;
 {% endhint %}
 
 {% hint style="success" %}
@@ -29,7 +31,15 @@ Requirement **3.1.5-F** is covered by the User Manual in it's entirety.
 {% endhint %}
 
 {% hint style="success" %}
+Requirement **3.1.5-G** is covered by [Operations Environment](operations-environment.md).
+{% endhint %}
+
+{% hint style="success" %}
 Requirements **3.1.5-H** and **3.2-B.4** are covered by [L\&A Overview](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md) and [L\&A Cleanup](../logic-and-accuracy-pre-election-testing/prepare-for-election-day.md).
+{% endhint %}
+
+{% hint style="info" %}
+Requirements **3.1.5-I.1** and **I.2** are covered by the User Manual in it's entirety.
 {% endhint %}
 
 {% hint style="success" %}
@@ -37,7 +47,19 @@ Requirement **3.1.5-I.3** is covered by [Opening Polls](../election-day-guides/o
 {% endhint %}
 
 {% hint style="success" %}
+Requirement **3.1.5-I.4** is covered by [Diagnostics VxAdmin](../vxadmin-system-setup/diagnostics-vxadmin.md), [VxScan System Administrator Functions & System Diagnostics](../vxscan/system-administrator-functions-and-system-diagnostics.md#system-diagnostics), [Diagnostics VxCS](../vxcentralscan/diagnostics-vxcs.md), and [VxMark System Administrator Functions & System Diagnostics.](../vxmark/system-administrator-functions-and-system-diagnostics.md#system-diagnostics)&#x20;
+{% endhint %}
+
+{% hint style="success" %}
+Requirement **3.1.5-J.1** is covered by [VotingWorks](../) overview.
+{% endhint %}
+
+{% hint style="success" %}
 Requirement **3.1.5-J.2** is covered by [Configure VxAdmin,](../vxadmin-system-setup/configure-vxadmin.md) [Configure VxScan](../vxscan/configure-vxscan.md), [Configure VxCentralScan](../vxcentralscan/configure-ballot-scanner.md), Configure VxMark, and [L\&A Overview](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md).
+{% endhint %}
+
+{% hint style="success" %}
+Requirement **3.1.5.K.1** is covered by [Equipment Inspection & Transportation.](../logic-and-accuracy-pre-election-testing/equipment-inspection-and-transportation.md)
 {% endhint %}
 
 {% hint style="success" %}
@@ -50,6 +72,18 @@ Requirement **3.1.5.K.3** is covered by [Retaining & Removing Election Files](..
 
 {% hint style="success" %}
 All **3.1.7** requirements are covered by [Smartcards and User Roles](../vxadmin-system-setup/programming-cards.md).&#x20;
+{% endhint %}
+
+{% hint style="success" %}
+Requirements **3.2-B.1, 3.2-D**, **3.2-E,** and **3.2-K** are covered by [Equipment Inspection & Transportation](../logic-and-accuracy-pre-election-testing/equipment-inspection-and-transportation.md).
+{% endhint %}
+
+{% hint style="success" %}
+Requirement **3.2-O** is covered by [Diagnostics VxAdmin](../vxadmin-system-setup/diagnostics-vxadmin.md) and VxScan [System Administrator Functions & System Diagnostics](../vxscan/system-administrator-functions-and-system-diagnostics.md).&#x20;
+{% endhint %}
+
+{% hint style="success" %}
+All **3.2-Q** requirements are covered by [Equipment Inspection & Transportation](../logic-and-accuracy-pre-election-testing/equipment-inspection-and-transportation.md).
 {% endhint %}
 
 {% hint style="success" %}

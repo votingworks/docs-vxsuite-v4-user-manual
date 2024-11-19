@@ -19,7 +19,7 @@ Remove the Election Manager Card, and confirm that the VxScan is in official bal
 <figure><img src="../.gitbook/assets/image (67).png" alt="" width="265"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-A USB drive is required to use VxScan on election day. After testing, you may reinsert the USB drive tested or a new USB drive into the USB slot and seal the machine until a poll worker accesses the machine on election day. If Official Ballot Mode was used, we recommend using a new USB drive for election day.&#x20;
+A USB drive is required to use VxScan on election day. After testing, you may reinsert the USB drive tested or a new USB drive into the USB slot and seal the machine until a poll worker accesses it on election day. If Official Ballot Mode was used, we recommend using a new USB drive for election day.&#x20;
 {% endhint %}
 
 ### Toggle VxCentralScan to Official Ballot Mode
@@ -30,7 +30,7 @@ If you used Test Ballot Mode to conduct your L\&A be sure to Toggle to Official 
 
 If you used Official Ballot Mode to conduct your L\&A, select _`Delete All Batches`_ to erase all test batches of ballots.
 
-<figure><img src="../.gitbook/assets/image (908).png" alt="" width="266"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (922).png" alt="" width="266"><figcaption></figcaption></figure>
 
 ### Toggle VxMark to Official Ballot Mode
 

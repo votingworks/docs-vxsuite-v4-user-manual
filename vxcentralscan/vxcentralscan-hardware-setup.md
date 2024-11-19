@@ -60,7 +60,7 @@ VxCentralScan hardware setup is complete.
 
 ### Packing Up VxCentralScan
 
-To pack up the VxCentralScan, simply place all of the components back into the case as displayed above and package the batch document scanner. Secure the laptop case as required by placing at least one seal through the eyelets highlighted below.
+To pack up the VxCentralScan, simply place all of the components back into the case as displayed above and package the batch document scanner. Secure the laptop case as required by sealing the eyelets highlighted below.
 
 <div align="center">
 

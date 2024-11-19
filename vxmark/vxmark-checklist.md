@@ -62,7 +62,7 @@
 * [ ] unplug and store the headphones
 * [ ] remove and store the privacy shield
 * [ ] push the printer-scanner release button to open the cover
-* [ ] remove the ballot bin
+* [ ] lift the ballot bin to remove
 * [ ] unplug the power cord from the UPS battery backup
 * [ ] unplug the power cord connector from the back of the ballot marking device
 * [ ] remove and store the ballot marking device from the stand
