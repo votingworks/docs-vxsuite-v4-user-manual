@@ -20,6 +20,7 @@
 * [Additional Poll Worker Actions](vxscan/additional-poll-worker-actions.md)
 * [VxScan Error Messages](vxscan/vxscan-error-messages.md)
 * [System Administrator Functions & System Diagnostics](vxscan/system-administrator-functions-and-system-diagnostics.md)
+* [Scanner Cleaning](vxscan/scanner-cleaning.md)
 
 ## Logic & Accuracy Pre-Election Testing
 
