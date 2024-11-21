@@ -4,7 +4,7 @@
 
 After VxMark is plugged in, the Polls Closed screen will show.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 If there is an orange banner that says "Test Ballot Mode" on the screen, contact your election administrator immediately to prepare the machine for the election.

@@ -12,24 +12,22 @@ description: >-
 
 <div>
 
-<figure><img src="../.gitbook/assets/VxAdmin in case.png" alt=""><figcaption><p>VxAdmin stored in case</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/VxAdmin in case.png" alt="" width="375"><figcaption><p>VxAdmin stored in case</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/VxAdmin setup.png" alt=""><figcaption><p>VxAdmin set up</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/PXL_20241119_221005359.jpg" alt="" width="563"><figcaption><p>VxAdmin set up</p></figcaption></figure>
 
 </div>
 
 ### **VxAdmin** Setup
-
-**VxAdmin** can be set up through the following steps:
 
 1. **Unbox and Setup Printer**:&#x20;
    * [ ] remove the printer and power cord from the case
    * [ ] plug the power cord into the back of the printer
    * [ ] plug the power cord into an outlet
    * [ ] press the power button to turn the printer on
-   * [ ] load paper into the paper tray
+   * [ ] load paper into the lower paper tray
 
 <div>
 
@@ -60,12 +58,11 @@ description: >-
 
 </div>
 
-* [ ] **prepare the components:**
-  * [ ] remove the **laptop**
-  * [ ] pull the **power cord** (a) out and plug into the laptop and an outlet
-  * [ ] pull the **USB hub** (b) out and plug into the laptop
-  * [ ] pull the **printer cord** (c) out and plug into the USB hub and the printer
-  * [ ] turn the laptop on
+* [ ] remove the **laptop**
+* [ ] pull the **power cord** (A) out and plug into the laptop and an outlet
+* [ ] pull the **USB hub** (B) out and plug into the laptop
+* [ ] pull the **printer cord** (C) out and plug into the USB hub and the printer
+* [ ] turn the laptop on
 
 {% hint style="info" %}
 An optional mouse is included.  Plug it in to the USB hub to use.
@@ -73,19 +70,17 @@ An optional mouse is included.  Plug it in to the USB hub to use.
 
 <div>
 
-<figure><img src="../.gitbook/assets/VxAdmin remove laptop.png" alt=""><figcaption><p>Remove laptop</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/PXL_20241119_220230549.jpg" alt="" width="188"><figcaption><p>Remove laptop</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/VxAdmin remove components.png" alt=""><figcaption><p>Remove components</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/PXL_20241119_220512937.jpg" alt="" width="188"><figcaption><p>Remove peripherals</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/VxAdmin setup peripherals mapped.png" alt=""><figcaption><p>Plug components in</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/PXL_20241119_221005359 (1).jpg" alt="" width="563"><figcaption><p>Conect peripherals</p></figcaption></figure>
 
 </div>
-
-VxAdmin hardware setup is complete.
 
 ### Packing Up VxAdmin
 
