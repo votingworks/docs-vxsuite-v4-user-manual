@@ -31,7 +31,9 @@ VotingWorks Central System includes two components:
 1. **VxAdmin**: the main tool for local election administrators, which programs elections, tabulates and reports results on election night.
 2. **VxCentralScan** (optional): a central scanner used for rapidly scanning absentee or vote by mail ballots.
 
-<figure><img src=".gitbook/assets/image (69).png" alt="" width="200"><figcaption><p>Central System: VxCentralScan (left) and VxAdmin (right)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/PXL_20241119_221005359.jpg" alt=""><figcaption><p>VxAdmin</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/PXL_20241119_215840432.jpg" alt=""><figcaption><p>VxCentralScan</p></figcaption></figure>
 
 ### Precinct System
 
@@ -40,7 +42,7 @@ VotingWorks Precinct System consists of two portable, self-contained products:
 1. **VxScan**: a voter-facing precinct scanner that scans paper ballots and notifies voters of ballot issues for second-chance voting.
 2. **VxMark**: an accessible ballot marking device with a printer that produces a voter-verifiable paper ballot.
 
-Voters at the precinct vote on hand-marked paper ballots with the ability to vote on a VxMark if requested. After marking ballots, all voters scan their ballots using VxScan.
+Voters at the precinct vote on hand-marked paper ballots and cast their ballot into VxScan, with the option to vote and cast one's ballot on VxMark if requested.&#x20;
 
 <div>
 
@@ -54,15 +56,13 @@ Voters at the precinct vote on hand-marked paper ballots with the ability to vot
 
 ## Paper Ballots
 
-All votes cast using VotingWorks equipment are on paper ballots for security and post-election auditing.&#x20;
-
-There are two types of VotingWorks paper ballots:
+All votes cast using VotingWorks equipment are on paper ballots for security and post-election auditing. There are two types of VotingWorks paper ballots:
 
 * **Hand-marked paper ballot**
   * All absentee voters will receive a hand-marked paper ballot that is printed by a print vendor. Absentee ballots are scanned by election administrators using a high-speed central scanner (VxCentralScan) or the precinct scanner (VxScan).
   * Most in-precinct voters will receive a hand-marked paper ballot that is printed by a print vendor to hand mark. Precinct ballots are scanned by voters using a precinct scanner (VxScan).
 * **Machine-marked paper ballot** (via ballot marking device)
-  * In-precinct voters may request to use the accessible ballot marking device (VxMark), which prints a voter verifiable paper ballot. Machine-marked precinct ballots are scanned by voters using the same precinct scanner (VxScan).
+  * In-precinct voters may request to use the accessible ballot marking device (VxMark), which prints a voter verifiable paper ballot and deposits it into the attached ballot box. Election administrators or poll workers later scan the machine-marked paper ballot at the precinct scanner (VxScan) or the high-speed central scanned (VxCentralScan).
 
 <div>
 
@@ -70,7 +70,7 @@ There are two types of VotingWorks paper ballots:
 
  
 
-<figure><img src=".gitbook/assets/VxMark ballot.png" alt="" width="375"><figcaption><p>Example machine-marked paper ballot</p></figcaption></figure>
+<figure><img src=".gitbook/assets/TDP Diagrams.png" alt="" width="375"><figcaption><p>Example machine-marked paper ballot</p></figcaption></figure>
 
 </div>
 
