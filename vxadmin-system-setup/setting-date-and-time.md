@@ -2,7 +2,7 @@
 
 ### VxAdmin
 
-Using a System Administrator or Election Manager Card in VxAdmin, select _`Settings`_ from the side menu. The current date and time is shown under Date and Time. The time is automatically updated for Daylight Savings Time.  Select _`Set Date and Time`_ to change.
+Using a system administrator or election manager card, select _`Settings`_ from the side menu. The current date and time is shown under Date and Time. The time is automatically updated for Daylight Savings Time.  Select _`Set Date and Time`_ to change.
 
 <figure><img src="../.gitbook/assets/settings-screen-date-time.jpg" alt="" width="375"><figcaption></figcaption></figure>
 

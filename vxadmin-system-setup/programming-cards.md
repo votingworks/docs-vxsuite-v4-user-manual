@@ -14,22 +14,22 @@ Smart cards are used to configure and operate equipment. It's the same technolog
 
 System administrator cards allow an election administrator to load an election definition, program smart cards, and remove the election definition from VxAdmin.
 
-System administrator cards should only need to be used at the very beginning and very end of an election. Keep this card in a secure location when not in use and in between elections.
+System administrator cards are typically only used at the very beginning and very end of an election. Keep this card in a secure location when not in use and in between elections.
 
 {% hint style="info" %}
-System Administrators should be an election administrator or their designee who is in charge of the voting system.  The technical skill level required for this role is a 6-hour training session provided by VotingWorks.
+System administrators should be an election administrator or their designee who is in charge of the voting system.  The technical skill level required for this role is a 6-hour training session provided by VotingWorks.
 {% endhint %}
 
 ### Election Manager&#x20;
 
 Election manager cards allow election administrators to use central system devices and configure precinct system devices. Election managers are responsible for:
 
-* configuring/unconfiguring precinct equipment
-* preparing machines for L\&A&#x20;
+* configuring and unconfiguring precinct equipment
+* preparing machines for pre-election testing
 * preventative maintenance tasks
 * general equipment troubleshooting
 * centrally scanning ballots
-* tallying CVRs
+* managing cast vote records
 * adjudicating write-ins
 * entering manual tallies
 * printing and saving results
@@ -47,7 +47,7 @@ The technical skill level required for an election manager only operating the Vx
 Poll worker cards allow poll workers to manage election day precinct tasks, including:
 
 * opening the polls
-* pause/resume the polls
+* pausing or resuming voting
 * closing the polls
 * printing precinct tally reports
 
@@ -59,13 +59,13 @@ A poll worker should be designated by the election administrator to operate the 
 
 ## Programming Cards
 
-For each election, you will create election manager and poll worker cards specifically for that election. Smart cards can be created quickly and easily with VxAdmin by logging in with a System Administrator Card and selecting Smart Cards from the side menu.
+For each election, you will create election manager and poll worker cards specifically for that election. Smart cards can be created quickly and easily with VxAdmin by logging in with a system administrator card and selecting Smart Cards from the side menu.
 
 <figure><img src="../.gitbook/assets/smart-cards-screen-emph.png" alt="" width="563"><figcaption><p>Smart cards screen without card inserted</p></figcaption></figure>
 
-You will use the smartcard reader in the lower lefthand side of your VxAdmin laptop to program a card. Simply insert the card of your choice and select the correct button for the card.
+You will use the smart card reader in the lower lefthand side of your VxAdmin laptop to program a card. Simply insert the card of your choice and select the correct button for the card.
 
-<figure><img src="../.gitbook/assets/image (140).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/PXL_20241119_221055043 (1).jpg" alt="" width="563"><figcaption><p>Inserting a smart card</p></figcaption></figure>
 
 
 
