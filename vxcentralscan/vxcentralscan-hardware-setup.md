@@ -32,20 +32,12 @@ Two models of Fujitsu scanners are supported: fi-8170 and fi-7600. The smaller f
 
 
 
-2**.  Setup VxCentralScan laptop:**
+&#x32;**.  Setup VxCentralScan laptop:**
 
 * [ ] remove and document seal(s) as necessary
 * [ ] open the case by lifting the latches on front
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (397).png" alt=""><figcaption><p>remove and document seals as necessary</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Vxcs case latches.png" alt=""><figcaption><p>lift the latches</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (397).png" alt=""><figcaption><p>remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/Vxcs case latches.png" alt=""><figcaption><p>lift the latches</p></figcaption></figure></div>
 
 * [ ] **prepare the components:**
   * [ ] remove the **laptop**
@@ -62,9 +54,5 @@ VxCentralScan hardware setup is complete.
 
 To pack up the VxCentralScan, simply place all of the components back into the case as displayed above and package the batch document scanner. Secure the laptop case as required by sealing the eyelets highlighted below.
 
-<div align="center">
-
-<figure><img src="../.gitbook/assets/image (410).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../.gitbook/assets/image (410).png" alt="" width="375"><figcaption></figcaption></figure></div>
 

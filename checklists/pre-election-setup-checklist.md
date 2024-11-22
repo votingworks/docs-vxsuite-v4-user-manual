@@ -23,7 +23,7 @@ To prepare for an election, complete the following steps:
 * [ ] select CVRs and Logs from the side menu
 * [ ] insert a USB drive
 * [ ] select _`Save CVRs`_
-* [ ] select_`Save Log File`_
+* [ ] selec&#x74;_`Save Log File`_
 
 ##
 

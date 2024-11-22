@@ -15,15 +15,7 @@ To configure **VxScan**, you must do two things in **VxAdmin**:
 
 An unconfigured machine will prompt you to insert an election manager card to log in and then insert a USB drive with the election package saved from VxAdmin.&#x20;
 
-<div>
-
-<figure><img src="../.gitbook/assets/vxscan-insert-card.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/vxscan-insert-usb-drive.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/vxscan-insert-card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-insert-usb-drive.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 Only one USB drive should be plugged into VxScan at a time. The other USB port is designed as a backup in the event of a failure.
@@ -43,9 +35,9 @@ Use the toggle button to switch between _`Test Ballot Mode`_ and _`Official Ball
 
 ## Removing Election Configuration
 
-There are two ways to remove the election configuration the all scanned ballot data on VxScan. \
-\
-To remove the election configuration and all scanned ballot data with an election manager card:
+There are two ways to remove the election configuration the all scanned ballot data on VxScan.&#x20;
+
+### Removing Election Configuration - Election Manager
 
 * [ ] Insert an election manager card
 * [ ] Select _`Unconfigure Machine`_
@@ -56,7 +48,9 @@ To remove the election configuration and all scanned ballot data with an electio
 
 <figure><img src="../.gitbook/assets/unconfigure-machine-screenshot-em.png" alt="" width="375"><figcaption></figcaption></figure>
 
-To remove the election configuration and all scanned ballot data with a system administrator card:
+You can now configure VxScan with a different election package.
+
+### Removing Election Configuration - System Administrator
 
 * [ ] Insert a system administrator card
 * [ ] Select _`Unconfigure Machine`_
