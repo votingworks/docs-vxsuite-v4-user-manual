@@ -6,7 +6,7 @@ Smart card programming can only be done by a system administrator.
 
 ## Overview
 
-Smart cards are used to configure and operate equipment. It's the same technology as the chip in your credit card, but is instead used to provide election administrators and poll workers a secure means to configure and operate the equipment. There are three user roles and cards: system administrator, election manager, and poll worker**.**
+Smart cards are used to configure and operate equipment. It's the same technology as the chip in your credit card, but is instead used to provide election administrators and poll workers a secure means to configure and operate the equipment. There are three user roles and cards: system administrator, election manager, and poll worke&#x72;**.**
 
 <figure><img src="../.gitbook/assets/image (678).png" alt="" width="375"><figcaption><p>Smart cards</p></figcaption></figure>
 
@@ -73,19 +73,7 @@ You will use the smart card reader in the lower lefthand side of your VxAdmin la
 
 When creating an election manager or system administrator card, the screen will show you a unique PIN for that card. Keep the PIN secure. When creating a poll worker card, the screen will simply confirm the card is created.
 
-<div>
-
-<figure><img src="../.gitbook/assets/smart-cards-sa-programmed (1).png" alt=""><figcaption><p>System administrator card programmed</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/smart-cards-em-programmed (1).png" alt=""><figcaption><p>Election manager card programmed</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/smart-cards-pw-programmed (1).png" alt=""><figcaption><p>Poll worker card programmed</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/smart-cards-sa-programmed (1).png" alt=""><figcaption><p>System administrator card programmed</p></figcaption></figure> <figure><img src="../.gitbook/assets/smart-cards-em-programmed (1).png" alt=""><figcaption><p>Election manager card programmed</p></figcaption></figure> <figure><img src="../.gitbook/assets/smart-cards-pw-programmed (1).png" alt=""><figcaption><p>Poll worker card programmed</p></figcaption></figure></div>
 
 {% hint style="info" %}
 If VxAdmin is not configured with an election, you will only be able to program system administrator cards because election manager and poll worker cards are election-specific.
@@ -95,19 +83,7 @@ If VxAdmin is not configured with an election, you will only be able to program 
 
 If you insert an already programmed card, you will be presented with options to modify the card.
 
-<div>
-
-<figure><img src="../.gitbook/assets/smart-cards-sa-existing.png" alt=""><figcaption><p>Modifying a system administrator card</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/smart-cards-em-existing.png" alt=""><figcaption><p>Modifying an election manager card</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/smart-cards-pw-existing.png" alt=""><figcaption><p>Modifying a poll worker card</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/smart-cards-sa-existing.png" alt=""><figcaption><p>Modifying a system administrator card</p></figcaption></figure> <figure><img src="../.gitbook/assets/smart-cards-em-existing.png" alt=""><figcaption><p>Modifying an election manager card</p></figcaption></figure> <figure><img src="../.gitbook/assets/smart-cards-pw-existing.png" alt=""><figcaption><p>Modifying a poll worker card</p></figcaption></figure></div>
 
 **Unprogram Card** will remove the election configuration from the card, after which it can be programmed for a new election. System administrator cards cannot be unprogrammed.
 

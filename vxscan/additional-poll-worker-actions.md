@@ -11,28 +11,12 @@ The _`Pause Voting`_ action in the poll worker screen is generally used by juris
 * [ ] insert a Poll Worker Card and select _`No`_
 * [ ] select _`Pause Voting`_
 
-<div>
-
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/VxScan Poll Worker Actions Pause Voting.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan Poll Worker Actions Pause Voting.png" alt=""><figcaption></figcaption></figure></div>
 
 * [ ] select _`Reprint Voting Paused Report`_ to print more reports as necessary
 * [ ] remove the Poll Worker Card from VxScan. The polls are now paused.&#x20;
 
-<div>
-
-<figure><img src="../.gitbook/assets/VxScan Voting Paused Reprint Voting Paused Report (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/VxScan Polls Paused (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/VxScan Voting Paused Reprint Voting Paused Report (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan Polls Paused (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Below is an example of the Voting Paused Report.
 
@@ -64,7 +48,7 @@ If additional copies of a report need to be printed at any time, insert a Poll W
 
 ### Power Down
 
-To power down the VxScan, insert a Poll Worker Card and select _`No`_ to access the Poll Worker Actions. Select _`Power Down`_to shut the VxScan down.
+To power down the VxScan, insert a Poll Worker Card and select _`No`_ to access the Poll Worker Actions. Select _`Power Down`_&#x74;o shut the VxScan down.
 
 <figure><img src="../.gitbook/assets/image (41).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -72,15 +56,7 @@ To power down the VxScan, insert a Poll Worker Card and select _`No`_ to access 
 
 VotingWorks equipment provides additional system security by allowing you to confirm the software is the same as the certified version. To confirm on VxScan, insert a Poll Worker Card, select _`No`_, and select _`Hash Validation`_. Then navigate to check.voting.works on your phone and scan the QR code on the VxScan. The site will validate the QR code data and verify the software is the same as the certified version.
 
-<div>
-
-<figure><img src="../.gitbook/assets/image (18).png" alt="" width="375"><figcaption><p>select Hash Validation</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Hash Validation check voting works.png" alt="" width="237"><figcaption><p>validate at check.voting.works</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image (18).png" alt="" width="375"><figcaption><p>select Hash Validation</p></figcaption></figure> <figure><img src="../.gitbook/assets/Hash Validation check voting works.png" alt="" width="237"><figcaption><p>validate at check.voting.works</p></figcaption></figure></div>
 
 {% hint style="warning" %}
 If the hash is not validated at check.voting.works contact your election administrator immediately.

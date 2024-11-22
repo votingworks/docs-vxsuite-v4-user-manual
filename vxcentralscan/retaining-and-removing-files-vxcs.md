@@ -2,7 +2,7 @@
 
 ### VxCentralScan Backup & Log Files
 
-VxCentralScan backup files are saved on election night. This file includes the CVRs and ballot images. If the backup file was not saved on election night, simply go to the Settings menu and select _`Save Backup.`_Then Select _`Save Log File`_ to save the logs.
+VxCentralScan backup files are saved on election night. This file includes the CVRs and ballot images. If the backup file was not saved on election night, simply go to the Settings menu and select _`Save Backup.`_&#x54;hen Select _`Save Log File`_ to save the logs.
 
 <figure><img src="../.gitbook/assets/image (205).png" alt="" width="375"><figcaption></figcaption></figure>
 
