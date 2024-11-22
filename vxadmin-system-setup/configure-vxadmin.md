@@ -1,8 +1,6 @@
 # Configure VxAdmin
 
-{% hint style="info" %}
-The following steps must be completed by a system administrator.
-{% endhint %}
+{% include "../.gitbook/includes/the-following-steps-must-be....md" %}
 
 For each election, you will configure VxAdmin by loading an election package provided by VotingWorks or downloaded from VxDesign.&#x20;
 
@@ -12,19 +10,7 @@ When VxAdmin is not configured, the screen will prompt you to **Insert a** **USB
 
 Once configured, the election screen will display the title and date of your election as well as the date and time VxAdmin was configured.
 
-<div>
-
-<figure><img src="../.gitbook/assets/election-screen-unconfigured (2).png" alt=""><figcaption><p>System administrator election screen before configuring</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/election-screen-select-election-package (1).png" alt=""><figcaption><p>System administrator election screen listing available election packages</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/election-screen-configured (2).png" alt=""><figcaption><p>System administrator election screen once configured</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/election-screen-unconfigured (2).png" alt=""><figcaption><p>System administrator election screen before configuring</p></figcaption></figure> <figure><img src="../.gitbook/assets/election-screen-select-election-package (1).png" alt=""><figcaption><p>System administrator election screen listing available election packages</p></figcaption></figure> <figure><img src="../.gitbook/assets/election-screen-configured (2).png" alt=""><figcaption><p>System administrator election screen once configured</p></figcaption></figure></div>
 
 ## Remove Election
 

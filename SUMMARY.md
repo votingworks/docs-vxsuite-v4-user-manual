@@ -60,6 +60,7 @@
 
 ## Reference
 
+* [Signed Hash Validation](reference/signed-hash-validation.md)
 * [COTS Hardware](reference/hardware-specifications.md)
 * [Election Package Specification](reference/election-package-specification.md)
 * [Operations Environment](reference/operations-environment.md)
