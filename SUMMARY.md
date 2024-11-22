@@ -11,7 +11,7 @@
 * [Setting Date & Time](vxadmin-system-setup/setting-date-and-time.md)
 * [USB Formatting](vxadmin-system-setup/usb-formatting.md)
 * [VxAdmin Diagnostics](vxadmin-system-setup/vxadmin-diagnostics.md)
-* [Unlocking & Locking](vxadmin-system-setup/unlocking-and-locking.md)
+* [Unlocking & Locking](vxadmin-system-setup/unlocking-locking-hardware.md)
 
 ## VxScan
 
@@ -19,10 +19,9 @@
 * [Printer Management](vxscan/printer-management.md)
 * [Scanner Management](vxscan/scanner-management.md)
 * [Additional VxScan Settings](vxscan/additional-vxscan-settings.md)
-* [Election Manager Settings](vxscan/election-manager-settings.md)
 * [Additional Poll Worker Actions](vxscan/additional-poll-worker-actions.md)
 * [VxScan Error Messages](vxscan/vxscan-error-messages.md)
-* [System Administrator Functions & System Diagnostics](vxscan/system-administrator-functions-and-system-diagnostics.md)
+* [VxScan Diagnostics](vxscan/vxscan-diagnostics.md)
 
 ## Logic & Accuracy Pre-Election Testing
 

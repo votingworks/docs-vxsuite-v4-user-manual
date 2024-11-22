@@ -21,7 +21,7 @@ During L\&A testing and/or before the polls open, we recommend completing the fo
   * [ ] VxScan paper roll
   * [ ] VxScan USB drive
 * [ ] Verify all devices have been properly calibrated
-  * [ ] [VxScan double sheet detection](../vxscan/election-manager-settings.md#system-settings)
+  * [ ] [VxScan double sheet detection](../vxscan/scanner-management.md)
   * [ ] VxMark accessible controller
   * [ ] VxMark audio
 * [ ] Clean system components
