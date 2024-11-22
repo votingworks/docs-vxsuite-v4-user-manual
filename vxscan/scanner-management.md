@@ -45,4 +45,4 @@ After cleaning, you can close up the scanner again:
 * [ ] close access door
 * [ ] close poll worker door
 
-To confirm the scanner is clean and producing clear images, you may either run the [scanner diagnostic](system-administrator-functions-and-system-diagnostics.md) or simply start scanning - if streaks are detected in the images, the software will alert the user.
+To confirm the scanner is clean and producing clear images, you may either run the [scanner diagnostic](vxscan-diagnostics.md) or simply start scanning - if streaks are detected in the images, the software will alert the user.

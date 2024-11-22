@@ -1,56 +1,44 @@
 # Additional Poll Worker Actions
 
 {% hint style="info" %}
-The following steps must be completed by a Poll Worker.
+The following steps must be completed by a poll worker.
 {% endhint %}
 
 ### Pause or Resume Voting
 
-The _`Pause Voting`_ action in the poll worker screen is generally used by jurisdictions conducting early voting over multiple days or during an emergency situation. To pause voting and not allow ballots to be received by VxScan:
+The _`Pause Voting`_ action in the poll worker screen is generally used by jurisdictions conducting early voting over multiple days or during an emergency situation. To pause voting and prevent ballots from being cast at VxScan:
 
-* [ ] insert a Poll Worker Card and select _`No`_
+* [ ] insert a poll worker card and select _`Menu`_
 * [ ] select _`Pause Voting`_
 
-<div><figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan Poll Worker Actions Pause Voting.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/close-polls copy 2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/pw-menu-while-open copy.png" alt=""><figcaption></figcaption></figure></div>
 
 * [ ] select _`Reprint Voting Paused Report`_ to print more reports as necessary
-* [ ] remove the Poll Worker Card from VxScan. The polls are now paused.&#x20;
+* [ ] remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/VxScan Voting Paused Reprint Voting Paused Report (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan Polls Paused (1).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/voting-is-paused.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voting-paused-voter.png" alt=""><figcaption></figcaption></figure></div>
 
-Below is an example of the Voting Paused Report.
+Voting is now paused. To later resume voting:
 
-<figure><img src="../.gitbook/assets/image (72).png" alt="" width="375"><figcaption></figcaption></figure>
+* [ ] insert a poll worker card and select _`Resume Voting`_
 
-To resume voting:
+<figure><img src="../.gitbook/assets/resume-voting-flow.png" alt="" width="375"><figcaption></figcaption></figure>
 
-* [ ] insert a Poll Worker Card and select _`Yes, Resume Voting`_
+One copy of the voting resumed report will print. If additional reports are needed, select _`Reprint Voting Resumed Report`_ to print more. The voting resumed report and the voting paused report should have the same ballots scanned count.
 
-<figure><img src="../.gitbook/assets/image (38).png" alt="" width="375"><figcaption></figcaption></figure>
+* [ ] remove the poll worker card
 
-##
+<figure><img src="../.gitbook/assets/voting-was-resumed.png" alt="" width="375"><figcaption></figcaption></figure>
 
-One copy of the Voting Resumed Report will print. If additional reports are needed, select _`Reprint Voting Resumed Report`_ to print more. The Voting Resumed Report and the Voting Paused Report should have the same ballots scanned count.
+The polls are now open. Below are examples of the voting paused report and voting resumed report.
 
-* [ ] remove the Poll Worker Card from VxScan. The polls are now open.&#x20;
-
-<figure><img src="../.gitbook/assets/image (39).png" alt="" width="375"><figcaption></figcaption></figure>
-
-Below is an example of the Voting Resumed Report.
-
-<figure><img src="../.gitbook/assets/image (916).png" alt="" width="317"><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/voting-paused-report.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voting-resumed-report.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Printing Previous Reports
 
-If additional copies of a report need to be printed at any time, insert a Poll Worker Card and select _`No`_ to access the Poll Worker Actions. Select _`Print xxx Report`_ to print additional copies.
+If additional copies of a report need to be printed at any time, insert a poll worker card and select _`Menu`_ to access the poll worker menu. Select _`Print xxx Report`_ to print additional copies.
 
-<figure><img src="../.gitbook/assets/image (40).png" alt="" width="375"><figcaption></figcaption></figure>
-
-### Power Down
-
-To power down the VxScan, insert a Poll Worker Card and select _`No`_ to access the Poll Worker Actions. Select _`Power Down`_&#x74;o shut the VxScan down.
-
-<figure><img src="../.gitbook/assets/image (41).png" alt="" width="375"><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/pw-menu-while-open copy 3.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/pw-menu-closed copy 3.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Hash Validation
 

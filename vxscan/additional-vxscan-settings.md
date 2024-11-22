@@ -26,5 +26,13 @@ VxScan makes sounds every time a ballot is accepted or rejected. Sounds can be m
 
 <figure><img src="../.gitbook/assets/more-screen-sounds.png" alt="" width="375"><figcaption></figcaption></figure>
 
+## Resetting Polls to Paused
+
+If polls have been closed accidentally by a poll worker, a system administrator may reset the polls to a paused, after which a poll worker can resume voting.&#x20;
+
+<figure><img src="../.gitbook/assets/reset-polls-paused.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
 
 
