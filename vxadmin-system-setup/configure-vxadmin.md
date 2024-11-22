@@ -14,15 +14,15 @@ Once configured, the election screen will display the title and date of your ele
 
 <div>
 
-<figure><img src="../.gitbook/assets/election-screen-unconfigured (1).png" alt=""><figcaption><p>System administrator election screen before configuring</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/election-screen-unconfigured (2).png" alt=""><figcaption><p>System administrator election screen before configuring</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/election-screen-select-election-package.png" alt=""><figcaption><p>System administrator election screen listing available election packages</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/election-screen-select-election-package (1).png" alt=""><figcaption><p>System administrator election screen listing available election packages</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/election-screen-configured (1).png" alt=""><figcaption><p>System administrator election screen once configured</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/election-screen-configured (2).png" alt=""><figcaption><p>System administrator election screen once configured</p></figcaption></figure>
 
 </div>
 
@@ -35,7 +35,3 @@ Select Election from the side menu and select _`Unconfigure Machine`_.
 <figure><img src="../.gitbook/assets/election-screen-configured-highlighted (2).png" alt="" width="375"><figcaption><p>Unconfiguring VxAdmin</p></figcaption></figure>
 
 After confirming the removal of the election package and results data, you will return to the initial VxAdmin Election screen. VxAdmin can be reconfigured by loading a new election package by repeating the steps above.
-
-{% hint style="warning" %}
-If at any point, the VxAdmin laptop becomes unresponsive, simply press the power button for one second and release. Don't hold the button down. Once the laptop has shutdown, press the power button again to restart.
-{% endhint %}

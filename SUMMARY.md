@@ -6,11 +6,11 @@
 
 * [VxAdmin Hardware Setup](vxadmin-system-setup/vxadmin-hardware-setup.md)
 * [Configure VxAdmin](vxadmin-system-setup/configure-vxadmin.md)
-* [Setting Date & Time](vxadmin-system-setup/setting-date-and-time.md)
-* [Diagnostics  VxAdmin](vxadmin-system-setup/diagnostics-vxadmin.md)
-* [Smart Cards and User Roles](vxadmin-system-setup/programming-cards.md)
-* [USB Formatting](vxadmin-system-setup/usb-formatting.md)
 * [Save Election Package](vxadmin-system-setup/save-election-package.md)
+* [Smart Cards and User Roles](vxadmin-system-setup/programming-cards.md)
+* [Setting Date & Time](vxadmin-system-setup/setting-date-and-time.md)
+* [USB Formatting](vxadmin-system-setup/usb-formatting.md)
+* [VxAdmin Diagnostics](vxadmin-system-setup/vxadmin-diagnostics.md)
 * [Unlocking/Locking Hardware](vxadmin-system-setup/unlocking-locking-hardware.md)
 
 ## VxScan
