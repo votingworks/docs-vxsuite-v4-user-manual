@@ -1,7 +1,7 @@
 # Smart Cards and User Roles
 
 {% hint style="info" %}
-Smart card programming can only be done by a system administrator.
+The following steps can only be completed by a system administrator.
 {% endhint %}
 
 ## Overview
@@ -59,7 +59,7 @@ A poll worker should be designated by the election administrator to operate the 
 
 ## Programming Cards
 
-For each election, you will create election manager and poll worker cards specifically for that election. Smart cards can be created quickly and easily with VxAdmin by logging in with a system administrator card and selecting Smart Cards from the side menu.
+For each election, you will create election manager and poll worker cards specifically for that election. Smart cards can be created quickly and easily with VxAdmin by logging in with a system administrator card and selecting _`Smart Cards`_ from the side menu.
 
 <figure><img src="../.gitbook/assets/smart-cards-screen-emph.png" alt="" width="563"><figcaption><p>Smart cards screen without card inserted</p></figcaption></figure>
 

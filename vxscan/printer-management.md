@@ -1,6 +1,6 @@
 # Printer Management
 
-To replace a paper roll or print a test page, select Printer from the side menu and select _`Load Paper`_ or _`Print Test Page`_.&#x20;
+To replace a paper roll or print a test page, navigate to the _`Printer`_  tab in the election manager menu and select _`Load Paper`_ or _`Print Test Page`_.&#x20;
 
 <figure><img src="../.gitbook/assets/printer-menu.png" alt="" width="375"><figcaption></figcaption></figure>
 

@@ -1,12 +1,12 @@
 # USB Formatting
 
 {% hint style="info" %}
-The following steps can only completed by the system administrator.
+The following steps can only completed by a system administrator.
 {% endhint %}
 
 Before using a USB drive, whether it's brand new or has been used in a previous election, it should be formatted.
 
-In VxAdmin, select Settings from the side menu and select _`Format USB Drive.`_
+In VxAdmin, select _`Settings`_ from the side menu and select _`Format USB Drive.`_
 
 <figure><img src="../.gitbook/assets/settings-screen-format.png" alt="" width="563"><figcaption></figcaption></figure>
 

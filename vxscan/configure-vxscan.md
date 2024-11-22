@@ -21,9 +21,9 @@ An unconfigured machine will prompt you to insert an election manager card to lo
 Only one USB drive should be plugged into VxScan at a time. The other USB port is designed as a backup in the event of a failure.
 {% endhint %}
 
-After you insert the USB drive, VxScan will automatically begin loading all ballot styles for the election. After the election package is done loading, the Election Manager Menu screen will be displayed and VxScan will be in test ballot mode.
+After you insert the USB drive, VxScan will automatically begin loading all ballot styles for the election. After the election package is done loading, the election manager menu will be displayed and VxScan will be in test ballot mode.
 
-<figure><img src="../.gitbook/assets/election-manager-settings.png" alt="" width="375"><figcaption><p>Election Manger Menu - Configuration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/election-manager-settings.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Jurisdictions with more than one precinct must select the precinct for the device.&#x20;
 
