@@ -43,7 +43,7 @@ Requirements **3.1.5-I.1** and **I.2** are covered by the User Manual in it's en
 {% endhint %}
 
 {% hint style="success" %}
-Requirement **3.1.5-I.3** is covered by [Opening Polls](../election-day-guides/opening-polls.md), [Closing Polls](../election-day-guides/closing-polls.md), [Reports](../election-night-guides/reports.md), and [Election Package Specifications](election-package-specification.md).&#x20;
+Requirement **3.1.5-I.3** is covered by [Opening Polls](../election-day-guides/opening-polls.md), [Closing Polls](../election-day-guides/closing-polls.md), [Reports](../election-night-guides/reports.md), and [Election Package Specifications](broken-reference).&#x20;
 {% endhint %}
 
 {% hint style="success" %}

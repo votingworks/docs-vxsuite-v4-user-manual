@@ -1,6 +1,6 @@
 # Table of contents
 
-* [VotingWorks](README.md)
+* [VotingWorks Overview](README.md)
 
 ## VxAdmin System Setup
 
@@ -8,11 +8,10 @@
 * [Configure VxAdmin](vxadmin-system-setup/configure-vxadmin.md)
 * [Save Election Package](vxadmin-system-setup/save-election-package.md)
 * [Smart Cards and User Roles](vxadmin-system-setup/programming-cards.md)
-* [Setting Date & Time](vxadmin-system-setup/setting-date-and-time.md)
 * [USB Formatting](vxadmin-system-setup/usb-formatting.md)
 * [VxAdmin Diagnostics](vxadmin-system-setup/vxadmin-diagnostics.md)
 * [Unlocking & Locking](vxadmin-system-setup/unlocking-locking-hardware.md)
-* [VxAdmin Printer FAQs](vxadmin-system-setup/vxadmin-printer-faqs.md)
+* [VxAdmin Printer FAQs](reference/printer-faqs.md)
 
 ## VxScan
 
@@ -62,8 +61,8 @@
 ## Reference
 
 * [Signed Hash Validation](reference/signed-hash-validation.md)
+* [Setting Date & Time](reference/setting-date-and-time.md)
 * [COTS Hardware](reference/hardware-specifications.md)
-* [Election Package Specification](reference/election-package-specification.md)
 * [Operations Environment](reference/operations-environment.md)
 * [Seals and Port Blockers](reference/seals-and-port-blockers.md)
 * [Supply List](reference/supply-list.md)
