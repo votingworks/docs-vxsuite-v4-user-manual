@@ -29,30 +29,29 @@
 
 **To open the polls:**
 
-* [ ] insert the Poll Worker Card into the card reader
+* [ ] insert the poll worker card into the card reader beneath the accessible controller
 * [ ] select _`Open Polls`_
 * [ ] confirm by selecting _`Open Polls`_ again
-* [ ] remove the Poll Worker Card from VxMark
+* [ ] remove the poll worker card
 
 **To activate a voting session:**
 
-* [ ] insert Poll Worker Card
-* [ ] select the voter's precinct
+* [ ] insert the poll worker card
+* [ ] select the voter's precinct (if in _All Precincts_ mode)
 * [ ] select the voter's ballot style
 * [ ] when prompted, feed one sheet of paper into the front input tray
 * [ ] once loaded, the screen will show that the voting session is active
 * [ ] review the ballot style and precinct to ensure it was selected correctly for the voter
-* [ ] remove the Poll Worker Card
+* [ ] remove the poll worker card
 
 **To close the polls:**
 
 * [ ] remove ballot bin seal
 * [ ] remove ballots inside (secure or tabulate as required)
-* [ ] insert Poll Worker Card
-* [ ] select _`View More Actions`_
+* [ ] insert the poll worker card
 * [ ] select _`Close Polls`_
-* [ ] confirm by selecting, _`Close Polls`_
-* [ ] remove the Poll Worker Card from VxMark
+* [ ] confirm by selecting _`Close Polls`_ again
+* [ ] remove the poll worker card
 
 ### Hardware Tear Down
 

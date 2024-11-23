@@ -11,7 +11,7 @@ This User Manual in it's entirety maps to Requirement **3.1.5-A**. Including **A
 
 **A.8** is covered by Checklists [Overview](https://docs.voting.works/vxsuite-user-manual-v4/checklists/overview).&#x20;
 
-**A.9** is covered by [Diagnostics VxAdmin](../vxadmin-system-setup/vxadmin-diagnostics.md), [VxScan System Administrator Functions & System Diagnostics](../vxscan/vxscan-diagnostics.md#system-diagnostics), [Diagnostics VxCS](../vxcentralscan/vxcentralscan-diagnostics.md), and [VxMark System Administrator Functions & System Diagnostics.](../vxmark/system-administrator-functions-and-system-diagnostics.md#system-diagnostics)&#x20;
+**A.9** is covered by [Diagnostics VxAdmin](../vxadmin-system-setup/vxadmin-diagnostics.md), [VxScan System Administrator Functions & System Diagnostics](../vxscan/vxscan-diagnostics.md#system-diagnostics), [Diagnostics VxCS](../vxcentralscan/vxcentralscan-diagnostics.md), and [VxMark System Administrator Functions & System Diagnostics.](../vxmark/vxmark-diagnostics.md#system-diagnostics)&#x20;
 {% endhint %}
 
 {% hint style="success" %}
@@ -47,7 +47,7 @@ Requirement **3.1.5-I.3** is covered by [Opening Polls](../election-day-guides/o
 {% endhint %}
 
 {% hint style="success" %}
-Requirement **3.1.5-I.4** is covered by [Diagnostics VxAdmin](../vxadmin-system-setup/vxadmin-diagnostics.md), [VxScan System Administrator Functions & System Diagnostics](../vxscan/vxscan-diagnostics.md#system-diagnostics), [Diagnostics VxCS](../vxcentralscan/vxcentralscan-diagnostics.md), and [VxMark System Administrator Functions & System Diagnostics.](../vxmark/system-administrator-functions-and-system-diagnostics.md#system-diagnostics)&#x20;
+Requirement **3.1.5-I.4** is covered by [Diagnostics VxAdmin](../vxadmin-system-setup/vxadmin-diagnostics.md), [VxScan System Administrator Functions & System Diagnostics](../vxscan/vxscan-diagnostics.md#system-diagnostics), [Diagnostics VxCS](../vxcentralscan/vxcentralscan-diagnostics.md), and [VxMark System Administrator Functions & System Diagnostics.](../vxmark/vxmark-diagnostics.md#system-diagnostics)&#x20;
 {% endhint %}
 
 {% hint style="success" %}
