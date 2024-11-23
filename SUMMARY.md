@@ -73,11 +73,10 @@
 
 * [VxCentralScan Hardware Setup](vxcentralscan/vxcentralscan-hardware-setup.md)
 * [Configure VxCentralScan](vxcentralscan/configure-ballot-scanner.md)
-* [Election Manager Settings VxCS](vxcentralscan/election-manager-settings-vxcs.md)
-* [Diagnostics VxCS](vxcentralscan/diagnostics-vxcs.md)
-* [Election Night Checklist - VxCS](vxcentralscan/election-night-checklist-vxcs.md)
 * [Central Scanning](vxcentralscan/scanning-ballots.md)
-* [Retaining and Removing Files - VxCS](vxcentralscan/retaining-and-removing-files-vxcs.md)
+* [Election Night Checklist - VxCentralScan](vxcentralscan/election-night-checklist-vxcentralscan.md)
+* [Retaining and Removing Files - VxCentralScan](vxcentralscan/retaining-and-removing-files-vxcentralscan.md)
+* [VxCentralScan Diagnostics](vxcentralscan/vxcentralscan-diagnostics.md)
 
 ## VxMark
 

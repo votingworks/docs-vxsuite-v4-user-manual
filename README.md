@@ -33,7 +33,7 @@ VotingWorks Central System includes two components:
 
 <figure><img src=".gitbook/assets/PXL_20241119_221005359.jpg" alt=""><figcaption><p>VxAdmin</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/PXL_20241119_215840432.jpg" alt=""><figcaption><p>VxCentralScan</p></figcaption></figure>
+<figure><img src=".gitbook/assets/PXL_20241119_215840432 (2).jpg" alt=""><figcaption><p>VxCentralScan</p></figcaption></figure>
 
 ### Precinct System
 
@@ -44,15 +44,7 @@ VotingWorks Precinct System consists of two portable, self-contained products:
 
 Voters at the precinct vote on hand-marked paper ballots and cast their ballot into VxScan, with the option to vote and cast one's ballot on VxMark if requested.&#x20;
 
-<div>
-
-<figure><img src=".gitbook/assets/VxScan hardware photo.png" alt="" width="375"><figcaption><p>VxScan set up on ballot box</p></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/VxMark hardware photo.png" alt="" width="375"><figcaption><p>VxMark</p></figcaption></figure>
-
-</div>
+<div><figure><img src=".gitbook/assets/VxScan hardware photo.png" alt="" width="375"><figcaption><p>VxScan set up on ballot box</p></figcaption></figure> <figure><img src=".gitbook/assets/VxMark hardware photo.png" alt="" width="375"><figcaption><p>VxMark</p></figcaption></figure></div>
 
 ## Paper Ballots
 
@@ -64,15 +56,7 @@ All votes cast using VotingWorks equipment are on paper ballots for security and
 * **Machine-marked paper ballot** (via ballot marking device)
   * In-precinct voters may request to use the accessible ballot marking device (VxMark), which prints a voter verifiable paper ballot and deposits it into the attached ballot box. Election administrators or poll workers later scan the machine-marked paper ballot at the precinct scanner (VxScan) or the high-speed central scanned (VxCentralScan).
 
-<div>
-
-<figure><img src=".gitbook/assets/Screenshot 2023-12-19 at 7.53.02 PM.png" alt="" width="375"><figcaption><p>Example hand-marked paper ballot</p></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/TDP Diagrams.png" alt="" width="375"><figcaption><p>Example machine-marked paper ballot</p></figcaption></figure>
-
-</div>
+<div><figure><img src=".gitbook/assets/Screenshot 2023-12-19 at 7.53.02 PM.png" alt="" width="375"><figcaption><p>Example hand-marked paper ballot</p></figcaption></figure> <figure><img src=".gitbook/assets/TDP Diagrams.png" alt="" width="375"><figcaption><p>Example machine-marked paper ballot</p></figcaption></figure></div>
 
 {% hint style="info" %}
 VotingWorks provides technical support through the email and phone number listed at the top of the page.  System maintenance, defect correction, and hardware and software upgrades are defined in the customer's contract and scheduled through VotingWorks support system.&#x20;
