@@ -5,7 +5,7 @@ On election night, you will need [VxAdmin](../vxadmin-system-setup/vxadmin-hardw
 ### [Tallying](../election-night-guides/tally-results.md) and Saving Results
 
 * [ ] [set up VxAdmin](../vxadmin-system-setup/vxadmin-hardware-setup.md)
-* [ ] insert Election Manager Card
+* [ ] log in with election manager card
 * [ ] select Tally from the side menu and verify there are no CVRs on VxAdmin&#x20;
 * [ ] select Reports from the side menu, print an _`Unofficial Full Election Tally Report`_ as the Zero Report
 * [ ] select Tally from the side menu, load CVRs from USB drive(s) - verify counts
