@@ -6,17 +6,17 @@ On election night, you will need [VxAdmin](../vxadmin-system-setup/vxadmin-hardw
 
 * [ ] [set up VxAdmin](../vxadmin-system-setup/vxadmin-hardware-setup.md)
 * [ ] log in with election manager card
-* [ ] select Tally from the side menu and verify there are no CVRs on VxAdmin&#x20;
-* [ ] select Reports from the side menu, print an _`Unofficial Full Election Tally Report`_ as the Zero Report
-* [ ] select Tally from the side menu, load CVRs from USB drive(s) - verify counts
-* [ ] adjudicate write-ins by selecting Write-Ins from the side menu
-* [ ] add Manual Tallies (select Tally from the side menu) (when applicable)
-* [ ] select Reports from the side menu, review, print, or save an _`Unofficial Full Election Tally Report`_ for the results&#x20;
-* [ ] select Reports from the side menu, review, print, or save a _`Write-in Adjudication Report`_
+* [ ] select _`Tally`_ from the side menu and verify there are no CVRs on VxAdmin&#x20;
+* [ ] select _`Reports`_ from the side menu, print an _`Unofficial Full Election Tally Report`_ as the Zero Report
+* [ ] select _`Tally`_ from the side menu, load CVRs from USB drive(s) - verify counts
+* [ ] adjudicate write-ins by selecting _`Write-Ins`_ from the side menu
+* [ ] add manual tallies (select _`Tally`_ from the side menu) (when applicable)
+* [ ] select _`Reports`_ from the side menu and review, print, or save an _`Unofficial Full Election Tally Report`_ for the results&#x20;
+* [ ] select _`Reports`_ from the side menu, review, print, or save a _`Write-in Adjudication Report`_
 * [ ] verify all steps above are fully completed and reports reflect all ballots and adjudication
 * [ ] _`Mark Election Results as Official`_ in VxAdmin
-* [ ] select Reports from the side menu, print or save an _`Official Full Election Tally Report`_ for the results&#x20;
-* [ ] select Reports from the side menu, print or save an official _`Write-in Adjudication Report`_
-* [ ] save Results file to USB drive
-* [ ] pack up VxAdmin, seal and document as required, store in a secure climate-controlled environment
+* [ ] select _`Reports`_ from the side menu, print or save an _`Official Full Election Tally Report`_ for the results&#x20;
+* [ ] select _`Reports`_ from the side menu, print or save an official _`Write-in Adjudication Report`_
+* [ ] save other official results exports as required
+* [ ] pack up VxAdmin, seal and document as required, and store in a secure climate-controlled environment
 * [ ] secure USB drive(s) as required
