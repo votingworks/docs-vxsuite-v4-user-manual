@@ -31,13 +31,6 @@ VxAdmin and VxCentralScan laptop ports should be blocked with port blockers like
 
 Thermal paper rolls are 78' long. The number of elections that can print on one roll depends on the size and number of Polls Open/Close Reports printed. Changing rolls prior to every election is recommended.
 
-### Toner Cartridges
-
-The HP printers for the VxAdmin (if purchased) use toner cartridge 58. HP offers two sizes:
-
-* [HP 58A](https://www.hp.com/us-en/shop/pdp/hp-58a-black-original-laserjet-toner-cartridge) - regular size, prints approximately 3000 pages
-* [HP 58X](https://www.hp.com/us-en/shop/pdp/hp-58x-high-yield-black-original-laserjet-toner-cartridge) - high yield, prints approximately 10000 pages
-
 ### USB Drive Recommendations and Compatibility
 
 VotingWorks supports any USB 3.0+ drive that is 16GB or greater.&#x20;
@@ -46,7 +39,7 @@ Larger capacity drives may be necessary when scanning large volumes (over 10,000
 
 ## VxAdmin Supply List
 
-<table><thead><tr><th width="171">Item</th><th>Recommendation</th><th>Supplier</th></tr></thead><tbody><tr><td>Printer Paper</td><td>24lb to 32lb Premium Copy Paper</td><td>Various</td></tr><tr><td>Printer Toner</td><td>HP 148A or HP 148X Black Toner</td><td>Various</td></tr></tbody></table>
+<table><thead><tr><th width="171">Item</th><th width="303">Recommendation</th><th>Supplier</th></tr></thead><tbody><tr><td>Printer Paper</td><td>HP Premium 32, or equivalent</td><td>Various</td></tr><tr><td>Printer Toner</td><td>HP 148A or HP 148X Black Toner</td><td>Various</td></tr></tbody></table>
 
 VotingWorks recommends having a backup toner cartridge and extra reams of paper for all elections.
 
