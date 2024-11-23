@@ -36,7 +36,7 @@ To confirm the scanner is clean and producing clear images, you may either run t
 ## Double Sheet Detection
 
 {% hint style="info" %}
-The following steps must be completed by election managers.
+The following steps must be completed by an election manager.
 {% endhint %}
 
 In order to prevent voters attempting to scan two ballots at once, VxScan has a double sheet detection feature. To manage double sheet detection, navigate to the _`Scanner`_ tab of the election manager menu.

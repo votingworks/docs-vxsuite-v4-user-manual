@@ -32,7 +32,7 @@ One copy of the voting resumed report will print. If additional reports are need
 
 The polls are now open. Below are examples of the voting paused report and voting resumed report.
 
-<div><figure><img src="../.gitbook/assets/voting-paused-report.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voting-resumed-report.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/voting-paused-report.png" alt=""><figcaption><p>Example Voting Paused Report</p></figcaption></figure> <figure><img src="../.gitbook/assets/voting-resumed-report.png" alt=""><figcaption><p>Example Voting Resumed Report</p></figcaption></figure></div>
 
 ## Printing Previous Reports
 

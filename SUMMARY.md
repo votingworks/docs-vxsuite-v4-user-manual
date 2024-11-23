@@ -61,10 +61,9 @@
 ## Reference
 
 * [Signed Hash Validation](reference/signed-hash-validation.md)
-* [Setting Date & Time](reference/setting-date-and-time.md)
-* [COTS Hardware](reference/hardware-specifications.md)
+* [Setting Date & Time](vxadmin-system-setup/setting-date-and-time.md)
 * [Operations Environment](reference/operations-environment.md)
-* [Seals and Port Blockers](reference/seals-and-port-blockers.md)
+* [Seal Recommendations](reference/seal-recommendations.md)
 * [Supply List](reference/supply-list.md)
 * [VVSG TDP Requirements](reference/vvsg-tdp-requirements.md)
 

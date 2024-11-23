@@ -29,7 +29,7 @@ Jurisdictions with more than one precinct must select the precinct for the devic
 
 ## Setting Ballot Mode
 
-Use the toggle button to switch between _`Test Ballot Mode`_ and _`Official Ballot Mode`_. The machine must be in official ballot mode on election day.  Review the [L\&A Overview instructions](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md) to understand which mode to use during L\&A testing.
+Use the toggle button to switch between _`Test Ballot Mode`_ and _`Official Ballot Mode`_. The machine must be in official ballot mode on election day.  Review the [l-and-a-overview.md](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md "mention") instructions to understand which mode to use during L\&A testing.
 
 <figure><img src="../.gitbook/assets/election-manager-settings copy.png" alt="" width="375"><figcaption></figcaption></figure>
 
