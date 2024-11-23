@@ -63,9 +63,8 @@
 * [Signed Hash Validation](reference/signed-hash-validation.md)
 * [Setting Date & Time](vxadmin-system-setup/setting-date-and-time.md)
 * [Operations Environment](reference/operations-environment.md)
-* [Seal Recommendations](reference/seal-recommendations.md)
+* [Seal Recommendations](reference/seals-and-port-blockers.md)
 * [Supply List](reference/supply-list.md)
-* [VVSG TDP Requirements](reference/vvsg-tdp-requirements.md)
 
 ## VxCentralScan
 
