@@ -18,4 +18,4 @@ Lock the machine by selecting _`Lock Machine`_ in the upper right hand corner of
 
 **VxCentralScan**
 
-<figure><img src="../.gitbook/assets/image (137).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/no-ballots-scanned copy 3.png" alt="" width="563"><figcaption></figcaption></figure>
