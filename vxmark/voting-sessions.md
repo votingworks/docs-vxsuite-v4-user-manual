@@ -3,7 +3,7 @@
 ### Activating a Voting Session
 
 {% hint style="warning" %}
-A voter may bring their own Personal Assistive Technology (PAT) device (ex. jelly bean switch, sip and puff device, etc.) or headphones. It must have a 3.5mm plug or connector. Once plugged in, a test screen will pop up to assist in configuration.  See [System Administrator Functions & System Diagnostics ](vxmark-diagnostics.md)for instructions.&#x20;
+A voter may bring their own Personal Assistive Technology (PAT) device (ex. jelly bean switch, sip and puff device, etc.) or headphones. It must have a 3.5mm plug or connector. Once plugged in, a test screen will pop up to assist in configuration.  See [System Administrator Functions & System Diagnostics ](system-administrator-functions-and-system-diagnostics.md)for instructions.&#x20;
 {% endhint %}
 
 If a voter chooses to use VxMark, you'll need to insert your poll worker card to activate their voting session:

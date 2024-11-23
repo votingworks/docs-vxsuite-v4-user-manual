@@ -12,6 +12,7 @@
 * [USB Formatting](vxadmin-system-setup/usb-formatting.md)
 * [VxAdmin Diagnostics](vxadmin-system-setup/vxadmin-diagnostics.md)
 * [Unlocking & Locking](vxadmin-system-setup/unlocking-locking-hardware.md)
+* [VxAdmin Printer FAQs](vxadmin-system-setup/vxadmin-printer-faqs.md)
 
 ## VxScan
 
@@ -64,7 +65,6 @@
 * [COTS Hardware](reference/hardware-specifications.md)
 * [Election Package Specification](reference/election-package-specification.md)
 * [Operations Environment](reference/operations-environment.md)
-* [Printer FAQs](reference/printer-faqs.md)
 * [Seals and Port Blockers](reference/seals-and-port-blockers.md)
 * [Supply List](reference/supply-list.md)
 * [VVSG TDP Requirements](reference/vvsg-tdp-requirements.md)
@@ -87,6 +87,6 @@
 * [Voting Session Language & Settings](vxmark/voting-session-language-and-settings.md)
 * [Packing Up VxMark](vxmark/packing-up-vxmark.md)
 * [VxMark Error Messages](vxmark/vxmark-error-messages.md)
-* [VxMark Diagnostics](vxmark/vxmark-diagnostics.md)
+* [VxMark Diagnostics](vxmark/system-administrator-functions-and-system-diagnostics.md)
 * [Retaining and Removing Files - VxMark](vxmark/retaining-and-removing-files-vxmark.md)
 * [VxMark Checklist](vxmark/vxmark-checklist.md)

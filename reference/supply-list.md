@@ -44,3 +44,23 @@ VotingWorks supports any USB 3.0+ drive that is 16GB or greater.&#x20;
 
 Larger capacity drives may be necessary when scanning large volumes (over 10,000) of ballots on VxCentralScan.
 
+## VxAdmin Supply List
+
+<table><thead><tr><th width="171">Item</th><th>Recommendation</th><th>Supplier</th></tr></thead><tbody><tr><td>Printer Paper</td><td>24lb to 32lb Premium Copy Paper</td><td>Various</td></tr><tr><td>Printer Toner</td><td>HP 148A or HP 148X Black Toner</td><td>Various</td></tr></tbody></table>
+
+VotingWorks recommends having a backup toner cartridge and extra reams of paper for all elections.
+
+## VxCentralScan Supply List
+
+
+
+## VxMark Supply List
+
+
+
+## VxScan Supply List
+
+
+
+
+
