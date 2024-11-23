@@ -6,7 +6,7 @@ description: >-
 
 # VxCentralScan Hardware Setup
 
-### Hardware Overview
+## Hardware Overview
 
 **VxCentralScan** is a commercial off-the-shelf (COTS) laptop pre-installed with VxCentralScan software pre-installed and a Ricoh scanner.
 
@@ -54,6 +54,8 @@ To pack up the VxCentralScan, simply place all of the components back into the c
 
 <div align="center"><figure><img src="../.gitbook/assets/image (410).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
+## Scanner Maintenance
 
+The scanner should be cleaned before every election. Consult [the maintenance manual](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-maintenance-manual/vxadmin-and-vxcentralscan-maintenance-manual#vxcentralscan-scanner-maintenance) section about cleaning and maintaining the Ricoh scanners.
 
 [^1]: 

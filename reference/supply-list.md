@@ -1,59 +1,76 @@
 # Supply List
 
-### Ballot Printing in Bulk (From External Printer)&#x20;
+The specifications and supply lists below define all the materials to run an election in addition to the machines and smart cards.
 
-When using a third party printer, VotingWorks recommends printing ballots on paper between 28# Bond (105 GSM) - 65# Cover (177 GSM) for the best voter experience. The commonly available paper weights in this range are:&#x20;
+## Ballots
 
-* 28# Bond (105 GSM)
-* 32# Bond (120 GSM)
-* 100# Text (140 GSM)&#x20;
-* 40# Bond (150 GSM)&#x20;
-* 90# Index (162 GSM)
-* 65# Cover (177 GSM)&#x20;
+Ballots must be printed according to the following ballot specifications:
 
-### Headphone Ear Covers
-
-Disposable headphone ear covers are recommended for use with the VxMark headphones for sanitation purposes like this:  [https://a.co/d/eAaRt1K](https://a.co/d/eAaRt1K)
+* **Width**: 8.5"
+* **Length**: 11", 14", 17", 19", 22"
+* **Weight:** 105-177gsm
+* **Coating:** uncoated
+* **Opacity:** >90%
+* **Color:** white or any pastel color >70 brightness (to ensure it binarizes to white when scanned)
 
 ### Marking Utensils
 
-There is no specific recommendation for a marking utensil but it should be an ink pen that dries quickly. No markers.
+The marking utensil for hand marked ballots should be a black or blue ink pen that dries quickly. Never use markers or highlighters.
 
-### Seal & Port Blocker Requirements
+## USB Drives
 
-The VxScan, ballot box, and VxAdmin and VxCentralScan cases should be secured with tamper evident numbered pull-tight seals like this: [https://www.cambridgeseals.com/heavy-duty-pull-tight-seal](https://www.cambridgeseals.com/heavy-duty-pull-tight-seal)\
-\
-VxAdmin and VxCentralScan micro SD slots should be secured with transfer tamper evident sticker seals like this: [https://www.amazon.com/Transfer-Evident-Security-Warranty-Numbers/dp/B07GPGGQ5Y/](https://www.amazon.com/Transfer-Evident-Security-Warranty-Numbers/dp/B07GPGGQ5Y/) \
-\
-VxAdmin and VxCentralScan laptop ports should be blocked with port blockers like this: [https://a.co/d/5zHubox](https://a.co/d/5zHubox)
+VotingWorks recommends the 64GB SanDisk Ultra Flair USB 3.0 drive (SDCZ73-064G-G46) as a cost-effective general purpose USB drive, but any USB drive meeting the specifications below can be used.
 
-### Thermal Paper Roll
+| Attribute  | Requirement                              |
+| ---------- | ---------------------------------------- |
+| Protocol   | 3.0 minimum                              |
+| Capacity   | 64GB minimum                             |
+| Length     | 55mm maximum, measured from inserted tip |
+| Read Speed | 60 Mbps minimum                          |
 
-Thermal paper rolls are 78' long. The number of elections that can print on one roll depends on the size and number of Polls Open/Close Reports printed. Changing rolls prior to every election is recommended.
+A faster drive may be necessary when exporting large volumes of ballots from VxCentralScan, for which the 128GB SanDisk Extreme PRO USB 3.2 drive (SDCZ880-128G-G46) is recommended.
 
-### USB Drive Recommendations and Compatibility
+## Seals
 
-VotingWorks supports any USB 3.0+ drive that is 16GB or greater.&#x20;
+Cases should be secured with tamper evident numbered seals, such as heavy-duty [pull-tight seals](https://www.cambridgeseals.com/heavy-duty-pull-tight-seal). You may use different seals as preferred by your jurisdiction and may choose to use different types of seals, or even locks, if you confirm they fit through the seal points in question.
 
-Larger capacity drives may be necessary when scanning large volumes (over 10,000) of ballots on VxCentralScan.
+## Scanner Cleaning Supplies
+
+The scanners for VxScan, VxCentralScan, and VxMark can be cleaned with scanner-specific cleaning fluid, such as Ricoh Cleaner F1 (PA03950-0352) or isopropyl alcohol with a concentration of 70% or higher. The fluid should be applied to a microfiber or lint-free cloth.
 
 ## VxAdmin Supply List
 
 <table><thead><tr><th width="171">Item</th><th width="303">Recommendation</th><th>Supplier</th></tr></thead><tbody><tr><td>Printer Paper</td><td>HP Premium 32, or equivalent</td><td>Various</td></tr><tr><td>Printer Toner</td><td>HP 148A or HP 148X Black Toner</td><td>Various</td></tr></tbody></table>
 
-VotingWorks recommends having a backup toner cartridge and extra reams of paper for all elections.
-
-## VxCentralScan Supply List
-
-
-
-## VxMark Supply List
-
-
+VotingWorks recommends having a backup toner cartridge and extra reams of paper on hand for all elections.
 
 ## VxScan Supply List
 
+| Item                      | Recommendation                                                                   | Supplier    |
+| ------------------------- | -------------------------------------------------------------------------------- | ----------- |
+| Thermal Paper Rolls       | VotingWorks Provided                                                             | VotingWorks |
+| Scanner Cleaning Supplies | [#scanner-cleaning-supplies](supply-list.md#scanner-cleaning-supplies "mention") | Various     |
 
+VotingWorks recommends cleaning the scanner and replacing the thermal paper roll for each VxScan for each election. VotingWorks also recommends keeping scanner cleaning supplies and extra thermal paper rolls readily available on election day.
 
+## VxCentralScan Supply List
 
+| Item                      | Recommendation                                                                   | Supplier |
+| ------------------------- | -------------------------------------------------------------------------------- | -------- |
+| Scanner Cleaning Supplies | [#scanner-cleaning-supplies](supply-list.md#scanner-cleaning-supplies "mention") | Various  |
 
+VotingWorks recommends cleaning the scanner for each election. VotingWorks also recommends keeping scanner cleaning supplies readily available on election day. Occasionally, the rollers will need to be replaced [as detailed in the maintenance manual](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-maintenance-manual/vxadmin-and-vxcentralscan-maintenance-manual#vxcentralscan-scanner-maintenance).
+
+## VxMark Supply List
+
+| Item                      | Recommendation                                                                   | Supplier    |
+| ------------------------- | -------------------------------------------------------------------------------- | ----------- |
+| Thermal Ballot Paper      | VotingWorks Provided                                                             | VotingWorks |
+| Headphone Ear Covers      | [BBTO headphone ear covers](https://a.co/d/eAaRt1K), or equivalent               | Various     |
+| Scanner Cleaning Supplies | [#scanner-cleaning-supplies](supply-list.md#scanner-cleaning-supplies "mention") | Various     |
+
+VotingWorks recommends cleaning the scanner for each election. VotingWorks also recommends keeping scanner cleaning supplies readily available on election day.
+
+## Additional Information
+
+For part numbers not listed above or details on long-term maintenance, consult the [System Maintenance Manual](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-maintenance-manual "mention"), in particular the [Approved Parts](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-maintenance-manual/approved-parts "mention") list.
