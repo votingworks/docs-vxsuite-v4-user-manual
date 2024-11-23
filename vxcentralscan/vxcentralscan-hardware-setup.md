@@ -8,11 +8,11 @@ description: >-
 
 ### Hardware Overview
 
-**VxCentralScan** is a commercial off-the-shelf (COTS) laptop pre-installed with VxCentralScan software pre-installed and a Fujitsu scanner.
+**VxCentralScan** is a commercial off-the-shelf (COTS) laptop pre-installed with VxCentralScan software pre-installed and a Ricoh scanner.
 
-![VxCentralScan in cases](<../.gitbook/assets/vxcentral in cases.png>) ![VxCentralScan set up](<../.gitbook/assets/image (862).png>)
+![VxCentralScan in cases](<../.gitbook/assets/vxcentral in cases.png>) ![VxCentralScan set up](../.gitbook/assets/PXL_20241119_215840432.jpg)
 
-Two models of Fujitsu scanners are supported: fi-8170 and fi-7600. The smaller fi-8170 (shown above) can scan batches of up to 30 ballots. The larger fi-7600 (shown below) enables larger batches of up to 100 ballots.
+Two models of Ricoh scanners are supported: fi-8170 and fi-7600. The smaller fi-8170 (shown above) can scan batches of up to 30 ballots. The larger fi-7600 (shown below) can scan larger batches of up to 100 ballots.
 
 <figure><img src="https://www.datacapturegroup.com/wp-content/uploads/2022/02/img_fi-7600_Overview02_tcm100-4446614_tcm100-2750236-32.jpg" alt="" width="188"><figcaption><p>Fujitsu fi-7600</p></figcaption></figure>
 
@@ -20,12 +20,12 @@ Two models of Fujitsu scanners are supported: fi-8170 and fi-7600. The smaller f
 
 **VxCentralScan** can be set up through the following steps:
 
-1. **Unbox and Setup Scanner**:&#x20;
+1. **Unbox and set up Scanner**:&#x20;
    * [ ] remove the scanner and power cord from the case
    * [ ] attach and pull out the paper feed guide tray (a)
    * [ ] pull out the paper holder tray (b)
    * [ ] plug the USB cord (c) into the back of the scanner and into the laptop
-   * [ ] plug the power cord (d) into the back of the scanner and into an outlet
+   * [ ] plug the power cord (d) into the back of the scanner and into an outlet or UPS
    * [ ] press the power button (e) to turn the scanner on
 
 ![Remove scanner and power cord from case](<../.gitbook/assets/central scan not setup (1).png>) ![Attach and pull out paper trays](<../.gitbook/assets/central scan telesopoing.png>) ![Plug cords in](<../.gitbook/assets/central scan plug ins.png>) ![Press the power button to turn on](<../.gitbook/assets/central scan power.png>)
@@ -46,13 +46,14 @@ Two models of Fujitsu scanners are supported: fi-8170 and fi-7600. The smaller f
   * [ ] pull the **scanner cord** (c) out and plug into the USB hub and the scanner
   * [ ] turn the laptop on
 
-![Remove laptop](<../.gitbook/assets/VxCentralScan case open laptop in.png>) ![Remove components](<../.gitbook/assets/Vxcentral scan case open laptop removed.png>) ![Plug components in](<../.gitbook/assets/image (861).png>)
-
-VxCentralScan hardware setup is complete.
+![Remove laptop](<../.gitbook/assets/PXL_20241119_220118873 (1).jpg>) ![Remove components](../.gitbook/assets/PXL_20241119_220606004.jpg) ![Plug components in](<../.gitbook/assets/PXL_20241119_215840432 (1).jpg>)
 
 ### Packing Up VxCentralScan
 
-To pack up the VxCentralScan, simply place all of the components back into the case as displayed above and package the batch document scanner. Secure the laptop case as required by sealing the eyelets highlighted below.
+To pack up the VxCentralScan, simply place all of the components back into the case as displayed above and package the batch document scanner. Secure[^1] the laptop case as required by sealing the eyelets highlighted below.
 
 <div align="center"><figure><img src="../.gitbook/assets/image (410).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
+
+
+[^1]: 
