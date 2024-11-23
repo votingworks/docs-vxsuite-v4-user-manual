@@ -2,9 +2,9 @@
 
 ### VxMark Log Files
 
-VxMark does not retain any type of ballot or voter data. The only file to retain is the Log file. Machine log files are saved in the /logs folder on the USB drive. To save the log file, insert a USB drive, then insert an Election Manager Card, and select _`Save Log File`_.
+VxMark does not retain any type of ballot or voter data so the only files to retain after an election are the logs. Logs are saved in the /logs folder on the USB drive. To save logs, insert a USB drive, then insert an election manager or system administrator card, and select _`Save Logs`_.
 
-<figure><img src="../.gitbook/assets/image (31).png" alt="" width="188"><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/mk-em-official-logs.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-sa-page copy.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
-To remove the election definition from VxMark, select _`Unconfigure Machine`_. And then confirm by selecting _`Yes, Delete Election Data`_.&#x20;
+To remove the election definition from VxMark, select _`Unconfigure Machine`_ from the election manager or system administrator menu and confirm by selecting _`Delete All Election Data`_.&#x20;
 

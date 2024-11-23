@@ -8,4 +8,4 @@ The scanner status indicates whether the scanner is connected or not. You may _`
 
 The readiness report can be used as a record of system diagnostic verification.  Select _`Save Readiness Report`_ to save a copy to a USB drive.&#x20;
 
-<figure><img src="../.gitbook/assets/readiness-report-1.png" alt="" width="375"><figcaption><p>Example VxCentralScan Readiness Report</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/readiness-report-1 (1).png" alt="" width="375"><figcaption><p>Example VxCentralScan Readiness Report</p></figcaption></figure>

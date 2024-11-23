@@ -4,13 +4,11 @@
 
 * While in storage, the VxAdmin should be stored in its case with numbered pull tight seals through each of the eyelets to the right and left of the carrying handle on the case. These will be removed and tracked when the case is opened for use and new ones should be applied and tracked when packed up for storage.&#x20;
 * A tamper evident seal should be placed around the laptop over the micro SD card slot to cover the exposed port and add another layer of tamper evidence to the inner of the laptop in the process.
-* RJ45/ethernet lockable port blockers should be placed on the exposed RJ45/ethernet ports.
 
 ### VxCentralScan
 
 * While in storage, the VxCentralScan laptop should be stored in its case with numbered pull tight seals through each of the eyelets to the right and left of the carrying handle on the case. These will be removed and tracked when the case is opened for use and new ones should be applied and tracked when packed up for storage.
 * A tamper evident tape seal should be placed around the laptop over the micro SD card slot to cover the exposed port and add another layer of tamper evidence to the inner of the laptop in the process.
-* RJ45/ethernet lockable port blockers should be placed on the exposed RJ45/ethernet ports.
 
 ### VxScan
 
