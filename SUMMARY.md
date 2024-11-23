@@ -82,7 +82,7 @@
 
 * [VxMark Hardware Setup](vxmark/vxmark-hardware-setup.md)
 * [Configure VxMark](vxmark/configure-vxmark.md)
-* [Open/Close Polls](vxmark/open-close-polls.md)
+* [Open and Close Polls](vxmark/open-and-close-polls.md)
 * [Voting Sessions](vxmark/voting-sessions.md)
 * [Voting Session Language & Settings](vxmark/voting-session-language-and-settings.md)
 * [VxMark Error Messages](vxmark/vxmark-error-messages.md)
