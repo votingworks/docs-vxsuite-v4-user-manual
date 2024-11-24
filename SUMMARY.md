@@ -58,13 +58,13 @@
 * [Poll Worker Checklist](checklists/checklist.md)
 * [Election Night Checklist](checklists/election-night-checklist.md)
 
-## Reference
+## Miscellaneous
 
-* [Signed Hash Validation](reference/signed-hash-validation.md)
-* [Setting Date & Time](vxadmin-system-setup/setting-date-and-time.md)
-* [Operations Environment](reference/operations-environment.md)
-* [Seal Recommendations](reference/seals-and-port-blockers.md)
-* [Supply List](reference/supply-list.md)
+* [Signed Hash Validation](miscellaneous/signed-hash-validation.md)
+* [Setting Date & Time](miscellaneous/setting-date-and-time.md)
+* [Operational Environment](miscellaneous/operational-environment.md)
+* [Seal Recommendations](miscellaneous/seal-recommendations.md)
+* [Supply List](miscellaneous/supply-list.md)
 
 ## VxCentralScan
 

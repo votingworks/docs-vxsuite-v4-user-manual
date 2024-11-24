@@ -57,5 +57,5 @@ The screen will show the ballot being cast and verify it was cast and dropped in
 <div><figure><img src="../.gitbook/assets/casting-ballot (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/ballot-cast.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-If headphones are used, using earpad covers and replacing after use is recommended. See the [Supply List](../reference/supply-list.md) for more information.
+If headphones are used, using earpad covers and replacing after use is recommended. See the [Supply List](../miscellaneous/supply-list.md) for more information.
 {% endhint %}
