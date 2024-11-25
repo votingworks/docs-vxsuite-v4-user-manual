@@ -59,7 +59,7 @@ VotingWorks recommends cleaning the scanner and replacing the thermal paper roll
 | ------------------------- | -------------------------------------------------------------------------------- | -------- |
 | Scanner Cleaning Supplies | [#scanner-cleaning-supplies](supply-list.md#scanner-cleaning-supplies "mention") | Various  |
 
-VotingWorks recommends cleaning the scanner for each election. VotingWorks also recommends keeping scanner cleaning supplies readily available on election day. Occasionally, the rollers will need to be replaced [as detailed in the maintenance manual](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-maintenance-manual/vxadmin-and-vxcentralscan-maintenance-manual#vxcentralscan-scanner-maintenance).
+VotingWorks recommends cleaning the scanner for each election. VotingWorks also recommends keeping scanner cleaning supplies readily available on election day. Occasionally, the rollers will need to be replaced [as detailed in the maintenance manual](broken-reference).
 
 ## VxMark Supply List
 
@@ -73,4 +73,4 @@ VotingWorks recommends cleaning the scanner for each election. VotingWorks also 
 
 ## Additional Information
 
-For part numbers not listed above or details on long-term maintenance, consult the [System Maintenance Manual](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-maintenance-manual "mention"), in particular the [Approved Parts](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-maintenance-manual/approved-parts "mention") list.
+For part numbers not listed above or details on long-term maintenance, consult the [System Maintenance Manual](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-maintenance-manual "mention"), in particular the [Broken link](broken-reference "mention") list.

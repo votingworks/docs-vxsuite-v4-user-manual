@@ -7,13 +7,9 @@ description: >-
 
 # VxScan Setup
 
-### Hardware Overview
+**VxScan** has three primary components: the scanner in a hard case, the collapsible ballot box, and an uninterruptible power supply.
 
-**VxScan's** scanner comes in a tamper-evident case and the ballot box is collapsed.
-
-<figure><img src="../.gitbook/assets/image (42).png" alt="" width="375"><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/PXL_20241031_182622227.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## VxScan Setup
 
@@ -22,73 +18,20 @@ description: >-
 
 1.  **Set up the ballot box:**
 
-    * [ ] open the rubber straps on each side
-    * [ ] secure the rubber straps on the backside
+    * [ ] release the straps on each side
+    * [ ] secure the straps on the underside of the lid
 
 
 
-<div>
+<div><figure><img src="../.gitbook/assets/PXL_20241031_182758328.jpg" alt=""><figcaption><p>Straps when closed</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_182921409.jpg" alt=""><figcaption><p>Fastening strap to lid</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_182928523.jpg" alt=""><figcaption><p>Tightening strap to lid</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183004440.jpg" alt=""><figcaption><p>Straps for set up</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/VxScan remove strap.png" alt=""><figcaption><p>open the rubber straps</p></figcaption></figure>
+* [ ] pull the box open, using the purple foot hook at the bottom as helpful
 
- 
+<div><figure><img src="../.gitbook/assets/PXL_20241031_183032911.jpg" alt="" width="375"><figcaption><p>Box fully expanded</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183046879.jpg" alt="" width="375"><figcaption><p>Box interior when expanded</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/VxScan secure strap after opening.png" alt=""><figcaption><p>secure the rubber straps</p></figcaption></figure>
+* [ ] flip the lid over to close the box, pushing it into place to hear a click
 
-</div>
-
-* [ ] pull the box open
-* [ ] gently push the side bars down with your foot
-
-<div>
-
-<figure><img src="../.gitbook/assets/VxScan open box.png" alt=""><figcaption><p>pull the box open</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/VxScan push sides down.png" alt=""><figcaption><p>push the side bars down</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/VxScan box open.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-* [ ] open the front door with the yellow handle
-* [ ] pull the yellow top latch handle out&#x20;
-* [ ] close the top
-
-<div>
-
-<figure><img src="../.gitbook/assets/VxScan open front door.png" alt=""><figcaption><p>open the front door</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/VxScan open yellow handle.png" alt=""><figcaption><p>pull the yellow handle out</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/VxScan close top.png" alt=""><figcaption><p>close the top</p></figcaption></figure>
-
-</div>
-
-* [ ] push the yellow handle in to secure the top
-* [ ] close the front door
-* [ ] push the yellow door handle in
-
-<div>
-
-<figure><img src="../.gitbook/assets/vxscan close the yellow handle to secure the top.png" alt=""><figcaption><p>push the handle in</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/vxscan shut the front door.png" alt=""><figcaption><p>close the front door</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/vxscan push the handle in.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/PXL_20241031_183116725.jpg" alt="" width="375"><figcaption><p>Lifting the lid</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183140058.jpg" alt="" width="375"><figcaption><p>Lid clicked into place</p></figcaption></figure></div>
 
 * [ ] seal the ballot box as required
 
@@ -96,70 +39,36 @@ description: >-
 
 * [ ] place the case on top of the ballot box by lining up the bottom with the opening on the ballot box and slide the case back
 * [ ] push the button to release and open each latch and open the lid of the case
-* [ ] push the latch in the upper left corner down to secure the case to the ballot box
 
-<div>
+<div><figure><img src="../.gitbook/assets/PXL_20241031_183312800.jpg" alt="" width="375"><figcaption><p>Case slid onto ballot box</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183331525.jpg" alt="" width="375"><figcaption><p>Case opened on ballot box</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/VxScan slide black case on the ballot box.png" alt=""><figcaption><p>slide the case on ballot box</p></figcaption></figure>
+* [ ] open the poll worker door that is to the lower left of the screen
+* [ ] push the security bolt in the upper left corner down to secure the case to the ballot box
+* [ ] close the poll worker door and seal and document as required
 
- 
+<div><figure><img src="../.gitbook/assets/PXL_20241031_183949135.jpg" alt="" width="375"><figcaption><p>Pressing the security bolt down</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184055101.jpg" alt="" width="375"><figcaption><p>Sealing the poll worker door</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/VxScan open the latches (1).png" alt=""><figcaption><p>open latches</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/VxScan push the lever to secure the case to the top.png" alt=""><figcaption><p>push latch to secure</p></figcaption></figure>
-
-</div>
-
-* [ ] seal and document the latch as required
 * [ ] remove the power cord from it's storage place
+* [ ] plug the power cord into the back of the scanner and then into an outlet or power backup
 
-<div>
+<div><figure><img src="../.gitbook/assets/PXL_20241031_183628378.jpg" alt=""><figcaption><p>Wrapped power cable</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183652085.jpg" alt=""><figcaption><p>Power cable plugged into scanner</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/VxScan poll worker door sealed (1).png" alt="" width="375"><figcaption><p>seal and document the latch</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/VxScan cord wrapped.png" alt="" width="375"><figcaption><p>remove the power cord</p></figcaption></figure>
-
-</div>
-
-* [ ] plug the power cord into the back of the case and into an outlet or UPS power backup&#x20;
-
-<div>
-
-<figure><img src="../.gitbook/assets/VxScan case plug.png" alt=""><figcaption><p>plug into case</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/VxScan plugged into UPS.png" alt=""><figcaption><p>plug into UPS</p></figcaption></figure>
-
-</div>
-
-* [ ] plug UPS power backup into an outlet (if applicable)
+* [ ] plug the power backup into an outlet (if applicable)
 * [ ] turn the UPS power backup on
+* [ ] seal and document the ballot box door as required
+
+<figure><img src="../.gitbook/assets/PXL_20241031_184832238.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Once assembled, be sure to place the VxScan in an area of the room that allows for voter privacy as voted ballots are inserted into the scanner.
+Be sure to assemble VxScan in an area of the room that allows for voter privacy as voted ballots are inserted into the scanner.
 {% endhint %}
 
-VxScan has an auxillary bin that can be used to for holding voted ballots when necessary. Most often this would be used in an emergency when the tabulator is not accepting ballots.
+## Auxiliary Bin
+
+VxScan has an auxiliary bin that can be used to for holding voted ballots when necessary. Most often this would be used in an emergency when the tabulator is not accepting ballots.
 
 To open the auxiliary bin, push the handle down and pull the bin towards you. Stop at the mid-way point. Seal the auxiliary bin when in use.&#x20;
 
-<div>
-
-<figure><img src="../.gitbook/assets/vxscan emergency bin.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/vxscan emergency bin out and sealed.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/vxscan - emergency bin putting a ballot in.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/vxscan emergency bin.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan emergency bin out and sealed.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan - emergency bin putting a ballot in.png" alt=""><figcaption></figcaption></figure></div>
 
 To verify the bin is empty or to remove the ballots from the auxiliary bin, push the handle down and pull the bin all the way towards you.
