@@ -27,7 +27,7 @@ description: >-
 
 * [ ] pull the box open, using the purple foot hook at the bottom as helpful
 
-<div><figure><img src="../.gitbook/assets/PXL_20241031_183032911.jpg" alt="" width="375"><figcaption><p>Box fully expanded</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183046879.jpg" alt="" width="375"><figcaption><p>Box interior when expanded</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/PXL_20241031_183032911 (1).jpg" alt="" width="375"><figcaption><p>Box fully expanded</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183046879.jpg" alt="" width="375"><figcaption><p>Box interior when expanded</p></figcaption></figure></div>
 
 * [ ] flip the lid over to close the box, pushing it into place to hear a click
 
