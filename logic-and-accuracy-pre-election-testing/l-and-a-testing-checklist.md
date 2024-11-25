@@ -4,7 +4,7 @@ description: Complete all steps in the Pre-Election Setup Checklist prior to L&A
 
 # L\&A Testing Checklist
 
-#### VxAdmin Part 1
+#### VxAdmin - Part 1
 
 * [ ] set up VxAdmin
 * [ ] log in with election manager card
@@ -45,7 +45,7 @@ description: Complete all steps in the Pre-Election Setup Checklist prior to L&A
 * [ ] clean the scanning unit
 * [ ] close, seal, and document the VxScan case as required
 
-#### VxAdmin Part 2
+#### VxAdmin - Part 2
 
 * [ ] log in with the election manager card
 * [ ] select _`Tally`_ from the side menu and load CVRs from the USB drive(s)
