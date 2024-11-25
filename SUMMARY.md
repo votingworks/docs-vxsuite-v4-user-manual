@@ -27,7 +27,8 @@
 
 * [L\&A Overview](logic-and-accuracy-pre-election-testing/l-and-a-overview.md)
 * [L\&A Cleanup](logic-and-accuracy-pre-election-testing/prepare-for-election-day.md)
-* [Equipment Inspection & Transportation](logic-and-accuracy-pre-election-testing/equipment-inspection-and-transportation.md)
+* [L\&A Testing Checklist](logic-and-accuracy-pre-election-testing/l-and-a-testing-checklist.md)
+* [Setup Inspection](logic-and-accuracy-pre-election-testing/setup-inspection.md)
 
 ## Election Day Guides
 
@@ -54,7 +55,6 @@
 
 * [Overview](checklists/overview.md)
 * [Pre-Election Setup Checklist](checklists/pre-election-setup-checklist.md)
-* [L\&A Testing Checklist](checklists/l-and-a-testing-checklist.md)
 * [Poll Worker Checklist](checklists/checklist.md)
 * [Election Night Checklist](checklists/election-night-checklist.md)
 

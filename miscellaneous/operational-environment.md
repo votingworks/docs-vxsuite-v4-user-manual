@@ -1,6 +1,6 @@
 # Operational Environment
 
-## Storage
+## Equipment Storage
 
 The voting equipment, when stored in cases, is resistant to light dust and small water splashes, but should not be exposed to heavy dust or rain without additional protection.
 
@@ -22,3 +22,9 @@ As possible, operate VxScan, VxMark, and VxCentralScan with power from a UPS bat
 * If electrical service is required, the end user should contact VotingWorks instead of attempting any electrical service.
 * Only trained technicians should perform any electrical service on systems that require opening up external panels.
 * Disconnect all power and wait at least 30 seconds before any electrical servicing.
+
+## Equipment Transportation
+
+When transporting equipment make sure all latches and straps are secured. And secure the containers in a manner where they will not move in transport. \
+\
+Do not stack the units.
