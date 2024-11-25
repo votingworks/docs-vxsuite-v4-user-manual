@@ -18,5 +18,5 @@ Once the file is saved, VxAdmin prompts you to eject the USB drive. Select _`Eje
 
 ![](../.gitbook/assets/election-package-saved-modal.jpg)
 
-After a few seconds, VxAdmin will confirm USB was ejected and that it is safe to remove the USB drive.
+After a few seconds, VxAdmin will confirm the USB ejection and that it is safe to remove the USB drive.
 

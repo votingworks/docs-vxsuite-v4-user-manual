@@ -1,7 +1,7 @@
 # Smart Cards and User Roles
 
 {% hint style="info" %}
-The following steps can only be completed by a system administrator.
+The following steps must be completed by a system administrator.
 {% endhint %}
 
 ## Overview

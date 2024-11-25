@@ -1,7 +1,7 @@
 # Additional Poll Worker Actions
 
 {% hint style="info" %}
-The following steps can only be completed by a poll worker.
+The following steps must be completed by a poll worker.
 {% endhint %}
 
 ## Pause or Resume Voting
@@ -18,7 +18,7 @@ The _`Pause Voting`_ action in the poll worker screen is generally used by juris
 
 <div><figure><img src="../.gitbook/assets/voting-is-paused.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voting-paused-voter.png" alt=""><figcaption></figcaption></figure></div>
 
-Voting is now paused. When you want to resume voting:
+Voting is now paused. To resume voting:
 
 * [ ] insert a poll worker card and select _`Resume Voting`_
 
