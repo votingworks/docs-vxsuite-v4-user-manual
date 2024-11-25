@@ -20,28 +20,25 @@ Pack up **VxScan** through the following steps:
 * [ ] seal and document the case seal(s) as required
 * [ ] pull the case forward and lift the case off of the ballot box
 
-<div><figure><img src="../.gitbook/assets/image (30).png" alt="" width="188"><figcaption><p>push the release button</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan open the latches.png" alt="" width="188"><figcaption><p>close the case lid, latch, and seal</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan slide black case on the ballot box.png" alt="" width="188"><figcaption><p>pull the case off the ballot box</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/PXL_20241031_185345256.jpg" alt="" width="188"><figcaption><p>Push the security bolt release</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan open the latches.png" alt="" width="188"><figcaption><p>Close the case lid, latch, and seal</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan slide black case on the ballot box.png" alt="" width="188"><figcaption><p>Pull the case off the ballot box</p></figcaption></figure></div>
 
 2. **Pack up the ballot box:**
 
 * [ ] unseal and/or unlock the ballot box&#x20;
 * [ ] remove all ballots from the ballot box and seal into a secure container, recording the seal number as required
-* [ ] open the front door with the yellow handle
-* [ ] pull the yellow top latch handle out&#x20;
-* [ ] open the top
+* [ ] press the latch on the lid to release the lid and lift the lid over to the side
 
-<div><figure><img src="../.gitbook/assets/VxScan open front door.png" alt=""><figcaption><p>open the front door</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan open yellow handle.png" alt=""><figcaption><p>pull the yellow top latch handle out</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan close top.png" alt=""><figcaption><p>open the top</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/PXL_20241031_185722806.jpg" alt=""><figcaption><p>Press lid latch</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_185738805.jpg" alt=""><figcaption><p>Lift lid</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183032911.jpg" alt=""><figcaption><p>Set lid to the side</p></figcaption></figure></div>
 
-* [ ] push the yellow top latch in
-* [ ] close the front door with the yellow handle
-* [ ] gently push the side bars up with your foot
+* [ ] fully collapse the ballot, lifting at with the purple foot hook as helpful
 
-<div><figure><img src="../.gitbook/assets/VxScan open yellow handle.png" alt=""><figcaption><p>push the yellow top latch in</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan open front door.png" alt=""><figcaption><p>close the front door</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan push sides up.png" alt=""><figcaption><p>push the side bars up</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/PXL_20241031_185802759.jpg" alt="" width="563"><figcaption><p>Using the foot hook</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_185822709.jpg" alt="" width="563"><figcaption><p>Collapsing the ballot box</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_185834321.jpg" alt="" width="375"><figcaption><p>Box when collapsed</p></figcaption></figure></div>
 
-* [ ] push the box closed
-* [ ] secure the rubber straps to each side
+* [ ] remove the straps from the underside of the lid and tighten them around the side
 
-<div><figure><img src="../.gitbook/assets/VxScan ballot box closed.png" alt=""><figcaption><p>push the box closed</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan remove strap.png" alt=""><figcaption><p>secure the rubber straps</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/PXL_20241031_185851437.jpg" alt=""><figcaption><p>Remove straps from lid</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_185919884.jpg" alt=""><figcaption><p>Fasten straps around side</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_185927692.jpg" alt=""><figcaption><p>Tighten straps</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_190014226.jpg" alt=""><figcaption><p>Ballot box secured</p></figcaption></figure></div>
+
+
 
 {% hint style="info" %}
 The scanner must be stored securely in a climate-controlled environment. The ballot box can be stored wherever convenient.&#x20;
