@@ -11,11 +11,11 @@ To configure **VxMark**, you must do two things in **VxAdmin**:
 1. [Save the election package](../vxadmin-system-setup/save-election-package.md) to a USB drive.
 2. [Create an election manager card](../vxadmin-system-setup/programming-cards.md).
 
-## Inserting USB Drives
+## Inserting Smart Cards USB Drives
 
-The USB port is accessible at the ballot box attachment point. The ballot box must be removed to insert a USB drive. Seal and document the ballot box as required.
+The smart card reader is beneath the accessible controller. The USB port is accessible at the ballot box attachment point. The ballot box must be removed to insert a USB drive. Seal and document the ballot box as required.
 
-<div><figure><img src="../.gitbook/assets/VxMark remove controller.png" alt=""><figcaption><p>Accessible Controller</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark card reader and USB drive.png" alt=""><figcaption><p>Smart Card Reader Location</p></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/PXL_20241119_204113175.jpg" alt="" width="375"><figcaption><p>Smart card reader under accessible controller</p></figcaption></figure>
 
 ## Loading The Election Package
 

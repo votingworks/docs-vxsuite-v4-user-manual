@@ -19,7 +19,7 @@ If there is an orange banner that says "Test Ballot Mode" on the screen, contact
 * [ ] confirm by selecting _`Open Polls`_ again
 * [ ] remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/VxMark smartcard insert.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-pw-menu-closed-initial copy.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-confirm-open-polls.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/PXL_20241119_204113175.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-pw-menu-closed-initial copy.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-confirm-open-polls.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 The polls are now open and VxMark is ready for voters. The number of ballots printed should be zero.
 
