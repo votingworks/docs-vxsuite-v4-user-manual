@@ -4,7 +4,7 @@ VotingWorks recommends that someone cleans the scanner and calibrates double she
 
 ## Scanner Cleaning
 
-The scanner must be clean to accurately detect marks on ballots. In order clean the scanner:
+The scanner must be clean to accurately detect marks on ballots. In order to clean the scanner:
 
 * [ ] open the poll worker door
 * [ ] open the access door
@@ -23,9 +23,7 @@ Once the scanner is open, you can use cleaning fluid and a microfiber or lint-fr
 
 <figure><img src="../.gitbook/assets/PXL_20241031_203337811.jpg" alt="" width="375"><figcaption><p>Cleaning the scanner</p></figcaption></figure>
 
-
-
-After cleaning, you can close up the scanner again:
+After cleaning, simply close the following:
 
 * [ ] close scanner
 * [ ] close access door
@@ -43,6 +41,6 @@ In order to prevent voters attempting to scan two ballots at once, VxScan has a 
 
 <figure><img src="../.gitbook/assets/scanner-menu.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Tap _`Calibrate Double Sheet Detection`_ to begin calibration. Follow the instructions on screen. You will need two sheets of blank paper that have the same paper weight as the ballots for the election.&#x20;
+Select _`Calibrate Double Sheet Detection`_ to begin calibration. Follow the instructions on screen. You will need two sheets of blank paper that have the same paper weight as the ballots for the election.&#x20;
 
 The _`Disable Double Sheet Detection`_ feature is used to disable the ultrasonic sensor in the event that it fails and improperly rejects single sheets as multiple sheets. If VxScan stops taking ballots or repeatedly displays the _Ballot Not Counted - Multiple sheets detected_ error message, contact customer support. This setting should only be used if advised by the VotingWorks support team.

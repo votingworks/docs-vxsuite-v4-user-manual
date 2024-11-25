@@ -4,11 +4,13 @@ The diagnostics interface is used to test hardware before or between elections a
 
 <div><figure><img src="../.gitbook/assets/more-screen-diagnostics (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/sa-screen-vxscan-diagnostics.png" alt=""><figcaption></figcaption></figure></div>
 
-The VxScan diagnostics screen shows information about how the machine is configured, how much storage is left on the device, and the current status of the scanner and printer. You may _`Perform Test Scan`_ to test the scanner's image capture,  _`Print Test Page`_ to test the printer, or  _`Test Sound`_ to verify the speaker is working properly.
+The VxScan diagnostics screen shows information about how the machine is configured, how much storage is left on the device, and the current status of the scanner and printer. Prior to each election, walk through each test to verify each component is in working order. During normal operations, if one of the components fails, VxScan will display an error message on screen.&#x20;
 
-The purpose of the test scan is to ensure that the ballot images produced by the scanner do not have defects. You will need to insert a blank sheet of paper. The system will automatically determine if the image appears blank and free of defects. Inserting a sheet of paper that is not blank will cause the test to fail.
+Select _`Perform Test Scan`_ and insert a blank sheet of paper as prompted. This test verifies the scanner is clean and ballot images are clear.  If the test fails, you'll be prompted to clean the scanner. The test will also fail if the sheet is not blank.&#x20;
 
-The purpose of the test print is mainly to ensure that the paper roll is installed properly. If the paper roll was installed backwards, nothing will print. After the test print completes, you must indicate whether the print was successful or not.
+Select _`Print Test Page`_ to ensure the paper roll is installed properly. If the paper roll was installed backwards, nothing will print. After the test print completes, you must indicate whether the print was successful or not.
+
+Select _`Test Sound`_ to verify the speaker is working properly.&#x20;
 
 The most recent test result for each piece of hardware is shown on the diagnostics screen and included in the readiness report.
 

@@ -18,10 +18,10 @@
 * [Configure VxScan](vxscan/configure-vxscan.md)
 * [Printer Management](vxscan/printer-management.md)
 * [Scanner Management](vxscan/scanner-management.md)
-* [Additional VxScan Settings](vxscan/additional-vxscan-settings.md)
-* [Additional Poll Worker Actions](vxscan/additional-poll-worker-actions.md)
-* [VxScan Error Messages](vxscan/vxscan-error-messages.md)
 * [VxScan Diagnostics](vxscan/vxscan-diagnostics.md)
+* [VxScan Error Messages](vxscan/vxscan-error-messages.md)
+* [Additional Poll Worker Actions](vxscan/additional-poll-worker-actions.md)
+* [Additional VxScan Settings](vxscan/additional-vxscan-settings.md)
 
 ## Logic & Accuracy Pre-Election Testing
 

@@ -35,7 +35,7 @@ Use the toggle button to switch between _`Test Ballot Mode`_ and _`Official Ball
 
 ## Removing Election Configuration
 
-There are two ways to remove the election configuration the all scanned ballot data on VxScan.&#x20;
+There are two ways to remove the election configuration and all scanned ballot data on VxScan.&#x20;
 
 ### Removing Election Configuration - Election Manager
 

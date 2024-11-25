@@ -2,7 +2,7 @@
 
 ## Saving CVRs
 
-The cast vote records contain the images and the interpretation for each ballot cast and is used to tally votes in VxAdmin. Th cast vote record saves continuously to the USB drive throughout the day and again at the close of polls.  If another copy is needed, however, it can also be saved by selecting _`CVRs and Logs`_ from the side menu and selecting _`Save CVRs`_.
+The cast vote records contain the images and the interpretation for each ballot cast and is used to tally votes in VxAdmin. The cast vote record saves continuously to the USB drive throughout the day and again at the close of polls.  If another copy is needed, however, it can also be saved by selecting _`CVRs and Logs`_ from the side menu and selecting _`Save CVRs`_.
 
 <figure><img src="../.gitbook/assets/cvrs-and-logs-cvrs.png" alt="" width="375"><figcaption></figcaption></figure>
 
