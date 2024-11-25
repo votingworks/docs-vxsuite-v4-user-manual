@@ -10,7 +10,7 @@ The scanner must be clean to accurately detect marks on ballots. In order clean 
 * [ ] open the access door
 * [ ] open the scanner
 
-<div><figure><img src="../.gitbook/assets/PXL_20241031_184055101.jpg" alt="" width="375"><figcaption><p>Poll worker door closed</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184238006.jpg" alt="" width="375"><figcaption><p>Poll worker door open</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/PXL_20241031_184055101 (1).jpg" alt="" width="375"><figcaption><p>Poll worker door closed</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184238006.jpg" alt="" width="375"><figcaption><p>Poll worker door open</p></figcaption></figure></div>
 
 <div><figure><img src="../.gitbook/assets/PXL_20241031_184245241.jpg" alt="" width="375"><figcaption><p>Access door open</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184257763.jpg" alt="" width="375"><figcaption><p>Scanner open</p></figcaption></figure></div>
 

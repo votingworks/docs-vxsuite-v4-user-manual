@@ -44,7 +44,7 @@ VotingWorks Precinct System consists of two portable, self-contained products:
 
 Voters at the precinct vote on hand-marked paper ballots and cast their ballot into VxScan, with the option to vote and cast one's ballot on VxMark if requested.&#x20;
 
-<div><figure><img src=".gitbook/assets/VxScan hardware photo.png" alt="" width="375"><figcaption><p>VxScan set up on ballot box</p></figcaption></figure> <figure><img src=".gitbook/assets/VxMark hardware photo.png" alt="" width="375"><figcaption><p>VxMark</p></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/PXL_20241031_183333061.jpg" alt="" width="375"><figcaption><p>VxScan</p></figcaption></figure> <figure><img src=".gitbook/assets/PXL_20241119_204010865.jpg" alt="" width="375"><figcaption><p>VxMark</p></figcaption></figure></div>
 
 ## Paper Ballots
 

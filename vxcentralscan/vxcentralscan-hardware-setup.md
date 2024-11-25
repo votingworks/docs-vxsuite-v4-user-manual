@@ -56,6 +56,6 @@ To pack up the VxCentralScan, simply place all of the components back into the c
 
 ## Scanner Maintenance
 
-The scanner should be cleaned before every election. Consult [the maintenance manual](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-maintenance-manual/vxadmin-and-vxcentralscan-maintenance-manual#vxcentralscan-scanner-maintenance) section about cleaning and maintaining the Ricoh scanners.
+The scanner should be cleaned before every election. Consult [the maintenance manual](broken-reference) section about cleaning and maintaining the Ricoh scanners.
 
 [^1]: 
