@@ -8,13 +8,11 @@ description: >-
 
 ## Hardware Overview
 
-**VxCentralScan** is a commercial off-the-shelf (COTS) laptop pre-installed with VxCentralScan software pre-installed and a Ricoh scanner.
+**VxCentralScan** is a commercial off-the-shelf (COTS) laptop pre-installed with VxCentralScan software that connects to a Ricoh scanner.
 
 ![VxCentralScan in cases](<../.gitbook/assets/vxcentral in cases.png>) ![VxCentralScan set up](../.gitbook/assets/PXL_20241119_215840432.jpg)
 
-Two models of Ricoh scanners are supported: fi-8170 and fi-7600. The smaller fi-8170 (shown above) can scan batches of up to 30 ballots. The larger fi-7600 (shown below) can scan larger batches of up to 100 ballots.
-
-<figure><img src="https://www.datacapturegroup.com/wp-content/uploads/2022/02/img_fi-7600_Overview02_tcm100-4446614_tcm100-2750236-32.jpg" alt="" width="188"><figcaption><p>Fujitsu fi-7600</p></figcaption></figure>
+Two models of Ricoh scanners are supported: fi-8170 and fi-7600. The smaller fi-8170 (shown above) can scan batches of up to 30 ballots. The larger fi-7600 can scan larger batches of up to 100 ballots.
 
 ## **VxCentralScan** Setup
 
@@ -28,7 +26,7 @@ Two models of Ricoh scanners are supported: fi-8170 and fi-7600. The smaller fi-
    * [ ] plug the power cord (d) into the back of the scanner and into an outlet or UPS
    * [ ] press the power button (e) to turn the scanner on
 
-![Remove scanner and power cord from case](<../.gitbook/assets/central scan not setup (1).png>) ![Attach and pull out paper trays](<../.gitbook/assets/central scan telesopoing.png>) ![Plug cords in](<../.gitbook/assets/central scan plug ins.png>) ![Press the power button to turn on](<../.gitbook/assets/central scan power.png>)
+![Remove scanner and power cord from case](../.gitbook/assets/IMG_1675.jpeg) ![Attach and pull out paper trays](../.gitbook/assets/IMG_1676.jpeg) ![Plug cords in](<../.gitbook/assets/central scan plug ins.png>) ![Press the power button to turn on](../.gitbook/assets/IMG_1677.jpeg)
 
 
 
@@ -54,8 +52,12 @@ To pack up the VxCentralScan, simply place all of the components back into the c
 
 <div align="center"><figure><img src="../.gitbook/assets/image (410).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
+## Imprinting
+
+Both the fi-8170 and the fi-7600 can be used with an optional imprinter, the fi-819PRB and the fi-760PRB respectively. See the user guides for the [fi-819PRB](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-8170/ricoh-fi-819prb-user-guide.pdf) and [fi-760PRB](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-760prb-user-guide.pdf) for assembly instructions. Note that the imprinter should not be attached while the scanner is already powered on.
+
 ## Scanner Maintenance
 
-The scanner should be cleaned before every election. Consult [the maintenance manual](broken-reference) section about cleaning and maintaining the Ricoh scanners.
+The scanner should be cleaned before every election. The rollers should be replaced occasionally depending on scanning volume. Consult [the maintenance manual](broken-reference) section about cleaning and maintaining the Ricoh scanners.
 
 [^1]: 
