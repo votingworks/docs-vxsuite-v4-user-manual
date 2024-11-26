@@ -25,8 +25,6 @@
 | Length     | 55mm maximum, measured from inserted tip |
 | Read Speed | 60 Mbps minimum                          |
 
-The following articles provide maintenance instructions for the four different VxSuite components. The current article describes how this section relates to the VVSG 2.0 requirements for the system maintenance manual.
-
 ## Marking Devices
 
 Marking devices for hand-marked paper ballots should be black ink pens that dry quickly, but nothing more specific is recommended. Do not use markers. Some examples of commercially available pens that meet this requirement are:

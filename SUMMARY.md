@@ -54,7 +54,7 @@
 
 * [Overview](checklists/overview.md)
 * [Pre-Election Setup Checklist](checklists/pre-election-setup-checklist.md)
-* [L\&A Testing Checklist](checklists/l-and-a-testing-checklist.md)
+* [L\&A Testing Checklist](logic-and-accuracy-pre-election-testing/l-and-a-testing-checklist.md)
 * [Poll Worker Checklist](checklists/checklist.md)
 * [Election Night Checklist](checklists/election-night-checklist.md)
 
