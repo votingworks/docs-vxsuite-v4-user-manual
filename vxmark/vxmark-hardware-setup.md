@@ -52,3 +52,18 @@ Part of the Precinct System, VxMark is an accessible ballot marking device that 
 <div><figure><img src="../.gitbook/assets/image (26).png" alt="" width="188"><figcaption><p>plug the headphones in</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark power button.png" alt="" width="375"><figcaption><p>push the power button to turn on</p></figcaption></figure></div>
 
 The VxMark is set up.
+
+## Cleaning VxMark
+
+The scanner should be cleaned for every election with scanner cleaning solution (see [supply-list.md](../miscellaneous/supply-list.md "mention")) and a lint-free or microfiber cloth.&#x20;
+
+* [ ] press printer cover button to open printer cover
+* [ ] open scanner by lifting the metal piece above the green sticker
+* [ ] apply cleaning solution to cloth and wipe the inside of the scanner with moderate force
+  * [ ] clean scanner glass
+  * [ ] clean rollers
+* [ ] close scanner by pressing down on the green sticker until the scanner clicks into place
+* [ ] close printer cover until it clicks into place
+
+<figure><img src="../.gitbook/assets/PXL_20241125_224803109.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
