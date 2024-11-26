@@ -26,7 +26,7 @@ Two models of Ricoh scanners are supported: fi-8170 and fi-7600. The smaller fi-
    * [ ] plug the power cord (d) into the back of the scanner and into an outlet or UPS
    * [ ] press the power button (e) to turn the scanner on
 
-![Remove scanner and power cord from case](../.gitbook/assets/IMG_1675.jpeg) ![Attach and pull out paper trays](../.gitbook/assets/IMG_1676.jpeg) ![Plug cords in](<../.gitbook/assets/central scan plug ins.png>) ![Press the power button to turn on](../.gitbook/assets/IMG_1677.jpeg)
+![Remove scanner and power cord from case](../.gitbook/assets/IMG_1675.jpeg) ![Attach and pull out paper trays](../.gitbook/assets/IMG_1676.jpeg) ![Plug cords in](../.gitbook/assets/PXL_20241125_223330294.jpg) ![Press the power button to turn on](../.gitbook/assets/IMG_1677.jpeg)
 
 
 
@@ -54,7 +54,7 @@ To pack up the VxCentralScan, simply place all of the components back into the c
 
 ## Imprinting
 
-Both the fi-8170 and the fi-7600 can be used with an optional imprinter, the fi-819PRB and the fi-760PRB respectively. See the user guides for the [fi-819PRB](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-8170/ricoh-fi-819prb-user-guide.pdf) and [fi-760PRB](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-760prb-user-guide.pdf) for assembly instructions. Note that the imprinter should not be attached while the scanner is already powered on.
+Both the fi-8170 and the fi-7600 can be used with an optional imprinter, the fi-819PRB and the fi-760PRB respectively. See the user guides for the [fi-819PRB](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-8170/ricoh-fi-819prb-user-guide.pdf) and [fi-760PRB](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-760prb-user-guide.pdf) for assembly instructions. Note that the imprinter should not be attached while the scanner is already powered on. After the imprinter is attached, adjust the paper guides on the imprinter to match the paper width of each batch, which is 8.5" for hand marked paper ballots or 8" for machine marked paper ballots.&#x20;
 
 ## Scanner Maintenance
 
