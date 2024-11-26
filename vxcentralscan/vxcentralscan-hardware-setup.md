@@ -54,7 +54,9 @@ To pack up the VxCentralScan, simply place all of the components back into the c
 
 ## Imprinting
 
-Both the fi-8170 and the fi-7600 can be used with an optional imprinter, the fi-819PRB and the fi-760PRB respectively. See the user guides for the [fi-819PRB](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-8170/ricoh-fi-819prb-user-guide.pdf) and [fi-760PRB](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-760prb-user-guide.pdf) for assembly instructions. Note that the imprinter should not be attached while the scanner is already powered on. After the imprinter is attached, adjust the paper guides on the imprinter to match the paper width of each batch, which is 8.5" for hand marked paper ballots or 8" for machine marked paper ballots.&#x20;
+Both the fi-8170 and the fi-7600 can be used with an optional imprinter, the fi-819PRB and the fi-760PRB respectively. See the user guides for the [fi-819PRB](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-8170/ricoh-fi-819prb-user-guide.pdf) and [fi-760PRB](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-760prb-user-guide.pdf) for assembly instructions. Note that the imprinter should not be attached while the scanner is already powered on.&#x20;
+
+After the imprinter is attached, adjust the paper guides on the imprinter to match the paper width of each batch, which is 8.5" for hand marked paper ballots or 8" for machine marked paper ballots. This adjustment is necessary to ensure that imprinting is done outside of the ballot marking area on each ballot.
 
 ## Scanner Maintenance
 
