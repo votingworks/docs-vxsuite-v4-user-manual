@@ -7,11 +7,11 @@ For reference information on VxScan, see the following links:
 
 ## Hardware Maintenance
 
-The end user should never try to perform complex repairs on VxScan. The top panel, behind which sits the screen and the speaker, is sealed. The bottom left panel, under which sits the computer and USB hub, is sealed. The bottom right panel, under which sits the power supplies, is sealed. None of these seals should be removed and none of these panels should be removed by end users. Only VotingWorks is expected to perform repairs that require removing panels. End users are expected to keep the scanner clean, keep the printer paper loaded, and keep the screen and USB ports clean.
+The user should never try to perform complex repairs on VxScan. The top panel, behind which sits The screen and the speaker are sealed under the top panel and the computer and USB hub are sealed under the bottom left panel. The seals and panels should **not** be removed by end users. Only VotingWorks should perform repairs that require removing panels. Users are expected to keep the scanner clean, the printer paper loaded, and the screen and USB ports clean.
 
 ### Scanner Cleaning
 
-The scanner should be cleaned for every election before pre-election testing and again after pre-election testing. For instructions, see the / article in the user manual. VotingWorks recommends using Ricoh Cleaner F1 (PN: PA03950-0352) with cleaning wipes (PN: CG90000-120001) or equivalent. Other scanner-specific cleaning fluids or greater than 70% isopropyl alcohol can be used for the cleaning fluid. A microfiber or lint-free cloth can be used for the wipe.
+The scanner should be cleaned for every election before pre-election testing and again after pre-election testing. For instructions, see [scanner-management.md](../vxscan/scanner-management.md "mention") in the user manual. VotingWorks recommends using Ricoh Cleaner F1 (PN: PA03950-0352) with cleaning wipes (PN: CG90000-120001) or equivalent. Other scanner-specific cleaning fluids or greater than 70% isopropyl alcohol can be used for the cleaning fluid. A microfiber or lint-free cloth can be used for the wipe.
 
 If the software detects streaks in a scanned ballot, the user will be alerted and prompted to clean the scanner. To identify streaks proactively, an election manager or system administrator can perform a test scan in the diagnostics interface. For instructions, see the[vxscan-diagnostics.md](../vxscan/vxscan-diagnostics.md "mention") article.
 
@@ -31,13 +31,13 @@ VotingWorks recommends cleaning the screen and USB ports as needed. The screen c
 
 ## Software Maintenance
 
-There are no required steps for maintaining the software or firmware itself. The software is installed by VotingWorks and cannot be modified. The underlying databases for all applications are self-maintaining and do not need to be tuned by end users.
+There are no required steps for maintaining the software or firmware. The software is installed by VotingWorks and cannot be modified. The underlying databases for all applications are self-maintaining and do not need to be tuned by end users.
 
 ## Data Maintenance
 
-As VxScan is used for an election, it will gradually be storing more and more ballot data. As long as users remain within the specified [System Limits](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-performance-and-specifications/system-limits "mention") they should not get remotely close to data limits on VxScan. The free disk space available on is visible to system administrators and election managers under the **Diagnostics** menu accessible from the application sidebar when authenticated.
+As VxScan is used for an election, it will gradually be storing more and more ballot data. As long as users remain within the specified [System Limits](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-performance-and-specifications/system-limits "mention") they should not exceed the data limits on VxScan. The free disk space available on VxScan is visible to system administrators and election managers by selecting _`Diagnostics`_ from the side menu.
 
-When the machine is unconfigured or ballot data is cleared, disk space will be recovered. It will likely not return all the way to 100% free disk space, due to how the database is configured to vacuum only as needed, but all disk space from deleted records will be usable for new records.
+When the machine is unconfigured or ballot data is cleared, disk space will be recovered. The free disk space may not appear to return to 100% but old files will eventually be replaced by new files and the disk space will be re-used.
 
 VotingWorks recommends that all cast vote records are backed up to a USB drive before being cleared from the application. As ballots are scanned, cast vote records are automatically backed up to the attached USB drive. If an additional backup is required, an election manager can separately save CVRs.
 

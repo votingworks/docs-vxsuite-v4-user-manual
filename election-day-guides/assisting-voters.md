@@ -44,7 +44,7 @@ If a state requires notification to the voter that a specific contest has fewer 
 
 <figure><img src="../.gitbook/assets/undervoted-ballot.png" alt="" width="375"><figcaption></figcaption></figure>
 
-If the voter would like to correct their error, they should select _`Return Ballot`_ and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select _`Cast Ballot`_ and then confirm by selecting _`Cast Ballot`_ again.
+If the voter would like to correct their error, they should select _`Return Ballot`_ and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select _`Cast Ballot`_ and then confirm by selecting _`Cast Ballot`_ again. All votes will be counted.
 
 ### Multiple Corrections
 
@@ -56,7 +56,7 @@ If the voter would like to correct their errors, they should select _`Return Bal
 
 ### Adjusting Color and Size
 
-Simple changes to the screens color and size can be very helpful for voters with low vision and other cognitive disabilities. Selecting _`Settings`_ in the upper right hand corner of the screen provides the voter with different options. Select _`Color`_ to change the text and background color and select _`Text Size`_ to change the text size.
+Simple changes to the screens color and size can be very helpful for voters with low vision and other cognitive disabilities. Selecting _`Settings`_ in the upper left hand corner of the screen provides the voter with different options. Select _`Color`_ to change the text and background color and select _`Text Size`_ to change the text size.
 
 <div><figure><img src="../.gitbook/assets/insert-ballot-lang copy 2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/color-mode.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/text-size-mode.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -70,7 +70,7 @@ Four different color options are available for users. While we provide a short d
 
 **Dark text, light background** - as the default this setting will be used by most people.
 
-**Black text, white background** - used by people who need the highest contrast because of light vision or color perception disabilities or aging.
+**Black text, white background** - used by a person who needs the highest contrast because of light vision or color perception disabilities or aging.
 
 #### Text Size
 

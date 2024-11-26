@@ -1,7 +1,7 @@
 # Write-In Adjudication
 
 {% hint style="info" %}
-The following steps must be completed by the election manager.
+The following steps must be completed by an election manager.
 {% endhint %}
 
 Ballots with a write-in bubble filled in or marks on the write-in line must be adjudicated in VxAdmin after CVRs have been loaded. To start the write-in adjudication process, log in with an election manager card and select _`Write-Ins`_ from the side menu.
@@ -22,8 +22,7 @@ The screen will display buttons for each of the official candidates on the ballo
 As more candidates are added, scrolling will be required to view all selections.
 {% endhint %}
 
-If the write-in is for an official candidate and the system also detects a mark for the official candidate, the following message will appear to prevent double votes:\
-
+If the write-in is for an official candidate and the system also detects a mark for the official candidate, the following message will appear to prevent double votes:
 
 <figure><img src="../.gitbook/assets/write-in-adjudication-double-vote-cropped.jpg" alt="" width="375"><figcaption></figcaption></figure>
 

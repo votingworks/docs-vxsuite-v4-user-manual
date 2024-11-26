@@ -40,9 +40,9 @@ VxScan CVRs include the VxScan's CVRs and ballot images. The log file contains t
 * [ ] Select _`CVRs and Logs`_ from the side menu
 * [ ] Insert a USB drive
 * [ ] Select _`Save CVRs`_
-* [ ] Selec&#x74;_`Save Log File`_
+* [ ] Selec&#x74;_`Save Logs`_
 
-<figure><img src="../.gitbook/assets/image (46).png" alt="" width="265"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (935).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Log files** contain records of user interactions with the machine (e.g., election officials and poll workers unlocking the machine, voters casting ballots, etc.) as well as internal system information (e.g., the status of paper running through the scanner, errors, etc.). [A detailed description for each event in the log can be found in Github](https://github.com/votingworks/vxsuite/blob/main/libs/logging/VotingWorksLoggingDocumentation.md).

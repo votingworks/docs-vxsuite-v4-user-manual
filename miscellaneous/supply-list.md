@@ -32,7 +32,7 @@ A faster drive may be necessary when exporting large volumes of ballots from VxC
 
 ## Seals
 
-Cases should be secured with tamper evident numbered seals, such as heavy-duty [pull-tight seals](https://www.cambridgeseals.com/heavy-duty-pull-tight-seal). You may use different seals as preferred by your jurisdiction and may choose to use different types of seals, or even locks, if you confirm they fit through the seal points in question.
+Cases should be secured with tamper evident numbered seals, such as heavy-duty [pull-tight seals](https://www.cambridgeseals.com/heavy-duty-pull-tight-seal). You may use different seals as preferred by your jurisdiction and may choose to use different types of seals, or even locks, if you confirm they fit through the seal points and properly secure the seal point.
 
 ## Scanner Cleaning Supplies
 
@@ -46,31 +46,31 @@ VotingWorks recommends having a backup toner cartridge and extra reams of paper 
 
 ## VxScan Supply List
 
-| Item                      | Recommendation                                                                   | Supplier    |
-| ------------------------- | -------------------------------------------------------------------------------- | ----------- |
-| Thermal Paper Rolls       | VotingWorks Provided                                                             | VotingWorks |
-| Scanner Cleaning Supplies | [#scanner-cleaning-supplies](supply-list.md#scanner-cleaning-supplies "mention") | Various     |
+| Item                      | Recommendation       | Supplier    |
+| ------------------------- | -------------------- | ----------- |
+| Thermal Paper Rolls       | VotingWorks Provided | VotingWorks |
+| Scanner Cleaning Supplies | See above            | Various     |
 
 VotingWorks recommends cleaning the scanner and replacing the thermal paper roll for each VxScan for each election. VotingWorks also recommends keeping scanner cleaning supplies and extra thermal paper rolls readily available on election day.
 
 ## VxCentralScan Supply List
 
-| Item                      | Recommendation                                                                   | Supplier |
-| ------------------------- | -------------------------------------------------------------------------------- | -------- |
-| Scanner Cleaning Supplies | [#scanner-cleaning-supplies](supply-list.md#scanner-cleaning-supplies "mention") | Various  |
+| Item                      | Recommendation | Supplier |
+| ------------------------- | -------------- | -------- |
+| Scanner Cleaning Supplies | See above      | Various  |
 
 VotingWorks recommends cleaning the scanner for each election. VotingWorks also recommends keeping scanner cleaning supplies readily available on election day. Occasionally, the rollers will need to be replaced [as detailed in the maintenance manual](broken-reference).
 
 ## VxMark Supply List
 
-| Item                      | Recommendation                                                                   | Supplier    |
-| ------------------------- | -------------------------------------------------------------------------------- | ----------- |
-| Thermal Ballot Paper      | VotingWorks Provided                                                             | VotingWorks |
-| Headphone Ear Covers      | [BBTO headphone ear covers](https://a.co/d/eAaRt1K), or equivalent               | Various     |
-| Scanner Cleaning Supplies | [#scanner-cleaning-supplies](supply-list.md#scanner-cleaning-supplies "mention") | Various     |
+| Item                      | Recommendation                                                     | Supplier    |
+| ------------------------- | ------------------------------------------------------------------ | ----------- |
+| Thermal Ballot Paper      | VotingWorks Provided                                               | VotingWorks |
+| Headphone Ear Covers      | [BBTO headphone ear covers](https://a.co/d/eAaRt1K), or equivalent | Various     |
+| Scanner Cleaning Supplies | See above                                                          | Various     |
 
 VotingWorks recommends cleaning the scanner for each election. VotingWorks also recommends keeping scanner cleaning supplies readily available on election day.
 
 ## Additional Information
 
-For part numbers not listed above or details on long-term maintenance, consult the [System Maintenance Manual](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-maintenance-manual "mention"), in particular the [Broken link](broken-reference "mention") list.
+For part numbers not listed above or details on long-term maintenance, consult the [System Maintenance Manual](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-maintenance-manual "mention"), in particular the [approved-parts-list.md](../system-maintenance/approved-parts-list.md "mention").

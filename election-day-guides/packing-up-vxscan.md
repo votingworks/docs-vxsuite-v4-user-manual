@@ -8,13 +8,13 @@ Pack up **VxScan** through the following steps:
 
 <figure><img src="../.gitbook/assets/pw-menu-closed copy.png" alt="" width="375"><figcaption><p>Insert the poll worker card and select <em>Power Down</em></p></figcaption></figure>
 
-* [ ] once the screen has turned off, remove the power cord from VxScan
+* [ ] once the screen is off, remove the power cord from VxScan
 * [ ] remove the power cord from the UPS or outlet
 * [ ] wrap the power cord in it's storage space
 
 <figure><img src="../.gitbook/assets/VxScan cord wrapped.png" alt="" width="375"><figcaption><p>Remove and wrap the  power cord</p></figcaption></figure>
 
-* [ ] push the release button to the left to release the case from the ballot box
+* [ ] push the purple release button to the left to release the case from the ballot box
 * [ ] close the poll worker door
 * [ ] close the case lid and latch
 * [ ] seal and document the case seal(s) as required
@@ -30,7 +30,7 @@ Pack up **VxScan** through the following steps:
 
 <div><figure><img src="../.gitbook/assets/PXL_20241031_185722806.jpg" alt=""><figcaption><p>Press lid latch</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_185738805.jpg" alt=""><figcaption><p>Lift lid</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183032911.jpg" alt=""><figcaption><p>Set lid to the side</p></figcaption></figure></div>
 
-* [ ] fully collapse the ballot, lifting at with the purple foot hook as helpful
+* [ ] fully collapse the ballot by gently using your foot to lift the bottom purple hooks
 
 <div><figure><img src="../.gitbook/assets/PXL_20241031_185802759.jpg" alt="" width="563"><figcaption><p>Using the foot hook</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_185822709.jpg" alt="" width="563"><figcaption><p>Collapsing the ballot box</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_185834321.jpg" alt="" width="375"><figcaption><p>Box when collapsed</p></figcaption></figure></div>
 

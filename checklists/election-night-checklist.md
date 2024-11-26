@@ -10,7 +10,7 @@ On election night, you will need [VxAdmin](../vxadmin-system-setup/vxadmin-hardw
 * [ ] select _`Reports`_ from the side menu, print an _`Unofficial Full Election Tally Report`_ as the Zero Report
 * [ ] select _`Tally`_ from the side menu, load CVRs from USB drive(s) - verify counts
 * [ ] adjudicate write-ins by selecting _`Write-Ins`_ from the side menu
-* [ ] add manual tallies (select _`Tally`_ from the side menu) (when applicable)
+* [ ] add manual tallies (select _`Tally`_ from the side menu and then _`Manual Tallies`_) (when applicable)
 * [ ] select _`Reports`_ from the side menu and review, print, or save an _`Unofficial Full Election Tally Report`_ for the results&#x20;
 * [ ] select _`Reports`_ from the side menu, review, print, or save a _`Write-in Adjudication Report`_
 * [ ] verify all steps above are fully completed and reports reflect all ballots and adjudication

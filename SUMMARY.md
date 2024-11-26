@@ -27,7 +27,6 @@
 
 * [L\&A Overview](logic-and-accuracy-pre-election-testing/l-and-a-overview.md)
 * [L\&A Cleanup](logic-and-accuracy-pre-election-testing/prepare-for-election-day.md)
-* [L\&A Testing Checklist](logic-and-accuracy-pre-election-testing/l-and-a-testing-checklist.md)
 * [Setup Inspection](logic-and-accuracy-pre-election-testing/setup-inspection.md)
 
 ## Election Day Guides
@@ -40,7 +39,7 @@
 
 ## Election Night Guides
 
-* [Loading CVRs](election-night-guides/tally-results.md)
+* [Tally Results](election-night-guides/tally-results.md)
 * [Write-In Adjudication](election-night-guides/write-in-adjudication.md)
 * [Manual Tallies](election-night-guides/manual-tallies.md)
 * [Reports](election-night-guides/reports.md)
@@ -55,6 +54,7 @@
 
 * [Overview](checklists/overview.md)
 * [Pre-Election Setup Checklist](checklists/pre-election-setup-checklist.md)
+* [L\&A Testing Checklist](checklists/l-and-a-testing-checklist.md)
 * [Poll Worker Checklist](checklists/checklist.md)
 * [Election Night Checklist](checklists/election-night-checklist.md)
 

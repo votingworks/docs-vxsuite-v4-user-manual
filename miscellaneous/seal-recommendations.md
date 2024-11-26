@@ -2,7 +2,7 @@
 
 ### VxAdmin & VxCentralScan
 
-While in storage, the VxAdmin should be stored in its case with seals through each of the eyelets to the right and left of the carrying handle on the case. These will be removed and tracked when the case is opened for use and new ones should be applied and tracked when packed up for storage.&#x20;
+While in storage, the VxAdmin should be stored in its case with seals through each of the eyelets to the right and left of the carrying handle on the case. Reseal and document as required each time the case is opened and repacked for storage.&#x20;
 
 ### VxScan
 

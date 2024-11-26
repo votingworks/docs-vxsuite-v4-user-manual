@@ -1,7 +1,7 @@
 # Mark Results as Official
 
 {% hint style="info" %}
-The following steps must be completed by the election manager.
+The following steps must be completed by an election manager.
 {% endhint %}
 
 When you are ready to certify election results, you can mark VxAdmin results as official to print official reports.&#x20;
