@@ -13,3 +13,8 @@ While in storage, the VxAdmin should be stored in its case with seals through ea
 **During Voting:** A seal should be placed through the hasp in the auxiliary bin door when it is not in use.
 
 **During Voting:** A seal should be placed through the hasp in the front ballot door.
+
+### VxMark&#x20;
+
+**During Voting:** A seal should be placed through the eyelets holding the ballot box in place.
+
