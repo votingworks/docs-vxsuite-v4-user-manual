@@ -25,11 +25,11 @@ description: >-
 
 <div><figure><img src="../.gitbook/assets/PXL_20241031_182758328.jpg" alt=""><figcaption><p>Straps when closed</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_182921409.jpg" alt=""><figcaption><p>Fastening strap to lid</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_182928523.jpg" alt=""><figcaption><p>Tightening strap to lid</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183004440.jpg" alt=""><figcaption><p>Straps for set up</p></figcaption></figure></div>
 
-* [ ] pull the box open, using the purple foot hook at the bottom as helpful
+* [ ] pull the box open, gently push the purple hooks down with your foot
 
 <div><figure><img src="../.gitbook/assets/PXL_20241031_183032911 (1).jpg" alt="" width="375"><figcaption><p>Box fully expanded</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183046879.jpg" alt="" width="375"><figcaption><p>Box interior when expanded</p></figcaption></figure></div>
 
-* [ ] flip the lid over to close the box, pushing it into place to hear a click
+* [ ] close the lid, pushing until you hear a click
 
 <div><figure><img src="../.gitbook/assets/PXL_20241031_183116725.jpg" alt="" width="375"><figcaption><p>Lifting the lid</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183140058.jpg" alt="" width="375"><figcaption><p>Lid clicked into place</p></figcaption></figure></div>
 
@@ -38,12 +38,12 @@ description: >-
 2\. **Set up the scanner:**
 
 * [ ] place the case on top of the ballot box by lining up the bottom with the opening on the ballot box and slide the case back
-* [ ] push the button to release and open each latch and open the lid of the case
+* [ ] push the button to release and open each latch to open the case lid
 
 <div><figure><img src="../.gitbook/assets/PXL_20241031_183312800.jpg" alt="" width="375"><figcaption><p>Case slid onto ballot box</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183331525.jpg" alt="" width="375"><figcaption><p>Case opened on ballot box</p></figcaption></figure></div>
 
-* [ ] open the poll worker door that is to the lower left of the screen
-* [ ] push the security bolt in the upper left corner down to secure the case to the ballot box
+* [ ] open the poll worker door (upper left corner)
+* [ ] push the purple security bolt down to secure the case to the ballot box
 * [ ] close the poll worker door and seal and document as required
 
 <div><figure><img src="../.gitbook/assets/PXL_20241031_183949135.jpg" alt="" width="375"><figcaption><p>Pressing the security bolt down</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184055101.jpg" alt="" width="375"><figcaption><p>Sealing the poll worker door</p></figcaption></figure></div>
@@ -54,7 +54,7 @@ description: >-
 <div><figure><img src="../.gitbook/assets/PXL_20241031_183628378.jpg" alt=""><figcaption><p>Wrapped power cable</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183652085.jpg" alt=""><figcaption><p>Power cable plugged into scanner</p></figcaption></figure></div>
 
 * [ ] plug the power backup into an outlet (if applicable)
-* [ ] turn the UPS power backup on
+* [ ] turn the power backup on
 * [ ] seal and document the ballot box door as required
 
 <figure><img src="../.gitbook/assets/PXL_20241031_184832238.jpg" alt="" width="375"><figcaption></figcaption></figure>

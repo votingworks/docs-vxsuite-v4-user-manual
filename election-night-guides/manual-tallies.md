@@ -14,6 +14,6 @@ Enter the Ballot Style, Precinct, and Voting Method of the ballots being added a
 
 Start by entering the total ballots cast. By default, the total ballots cast is the same for all contests but can be overridden on a per-contest basis.&#x20;
 
-Then enter vote tallies for the first contest, entering undervotes and overvotes in addition to votes cast for each candidate or option.  If a vote is for an unofficial write-in candidate, select _`Add Write-In Candidate`_ to enter the name found on the ballot and add a tally. Select _`Save & Next`_ to proceed to  next contest and repeat steps for all contests. Select _`Finish`_ after entering vote tallies for the last contest.
+Then enter vote tallies for the first contest, entering undervotes and overvotes in addition to votes cast for each candidate or option.  If a vote is for a write-in candidate, select _`Add Write-In Candidate`_ to enter the name found on the ballot and add a tally. Select _`Save & Next`_ to proceed to the next contest and repeat steps for all contests. Select _`Finish`_ after entering vote tallies for the last contest.
 
 <div><figure><img src="../.gitbook/assets/manual-tallies-total-ballots-cast.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/manual-tallies-contest.png" alt=""><figcaption></figcaption></figure></div>

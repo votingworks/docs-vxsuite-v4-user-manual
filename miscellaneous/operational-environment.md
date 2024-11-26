@@ -15,7 +15,7 @@ The voting equipment, when stored in cases, is resistant to light dust and small
 
 ## Auxiliary Power Requirements
 
-As possible, operate VxScan, VxMark, and VxCentralScan with power from a UPS battery backup power in case of power outages.
+As possible, operate VxScan, VxMark, and VxCentralScan with power from a UPS battery backup in case of power outages.
 
 ## Electrical Service Requirements&#x20;
 

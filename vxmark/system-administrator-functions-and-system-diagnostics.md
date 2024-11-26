@@ -4,7 +4,7 @@ In preparation for an election or in response to issues, the diagnostics interfa
 
 <div><figure><img src="../.gitbook/assets/mk-em-official-diag.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-sa-page-diag (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
-The diagnostics screen shows information about how the machine is configured, how much storage is left on the device, and the current status of the hardware. There are tests for the accessible controller, front headphone input, PAT device input and printer-scanner
+The diagnostics screen shows information about how the machine is configured, how much storage is left on the device, and the current status of the hardware. There are tests for the accessible controller, front headphone input, PAT device input, and printer-scanner
 
 <figure><img src="../.gitbook/assets/mk-full-diag.png" alt="" width="188"><figcaption></figcaption></figure>
 

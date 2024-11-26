@@ -23,7 +23,7 @@ Two models of Ricoh scanners are supported: fi-8170 and fi-7600. The smaller fi-
    * [ ] attach and pull out the paper feed guide tray (a)
    * [ ] pull out the paper holder tray (b)
    * [ ] plug the USB cord (c) into the back of the scanner and into the laptop
-   * [ ] plug the power cord (d) into the back of the scanner and into an outlet or UPS
+   * [ ] plug the power cord (d) into the back of the scanner and into an outlet or UPS power backup
    * [ ] press the power button (e) to turn the scanner on
 
 ![Remove scanner and power cord from case](../.gitbook/assets/IMG_1675.jpeg) ![Attach and pull out paper trays](../.gitbook/assets/IMG_1676.jpeg) ![Plug cords in](../.gitbook/assets/PXL_20241125_223330294.jpg) ![Press the power button to turn on](../.gitbook/assets/IMG_1677.jpeg)
@@ -48,7 +48,7 @@ Two models of Ricoh scanners are supported: fi-8170 and fi-7600. The smaller fi-
 
 ### Packing Up VxCentralScan
 
-To pack up the VxCentralScan, simply place all of the components back into the case as displayed above and package the batch document scanner. Secure[^1] the laptop case as required by sealing the eyelets highlighted below.
+To pack up the VxCentralScan, simply place all of the components back into the case as displayed above and package the batch document scanner. Secure the laptop case as required by sealing the eyelets highlighted below.
 
 <div align="center"><figure><img src="../.gitbook/assets/image (410).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -58,6 +58,4 @@ Both the fi-8170 and the fi-7600 can be used with an optional imprinter, the fi-
 
 ## Scanner Maintenance
 
-The scanner should be cleaned before every election. The rollers should be replaced occasionally depending on scanning volume. Consult [the maintenance manual](broken-reference) section about cleaning and maintaining the Ricoh scanners.
-
-[^1]: 
+Clean the scanner before every election. The rollers should be replaced occasionally depending on scanning volume. Consult [vxadmin-and-vxcentralscan-maintenance-manual.md](../system-maintenance/vxadmin-and-vxcentralscan-maintenance-manual.md "mention") for instructions on cleaning and maintaining the Ricoh scanners.

@@ -7,7 +7,7 @@ For reference information on VxMark, see the following links:
 
 ## Hardware Maintenance
 
-The end user should never try to perform complex repairs on VxMark. Only VotingWorks is expected to perform repairs that require disassembly of any kind. End users are expected to keep the scanner, screen, and USB ports clean.
+The user should never try to perform complex repairs on VxMark. Only VotingWorks should perform repairs that require disassembly of any kind. Users are expected to keep the scanner, screen, and USB ports clean.
 
 ### Scanner Cleaning
 
@@ -19,7 +19,7 @@ VotingWorks recommends cleaning the screen and the USB port as needed. The scree
 
 ## Software Maintenance
 
-There are no required steps for maintaining the software or firmware itself. The software is installed by VotingWorks and cannot be modified. The underlying databases for all applications are self-maintaining and do not need to be tuned by end users.
+There are no required steps for maintaining the software or firmware. The software is installed by VotingWorks and cannot be modified. The underlying databases for all applications are self-maintaining and do not need to be tuned by end users.
 
 ## Data Maintenance
 

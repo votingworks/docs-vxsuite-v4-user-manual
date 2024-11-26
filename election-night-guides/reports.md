@@ -2,7 +2,7 @@
 
 ## Full Election Tally Report
 
-To review results, select _`Reports`_ from the side menu and select _`Full Election Tally Report`._  A preview will appear. Select _`Print Report`_ to print the report, _`Export Report as PDF`_ to save the election tally report to a USB drive as a `.pdf` file, or _`Export Report CSV`_ to save the election tally report to a USB drive as a `.csv` file. Files will save to a `reports/` folder on the USB drive.
+To review results, select _`Reports`_ from the side menu and select _`Full Election Tally Report`._  A preview will appear. Select _`Print Report`_ to print the report, _`Export Report as PDF`_ to save the election tally report to a USB drive as a .pdf file, or _`Export Report CSV`_ to save the election tally report to a USB drive as a .csv file. Files will save to a reports/ folder on the USB drive.
 
 <div><figure><img src="../.gitbook/assets/reports-screen-unofficial-highlighted.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/full-election-report-unofficial-highlighted.jpg" alt=""><figcaption></figcaption></figure></div>
 

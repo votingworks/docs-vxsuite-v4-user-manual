@@ -4,20 +4,21 @@
 
 **Set up the ballot box:**
 
-* [ ] loosen the straps on each side
-* [ ] secure the rubber straps on the backside
+* [ ] release the straps on each side
+* [ ] secure the straps on the underside of the lid
 * [ ] pull the box open
-* [ ] gently push the side bars down with your foot
-* [ ] flip the lid over to click into place atop the ballot box
+* [ ] gently push the purple hooks down with your foot
+* [ ] close the lid, pushing until you hear a click
 * [ ] seal the ballot box as required
 
 **Set up the scanner:**
 
 * [ ] place the case on top of the ballot box by lining up the bottom with the opening on the ballot box and sliding the case back
 * [ ] remove and document the scanner case seal(s)
-* [ ] push the button to release and open each latch and open the lid of the case
-* [ ] push the security bolt in the upper left corner down to secure the case to the ballot box
-* [ ] seal and document the poll worker door as required
+* [ ] push the button to release and open each latch to open the lid of the case
+* [ ] open the poll worker door (upper left corner)
+* [ ] push the purple security bolt down to secure the case to the ballot box
+* [ ] close the poll worker door and seal and document as required
 * [ ] remove the power cord from it's storage place
 * [ ] plug the power cord into the case
 * [ ] plug the power cord into an outlet or UPS power backup
@@ -42,8 +43,6 @@
 * [ ] instruct the voter to insert their ballot in any orientation
 * [ ] _if ballot scans successfully_, let the voter know their vote has been cast
 * [ ] _if ballot does **not** scan successfully,_ help the voter understand the issues with their ballot specified on the screen. Explain their options, which could include casting their ballot as marked, adding marks to their ballot, or receiving a new ballot
-
-
 
 ### [Close Polls](checklist.md#close-polls)
 
@@ -70,8 +69,8 @@ Single polling place jurisdictions may want to skip to the [Election Night Check
 * [ ] once the screen has turned off, remove the power cord from VxScan
 * [ ] remove the power cord from the UPS or outlet
 * [ ] wrap the power cord in its storage location
-* [ ] push the release button beneath the poll worker door to release the case from the ballot box
-* [ ] close the panel
+* [ ] push the purple release button to the left to release the case from the ballot box
+* [ ] close the poll worker door
 * [ ] close the case lid and latch
 * [ ] seal and document the case seal(s) as required
 * [ ] pull the case forward and lift the case off of the ballot box
@@ -80,8 +79,7 @@ Single polling place jurisdictions may want to skip to the [Election Night Check
 
 * [ ] unseal and/or unlock the ballot box&#x20;
 * [ ] remove all ballots from the ballot box and seal into a secure container, recording the seal number as required
-* [ ] release the lid by pressing or pulling the handle and rotate the lid over to the side of the ballot box
-* [ ] gently push the side bars up with your foot
-* [ ] push the box closed
-* [ ] secure the straps around the side
+* [ ] press the latch on the lid to release the lid and lift the lid over to the side
+* [ ] fully collapse the ballot by gently using your foot to lift the bottom purple hooks
+* [ ] remove the straps from the underside of the lid and tighten them around the side
 

@@ -2,7 +2,7 @@
 
 ## Open Polls on VxMark
 
-After VxMark is initially turned on in, the screen will show _Polls Closed:_
+After VxMark is turned on, the screen will show _Polls Closed:_
 
 <figure><img src="../.gitbook/assets/mk-polls-closed.png" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -21,7 +21,9 @@ If there is an orange banner that says "Test Ballot Mode" on the screen, contact
 
 <div><figure><img src="../.gitbook/assets/PXL_20241119_204113175.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-pw-menu-closed-initial copy.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-confirm-open-polls.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-The polls are now open and VxMark is ready for voters. The number of ballots printed should be zero.
+* [ ] verify the number of ballots printed is zero
+
+The polls are now open and VxMark is ready for voters.&#x20;
 
 ## Close Polls on VxMark
 
