@@ -57,7 +57,7 @@ To confirm that the charge is full before an election, check the LED display. On
 
 While most seals are applied during the course of an election, some seals are applied when the device is first manufactured. These factory seals are intended to be permanent except in cases where VotingWorks performs a repair. The presence of each factory seal should be confirmed before each election as a check against hardware tampering.
 
-VxAdmin and VxCentralScan have one factory seal that wraps around the right side of the laptop. VxScan has three factory seals: bottom left panel, bottom right panel, top panel. VxMark has two factory seals, one on each side, close to where the privacy shield clips in.&#x20;
+VxAdmin and VxCentralScan have one factory seal that wraps around the right side of the laptop. VxScan has three factory seals: bottom left panel, bottom right panel, top panel. VxMark has one behind the touchscreen.&#x20;
 
 All seals should have an identifier beginning with `VX-` and should appear whole and free of defects.
 
