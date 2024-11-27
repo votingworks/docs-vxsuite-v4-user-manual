@@ -27,7 +27,7 @@ In addition to the readiness report, election managers should validate that vote
 
 * [ ] VxAdmin - _Reports > Ballot Count_
 * [ ] VxScan - _Sheets Scanned_
-* [ ] VxCentralscan - _No ballots have been scanned._
+* [ ] VxCentralScan - _No ballots have been scanned._
 * [ ] VxMark - _Ballots Printed_
 
 ## USB Drive Inspection

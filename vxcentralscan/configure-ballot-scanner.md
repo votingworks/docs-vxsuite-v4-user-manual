@@ -40,7 +40,7 @@ To remove an election package and reset VxCentralScan:
 
 <div><figure><img src="../.gitbook/assets/cs-settings.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/cs-unconfigure.png" alt=""><figcaption></figcaption></figure></div>
 
-You can now rconfigure VxCentralScan with a different election package.
+You can now reconfigure VxCentralScan with a different election package.
 
 {% hint style="info" %}
 VxCentralScan may also be unconfigured with a system administrator card.
