@@ -51,7 +51,7 @@ All required consumable levels should be checked:
 
 All backup power supplies (also known as UPSs for uninterruptible power supplies) must be fully charged. When fully charged, backup power supplies will allow powering devices for approximately four hours without power. Even when fully charged, however, backup power supplies should be connected to a standard 120V wall outlet to avoid draining the battery unnecessary.
 
-To confirm that the charge is full before an election, check the LED display. On the Anker Solix C300, tap the power button to illuminate (or hide) the display. On the APC BN1500M2, press any button to illuminate the display.
+To confirm that the charge is full before an election, check the LED display. On the Anker Solix C300, tap the power button to illuminate (or hide) the display. On the APC BN1500M2, press any button to illuminate the display. Refer to the user manual provided with your UPS for more information if needed.
 
 ## Factory Seal Inspection
 
