@@ -40,7 +40,7 @@ description: >-
 An optional mouse is included.  Plug it in to the USB hub to use.
 {% endhint %}
 
-<div><figure><img src="../.gitbook/assets/PXL_20241119_220230549.jpg" alt="" width="188"><figcaption><p>Remove laptop</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241119_220512937.jpg" alt="" width="188"><figcaption><p>Remove peripherals</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241119_221005359 (1).jpg" alt="" width="563"><figcaption><p>Conect peripherals</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/PXL_20241119_220230549.jpg" alt="" width="188"><figcaption><p>Remove laptop</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241119_220512937.jpg" alt="" width="188"><figcaption><p>Remove peripherals</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241119_221005359 (1).jpg" alt="" width="563"><figcaption><p>Connect peripherals</p></figcaption></figure></div>
 
 ### Packing Up VxAdmin
 
