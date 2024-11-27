@@ -73,4 +73,4 @@ VotingWorks recommends cleaning the scanner for each election. VotingWorks also 
 
 ## Additional Information
 
-For part numbers not listed above or details on long-term maintenance, consult the [System Maintenance Manual](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-maintenance-manual "mention"), in particular the [approved-parts-list.md](../system-maintenance/approved-parts-list.md "mention").
+For part numbers not listed above or details on long-term maintenance, consult the System Maintenance section, in particular the [approved-parts-list.md](../system-maintenance/approved-parts-list.md "mention").
