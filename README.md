@@ -31,7 +31,7 @@ VotingWorks Central System includes two components:
 1. **VxAdmin**: the main tool for local election administrators, which programs elections, tabulates and reports results on election night.
 2. **VxCentralScan** (optional): a central scanner used for rapidly scanning absentee or vote by mail ballots.
 
-<figure><img src=".gitbook/assets/PXL_20241119_221005359.jpg" alt=""><figcaption><p>VxAdmin</p></figcaption></figure>
+<figure><img src=".gitbook/assets/PXL_20241119_221005359.jpg" alt="" width="375"><figcaption><p>VxAdmin</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/PXL_20241119_215840432 (2).jpg" alt=""><figcaption><p>VxCentralScan</p></figcaption></figure>
 
@@ -53,6 +53,9 @@ All votes cast using VotingWorks equipment are on paper ballots for security and
 * **Hand-marked paper ballot**
   * All absentee voters will receive a hand-marked paper ballot that is printed by a print vendor. Absentee ballots are scanned by election administrators using a high-speed central scanner (VxCentralScan) or the precinct scanner (VxScan).
   * Most in-precinct voters will receive a hand-marked paper ballot that is printed by a third-party printer to hand mark. Precinct ballots are scanned by voters using a precinct scanner (VxScan).
+
+###
+
 * **Machine-marked paper ballot** (via ballot marking device)
   * In-precinct voters may request to use the accessible ballot marking device (VxMark), which prints a voter verifiable paper ballot and deposits it into the attached ballot box. Election administrators or poll workers later scan the machine-marked paper ballot at the precinct scanner (VxScan) or the high-speed central scanner (VxCentralScan).
 
