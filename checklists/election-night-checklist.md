@@ -1,3 +1,9 @@
+---
+description: >-
+  Checklists for New Hampshire customers can be found here:
+  https://docs.voting.works/nh-checklists
+---
+
 # Election Night Checklist
 
 On election night, you will need [VxAdmin](../vxadmin-system-setup/vxadmin-hardware-setup.md) (laptop and printer). If scanning ballots centrally, you'll also need the [VxCentralScan](../vxcentralscan/vxcentralscan-hardware-setup.md) (laptop and scanner) and the [Election Night Checklist - VxCS](../vxcentralscan/election-night-checklist-vxcentralscan.md).

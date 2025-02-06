@@ -1,3 +1,9 @@
+---
+description: >-
+  Checklists for New Hampshire customers can be found here:
+  https://docs.voting.works/nh-checklists
+---
+
 # Overview
 
 Checklists are provided to help users walk through all of the steps to prepare, conduct, and complete an election. &#x20;

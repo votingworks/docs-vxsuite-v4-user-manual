@@ -28,7 +28,7 @@ description: >-
 * [ ] remove and document seals as necessary,&#x20;
 * [ ] open the case by lifting the latches on the front
 
-<div><figure><img src="../.gitbook/assets/VxAdmin case sealed.png" alt=""><figcaption><p>Remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxAdmin case latches.png" alt=""><figcaption><p>Open the case by lifting the latches</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxAdmin case sealed.png" alt=""><figcaption><p>Remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxAdmin case latches.png" alt="" width="375"><figcaption><p>Open the case by lifting the latches</p></figcaption></figure></div>
 
 * [ ] remove the **laptop**
 * [ ] pull the **power cord** (A) out and plug into the laptop and an outlet

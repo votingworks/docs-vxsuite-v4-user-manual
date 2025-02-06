@@ -1,3 +1,9 @@
+---
+description: >-
+  Checklists for New Hampshire customers can be found here:
+  https://docs.voting.works/nh-checklists
+---
+
 # Pre-Election Setup Checklist
 
 To prepare for an election, complete the following steps:
