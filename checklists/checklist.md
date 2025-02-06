@@ -1,3 +1,9 @@
+---
+description: >-
+  Checklists for New Hampshire customers can be found here:
+  https://docs.voting.works/nh-checklists
+---
+
 # Poll Worker Checklist
 
 ### [VxScan Setup](checklist.md#vxscan-setup)

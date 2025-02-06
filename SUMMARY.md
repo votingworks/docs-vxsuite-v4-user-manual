@@ -53,6 +53,7 @@
 ## Checklists
 
 * [Overview](checklists/overview.md)
+* [New Hampshire Checklists](checklists/new-hampshire-checklists.md)
 * [Pre-Election Setup Checklist](checklists/pre-election-setup-checklist.md)
 * [L\&A Testing Checklist](logic-and-accuracy-pre-election-testing/l-and-a-testing-checklist.md)
 * [Poll Worker Checklist](checklists/checklist.md)

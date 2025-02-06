@@ -1,5 +1,7 @@
 ---
-description: Complete all steps in the Pre-Election Setup Checklist prior to L&A Testing.
+description: >-
+  Checklists for New Hampshire customers can be found here:
+  https://docs.voting.works/nh-checklists
 ---
 
 # L\&A Testing Checklist
