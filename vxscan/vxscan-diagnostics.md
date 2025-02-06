@@ -14,9 +14,9 @@ Select _`Test Sound`_ to verify the speaker is working properly.&#x20;
 
 The most recent test result for each piece of hardware is shown on the diagnostics screen and included in the readiness report.
 
-<figure><img src="../.gitbook/assets/vxscan-diag-full.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-diag-full.png" alt="" width="188"><figcaption></figcaption></figure>
 
 The readiness report can be used as a record of system diagnostic verification.  Select _`Save Readiness Report`_ to save a copy to a USB drive.&#x20;
 
-<figure><img src="../.gitbook/assets/readiness-report-1 (1) (1) (1).png" alt="" width="375"><figcaption><p>Example VxScan Readiness Report</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p>Example VxScan Readiness Report</p></figcaption></figure>
 

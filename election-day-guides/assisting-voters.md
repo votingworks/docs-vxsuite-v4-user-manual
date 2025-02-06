@@ -54,7 +54,11 @@ If a voter has both undervotes and overvotes on their ballot and the state requi
 
 If the voter would like to correct their errors, they should select _`Return Ballot`_ and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select _`Cast Ballot`_ and then confirm by selecting _`Cast Ballot`_ again.
 
+##
+
 ### Adjusting Color and Size
+
+
 
 Simple changes to the screens color and size can be very helpful for voters with low vision and other cognitive disabilities. Selecting _`Settings`_ in the upper left hand corner of the screen provides the voter with different options. Select _`Color`_ to change the text and background color and select _`Text Size`_ to change the text size.
 

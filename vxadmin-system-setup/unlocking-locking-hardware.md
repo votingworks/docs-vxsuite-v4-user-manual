@@ -14,8 +14,8 @@ Lock the machine by selecting _`Lock Machine`_ in the upper right hand corner of
 
 **VxAdmin**
 
-<figure><img src="../.gitbook/assets/election-screen-configured (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/election-screen-configured (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **VxCentralScan**
 
-<figure><img src="../.gitbook/assets/no-ballots-scanned copy 3.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/no-ballots-scanned copy 3.png" alt="" width="375"><figcaption></figcaption></figure>

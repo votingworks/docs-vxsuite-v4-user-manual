@@ -9,7 +9,7 @@ description: >-
 
 **VxScan** has three primary components: the scanner in a hard case, the collapsible ballot box, and an uninterruptible power supply.
 
-<figure><img src="../.gitbook/assets/PXL_20241031_182622227.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/PXL_20241031_182622227.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ## VxScan Setup
 
@@ -57,7 +57,7 @@ description: >-
 * [ ] turn the power backup on
 * [ ] seal and document the ballot box door as required
 
-<figure><img src="../.gitbook/assets/PXL_20241031_184832238.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/PXL_20241031_184832238.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Be sure to assemble VxScan in an area of the room that allows for voter privacy as voted ballots are inserted into the scanner.
