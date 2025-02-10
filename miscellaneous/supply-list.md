@@ -13,6 +13,11 @@ Ballots must be printed according to the following ballot specifications:
 * **Opacity:** >90%
 * **Color:** white or any pastel color >70 brightness (to ensure it binarizes to white when scanned)
 
+If printing ballots, in addition to the paper specifications above, be sure to do the following:
+
+* print at 100% scale (don’t adjust)
+* ensure that all ballots print properly with completely black timing marks (boxes bordering the ballot) and QR codes with no visual imperfections
+
 ### Marking Utensils
 
 The marking utensil for hand marked ballots should be a black or blue ink pen that dries quickly. Never use markers or highlighters.
