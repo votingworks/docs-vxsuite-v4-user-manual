@@ -43,6 +43,8 @@ All required consumable levels should be checked:
 * [ ] VxAdmin
   * [ ] toner level is greater than 10% (included in readiness report)
   * [ ] paper is loaded, sufficient for printing your expected number of reports
+* [ ] VxCentralScan
+  * [ ] imprinter toner level (toner should be replaced every six months or when unique identifier is not printed legibly scanned sheet)
 * [ ] VxScan
   * [ ] thermal paper roll is loaded (included in readiness report)
 * [ ] VxMark
