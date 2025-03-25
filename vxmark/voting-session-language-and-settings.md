@@ -36,6 +36,8 @@ The default text size is _`Medium`_.  A user can select _`Small`_, _`Large`_, or
 
 Audio is always defaulted to on when headphones are plugged in. Select _`Mute Audio`_ to mute all sound.  Select _`Enable Audio-Only Mode`_ to hide the screen. Voters using only audio to navigate through the ballot may want to hide the screen for privacy. Additionally, a voter who has a T-coil neckloop may unplug the headphones and plug that device into the headphone jack.&#x20;
 
+Headphones should be sanitized after a voting session using the audio-tactile interface. To do so, simply discard the headphone ear covers and replace with a new set of ear covers. Disposable ear covers suitable for VxMark are listed in the [supply-list.md](../miscellaneous/supply-list.md "mention").
+
 <div><figure><img src="../.gitbook/assets/VxMark Audit.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark Setting Audio Unmute.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark Audio-Only Mode.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
