@@ -4,7 +4,7 @@ Pack up **VxMark** through the following steps:
 
 1. **Pack up the ballot marking device**:
 
-* [ ] push the power button to turn off
+* [ ] push the power button to turn off. VxMark has shutdown properly once the screen is off and presents no content.
 * [ ] unplug and store the headphones
 * [ ] remove and store the privacy shield
 
