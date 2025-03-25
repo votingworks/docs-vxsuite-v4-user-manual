@@ -2,7 +2,7 @@
 
 ### Retaining Election Files
 
-After certification of an election and before configuring a new election, all election files and data should be saved and the election package removed from the previous election.
+After certification of an election and before configuring a new election, all election files and data should be saved and the election package removed from the previous election.&#x20;
 
 VotingWorks recommends retaining the following files after each election:
 
@@ -18,6 +18,13 @@ VotingWorks recommends retaining the following files after each election:
 {% hint style="warning" %}
 Ballots should have been secured post-tabulation. Follow state guidelines to ensure proper retention.
 {% endhint %}
+
+All election data should be retained for at least 22 months in the following storage conditions:
+
+* Temperature: 5C-40C (41F-104F)
+* Relative humidity: 5% to 85%, non-condensing
+
+All VotingWorks paper records and USB drives are specified to last at least 22 months when stored in these conditions.
 
 ### VxAdmin&#x20;
 
