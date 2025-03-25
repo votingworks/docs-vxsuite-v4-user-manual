@@ -24,5 +24,6 @@ On election night, you will need [VxAdmin](../vxadmin-system-setup/vxadmin-hardw
 * [ ] select _`Reports`_ from the side menu, print or save an _`Official Full Election Tally Report`_ for the results&#x20;
 * [ ] select _`Reports`_ from the side menu, print or save an official _`Write-in Adjudication Report`_
 * [ ] save other official results exports as required
+* [ ] power down VxAdmin using the keyboard power button. VxAdmin has shut down correctly when the screen is off and presents no content.
 * [ ] pack up VxAdmin, seal and document as required, and store in a secure climate-controlled environment
 * [ ] secure USB drive(s) as required

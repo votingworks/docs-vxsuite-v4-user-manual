@@ -11,4 +11,5 @@
 * [ ] scan adjudicated ballots
 * [ ] write down the number of ballots scanned by the scanner (displayed on _Scan Ballots_ screen)
 * [ ] save CVRs to USB drive
+* [ ] power down VxCentralScan using the keyboard power button. VxCentralScan has shut down correctly when the screen is off and presents no content.
 * [ ] secure system in a secure climate-controlled environment
