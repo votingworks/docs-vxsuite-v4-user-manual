@@ -68,3 +68,7 @@ All votes cast using VotingWorks equipment are on paper ballots for security and
 {% hint style="info" %}
 VotingWorks provides technical support through the email and phone number listed at the top of the page.  Upgrades and defect correction are defined in the customer's contract and scheduled through VotingWorks support system.&#x20;
 {% endhint %}
+
+{% hint style="info" %}
+All functions in this user manual can be performed by one individual unless otherwise stated.
+{% endhint %}
