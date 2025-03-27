@@ -17,7 +17,9 @@ System administrator cards allow an election administrator to load an election d
 System administrator cards are typically only used at the very beginning and very end of an election. Keep this card in a secure location when not in use and in between elections.
 
 {% hint style="info" %}
-System administrators should be an election administrator or their designee who is in charge of the voting system.  The technical skill level required for this role is a 6-hour training session provided by VotingWorks.
+System administrators should be an election administrator (central election official, administrator, etc.) or their designee who is in charge of the voting system.
+
+The technical skill level required for this role is a 6-hour training session provided by VotingWorks.
 {% endhint %}
 
 ### Election Manager&#x20;
@@ -37,9 +39,9 @@ Election manager cards allow election administrators to use central system devic
 Election manager cards should only be used by election administrators and should be kept secure at all times.
 
 {% hint style="info" %}
-Election managers should be an election administrator or their designee who is in charge of the voting system.  The technical skill level required for this role is a 4-hour training session provided by VotingWorks.
+Election managers should be an election administrator (central election official, administrator, etc.) or their designee responsible for the aforementioned tasks.  The technical skill level required for this role is a 4-hour training session provided by VotingWorks.
 
-The technical skill level required for an election manager only operating the VxCentralScan is a 1-hour training session provided by the election official.
+The technical skill level required for an election manager only operating the VxCentralScan or adjudicating ballots in VxAdmin is a 1-hour training session provided by the election official. In some jurisdications, an election judge may be responsible for adjudicating ballots and be considered an election manager.
 {% endhint %}
 
 ### Poll Worker Cards
@@ -54,7 +56,7 @@ Poll worker cards allow poll workers to manage election day precinct tasks, incl
 Every precinct will need at least one poll worker card in order to operate the polls.
 
 {% hint style="info" %}
-A poll worker should be designated by the election administrator to operate the voting equipment during open voting periods.  The technical skill level required for this role is a 1-hour training session provided by the election official.
+A poll worker (aka election worker) should be designated by the election administrator to operate the voting equipment during open voting periods.  The technical skill level required for this role is a 1-hour training session provided by the election official.
 {% endhint %}
 
 ## Programming Cards
