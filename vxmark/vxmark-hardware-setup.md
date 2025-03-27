@@ -25,7 +25,7 @@ Part of the Precinct System, VxMark is an accessible ballot marking device that 
 
 **Set up the ballot marking device:**
 
-* [ ] place the ballot marking device on the stand, aligning the stand bars with the bottom
+* [ ] using two people, lift and place the ballot marking device on the stand by aligning the stand bars with the bottom
 
 <div><figure><img src="../.gitbook/assets/VxMark main unit.png" alt=""><figcaption><p>ballot marking device</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark place unit on legs.png" alt=""><figcaption><p>place ballot marking device on the stand</p></figcaption></figure></div>
 
