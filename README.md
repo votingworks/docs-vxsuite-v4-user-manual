@@ -34,7 +34,7 @@ VotingWorks Central System includes two components:
 
 2. **VxCentralScan** (optional): a central scanner used for rapidly scanning absentee or vote by mail ballots.
 
-<figure><img src=".gitbook/assets/PXL_20241119_215840432 (2).jpg" alt=""><figcaption><p>VxCentralScan</p></figcaption></figure>
+<figure><img src=".gitbook/assets/centralscan.jpg" alt=""><figcaption><p>VxCentralScan</p></figcaption></figure>
 
 ### Precinct System
 
