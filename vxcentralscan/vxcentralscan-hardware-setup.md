@@ -10,7 +10,7 @@ description: >-
 
 **VxCentralScan** is a commercial off-the-shelf (COTS) laptop pre-installed with VxCentralScan software that connects to a Ricoh scanner.
 
-![VxCentralScan in cases](<../.gitbook/assets/vxcentral in cases.png>) ![VxCentralScan set up](../.gitbook/assets/PXL_20241119_215840432.jpg)
+![VxCentralScan in cases](<../.gitbook/assets/vxcentral in cases.png>) ![VxCentralScan set up](../.gitbook/assets/centralscan.jpg)
 
 Two models of Ricoh scanners are supported: fi-8170 and fi-7600. The smaller fi-8170 (shown above) can scan batches of up to 30 ballots. The larger fi-7600 can scan larger batches of up to 100 ballots.
 
@@ -44,7 +44,7 @@ Two models of Ricoh scanners are supported: fi-8170 and fi-7600. The smaller fi-
   * [ ] pull the **scanner cord** (c) out and plug into the USB hub and the scanner
   * [ ] turn the laptop on
 
-![Remove laptop](<../.gitbook/assets/PXL_20241119_220118873 (1).jpg>) ![Remove components](../.gitbook/assets/PXL_20241119_220606004.jpg) ![Plug components in](<../.gitbook/assets/PXL_20241119_215840432 (1).jpg>)
+![Remove laptop](<../.gitbook/assets/PXL_20241119_220118873 (1).jpg>) ![Remove components](../.gitbook/assets/PXL_20241119_220606004.jpg) ![Plug components in](../.gitbook/assets/centralscan.jpg)
 
 ### Packing Up VxCentralScan
 
