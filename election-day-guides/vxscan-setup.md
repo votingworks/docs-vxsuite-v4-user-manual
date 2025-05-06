@@ -48,7 +48,7 @@ description: >-
 
 <div><figure><img src="../.gitbook/assets/PXL_20241031_183949135.jpg" alt="" width="375"><figcaption><p>Pressing the security bolt down</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184055101.jpg" alt="" width="375"><figcaption><p>Sealing the poll worker door</p></figcaption></figure></div>
 
-* [ ] remove the power cord from it's storage place
+* [ ] remove the power cord from its storage place
 * [ ] plug the power cord into the back of the scanner and then into an outlet or power backup
 
 <div><figure><img src="../.gitbook/assets/PXL_20241031_183628378.jpg" alt=""><figcaption><p>Wrapped power cable</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183652085.jpg" alt=""><figcaption><p>Power cable plugged into scanner</p></figcaption></figure></div>

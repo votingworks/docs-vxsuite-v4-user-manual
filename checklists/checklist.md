@@ -25,7 +25,7 @@ description: >-
 * [ ] open the poll worker door (upper left corner)
 * [ ] push the purple security bolt down to secure the case to the ballot box
 * [ ] close the poll worker door and seal and document as required
-* [ ] remove the power cord from it's storage place
+* [ ] remove the power cord from its storage place
 * [ ] plug the power cord into the case
 * [ ] plug the power cord into an outlet or UPS power backup
 * [ ] plug UPS power backup into an outlet (if applicable)
