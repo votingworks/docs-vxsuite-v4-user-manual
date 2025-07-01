@@ -34,7 +34,9 @@ In addition to the readiness report, election managers should validate that vote
 
 ## USB Drive Inspection
 
-USB drives should be properly formatted and free of data from previous elections before pre-election testing. While it is possible to inspect the USB drives manually on most computers, VotingWorks recommends simply using the [usb-formatting.md](../vxadmin-system-setup/usb-formatting.md "mention") feature on VxAdmin to ensure all drives are formatted and clear.&#x20;
+USB drives should be properly formatted and free of data from previous elections before pre-election testing. While it is possible to inspect the USB drives manually on most computers, VotingWorks recommends simply using the [usb-formatting.md](../vxadmin-system-setup/usb-formatting.md "mention") feature on VxAdmin to ensure all drives are formatted and clear.
+
+USB drives and the device's internal hard disk are the only voting device storage locations that hold election information that can change during the election. USB drive inspection and the aforementioned storage capacity check as part of [#equipment-readiness-inspection](setup-inspection.md#equipment-readiness-inspection "mention") ensure all storage locations are inspected pre-election.
 
 ## Consumables Inspection
 
