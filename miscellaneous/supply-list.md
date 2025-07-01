@@ -4,19 +4,7 @@ The specifications and supply lists below define all the materials to run an ele
 
 ## Ballots
 
-Ballots must be printed according to the following ballot specifications:
-
-* **Width**: 8.5"
-* **Length**: 11", 14", 17", 19", 22"
-* **Weight:** 105-177gsm
-* **Coating:** uncoated
-* **Opacity:** >90%
-* **Color:** white or any pastel color >70 brightness (to ensure it binarizes to white when scanned)
-
-If printing ballots, in addition to the paper specifications above, be sure to do the following:
-
-* print at 100% scale (don’t adjust)
-* ensure that all ballots print properly with completely black timing marks (boxes bordering the ballot) and QR codes with no visual imperfections
+Ballots must be printed according to [paper ballot specifications](https://docs.voting.works/vxsuite-tdp-v4/system-performance-and-specifications/paper-ballot-specifications).
 
 ### Marking Utensils
 
