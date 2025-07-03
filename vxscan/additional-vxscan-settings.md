@@ -39,3 +39,15 @@ The following step can only be completed by a system administrator.
 If polls have been closed accidentally by a poll worker, a system administrator may reset the polls to a paused, after which a poll worker can resume voting.
 
 <figure><img src="../.gitbook/assets/vxscan-sys-admin-reset-polls-to-paused (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+## Calibrating Image Sensors
+
+{% hint style="info" %}
+The following step can only be completed by a system administrator.
+{% endhint %}
+
+Under exceedingly rare circumstances, one may need to calibrate the scanner's image sensors with a blank white sheet of paper to ensure proper conversion from physical paper to digital image.
+
+Machines are shipped with this calibration having already been completed by the part manufacturer, so this calibration does not need to be performed with any regularity and in fact may never need to be performed at all over the lifetime of the scanner. It should only be performed during L\&A if ballots consistently fail to scan with generic errors unrelated to election configuration, all other reasons for failure (e.g., ballots not printed to spec) have been ruled out, and VotingWorks support has suggested this as a course of action.
+
+<figure><img src="../.gitbook/assets/vxscan-sys-admin-calibrate-image-sensors.png" alt="" width="375"><figcaption></figcaption></figure>
