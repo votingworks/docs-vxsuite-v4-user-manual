@@ -1,16 +1,5 @@
 ---
 description: Open-source software, rugged hardware, and paper ballots.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # VotingWorks Overview
