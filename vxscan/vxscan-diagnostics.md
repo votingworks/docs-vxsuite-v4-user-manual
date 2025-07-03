@@ -2,7 +2,7 @@
 
 The diagnostics interface is used to test hardware before or between elections and monitor the status of the machine. It is accessible from both the election manager and system administrator menus.
 
-<div><figure><img src="../.gitbook/assets/more-screen-diagnostics (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-sys-admin-diagnostics.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/more-screen-diagnostics (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-sys-admin-diagnostics (1).png" alt=""><figcaption></figcaption></figure></div>
 
 The VxScan diagnostics screen shows information about how the machine is configured, how much storage is left on the device, and the current status of the scanner and printer. Prior to each election, walk through each test to verify each component is in working order. During normal operations, if one of the components fails, VxScan will display an error message on screen.&#x20;
 
