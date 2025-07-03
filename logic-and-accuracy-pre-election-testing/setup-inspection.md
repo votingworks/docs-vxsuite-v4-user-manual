@@ -23,7 +23,7 @@ Election managers can use each device's diagnostic interface to confirm the mach
 
 Successfully completing all tests and producing a complete readiness report also confirms that all necessary cabling is functioning.
 
-## Zero Counts
+## Physical and Digital Storage Location Zero Checks
 
 Election managers should confirm that the VxScan and VxMark ballot boxes are physically empty and that relevant digital storage locations are clear:
 
