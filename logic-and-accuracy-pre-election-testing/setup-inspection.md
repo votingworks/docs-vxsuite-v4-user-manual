@@ -21,16 +21,16 @@ Election managers can use each device's diagnostic interface to confirm the mach
 * [ ] perform all available hardware diagnostic tests
 * [ ] export a readiness report to a USB drive
 
-Successfully completing all tests and producing a complete readiness report also confirms that all necessary cabling is functioning.&#x20;
+Successfully completing all tests and producing a complete readiness report also confirms that all necessary cabling is functioning.
 
-In addition to the readiness report, election managers should validate that vote counters are zero and ballot boxes are empty:
+## Zero Counts
 
-* [ ] VxAdmin - _Reports > Ballot Count_
-* [ ] VxScan - _Sheets Scanned_
-* [ ] VxScan - Ballot Box Visual Inspection
-* [ ] VxCentralScan - _No ballots have been scanned._
-* [ ] VxMark - _Ballots Printed_
-* [ ] VxMark - Ballot Box Visual Inspection
+Election managers should confirm that the VxScan and VxMark ballot boxes are physically empty and that relevant digital storage locations are clear:
+
+* [ ] VxAdmin - _Reports > Ballot Count_ on the election manager screen should be 0
+* [ ] VxScan - _Sheets Scanned_ on the election manager screen should be 0
+* [ ] VxCentralScan - "No ballots have been scanned" should be displayed on the election manager screen
+* [ ] VxMark - _Ballots Printed_ on the election manager screen should be 0
 
 ## USB Drive Inspection
 
