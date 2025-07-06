@@ -28,7 +28,7 @@ The polls are now open and VxMark is ready for voters.&#x20;
 ## Close Polls on VxMark
 
 * [ ] remove ballot bin seal
-* [ ] remove ballots inside (secure or tabulate as required)
+* [ ] remove ballots inside (secure for tabulation on VxCentralScan)
 
 <figure><img src="../.gitbook/assets/VxMark removing ballots from bin.png" alt="" width="188"><figcaption><p>remove ballot bin seal</p></figcaption></figure>
 

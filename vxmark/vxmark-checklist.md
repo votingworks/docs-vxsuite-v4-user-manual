@@ -47,7 +47,7 @@
 **To close the polls:**
 
 * [ ] remove ballot bin seal
-* [ ] remove ballots inside (secure or tabulate as required)
+* [ ] remove ballots inside (secure for central tabulation on VxCentralScan)
 * [ ] insert the poll worker card
 * [ ] select _`Close Polls`_
 * [ ] confirm by selecting _`Close Polls`_ again
