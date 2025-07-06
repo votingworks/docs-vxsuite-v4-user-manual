@@ -46,9 +46,6 @@ All votes cast using VotingWorks equipment are on paper ballots for security and
     * Most in-precinct voters will receive a hand-marked paper ballot that is printed by a third-party printer to hand mark. Precinct ballots are scanned by voters using a precinct scanner (VxScan).
 
     <figure><img src=".gitbook/assets/image (3) (1).png" alt="" width="361"><figcaption><p>Example hand-marked paper ballot</p></figcaption></figure>
-
-###
-
 * **Machine-marked paper ballot** (via ballot marking device)
   * In-precinct voters may request to use the accessible ballot marking device (VxMark), which prints a voter verifiable paper ballot and deposits it into the attached ballot box. Election administrators or poll workers later scan the machine-marked paper ballot at the precinct scanner (VxScan) or the high-speed central scanner (VxCentralScan).
 
