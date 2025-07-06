@@ -90,7 +90,7 @@
 * [Configure VxMark](vxmark/configure-vxmark.md)
 * [Open and Close Polls](vxmark/open-and-close-polls.md)
 * [Voting Sessions](vxmark/voting-sessions.md)
-* [Voting Session Language & Settings](vxmark/voting-session-language-and-settings.md)
+* [Voting Session Language & Accessibility Settings](vxmark/voting-session-language-and-accessibility-settings.md)
 * [Packing Up VxMark](vxmark/packing-up-vxmark.md)
 * [VxMark Error Messages](vxmark/vxmark-error-messages.md)
 * [VxMark Diagnostics](vxmark/system-administrator-functions-and-system-diagnostics.md)
