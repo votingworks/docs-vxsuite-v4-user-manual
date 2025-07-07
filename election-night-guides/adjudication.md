@@ -19,7 +19,7 @@ For every ballot requiring adjudication, the contest area will be highlighted. S
 
 <div><figure><img src="../.gitbook/assets/vxadmin-adjudication-view.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-adjudication-view-zoomed-out.png" alt=""><figcaption></figcaption></figure></div>
 
-For write-ins, the dropdown will display buttons for each of the official candidates on the ballot. If the voter wrote in an official candidate, simply select the correct one to award the vote to that candidate. If the voter wrote in a candidate not on the ballot, type in the name of the candidate. Previously entered names will show up as you type. Finally, if the entered name is not allowed under state law, a stray mark, an empty space, or any other invalid entry, select _`Invalid`_.
+For write-ins, the dropdown will display buttons for each of the official candidates on the ballot. If the voter wrote in an official candidate, simply select the correct one to award the vote to that candidate. If the voter wrote in a candidate not on the ballot, type in the name of the candidate. Previously entered names will show up as you type. If the entered name is not allowed under state law or is a stray mark, empty space, or any other invalid entry, select _`Invalid`_.
 
 <div><figure><img src="../.gitbook/assets/vxadmin-adjudication-write-in-focused.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-adjudication-write-in-new-candidate-adjudicated.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -31,7 +31,7 @@ If a write-in is for an official candidate and the system also detects a mark fo
 
 <figure><img src="../.gitbook/assets/vxadmin-double-vote-detected.png" alt="" width="375"><figcaption></figcaption></figure>
 
-For marginal marks, determine whether the mark is an intentional mark or not given your jurisdiction/state's guidelines. If the mark is deemed unintentional, click _`Dismiss`_. If the mark is deemed intentional, check the box of the corresponding candidate.
+For marginal marks, determine whether the mark is an intentional mark or not given your jurisdiction's guidelines. If the mark is deemed unintentional, click _`Dismiss`_. If the mark is deemed intentional, check the box of the corresponding candidate.
 
 <div><figure><img src="../.gitbook/assets/vxadmin-adjudication-write-in-new-candidate-adjudicated.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-adjudication-marginal-mark-adjudicated.png" alt=""><figcaption></figcaption></figure></div>
 
