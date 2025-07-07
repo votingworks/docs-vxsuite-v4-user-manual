@@ -46,7 +46,7 @@ VxCentralScan may show an **Unreadable** ballot screen for a properly marked bal
 
 ### Saving Cast Vote Records (CVRs)
 
-When all ballot batches (including any duplicated ballots) have been scanned, you will need to save the CVRs from VxCentralScan to load into VxAdmin for write-in adjudication and reporting.
+When all ballot batches (including any duplicated ballots) have been scanned, you will need to save the CVRs from VxCentralScan to load into VxAdmin for further adjudication and reporting.
 
 To save, select _`Save CVRs`_ in the top right.
 
