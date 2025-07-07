@@ -36,4 +36,4 @@ If you used test ballot mode to conduct your L\&A be sure to put VxMark into off
 
 If you used _`Official Ballot Mode`_ to conduct your L\&A, simply toggle to _`Test Ballot Mode`_ and back to _`Official Ballot Mode`_ to reset VxMark for election day.
 
-<figure><img src="../.gitbook/assets/mk-em-landing copy.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxmark-config (1).png" alt="" width="188"><figcaption></figcaption></figure>

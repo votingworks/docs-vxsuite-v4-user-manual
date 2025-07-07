@@ -11,7 +11,7 @@ If a voter chooses to use VxMark:
 * [ ] insert a poll worker card into the card reader beneath the accessible controller
 * [ ] select the voter's ballot style
 
-<div><figure><img src="../.gitbook/assets/mk-insert-to-vote.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-pw-menu-open-select-choose-bs.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmark-poll-worker-insert-card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-poll-worker.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-poll-worker-select-ballot-style.png" alt=""><figcaption></figcaption></figure></div>
 
 * [ ] when prompted, feed one sheet of paper into the front input tray
 * [ ] once loaded, the screen will show that the voting session is active
