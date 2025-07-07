@@ -4,7 +4,7 @@ Logic & accuracy testing (L\&A) is meant to ensure that every component of the v
 
 ### VxAdmin Tally Report&#x20;
 
-Before starting the testing process, using an using an election manager card, confirm VxAdmin does not have CVRs loaded. Select _`Reports`_ from the side menu and select _`Full Election Tally Report`_ to print a "zero" report.
+Before starting the testing process, using an election manager card, confirm VxAdmin does not have CVRs loaded. Select _`Reports`_ from the side menu and select _`Full Election Tally Report`_ to print a "zero" report.
 
 <figure><img src="../.gitbook/assets/vxadmin-reports-screen-unofficial (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
