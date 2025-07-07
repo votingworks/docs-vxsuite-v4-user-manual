@@ -96,3 +96,4 @@ VxScan also supports ballot casting over an audio-tactile interface via an acces
 
 <div align="center"><figure><img src="../.gitbook/assets/PXL_20250706_231540615.jpg" alt="" width="188"><figcaption><p>USB connected</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20250706_231741988.jpg" alt="" width="188"><figcaption><p>Headphones connected</p></figcaption></figure></div>
 
+Voters can navigate with the touchpad, select with the center button, and adjust the volume using the volume control button next to the headphone jack.
