@@ -32,7 +32,7 @@ Election manager cards allow election administrators to use central system devic
 * general equipment troubleshooting
 * centrally scanning ballots
 * managing cast vote records
-* adjudicating write-ins
+* adjudicating write-ins and marginal marks, if applicable
 * entering manual tallies
 * printing and saving results
 
