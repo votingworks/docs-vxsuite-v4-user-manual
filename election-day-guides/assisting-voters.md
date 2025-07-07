@@ -54,11 +54,7 @@ If a voter has both undervotes and overvotes on their ballot and the state requi
 
 If the voter would like to correct their errors, they should select _`Return Ballot`_ and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select _`Cast Ballot`_ and then confirm by selecting _`Cast Ballot`_ again.
 
-##
-
 ### Adjusting Color and Size
-
-
 
 Simple changes to the screens color and size can be very helpful for voters with low vision and other cognitive disabilities. Selecting _`Settings`_ in the upper left hand corner of the screen provides the voter with different options. Select _`Color`_ to change the text and background color and select _`Text Size`_ to change the text size.
 
@@ -84,8 +80,19 @@ The default text size is _`Medium`_.  A user can select _`Small`_, _`Large`_, or
 
 If a jurisdiction provides language options to voters, a voter may select that language by selecting _`English`_. Next, they'll select the language of their choice and select _`Done`_.&#x20;
 
-<div><figure><img src="../.gitbook/assets/insert-ballot-lang copy.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/language-mode.png" alt=""><figcaption></figcaption></figure></div>
+{% include "../.gitbook/includes/untitled.md" %}
 
 {% hint style="warning" %}
 All selections above are made for a specific voting session and will reset with the next voter.
 {% endhint %}
+
+### Audio Tactile Interface
+
+VxScan also supports ballot casting over an audio-tactile interface via an accessible controller and headphones. A poll worker does the following to enable the audio tactile interface:
+
+* Plug the accessible controller into the second USB port
+* Close and seal the poll worker door (document as required)
+* Plug in headphones to the accessible controller's headphone jack
+
+<div align="center"><figure><img src="../.gitbook/assets/PXL_20250706_231540615.jpg" alt="" width="188"><figcaption><p>USB connected</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20250706_231741988.jpg" alt="" width="188"><figcaption><p>Headphones connected</p></figcaption></figure></div>
+
