@@ -5,7 +5,7 @@ After VxScan is plugged in, the screen will show that polls are closed:
 <figure><img src="../.gitbook/assets/image (12).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-If there is an orange banner that says "Test Ballot Mode" on the screen, contact your election administrator immediately to prepare the machine for the election.
+If there is an orange callout that says "Test Ballot Mode" on the screen, contact your election administrator immediately to prepare the machine for the election.
 {% endhint %}
 
 To open the polls:
@@ -30,8 +30,6 @@ For primary elections, you may be prompted to print and tear multiple reports, o
 The polls are now open. The number of ballots scanned should be zero. Verify the precinct name and election date are correct in the bottom left corner.
 
 <figure><img src="../.gitbook/assets/insert-your-ballot copy.png" alt="" width="375"><figcaption></figcaption></figure>
-
-
 
 Below is an example of the polls opened report. All totals should be zero.
 

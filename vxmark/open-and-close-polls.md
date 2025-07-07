@@ -9,7 +9,7 @@ After VxMark is turned on, the screen will show _Polls Closed:_
 Verify the election name, election date, and precinct are correct in the bottom left corner.
 
 {% hint style="warning" %}
-If there is an orange banner that says "Test Ballot Mode" on the screen, contact your election administrator immediately to prepare the machine for the election.
+If there is an orange callout that says "Test Ballot Mode" on the screen, contact your election administrator immediately to prepare the machine for the election.
 {% endhint %}
 
 **To open the polls:**
@@ -36,7 +36,7 @@ The polls are now open and VxMark is ready for voters.&#x20;
 * [ ] select _`Close Polls`_
 * [ ] confirm by selecting _`Close Polls`_ again
 
-<div><figure><img src="../.gitbook/assets/mk-pw-menu-open copy.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-confirm-close-polls.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmark-poll-worker-close-polls.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-confirm-close-polls.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 * [ ] remove the poll worker card
 
@@ -50,7 +50,7 @@ The _`Pause Voting`_ action is generally used by jurisdictions conducting early 
 * [ ] select _`Pause Voting`_
 * [ ] confirm by selecting _`Pause Voting`_ again
 
-<div><figure><img src="../.gitbook/assets/mk-pw-menu-open copy 2.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-confirm-pause-voting.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmark-poll-worker-pause-voting.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-confirm-pause-voting.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 * [ ] remove the poll worker card
 

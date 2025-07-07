@@ -23,13 +23,13 @@ An unconfigured machine will prompt you to insert an election manager card to lo
 
 After the USB drive is inserted, VxMark will automatically begin loading all ballot styles for the election. After the election package is done loading, the election manager menu screen will appear and VxMark will be in test ballot mode.
 
-<div><figure><img src="../.gitbook/assets/mk-insert-card-to-configure.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-insert-usb.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-em-landing.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/mk-insert-card-to-configure.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-insert-usb.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-config (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ## Setting Ballot Mode
 
 Use the toggle button to switch between _`Test Ballot Mode`_ and _`Official Ballot Mode`_. The machine must be in official ballot mode on election day.  Review the [l-and-a-overview.md](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md "mention") instructions to understand which mode to use during logic and accuracy testing.
 
-<figure><img src="../.gitbook/assets/mk-em-landing copy.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxmark-config (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 ## Remove Election Data & Configuration
 
@@ -38,7 +38,7 @@ To remove election configuration (and all data) from VxMark:
 * [ ] Log in with an election manager card
 * [ ] Select _`Unconfigure Machine`_
 
-<figure><img src="../.gitbook/assets/mk-em-official copy.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxmark-config-done.png" alt="" width="188"><figcaption></figcaption></figure>
 
 * [ ] Confirm by selecting _`Delete All Election Data`_
 

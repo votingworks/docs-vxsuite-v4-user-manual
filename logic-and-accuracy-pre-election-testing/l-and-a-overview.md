@@ -26,8 +26,10 @@ In VxCentralScan, insert an election manager card, select _`Settings`_ from the 
 
 In VxMark, insert an election manager card and select the correct mode.
 
-<figure><img src="../.gitbook/assets/mk-em-landing copy.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxmark-config.png" alt="" width="188"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-An orange _Test Ballot Mode_ banner will display at the top of each screen when the device is in test ballot mode.&#x20;
+A callout is displayed on machines when in test ballot mode.
 {% endhint %}
+
+<div><figure><img src="../.gitbook/assets/vxscan-test-ballot-mode (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-test-ballot-mode (1).png" alt=""><figcaption></figcaption></figure></div>
