@@ -33,11 +33,11 @@ To save the recommended VxAdmin files, follow these steps when logged in as an e
 * [ ] Select _`Reports`_ from the side menu, select _`Full Election Tally Report`_, select _`Export Report PDF.`_
 * [ ] Then select _`Export Report CSV`_.
 
-<div><figure><img src="../.gitbook/assets/reports-screen-unofficial-highlighted.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/full-election-report-unofficial-highlighted.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxadmin-reports-screen-official-report-button-highlight.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-full-election-report-official (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Next select _`Settings`_ from the side menu and _`Save Logs`_. Machine log files are saved in the /logs folder on the USB drive.
 
-<figure><img src="../.gitbook/assets/save-logs-em.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxadmin-election-manager-settings-screen-logs-highlight.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### VxScan CVR Files
 

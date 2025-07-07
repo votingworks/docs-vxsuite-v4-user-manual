@@ -4,7 +4,7 @@
 
 When L\&A is complete, select _`Tally`_ from the side menu, then select _`Remove CVRs`_ to clear VxAdmin of CVRs to prepare for election day. Confirm by selecting _`Remove CVRs`_ in the popup confirmation screen.
 
-<figure><img src="../.gitbook/assets/tally-screen-with-cvrs-remove-cvrs.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxadmin-tally-screen-with-cvrs.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Toggle VxScan to Official Ballot Mode
 

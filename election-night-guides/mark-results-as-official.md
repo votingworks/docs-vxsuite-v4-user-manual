@@ -12,7 +12,7 @@ Make sure that you've imported all CVR files, completed all adjudication, and ad
 
 To mark results as official, select _`Reports`_ from the side menu and select _`Mark Election Results as Official`._
 
-<figure><img src="../.gitbook/assets/reports-screen-unofficial-mark-highlight.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxadmin-reports-screen-unofficial-mark-official-highlight.png" alt="" width="375"><figcaption></figcaption></figure>
 
 &#x20;Confirm by selecting _`Mark Election Results as Official`._
 
@@ -20,7 +20,7 @@ To mark results as official, select _`Reports`_ from the side menu and select _`
 
 All references to unofficial results in VxAdmin will be changed to official.&#x20;
 
-<div><figure><img src="../.gitbook/assets/reports-screen-official.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/tally-screen-official.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxadmin-reports-screen-official.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-tally-screen-official.png" alt=""><figcaption></figcaption></figure></div>
 
 If you become aware of a mistake after marking results as official (say, you forgot to import one machine's CVRs), you can revert the results to unofficial as a system administrator. Log in as a system administrator and use the _`Revert Election Results to Unofficial`_ button.
 
