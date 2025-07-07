@@ -44,7 +44,7 @@
 ## Election Night Guides
 
 * [Tally Results](election-night-guides/tally-results.md)
-* [Write-In Adjudication](election-night-guides/write-in-adjudication.md)
+* [Adjudication](election-night-guides/adjudication.md)
 * [Manual Tallies](election-night-guides/manual-tallies.md)
 * [Reports](election-night-guides/reports.md)
 * [Mark Results as Official](election-night-guides/mark-results-as-official.md)
