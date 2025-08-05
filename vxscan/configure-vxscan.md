@@ -4,7 +4,7 @@
 The following steps must be completed by an election manager.
 {% endhint %}
 
-Before you configure VxScan, you must set up the machine. Follow the steps in the [vxscan-setup.md](../election-day-guides/vxscan-setup.md "mention") guide.
+Before you configure VxScan, set up the machine with the [vxscan-setup.md](../election-day-guides/vxscan-setup.md "mention") guide.
 
 To configure **VxScan**, you must do two things in **VxAdmin**:
 
@@ -35,7 +35,7 @@ Use the toggle button to switch between _`Test Ballot Mode`_ and _`Official Ball
 
 ## Removing Election Configuration
 
-There are two ways to remove the election configuration and all scanned ballot data on VxScan.&#x20;
+There are two ways to remove the election configuration and all scanned ballot data.&#x20;
 
 ### Removing Election Configuration - Election Manager
 
