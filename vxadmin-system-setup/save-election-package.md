@@ -6,7 +6,7 @@ To configure VxScan, VxCentralScan, and VxMark you must first save the election 
 
 If you don't already have a USB drive inserted, you'll be prompted to insert a USB drive. After inserting a USB drive, you will be prompted you to save the election package. Select _`Save`_.
 
-<figure><img src="../.gitbook/assets/save-election-package-modal.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/save-election-package-modal.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 VxAdmin will save an election package to the USB drive.
 
