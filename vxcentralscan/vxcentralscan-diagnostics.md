@@ -6,8 +6,8 @@ The scanner status indicates whether the scanner is connected or not. \
 \
 Select _`Perform Test Scan`_ and insert a blank sheet of paper as prompted. This test verifies the scanner is clean and ballot images are clear.  If the test fails, you'll be prompted to clean the scanner. The test will also fail if the sheet is not blank.&#x20;
 
-<figure><img src="../.gitbook/assets/cs-diagnostics.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cs-diagnostics.png" alt="" width="375"><figcaption></figcaption></figure>
 
 The readiness report can be used as a record of system diagnostic verification.  Select _`Save Readiness Report`_ to save a copy to a USB drive.&#x20;
 
-<figure><img src="../.gitbook/assets/readiness-report-1 (1).png" alt="" width="375"><figcaption><p>Example VxCentralScan Readiness Report</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/readiness-report-1 (1).png" alt="" width="188"><figcaption><p>Example VxCentralScan Readiness Report</p></figcaption></figure>

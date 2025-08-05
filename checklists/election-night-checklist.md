@@ -8,7 +8,7 @@ description: >-
 
 On election night, you will need [VxAdmin](../vxadmin-system-setup/vxadmin-hardware-setup.md) (laptop and printer). If scanning ballots centrally, you'll also need the [VxCentralScan](../vxcentralscan/vxcentralscan-hardware-setup.md) (laptop and scanner) and the [Election Night Checklist - VxCS](../vxcentralscan/election-night-checklist-vxcentralscan.md).
 
-### [Tallying](../election-night-guides/tally-results.md) and Saving Results
+## Tallying and Saving Results
 
 * [ ] [set up VxAdmin](../vxadmin-system-setup/vxadmin-hardware-setup.md)
 * [ ] log in with election manager card

@@ -29,7 +29,7 @@ Write-in votes without the bubble marked are not included in tally reports until
 
 If a write-in is for an official candidate and the system also detects a mark for the official candidate, the following message will appear to prevent double votes:
 
-<figure><img src="../.gitbook/assets/vxadmin-double-vote-detected.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxadmin-double-vote-detected.png" alt="" width="188"><figcaption></figcaption></figure>
 
 For marginal marks, determine whether the mark is an intentional mark or not given your jurisdiction's guidelines. If the mark is deemed unintentional, click _`Dismiss`_. If the mark is deemed intentional, check the box of the corresponding candidate.
 

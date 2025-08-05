@@ -26,6 +26,8 @@ All election data should be retained for at least 22 months in the following sto
 
 All VotingWorks paper records and USB drives are specified to last at least 22 months when stored in these conditions.
 
+###
+
 ### VxAdmin&#x20;
 
 To save the recommended VxAdmin files, follow these steps when logged in as an election manager:
