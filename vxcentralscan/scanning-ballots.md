@@ -30,8 +30,6 @@ If a batch needs to be rescanned, use the _`Delete`_ button to remove the origin
 
 VxCentralScan will stop scanning and present a review screen if scanning cannot be completed due to a blank ballot, overvoted or undervoted contest, scan mode mismatch, or an otherwise unreadable ballot sheet. The review screen will display an image of the scanned ballot sheet, the reason why scanning was stopped, and confirm that this ballot sheet has not been tabulated yet.
 
-###
-
 ### Overvoted, Blank, and Undervoted Ballots
 
 If the scanner stops, remove the last ballot sheet scanned from the scanner output tray and confirm it matches the ballot sheet displayed onscreen. Once removed, follow review requirements. If the ballot needs to be reviewed by someone not operating the scanner or needs to be duplicated to be tabulated properly, select _`Confirm Ballot Removed`_. If the ballot should be tabulated as-is, meaning that overvoted contests will be ignored but any other valid votes will be counted, select `Tabulate Ballot`.  After making a selection, the scanner will resume scanning ballots in the batch.&#x20;
