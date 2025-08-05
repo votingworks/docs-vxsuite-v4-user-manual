@@ -32,4 +32,4 @@ In VxMark, insert an election manager card and select the correct mode.
 A callout is displayed on machines when in test ballot mode.
 {% endhint %}
 
-<div><figure><img src="../.gitbook/assets/vxscan-test-ballot-mode (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-test-ballot-mode (1).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxscan-test-ballot-mode (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-test-ballot-mode (1).png" alt="" width="188"><figcaption></figcaption></figure></div>

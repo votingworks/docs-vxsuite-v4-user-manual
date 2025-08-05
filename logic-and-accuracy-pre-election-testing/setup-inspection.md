@@ -65,7 +65,7 @@ While most seals are applied during the course of an election, some seals are ap
 
 VxAdmin and VxCentralScan have one factory seal that wraps around the right side of the laptop. VxScan has three factory seals: bottom left panel, bottom right panel, top panel. VxMark has one behind the touchscreen.&#x20;
 
-All seals should have an identifier beginning with `VX-` and should appear whole and free of defects.
+All seals should start with `VX-` and should appear whole and free of defects.
 
 ## Setup Inspection Checklist
 
@@ -84,7 +84,7 @@ If these checks are not completed prior to election day, there's a risk that the
 
 * Software hash checks and hardware seal checks protect against tampering
 * Calibrating and cleaning scanners ensures proper ballot handling and interpretation
-* Equipment readiness inspection ensures the equipment will function on election day
+* Equipment readiness inspection ensures equipment will function on election day
 * Charging batteries ensures the system will function during a power outage
 * Checking consumables ensures voting and reporting will not be hampered by a lack of supplies
 {% endhint %}
