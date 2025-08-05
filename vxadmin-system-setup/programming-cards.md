@@ -63,15 +63,13 @@ A poll worker (aka election worker) should be designated by the election adminis
 
 For each election, you will create election manager and poll worker cards specifically for that election. Smart cards can be created quickly and easily with VxAdmin by logging in with a system administrator card and selecting _`Smart Cards`_ from the side menu.
 
-<figure><img src="../.gitbook/assets/smart-cards-screen-emph.png" alt="" width="563"><figcaption><p>Smart cards screen without card inserted</p></figcaption></figure>
+You will use the smart card reader in the lower lefthand side of your VxAdmin laptop to program a card.&#x20;
 
-You will use the smart card reader in the lower lefthand side of your VxAdmin laptop to program a card. Simply insert the card of your choice and select the correct button for the card.
+<div><figure><img src="../.gitbook/assets/smart-cards-screen-emph.png" alt=""><figcaption><p>Smart cards screen without card inserted</p></figcaption></figure> <figure><img src="../.gitbook/assets/smartcard laptop.png" alt=""><figcaption><p>Insert smart card</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/PXL_20241119_221055043 (1).jpg" alt="" width="563"><figcaption><p>Inserting a smart card</p></figcaption></figure>
+Simply insert the card of your choice and select the correct button for the card.
 
-
-
-<figure><img src="../.gitbook/assets/smart-cards-blank.png" alt="" width="563"><figcaption><p>Smart cards screen with blank card</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/smart-cards-blank.png" alt="" width="375"><figcaption><p>Smart cards screen with blank card</p></figcaption></figure>
 
 When creating an election manager or system administrator card, the screen will show you a unique PIN for that card. Keep the PIN secure. When creating a poll worker card, the screen will simply confirm the card is created.
 

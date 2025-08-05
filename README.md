@@ -45,11 +45,11 @@ All votes cast using VotingWorks equipment are on paper ballots for security and
     * All absentee voters will receive a hand-marked paper ballot that is printed by a print vendor. Absentee ballots are scanned by election administrators using a high-speed central scanner (VxCentralScan) or the precinct scanner (VxScan).
     * Most in-precinct voters will receive a hand-marked paper ballot that is printed by a third-party printer to hand mark. Precinct ballots are scanned by voters using a precinct scanner (VxScan).
 
-    <figure><img src=".gitbook/assets/image (3) (1).png" alt="" width="361"><figcaption><p>Example hand-marked paper ballot</p></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (3) (1).png" alt="" width="181"><figcaption><p>Example hand-marked paper ballot</p></figcaption></figure>
 * **Machine-marked paper ballot** (via ballot marking device)
   * In-precinct voters may request to use the accessible ballot marking device (VxMark), which prints a voter verifiable paper ballot and deposits it into the attached ballot box. Election administrators or poll workers later scan the machine-marked paper ballot at a high-speed central scanner (VxCentralScan).
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 VotingWorks provides technical support through the email and phone number listed at the top of the page.  Upgrades and defect correction are defined in the customer's contract and scheduled through VotingWorks support system.&#x20;

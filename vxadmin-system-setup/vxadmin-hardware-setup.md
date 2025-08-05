@@ -10,7 +10,7 @@ description: >-
 
 **VxAdmin** is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software and an optional printer. All USB drives, cords, adapters, and programmable smart cards needed to operate the system are included and stored in an orange case.
 
-<div><figure><img src="../.gitbook/assets/VxAdmin in case.png" alt="" width="375"><figcaption><p>VxAdmin stored in case</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241119_221005359.jpg" alt="" width="563"><figcaption><p>VxAdmin fully set up</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxAdmin in case.png" alt="" width="188"><figcaption><p>VxAdmin stored in case</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241119_221005359.jpg" alt="" width="375"><figcaption><p>VxAdmin fully set up</p></figcaption></figure></div>
 
 ### **VxAdmin** Setup
 
@@ -28,7 +28,7 @@ description: >-
 * [ ] remove and document seals as necessary,&#x20;
 * [ ] open the case by lifting the latches on the front
 
-<div><figure><img src="../.gitbook/assets/VxAdmin case sealed.png" alt=""><figcaption><p>Remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxAdmin case latches.png" alt="" width="375"><figcaption><p>Open the case by lifting the latches</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxAdmin case sealed.png" alt=""><figcaption><p>Remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxAdmin case latches.png" alt=""><figcaption><p>Open the case by lifting the latches</p></figcaption></figure></div>
 
 * [ ] remove the **laptop**
 * [ ] pull the **power cord** (A) out and plug into the laptop and an outlet
@@ -46,5 +46,5 @@ An optional mouse is included.  Plug it in to the USB hub to use.
 
 To pack up the VxAdmin, simply place all of the components back into the case as displayed above. Secure the case as required by sealing the eyelets highlighted below.
 
-<figure><img src="../.gitbook/assets/image (692).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (692).png" alt="" width="375"><figcaption></figcaption></figure>
 

@@ -20,6 +20,6 @@ If you need to change an election package or reset VxAdmin for the next election
 
 Select _`Election`_ from the side menu and select _`Unconfigure Machine`_.
 
-<figure><img src="../.gitbook/assets/election-screen-configured-highlighted (2).png" alt="" width="563"><figcaption><p>Unconfiguring VxAdmin</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/election-screen-configured-highlighted (2).png" alt="" width="375"><figcaption><p>Unconfiguring VxAdmin</p></figcaption></figure>
 
 After confirming by selecting _`Delete All Election Data`_ , you will return to the initial VxAdmin Election screen. VxAdmin can be reconfigured by loading a new election package by repeating the steps above.
