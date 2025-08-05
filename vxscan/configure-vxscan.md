@@ -37,7 +37,7 @@ Use the toggle button to switch between _`Test Ballot Mode`_ and _`Official Ball
 
 There are two ways to remove the election configuration and all scanned ballot data.&#x20;
 
-### Removing Election Configuration - Election Manager
+#### Removing Election Configuration - Election Manager
 
 * [ ] Insert an election manager card
 * [ ] Select _`Unconfigure Machine`_
@@ -50,7 +50,7 @@ There are two ways to remove the election configuration and all scanned ballot d
 
 You can now configure VxScan with a different election package.
 
-### Removing Election Configuration - System Administrator
+#### Removing Election Configuration - System Administrator
 
 * [ ] Insert a system administrator card
 * [ ] Select _`Unconfigure Machine`_
