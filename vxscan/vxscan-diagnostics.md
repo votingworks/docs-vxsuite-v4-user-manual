@@ -18,5 +18,5 @@ The most recent test result for each piece of hardware is shown on the diagnosti
 
 The readiness report can be used as a record of system diagnostic verification.  Select _`Save Readiness Report`_ to save a copy to a USB drive.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption><p>Example VxScan Readiness Report</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption><p>Example VxScan Readiness Report</p></figcaption></figure>
 

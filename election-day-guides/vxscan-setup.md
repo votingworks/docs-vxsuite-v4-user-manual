@@ -46,7 +46,7 @@ description: >-
 * [ ] push the purple security bolt down to secure the case to the ballot box
 * [ ] close the poll worker door and seal and document as required
 
-<div><figure><img src="../.gitbook/assets/PXL_20241031_183949135.jpg" alt="" width="375"><figcaption><p>Pressing the security bolt down</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184055101.jpg" alt="" width="375"><figcaption><p>Sealing the poll worker door</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/PXL_20241031_183949135.jpg" alt="" width="188"><figcaption><p>Pressing the security bolt down</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184055101.jpg" alt="" width="188"><figcaption><p>Sealing the poll worker door</p></figcaption></figure></div>
 
 * [ ] remove the power cord from its storage place
 * [ ] plug the power cord into the back of the scanner and then into an outlet or power backup
