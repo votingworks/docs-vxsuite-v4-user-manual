@@ -46,7 +46,7 @@ There are two ways to remove the election configuration and all scanned ballot d
 
 * [ ] Confirm by selecting _`Delete All Election Data.`_
 
-<figure><img src="../.gitbook/assets/unconfigure-machine-screenshot-em.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unconfigure-machine-screenshot-em.png" alt="" width="188"><figcaption></figcaption></figure>
 
 You can now configure VxScan with a different election package.
 
@@ -59,6 +59,6 @@ You can now configure VxScan with a different election package.
 
 * [ ] Confirm by selecting _`Delete All Election Data.`_
 
-<figure><img src="../.gitbook/assets/unconfigure-machine-screenshot-em.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unconfigure-machine-screenshot-em.png" alt="" width="188"><figcaption></figcaption></figure>
 
 You can now configure VxScan with a different election package.
