@@ -34,7 +34,7 @@ The paper roll must be installed in the correct orientation or it will not print
 * [ ] snap the paper roll holder back into VxScan
 * [ ] remove excess paper by pulling toward you and tearing
 
-<div><figure><img src="../.gitbook/assets/VxScan put paper container back in.png" alt="" width="375"><figcaption><p>snap case back in to VxScan</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan remove any excess paper.png" alt="" width="375"><figcaption><p>remove excess paper</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxScan put paper container back in.png" alt="" width="188"><figcaption><p>snap case back in to VxScan</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan remove any excess paper.png" alt="" width="188"><figcaption><p>remove excess paper</p></figcaption></figure></div>
 
 * [ ] close the access door
 * [ ] close the poll worker door
