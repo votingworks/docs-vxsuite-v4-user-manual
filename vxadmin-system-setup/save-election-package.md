@@ -14,9 +14,9 @@ VxAdmin will save an election package to the USB drive.
 The election package saved at VxAdmin is different from the election package used to configure your VxAdmin. VxMark, VxScan, and VxCentralScan can only be configured with election packages saved at VxAdmin.
 {% endhint %}
 
-Once the file is saved, VxAdmin prompts you to eject the USB drive. Select _`Eject USB`_.
+Once the file is saved, select _`Eject USB`_.
 
 ![](../.gitbook/assets/election-package-saved-modal.jpg)
 
-After a few seconds, VxAdmin will confirm the USB ejection and that it is safe to remove the USB drive.
+VxAdmin will confirm that it is safe to remove the USB drive.
 

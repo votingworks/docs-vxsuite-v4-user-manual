@@ -67,6 +67,8 @@ You will use the smart card reader in the lower lefthand side of your VxAdmin la
 
 <div><figure><img src="../.gitbook/assets/smart-cards-screen-emph.png" alt=""><figcaption><p>Smart cards screen without card inserted</p></figcaption></figure> <figure><img src="../.gitbook/assets/smartcard laptop.png" alt=""><figcaption><p>Insert smart card</p></figcaption></figure></div>
 
+##
+
 Simply insert the card of your choice and select the correct button for the card.
 
 <figure><img src="../.gitbook/assets/smart-cards-blank.png" alt="" width="375"><figcaption><p>Smart cards screen with blank card</p></figcaption></figure>
