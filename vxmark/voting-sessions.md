@@ -18,7 +18,7 @@ If a voter chooses to use VxMark:
 * [ ] review the precinct and ballot style to ensure it was selected correctly for the voter
 * [ ] remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/mk-load-sheet.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-loading-sheet.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-remove-card-to-vote.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/Screenshot-VxMarkScan-2025-09-09T053003.489Z.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot-VxMarkScan-2025-09-09T053017.619Z.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot-VxMarkScan-2025-09-09T052531.678Z.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 If the wrong ballot style or precinct was selected, insert the poll worker card (if not already inserted) and select _`Cancel Voting Session`_ to return to the poll worker menu.&#x20;
