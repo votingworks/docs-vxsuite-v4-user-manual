@@ -6,7 +6,7 @@ To replace a paper roll or print a test page, navigate to the _`Printer`_  tab i
 
 If loading a new paper roll, the screen will walk you through removing the paper roll holder and loading a new paper roll. Select _`Print Test Page`_ to print a test page and confirm the paper was loaded properly.
 
-<div><figure><img src="../.gitbook/assets/remove-paper-roll-holder.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/load-roll.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/paper_detected.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/Screenshot-VxScan-2025-09-09T193528.273Z.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot-VxScan-2025-09-09T193539.839Z.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot-VxScan-2025-09-09T193551.560Z.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 The paper roll can be replaced at any point of time, with the machine turned on or off.  Using the election manager printer flow is not required but can be helpful for someone who needs step-by-step instructions or wants to print a test page.
@@ -16,10 +16,10 @@ To replace or add a printer paper roll:
 
 * [ ] open the poll worker door
 * [ ] open the access door
-* [ ] push the green button on the right side of the paper roll case
+* [ ] press the release lever on the right side of the paper roll holder
 * [ ] remove the paper roll holder
 
-<div><figure><img src="../.gitbook/assets/VxScan open panels to access printer roll.png" alt=""><figcaption><p>open panels</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan push green button printer roll.png" alt=""><figcaption><p>push the green button</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan remove printer roll case.png" alt=""><figcaption><p>remove the paper roll case</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxScan open panels to access printer roll.png" alt=""><figcaption><p>open panels</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan push green button printer roll.png" alt=""><figcaption><p>push the release lever</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan remove printer roll case.png" alt=""><figcaption><p>remove the paper roll case</p></figcaption></figure></div>
 
 {% hint style="warning" %}
 The paper roll must be installed in the correct orientation or it will not print. The correct orientation is indicated on the side of the paper roll holder.
