@@ -12,10 +12,7 @@
 * [VxAdmin Diagnostics](vxadmin-system-setup/vxadmin-diagnostics.md)
 * [Unlocking & Locking](vxadmin-system-setup/unlocking-locking-hardware.md)
 * [VxAdmin Printer FAQs](reference/printer-faqs.md)
-
-***
-
-* [VxAdmin Error Messages](vxadmin-error-messages.md)
+* [VxAdmin Error Messages](vxadmin-system-setup/vxadmin-error-messages.md)
 
 ## VxScan
 
@@ -79,10 +76,7 @@
 * [Election Night Checklist - VxCentralScan](vxcentralscan/election-night-checklist-vxcentralscan.md)
 * [Retaining and Removing Files - VxCentralScan](vxcentralscan/retaining-and-removing-files-vxcentralscan.md)
 * [VxCentralScan Diagnostics](vxcentralscan/vxcentralscan-diagnostics.md)
-
-***
-
-* [VxCentralScan Error Messages](vxcentralscan-error-messages.md)
+* [VxCentralScan Error Messages](vxcentralscan/vxcentralscan-error-messages.md)
 
 ## VxMark
 
