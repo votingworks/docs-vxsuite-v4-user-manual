@@ -1,6 +1,6 @@
 # Voting Session Language & Accessibility Settings
 
-Voters have a number of options to change the VxMark interface to suit their individual needs.
+Voters have a number of options to change the VxMarkScan interface to suit their individual needs.
 
 <figure><img src="../.gitbook/assets/image (27).png" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -24,7 +24,7 @@ Four different color options are available for users. While we provide a short d
 
 **Black text, white background** - used by people who need the highest contrast because of light vision or color perception disabilities or aging.
 
-<div><figure><img src="../.gitbook/assets/VxMark Color White text black background.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark Color Gray text dark bkgd.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark Dark text light background.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark color black text white bkgd.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxMarkScan Color White text black background.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMarkScan Color Gray text dark bkgd.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMarkScan Dark text light background.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMarkScan color black text white bkgd.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Text Size
 
@@ -38,9 +38,9 @@ Audio is always defaulted to on when headphones are plugged in. Instructions for
 
 Select _`Mute Audio`_ to mute all sound.  Select _`Enable Audio-Only Mode`_ to hide the screen. Voters using only audio to navigate through the ballot may want to hide the screen for privacy. Additionally, a voter who has a T-coil neckloop may unplug the headphones and plug that device into the headphone jack.&#x20;
 
-Headphones should be sanitized after a voting session using the audio-tactile interface. To do so, simply discard the headphone ear covers and replace with a new set of ear covers. Disposable ear covers suitable for VxMark are listed in the [supply-list.md](../miscellaneous/supply-list.md "mention").
+Headphones should be sanitized after a voting session using the audio-tactile interface. To do so, simply discard the headphone ear covers and replace with a new set of ear covers. Disposable ear covers suitable for VxMarkScan are listed in the [supply-list.md](../miscellaneous/supply-list.md "mention").
 
-<div><figure><img src="../.gitbook/assets/VxMark Audit.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark Setting Audio Unmute.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark Audio-Only Mode.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxMarkScan Audit.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMarkScan Setting Audio Unmute.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMarkScan Audio-Only Mode.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 All selections above are made for a specific voting session and will reset with the next voter.
@@ -48,4 +48,4 @@ All selections above are made for a specific voting session and will reset with 
 
 ## PAT Settings
 
-VxMark has a PAT (personal assistive technology) input port into which a user can plug in a dual-switch input such as a sip-and-puff device. When a PAT input is attached during a voting session, VxMark will enter a calibration flow where the voter will map their two inputs to "move" and "select." Different voters can calibrate their sip & puff devices differently such that sip is "move" for one and "select" for another. After calibration, a voter can access all VxMark functionality throughout the voting session.
+VxMarkScan has a PAT (personal assistive technology) input port into which a user can plug in a dual-switch input such as a sip-and-puff device. When a PAT input is attached during a voting session, VxMarkScan will enter a calibration flow where the voter will map their two inputs to "move" and "select." Different voters can calibrate their sip & puff devices differently such that sip is "move" for one and "select" for another. After calibration, a voter can access all VxMarkScan functionality throughout the voting session.

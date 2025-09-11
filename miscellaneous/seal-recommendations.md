@@ -14,7 +14,7 @@ While in storage, the VxAdmin should be stored in its case with seals through ea
 
 **During Voting:** A seal should be placed through the hasp in the front ballot door.
 
-### VxMark&#x20;
+### VxMarkScan&#x20;
 
 **In Storage:** A sticker seal should be placed between the top and bottom of the case.
 

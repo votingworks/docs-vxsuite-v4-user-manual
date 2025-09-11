@@ -30,10 +30,10 @@ If you used _`Official Ballot Mode`_ to conduct your L\&A, simply toggle to _`Te
 
 <figure><img src="../.gitbook/assets/cs-settings-2 copy 4 (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-### Toggle VxMark to Official Ballot Mode
+### Toggle VxMarkScan to Official Ballot Mode
 
-If you used test ballot mode to conduct your L\&A be sure to put VxMark into official ballot mode. To change modes, insert your election manager card and select _`Official Ballot Mode`_.
+If you used test ballot mode to conduct your L\&A be sure to put VxMarkScan into official ballot mode. To change modes, insert your election manager card and select _`Official Ballot Mode`_.
 
-If you used _`Official Ballot Mode`_ to conduct your L\&A, simply toggle to _`Test Ballot Mode`_ and back to _`Official Ballot Mode`_ to reset VxMark for election day.
+If you used _`Official Ballot Mode`_ to conduct your L\&A, simply toggle to _`Test Ballot Mode`_ and back to _`Official Ballot Mode`_ to reset VxMarkScan for election day.
 
 <figure><img src="../.gitbook/assets/vxmark-config (1).png" alt="" width="188"><figcaption></figcaption></figure>

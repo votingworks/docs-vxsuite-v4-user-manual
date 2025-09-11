@@ -1,8 +1,8 @@
 # Open and Close Polls
 
-## Open Polls on VxMark
+## Open Polls on VxMarkScan
 
-After VxMark is turned on, the screen will show _Polls Closed:_
+After VxMarkScan is turned on, the screen will show _Polls Closed:_
 
 <figure><img src="../.gitbook/assets/mk-polls-closed.png" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -23,14 +23,14 @@ If there is an orange callout that says "Test Ballot Mode" on the screen, contac
 
 * [ ] verify the number of ballots printed is zero
 
-The polls are now open and VxMark is ready for voters.&#x20;
+The polls are now open and VxMarkScan is ready for voters.&#x20;
 
-## Close Polls on VxMark
+## Close Polls on VxMarkScan
 
 * [ ] remove ballot bin seal
 * [ ] remove ballots inside (secure for tabulation on VxCentralScan)
 
-<figure><img src="../.gitbook/assets/VxMark removing ballots from bin.png" alt="" width="188"><figcaption><p>remove ballot bin seal</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/VxMarkScan removing ballots from bin.png" alt="" width="188"><figcaption><p>remove ballot bin seal</p></figcaption></figure>
 
 * [ ] insert the poll worker card into the card reader beneath the accessible controller
 * [ ] select _`Close Polls`_
@@ -44,7 +44,7 @@ The polls are now closed.
 
 ## Pause or Resume Voting
 
-The _`Pause Voting`_ action is generally used by jurisdictions conducting early voting over multiple days or during an emergency situation. To pause voting and not allow ballots to be marked by VxMark:
+The _`Pause Voting`_ action is generally used by jurisdictions conducting early voting over multiple days or during an emergency situation. To pause voting and not allow ballots to be marked by VxMarkScan:
 
 * [ ] insert the poll worker card into the card reader beneath the accessible controller
 * [ ] select _`Pause Voting`_

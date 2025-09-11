@@ -31,7 +31,7 @@ Cases should be secured with single use tamper evident numbered seals, such as h
 
 ## Scanner Cleaning Supplies
 
-The scanners for VxScan, VxCentralScan, and VxMark can be cleaned with scanner-specific cleaning fluid, such as Ricoh Cleaner F1 (PA03950-0352) or isopropyl alcohol with a concentration of 70% or higher. The fluid should be applied to a microfiber or lint-free cloth. The recommended cleaning SKU can clean a scanner 100 times.
+The scanners for VxScan, VxCentralScan, and VxMarkScan can be cleaned with scanner-specific cleaning fluid, such as Ricoh Cleaner F1 (PA03950-0352) or isopropyl alcohol with a concentration of 70% or higher. The fluid should be applied to a microfiber or lint-free cloth. The recommended cleaning SKU can clean a scanner 100 times.
 
 ## VxAdmin Supply List
 
@@ -56,7 +56,7 @@ VotingWorks recommends cleaning the scanner and replacing the thermal paper roll
 
 VotingWorks recommends cleaning the scanner for each election. VotingWorks also recommends keeping scanner cleaning supplies readily available on election day. Occasionally, the rollers will need to be replaced [as detailed in the maintenance manual](broken-reference).
 
-## VxMark Supply List
+## VxMarkScan Supply List
 
 | Item                      | Recommendation                                                     | Supplier    |
 | ------------------------- | ------------------------------------------------------------------ | ----------- |
