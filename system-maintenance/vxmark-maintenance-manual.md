@@ -1,13 +1,13 @@
-# VxMark Maintenance Manual
+# VxMarkScan Maintenance Manual
 
-For reference information on VxMark, see the following links:
+For reference information on VxMarkScan, see the following links:
 
-* **Hardware Overview -** [VxMark Function](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxmark-function "mention")
-* **Software Functionality -**  [VxMark Function](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxmark-function "mention")
+* **Hardware Overview -** [VxMarkScan Function](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxmark-function "mention")
+* **Software Functionality -**  [VxMarkScan Function](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxmark-function "mention")
 
 ## Hardware Maintenance
 
-The user should never try to perform complex repairs on VxMark. Only VotingWorks should perform repairs that require disassembly of any kind. Users are expected to keep the scanner, screen, and USB ports clean.
+The user should never try to perform complex repairs on VxMarkScan. Only VotingWorks should perform repairs that require disassembly of any kind. Users are expected to keep the scanner, screen, and USB ports clean.
 
 ### Scanner Cleaning
 
@@ -23,7 +23,7 @@ There are no required steps for maintaining the software or firmware. The softwa
 
 ## Data Maintenance
 
-VxMark does not store voter selections or tabulate ballots. There is no need to perform data backups.
+VxMarkScan does not store voter selections or tabulate ballots. There is no need to perform data backups.
 
 ## Maintenance Support & Spare Recommendations
 

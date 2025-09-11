@@ -78,23 +78,23 @@
 * [VxCentralScan Diagnostics](vxcentralscan/vxcentralscan-diagnostics.md)
 * [VxCentralScan Error Messages](vxcentralscan/vxcentralscan-error-messages.md)
 
-## VxMark
+## VxMarkScan
 
-* [VxMark Hardware Setup](vxmark/vxmark-hardware-setup.md)
-* [Configure VxMark](vxmark/configure-vxmark.md)
+* [VxMarkScan Hardware Setup](vxmark/vxmark-hardware-setup.md)
+* [Configure VxMarkScan](vxmark/configure-vxmark.md)
 * [Open and Close Polls](vxmark/open-and-close-polls.md)
 * [Voting Sessions](vxmark/voting-sessions.md)
 * [Voting Session Language & Accessibility Settings](vxmark/voting-session-language-and-accessibility-settings.md)
-* [Packing Up VxMark](vxmark/packing-up-vxmark.md)
-* [VxMark Error Messages](vxmark/vxmark-error-messages.md)
-* [VxMark Diagnostics](vxmark/system-administrator-functions-and-system-diagnostics.md)
-* [Retaining and Removing Files - VxMark](vxmark/retaining-and-removing-files-vxmark.md)
-* [VxMark Checklist](vxmark/vxmark-checklist.md)
+* [Packing Up VxMarkScan](vxmark/packing-up-vxmark.md)
+* [VxMarkScan Error Messages](vxmark/vxmark-error-messages.md)
+* [VxMarkScan Diagnostics](vxmark/system-administrator-functions-and-system-diagnostics.md)
+* [Retaining and Removing Files - VxMarkScan](vxmark/retaining-and-removing-files-vxmark.md)
+* [VxMarkScan Checklist](vxmark/vxmark-checklist.md)
 
 ## System Maintenance Manual <a href="#system-maintenance" id="system-maintenance"></a>
 
 * [Maintenance Overview](system-maintenance/maintenance-overview.md)
 * [VxAdmin & VxCentralScan Maintenance Manual](system-maintenance/vxadmin-and-vxcentralscan-maintenance-manual.md)
 * [VxScan Maintenance Manual](system-maintenance/vxscan-maintenance-manual.md)
-* [VxMark Maintenance Manual](system-maintenance/vxmark-maintenance-manual.md)
+* [VxMarkScan Maintenance Manual](system-maintenance/vxmark-maintenance-manual.md)
 * [Approved Parts List](system-maintenance/approved-parts-list.md)
