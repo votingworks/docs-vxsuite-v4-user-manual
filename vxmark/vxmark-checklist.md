@@ -1,4 +1,4 @@
-# VxMark Checklist
+# VxMarkScan Checklist
 
 ### Hardware Setup
 
@@ -23,7 +23,7 @@
 * [ ] document and seal the ballot bin (loop on right side) as required
 * [ ] place the privacy shield pegs in the holes on each side of the ballot marking device
 * [ ] plug the headphones into the front headphone jack
-* [ ] push the power button to turn VxMark on
+* [ ] push the power button to turn VxMarkScan on
 
 ### **Open Polls, Activate Voting Session, and Close Polls**
 

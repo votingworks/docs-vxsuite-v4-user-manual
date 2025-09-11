@@ -10,7 +10,7 @@ Before starting the testing process, using an election manager card, confirm VxA
 
 ### Test Ballot vs. Official Ballot Mode&#x20;
 
-VxScan, VxCentralScan, and VxMark can be placed into test ballot mode to only accept test ballots. VxScan and VxCentralScan default to test mode after configuration.
+VxScan, VxCentralScan, and VxMarkScan can be placed into test ballot mode to only accept test ballots. VxScan and VxCentralScan default to test mode after configuration.
 
 {% hint style="info" %}
 You may scan official ballots in test mode if your election package has the system setting `allowOfficialBallotsInTestMode` enabled. This setting is used for jurisdictions that only print official ballots.
@@ -24,7 +24,7 @@ In VxCentralScan, insert an election manager card, select _`Settings`_ from the 
 
 <figure><img src="../.gitbook/assets/cs-settings-2 copy 4.png" alt="" width="375"><figcaption></figcaption></figure>
 
-In VxMark, insert an election manager card and select the correct mode.
+In VxMarkScan, insert an election manager card and select the correct mode.
 
 <figure><img src="../.gitbook/assets/vxmark-config.png" alt="" width="188"><figcaption></figcaption></figure>
 
