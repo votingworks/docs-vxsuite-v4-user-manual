@@ -8,7 +8,7 @@ All users can use [signed-hash-validation.md](../miscellaneous/signed-hash-valid
 
 ## Equipment Cleaning & Calibration
 
-All devices with a scanner (VxScan, VxCentralScan, and VxMark) should be cleaned and VxScan double sheet detection should be calibrated.
+All devices with a scanner (VxScan, VxCentralScan, and VxMarkScan) should be cleaned and VxScan double sheet detection should be calibrated.
 
 ## Equipment Readiness Inspection
 
@@ -25,12 +25,12 @@ Successfully completing all tests and producing a complete readiness report also
 
 ## Physical and Digital Storage Location Zero Checks
 
-Election managers should confirm that the VxScan and VxMark ballot boxes are physically empty and that relevant digital storage locations are clear:
+Election managers should confirm that the VxScan and VxMarkScan ballot boxes are physically empty and that relevant digital storage locations are clear:
 
 * [ ] VxAdmin - _Reports > Ballot Count_ on the election manager screen should be 0
 * [ ] VxScan - _Sheets Scanned_ on the election manager screen should be 0
 * [ ] VxCentralScan - "No ballots have been scanned" should be displayed on the election manager screen
-* [ ] VxMark - _Ballots Printed_ on the election manager screen should be 0
+* [ ] VxMarkScan - _Ballots Printed_ on the election manager screen should be 0
 
 ## USB Drive Inspection
 
@@ -49,7 +49,7 @@ All required consumable levels should be checked:
   * [ ] imprinter toner level (toner should be replaced every six months or when unique identifier is not printed legibly scanned sheet)
 * [ ] VxScan
   * [ ] thermal paper roll is loaded (included in readiness report)
-* [ ] VxMark
+* [ ] VxMarkScan
   * [ ] thermal ballot paper supply is sufficient for expected number of voters
   * [ ] headphone ear cover supply is sufficient for expected number of voters&#x20;
 
@@ -63,7 +63,7 @@ To confirm that the charge is full before an election, check the LED display. On
 
 While most seals are applied during the course of an election, some seals are applied when the device is first manufactured. These factory seals are intended to be permanent except in cases where VotingWorks performs a repair. The presence of each factory seal should be confirmed before each election as a check against hardware tampering.
 
-VxAdmin and VxCentralScan have one factory seal that wraps around the right side of the laptop. VxScan has three factory seals: bottom left panel, bottom right panel, top panel. VxMark has one behind the touchscreen.&#x20;
+VxAdmin and VxCentralScan have one factory seal that wraps around the right side of the laptop. VxScan has three factory seals: bottom left panel, bottom right panel, top panel. VxMarkScan has one behind the touchscreen.&#x20;
 
 All seals should start with `VX-` and should appear whole and free of defects.
 
@@ -73,7 +73,7 @@ The setup inspection procedures described above are intended to be completed bef
 
 * [ ] Complete [signed-hash-validation.md](../miscellaneous/signed-hash-validation.md "mention") on all devices to verify that only certified software is installed
 * [ ] Calibrate [#double-sheet-detection](../vxscan/scanner-management.md#double-sheet-detection "mention") on VxScan for the upcoming election's ballot paper weight
-* [ ] Clean scanners for each VxScan, VxCentralScan, and VxMark
+* [ ] Clean scanners for each VxScan, VxCentralScan, and VxMarkScan
 * [ ] Complete an [#equipment-readiness-inspection](setup-inspection.md#equipment-readiness-inspection "mention") for each device
 * [ ] Format all USB drives as part of the [#usb-drive-inspection](setup-inspection.md#usb-drive-inspection "mention")
 * [ ] Confirm backup power supplies are at full charge

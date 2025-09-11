@@ -30,11 +30,11 @@ VotingWorks Central System includes two components:
 VotingWorks Precinct System consists of two portable, self-contained products:
 
 1. **VxScan**: a voter-facing precinct scanner that scans paper ballots and notifies voters of ballot issues for second-chance voting.
-2. **VxMark**: an accessible ballot marking device with a printer that produces a voter-verifiable paper ballot.
+2. **VxMarkScan**: an accessible ballot marking device with a printer that produces a voter-verifiable paper ballot.
 
-<div><figure><img src=".gitbook/assets/image (2) (1) (1).png" alt="" width="188"><figcaption><p>VxScan</p></figcaption></figure> <figure><img src=".gitbook/assets/image (3).png" alt="" width="188"><figcaption><p>VxMark</p></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/image (2) (1) (1).png" alt="" width="188"><figcaption><p>VxScan</p></figcaption></figure> <figure><img src=".gitbook/assets/image (3).png" alt="" width="188"><figcaption><p>VxMarkScan</p></figcaption></figure></div>
 
-Voters at the precinct vote on hand-marked paper ballots and cast their ballot into VxScan, with the option to instead vote and cast one's ballot on VxMark if requested.&#x20;
+Voters at the precinct vote on hand-marked paper ballots and cast their ballot into VxScan, with the option to instead vote and cast one's ballot on VxMarkScan if requested.&#x20;
 
 ## Paper Ballots
 
@@ -47,7 +47,7 @@ All votes cast using VotingWorks equipment are on paper ballots for security and
 
     <figure><img src=".gitbook/assets/image (3) (1).png" alt="" width="181"><figcaption><p>Example hand-marked paper ballot</p></figcaption></figure>
 * **Machine-marked paper ballot** (via ballot marking device)
-  * In-precinct voters may request to use the accessible ballot marking device (VxMark), which prints a voter verifiable paper ballot and deposits it into the attached ballot box. Election administrators or poll workers later scan the machine-marked paper ballot at a high-speed central scanner (VxCentralScan).
+  * In-precinct voters may request to use the accessible ballot marking device (VxMarkScan), which prints a voter verifiable paper ballot and deposits it into the attached ballot box. Election administrators or poll workers later scan the machine-marked paper ballot at a high-speed central scanner (VxCentralScan).
 
 <figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 

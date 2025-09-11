@@ -6,7 +6,7 @@
 A voter may bring their own Personal Assistive Technology (PAT) device (ex. jelly bean switch, sip and puff device, etc.) or headphones. It must have a 3.5mm plug or connector. Once plugged in, a test screen will pop up to assist in configuration.  See [System Administrator Functions & System Diagnostics ](system-administrator-functions-and-system-diagnostics.md)for instructions.&#x20;
 {% endhint %}
 
-If a voter chooses to use VxMark:
+If a voter chooses to use VxMarkScan:
 
 * [ ] insert a poll worker card into the card reader beneath the accessible controller
 * [ ] select the voter's ballot style
@@ -49,7 +49,7 @@ After working through all contests, a _Review Your Votes_ screen appears that al
 <div><figure><img src="../.gitbook/assets/mk-review-votes.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/printing-official.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-review-votes-printed.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
-If the voter removes the ballot from the printer to review, the VxMark will ask if they are still voting. They should reload their ballot to cast the ballot. If the ballot is not reloaded, the VxMark will clear the ballot after five minutes of inactivity.
+If the voter removes the ballot from the printer to review, the VxMarkScan will ask if they are still voting. They should reload their ballot to cast the ballot. If the ballot is not reloaded, the VxMarkScan will clear the ballot after five minutes of inactivity.
 {% endhint %}
 
 The screen will show the ballot being cast and verify it was cast and dropped into the ballot bin.&#x20;
