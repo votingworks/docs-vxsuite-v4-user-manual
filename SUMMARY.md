@@ -80,21 +80,21 @@
 
 ## VxMarkScan
 
-* [VxMarkScan Hardware Setup](vxmark/vxmark-hardware-setup.md)
-* [Configure VxMarkScan](vxmark/configure-vxmark.md)
+* [VxMarkScan Hardware Setup](vxmarkscan/vxmarkscan-hardware-setup.md)
+* [Configure VxMarkScan](vxmarkscan/configure-vxmarkscan.md)
 * [Open and Close Polls](vxmark/open-and-close-polls.md)
 * [Voting Sessions](vxmark/voting-sessions.md)
 * [Voting Session Language & Accessibility Settings](vxmark/voting-session-language-and-accessibility-settings.md)
-* [Packing Up VxMarkScan](vxmark/packing-up-vxmark.md)
-* [VxMarkScan Error Messages](vxmark/vxmark-error-messages.md)
-* [VxMarkScan Diagnostics](vxmark/system-administrator-functions-and-system-diagnostics.md)
-* [Retaining and Removing Files - VxMarkScan](vxmark/retaining-and-removing-files-vxmark.md)
-* [VxMarkScan Checklist](vxmark/vxmark-checklist.md)
+* [Packing Up VxMarkScan](vxmarkscan/packing-up-vxmarkscan.md)
+* [VxMarkScan Error Messages](vxmarkscan/vxmarkscan-error-messages.md)
+* [VxMarkScan Diagnostics](vxmarkscan/diagnostics.md)
+* [Retaining and Removing Files - VxMarkScan](vxmarkscan/retaining-and-removing-files.md)
+* [VxMarkScan Checklist](vxmarkscan/vxmarkscan-checklist.md)
 
 ## System Maintenance Manual <a href="#system-maintenance" id="system-maintenance"></a>
 
 * [Maintenance Overview](system-maintenance/maintenance-overview.md)
 * [VxAdmin & VxCentralScan Maintenance Manual](system-maintenance/vxadmin-and-vxcentralscan-maintenance-manual.md)
 * [VxScan Maintenance Manual](system-maintenance/vxscan-maintenance-manual.md)
-* [VxMarkScan Maintenance Manual](system-maintenance/vxmark-maintenance-manual.md)
+* [VxMarkScan Maintenance Manual](system-maintenance/vxmarkscan-maintenance-manual.md)
 * [Approved Parts List](system-maintenance/approved-parts-list.md)

@@ -2,7 +2,7 @@
 
 ### Retaining Election Files
 
-After certification of an election and before configuring a new election, all election files and data should be saved and the election package removed from the previous election.&#x20;
+After certification of an election and before configuring a new election, all election files and data should be saved and the election package removed from the previous election.
 
 VotingWorks recommends retaining the following files after each election:
 
@@ -13,7 +13,7 @@ VotingWorks recommends retaining the following files after each election:
 * [ ] VxScan log file
 * [ ] VxCentralScan backup (if applicable - see [Retaining and Removing files - VxCS](../vxcentralscan/retaining-and-removing-files-vxcentralscan.md))
 * [ ] VxCentralScan log file (if applicable - see [Retaining and Removing files - VxCS](../vxcentralscan/retaining-and-removing-files-vxcentralscan.md))
-* [ ] VxMarkScan log file (if applicable - see [Retaining and Removing Files - VxMarkScan](../vxmark/retaining-and-removing-files-vxmark.md))
+* [ ] VxMarkScan log file (if applicable - see [Retaining and Removing Files - VxMarkScan](../vxmarkscan/retaining-and-removing-files.md))
 
 {% hint style="warning" %}
 Ballots should have been secured post-tabulation. Follow state guidelines to ensure proper retention.
@@ -28,7 +28,7 @@ All VotingWorks paper records and USB drives are specified to last at least 22 m
 
 ###
 
-### VxAdmin&#x20;
+### VxAdmin
 
 To save the recommended VxAdmin files, follow these steps when logged in as an election manager:
 
@@ -66,4 +66,3 @@ In VxAdmin, log in with a system administrator card, select _`Election`_ from th
 In VxScan, log in with an election manager card and select _`Unconfigure Machine`_.
 
 <figure><img src="../.gitbook/assets/election-manager-settings-unconfigure.png" alt="" width="375"><figcaption></figcaption></figure>
-

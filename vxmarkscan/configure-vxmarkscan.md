@@ -4,7 +4,7 @@
 The following steps must be completed by an election manager.
 {% endhint %}
 
-Before you configure VxMarkScan, you must set up the machine. Follow [VxMarkScan Hardware Setup](vxmark-hardware-setup.md) steps.
+Before you configure VxMarkScan, you must set up the machine. Follow [VxMarkScan Hardware Setup](vxmarkscan-hardware-setup.md) steps.
 
 To configure **VxMarkScan**, you must do two things in **VxAdmin**:
 
