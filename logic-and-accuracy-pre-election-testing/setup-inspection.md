@@ -4,7 +4,7 @@ VotingWorks recommends completing the following setup inspection procedures befo
 
 ## Software Inspection
 
-All users can use [signed-hash-validation.md](../miscellaneous/signed-hash-validation.md "mention") on each device to verify that the software is certified VotingWorks software and has not been tampered with. The software on each device should not change between elections except in cases of VotingWorks-managed upgrades.&#x20;
+All users can use [signed-hash-validation.md](../miscellaneous/signed-hash-validation.md "mention") on each device to verify that the software is certified VotingWorks software and has not been tampered with. The software on each device should not change between elections except in cases of VotingWorks-managed upgrades.
 
 ## Equipment Cleaning & Calibration
 
@@ -12,7 +12,7 @@ All devices with a scanner (VxScan, VxCentralScan, and VxMarkScan) should be cle
 
 ## Equipment Readiness Inspection
 
-Election managers can use each device's diagnostic interface to confirm the machine is ready for an election. The diagnostic interfaces and the exportable readiness reports are documented for each device in [vxadmin-diagnostics.md](../vxadmin-system-setup/vxadmin-diagnostics.md "mention"), [vxscan-diagnostics.md](../vxscan/vxscan-diagnostics.md "mention"), [system-administrator-functions-and-system-diagnostics.md](../vxmark/system-administrator-functions-and-system-diagnostics.md "mention"), and [vxcentralscan-diagnostics.md](../vxcentralscan/vxcentralscan-diagnostics.md "mention"). For each device:
+Election managers can use each device's diagnostic interface to confirm the machine is ready for an election. The diagnostic interfaces and the exportable readiness reports are documented for each device in [vxadmin-diagnostics.md](../vxadmin-system-setup/vxadmin-diagnostics.md "mention"), [vxscan-diagnostics.md](../vxscan/vxscan-diagnostics.md "mention"), [diagnostics.md](../vxmarkscan/diagnostics.md "mention"), and [vxcentralscan-diagnostics.md](../vxcentralscan/vxcentralscan-diagnostics.md "mention"). For each device:
 
 * [ ] verify configuration information matches election
 * [ ] verify storage capacity is greater than 90%
@@ -51,7 +51,7 @@ All required consumable levels should be checked:
   * [ ] thermal paper roll is loaded (included in readiness report)
 * [ ] VxMarkScan
   * [ ] thermal ballot paper supply is sufficient for expected number of voters
-  * [ ] headphone ear cover supply is sufficient for expected number of voters&#x20;
+  * [ ] headphone ear cover supply is sufficient for expected number of voters
 
 ## Backup Power Inspection
 
@@ -63,7 +63,7 @@ To confirm that the charge is full before an election, check the LED display. On
 
 While most seals are applied during the course of an election, some seals are applied when the device is first manufactured. These factory seals are intended to be permanent except in cases where VotingWorks performs a repair. The presence of each factory seal should be confirmed before each election as a check against hardware tampering.
 
-VxAdmin and VxCentralScan have one factory seal that wraps around the right side of the laptop. VxScan has three factory seals: bottom left panel, bottom right panel, top panel. VxMarkScan has one behind the touchscreen.&#x20;
+VxAdmin and VxCentralScan have one factory seal that wraps around the right side of the laptop. VxScan has three factory seals: bottom left panel, bottom right panel, top panel. VxMarkScan has one behind the touchscreen.
 
 All seals should start with `VX-` and should appear whole and free of defects.
 
@@ -80,7 +80,7 @@ The setup inspection procedures described above are intended to be completed bef
 * [ ] Confirm factory seals are present for each device
 
 {% hint style="warning" %}
-If these checks are not completed prior to election day, there's a risk that the system will not work properly.&#x20;
+If these checks are not completed prior to election day, there's a risk that the system will not work properly.
 
 * Software hash checks and hardware seal checks protect against tampering
 * Calibrating and cleaning scanners ensures proper ballot handling and interpretation
