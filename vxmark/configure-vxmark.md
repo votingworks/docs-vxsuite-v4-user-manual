@@ -19,15 +19,15 @@ The smart card reader is beneath the accessible controller. The USB port is acce
 
 ## Loading The Election Package
 
-An unconfigured machine will prompt you to insert an election manager card to log in and then a USB drive with the election package saved from VxAdmin to configure.&#x20;
+An unconfigured machine will prompt you to insert an election manager card to log in and then a USB drive with the election package saved from VxAdmin to configure.
 
 After the USB drive is inserted, VxMarkScan will automatically begin loading all ballot styles for the election. After the election package is done loading, the election manager menu screen will appear and VxMarkScan will be in test ballot mode.
 
-<div><figure><img src="../.gitbook/assets/mk-insert-card-to-configure.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-insert-usb.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-config (1).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/markscan-insert-card.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-insert-usb.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-config (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## Setting Ballot Mode
 
-Use the toggle button to switch between _`Test Ballot Mode`_ and _`Official Ballot Mode`_. The machine must be in official ballot mode on election day.  Review the [l-and-a-overview.md](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md "mention") instructions to understand which mode to use during logic and accuracy testing.
+Use the toggle button to switch between _`Test Ballot Mode`_ and _`Official Ballot Mode`_. The machine must be in official ballot mode on election day. Review the [l-and-a-overview.md](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md "mention") instructions to understand which mode to use during logic and accuracy testing.
 
 <figure><img src="../.gitbook/assets/vxmark-config (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
