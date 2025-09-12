@@ -4,8 +4,8 @@
 
 VxAdmin & VxCentralScan are simply COTS laptops that are sealed and installed with VotingWorks software. For additional reference information, see the following links:
 
-* **Hardware Overview -** [VxAdmin & VxCentralScan Hardware](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxadmin-and-vxcentralscan-hardware "mention")
-* **Software Functionality -** [VxAdmin Function](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxadmin-function "mention") & [VxCentralScan Function](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxcentralscan-function "mention")
+* **Hardware Overview -** [VxAdmin & VxCentralScan Hardware](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/readme/vxadmin-and-vxcentralscan-hardware "mention")
+* **Software Functionality -** [VxAdmin Function](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/readme/vxadmin-function "mention") & [VxCentralScan Function](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/readme/vxcentralscan-function "mention")
 * [**Manufacturer Datasheet**](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-elitebook-840-14in-g11/hp-elitebook-840-14in-g11-datasheet.pdf)
 * [**Manufacturer User Guide**](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-elitebook-840-14in-g11/hp-elitebook-840-14in-g11-user-guide.pdf)
 
