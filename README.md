@@ -32,7 +32,7 @@ VotingWorks Precinct System consists of two portable, self-contained products:
 1. **VxScan**: a voter-facing precinct scanner that scans paper ballots and notifies voters of ballot issues for second-chance voting.
 2. **VxMarkScan**: an accessible ballot marking device with a printer that produces a voter-verifiable paper ballot.
 
-<div><figure><img src=".gitbook/assets/vxscan-1200w.jpg" alt=""><figcaption><p>VxScan</p></figcaption></figure> <figure><img src=".gitbook/assets/vxmarkscan-1200w.jpg" alt=""><figcaption><p>VxMarkScan</p></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/vxscan-1200w.png" alt="" width="563"><figcaption><p>VxScan</p></figcaption></figure> <figure><img src=".gitbook/assets/vxmarkscan-1200w.png" alt="" width="563"><figcaption><p>VxMarkScan</p></figcaption></figure></div>
 
 Voters at the precinct vote on hand-marked paper ballots and cast their ballot into VxScan, with the option to instead vote and cast one's ballot on VxMarkScan if requested.
 
