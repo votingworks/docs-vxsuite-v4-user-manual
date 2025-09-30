@@ -65,7 +65,7 @@ For each election, you will create election manager and poll worker cards specif
 
 You will use the smart card reader in the lower lefthand side of your VxAdmin laptop to program a card.&#x20;
 
-<div><figure><img src="../.gitbook/assets/smart-cards-screen-emph.png" alt=""><figcaption><p>Smart cards screen without card inserted</p></figcaption></figure> <figure><img src="../.gitbook/assets/smartcard laptop.png" alt=""><figcaption><p>Insert smart card</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/smart-cards-screen-emph.png" alt=""><figcaption><p>Smart cards screen without card inserted</p></figcaption></figure> <figure><img src="../.gitbook/assets/smartcard-laptop-16_10.png" alt=""><figcaption><p>Insert smart card</p></figcaption></figure></div>
 
 Simply insert the card of your choice and select the correct button for the card.
 

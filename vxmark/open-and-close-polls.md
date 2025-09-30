@@ -14,31 +14,31 @@ If there is an orange callout that says "Test Ballot Mode" on the screen, contac
 
 **To open the polls:**
 
-* [ ] insert the poll worker card into the card reader beneath the accessible controller
-* [ ] select _`Open Polls`_
-* [ ] confirm by selecting _`Open Polls`_ again
-* [ ] remove the poll worker card
+* [ ] Insert the poll worker card into the card reader beneath the accessible controller
+* [ ] Select _`Open Polls`_
+* [ ] Confirm by selecting _`Open Polls`_ again
+* [ ] Remove the poll worker card
 
 <div><figure><img src="../.gitbook/assets/PXL_20241119_204113175.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-pw-menu-closed-initial copy.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-confirm-open-polls.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-* [ ] verify the number of ballots printed is zero
+* [ ] Verify the number of ballots printed is zero
 
-The polls are now open and VxMarkScan is ready for voters.&#x20;
+The polls are now open and VxMarkScan is ready for voters.
 
 ## Close Polls on VxMarkScan
 
-* [ ] remove ballot bin seal
-* [ ] remove ballots inside (secure for tabulation on VxCentralScan)
+* [ ] Remove ballot bin seal
+* [ ] Remove ballots inside (secure for tabulation on VxCentralScan)
 
-<figure><img src="../.gitbook/assets/VxMarkScan removing ballots from bin.png" alt="" width="188"><figcaption><p>remove ballot bin seal</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/VxMarkScan%20removing%20ballots%20from%20bin.png" alt="" width="188"><figcaption><p>remove ballot bin seal</p></figcaption></figure>
 
-* [ ] insert the poll worker card into the card reader beneath the accessible controller
-* [ ] select _`Close Polls`_
-* [ ] confirm by selecting _`Close Polls`_ again
+* [ ] Insert the poll worker card into the card reader beneath the accessible controller
+* [ ] Select _`Close Polls`_
+* [ ] Confirm by selecting _`Close Polls`_ again
 
 <div><figure><img src="../.gitbook/assets/vxmark-poll-worker-close-polls.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-confirm-close-polls.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-* [ ] remove the poll worker card
+* [ ] Remove the poll worker card
 
 The polls are now closed.
 
@@ -46,25 +46,22 @@ The polls are now closed.
 
 The _`Pause Voting`_ action is generally used by jurisdictions conducting early voting over multiple days or during an emergency situation. To pause voting and not allow ballots to be marked by VxMarkScan:
 
-* [ ] insert the poll worker card into the card reader beneath the accessible controller
-* [ ] select _`Pause Voting`_
-* [ ] confirm by selecting _`Pause Voting`_ again
+* [ ] Insert the poll worker card into the card reader beneath the accessible controller
+* [ ] Select _`Pause Voting`_
+* [ ] Confirm by selecting _`Pause Voting`_ again
 
 <div><figure><img src="../.gitbook/assets/vxmark-poll-worker-pause-voting.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-confirm-pause-voting.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-* [ ] remove the poll worker card
+* [ ] Remove the poll worker card
 
 Voting is now paused. When you want to resume voting:
 
-* [ ] insert the poll worker card into the card reader beneath the accessible controller
-* [ ] select _`Resume Voting`_
-* [ ] confirm by selecting _`Resume Voting`_ again&#x20;
-
-
+* [ ] Insert the poll worker card into the card reader beneath the accessible controller
+* [ ] Select _`Resume Voting`_
+* [ ] Confirm by selecting _`Resume Voting`_ again
 
 <div><figure><img src="../.gitbook/assets/mk-pw-menu-paused copy.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-confirm-resume.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-* [ ] remove the poll worker card
+* [ ] Remove the poll worker card
 
 Voting can now continue.
-

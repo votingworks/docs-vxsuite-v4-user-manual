@@ -8,25 +8,25 @@ The following steps must be completed by a poll worker.
 
 The _`Pause Voting`_ action in the poll worker screen is generally used by jurisdictions conducting early voting over multiple days or during an emergency situation. To pause voting and prevent ballots from being cast at VxScan:
 
-* [ ] insert a poll worker card and select _`Menu`_
-* [ ] select _`Pause Voting`_
+* [ ] Insert a poll worker card and select _`Menu`_
+* [ ] Select _`Pause Voting`_
 
 <div><figure><img src="../.gitbook/assets/close-polls copy 2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/pw-menu-while-open copy.png" alt=""><figcaption></figcaption></figure></div>
 
-* [ ] select _`Reprint Voting Paused Report`_ to print more reports as necessary
-* [ ] remove the poll worker card
+* [ ] Select _`Reprint Voting Paused Report`_ to print more reports as necessary
+* [ ] Remove the poll worker card
 
 <div><figure><img src="../.gitbook/assets/voting-is-paused.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voting-paused-voter.png" alt=""><figcaption></figcaption></figure></div>
 
 Voting is now paused. To resume voting:
 
-* [ ] insert a poll worker card and select _`Resume Voting`_
+* [ ] Insert a poll worker card and select _`Resume Voting`_
 
 <figure><img src="../.gitbook/assets/resume-voting-flow.png" alt="" width="375"><figcaption></figcaption></figure>
 
 One copy of the voting resumed report will print. If additional reports are needed, select _`Reprint Voting Resumed Report`_ to print more. The voting resumed report and the voting paused report should have the same ballots scanned count.
 
-* [ ] remove the poll worker card
+* [ ] Remove the poll worker card
 
 <figure><img src="../.gitbook/assets/voting-was-resumed.png" alt="" width="375"><figcaption></figcaption></figure>
 

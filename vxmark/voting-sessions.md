@@ -8,15 +8,15 @@ A voter may bring their own Personal Assistive Technology (PAT) device (ex. jell
 
 If a voter chooses to use VxMarkScan:
 
-* [ ] insert a poll worker card into the card reader beneath the accessible controller
-* [ ] select the voter's ballot style
+* [ ] Insert a poll worker card into the card reader beneath the accessible controller
+* [ ] Select the voter's ballot style
 
 <div><figure><img src="../.gitbook/assets/vxmark-poll-worker-insert-card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-poll-worker.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-poll-worker-select-ballot-style.png" alt=""><figcaption></figcaption></figure></div>
 
-* [ ] when prompted, feed one sheet of paper into the front input tray
-* [ ] once loaded, the screen will show that the voting session is active
-* [ ] review the precinct and ballot style to ensure it was selected correctly for the voter
-* [ ] remove the poll worker card
+* [ ] When prompted, feed one sheet of paper into the front input tray
+* [ ] Once loaded, the screen will show that the voting session is active
+* [ ] Review the precinct and ballot style to ensure it was selected correctly for the voter
+* [ ] Remove the poll worker card
 
 <div><figure><img src="../.gitbook/assets/Screenshot-VxMarkScan-2025-09-09T053003.489Z.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot-VxMarkScan-2025-09-09T053017.619Z.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot-VxMarkScan-2025-09-09T052531.678Z.png" alt=""><figcaption></figcaption></figure></div>
 

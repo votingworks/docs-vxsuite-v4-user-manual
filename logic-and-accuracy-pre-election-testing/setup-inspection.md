@@ -14,12 +14,12 @@ All devices with a scanner (VxScan, VxCentralScan, and VxMarkScan) should be cle
 
 Election managers can use each device's diagnostic interface to confirm the machine is ready for an election. The diagnostic interfaces and the exportable readiness reports are documented for each device in [vxadmin-diagnostics.md](../vxadmin-system-setup/vxadmin-diagnostics.md "mention"), [vxscan-diagnostics.md](../vxscan/vxscan-diagnostics.md "mention"), [diagnostics.md](../vxmarkscan/diagnostics.md "mention"), and [vxcentralscan-diagnostics.md](../vxcentralscan/vxcentralscan-diagnostics.md "mention"). For each device:
 
-* [ ] verify configuration information matches election
-* [ ] verify storage capacity is greater than 90%
-* [ ] on the central system only, verify battery level is greater than 90%
-* [ ] on the central system only, verify device is charging when connected to power
-* [ ] perform all available hardware diagnostic tests
-* [ ] export a readiness report to a USB drive
+* [ ] Verify configuration information matches election
+* [ ] Verify storage capacity is greater than 90%
+* [ ] On the central system only, verify battery level is greater than 90%
+* [ ] On the central system only, verify device is charging when connected to power
+* [ ] Perform all available hardware diagnostic tests
+* [ ] Export a readiness report to a USB drive
 
 Successfully completing all tests and producing a complete readiness report also confirms that all necessary cabling is functioning.
 
@@ -43,15 +43,15 @@ USB drives and the device's internal hard disk are the only voting device storag
 All required consumable levels should be checked:
 
 * [ ] VxAdmin
-  * [ ] toner level is greater than 10% (included in readiness report)
-  * [ ] paper is loaded, sufficient for printing your expected number of reports
+  * [ ] Toner level is greater than 10% (included in readiness report)
+  * [ ] Paper is loaded, sufficient for printing your expected number of reports
 * [ ] VxCentralScan
-  * [ ] imprinter toner level (toner should be replaced every six months or when unique identifier is not printed legibly scanned sheet)
+  * [ ] Imprinter toner level (toner should be replaced every six months or when unique identifier is not printed legibly scanned sheet)
 * [ ] VxScan
-  * [ ] thermal paper roll is loaded (included in readiness report)
+  * [ ] Thermal paper roll is loaded (included in readiness report)
 * [ ] VxMarkScan
-  * [ ] thermal ballot paper supply is sufficient for expected number of voters
-  * [ ] headphone ear cover supply is sufficient for expected number of voters
+  * [ ] Thermal ballot paper supply is sufficient for expected number of voters
+  * [ ] Headphone ear cover supply is sufficient for expected number of voters
 
 ## Backup Power Inspection
 

@@ -10,18 +10,18 @@ If there is an orange callout that says "Test Ballot Mode" on the screen, contac
 
 To open the polls:
 
-* [ ] insert the poll worker card into the card reader
-* [ ] select _`Open Polls`_
+* [ ] Insert the poll worker card into the card reader
+* [ ] Select _`Open Polls`_
 
 <div><figure><img src="../.gitbook/assets/VxScan insert poll worker card 2 (1).png" alt="" width="188"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/open-polls-landing-primary.png" alt="" width="375"><figcaption><p>Select <em>Open Polls</em></p></figcaption></figure></div>
 
-* [ ] one copy of the polls opened report will print
-* [ ] tear to remove the report
-* [ ] select _`Reprint Polls Opened Report`_ to print more reports as necessary
+* [ ] One copy of the polls opened report will print
+* [ ] Tear to remove the report
+* [ ] Select _`Reprint Polls Opened Report`_ to print more reports as necessary
 
 <div><figure><img src="../.gitbook/assets/VxScan Polls Opened Report.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/polls-are-open.png" alt="" width="375"><figcaption><p>Select <em>Reprint Polls Opened Report</em> to print more reports</p></figcaption></figure></div>
 
-* [ ] remove the poll worker card
+* [ ] Remove the poll worker card
 
 {% hint style="info" %}
 For primary elections, you may be prompted to print and tear multiple reports, one for each party.

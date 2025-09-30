@@ -17,7 +17,7 @@ Once the election package is saved to a USB drive, you can load the file to VxCe
 
 [Set up the VxCentralScan hardware](vxcentralscan-hardware-setup.md) and turn on the VxCentralScan laptop.&#x20;
 
-<div><figure><img src="../.gitbook/assets/cs-insert-em-card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/laptop with EM card inserted.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/cs-insert-em-card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/smartcard-laptop-16_10.png" alt=""><figcaption></figcaption></figure></div>
 
 Use an election manager card to unlock the machine. Insert the USB drive with the election package. The election package will automatically load.
 
@@ -38,7 +38,7 @@ To remove an election package and reset VxCentralScan:
 * [ ] Select _`Unconfigure Machine`_
 * [ ] Confirm by selecting _`Delete All Election Data`_
 
-<div><figure><img src="../.gitbook/assets/cs-settings.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/cs-unconfigure.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/cs-settings-1920w.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/cs-unconfigure-1920w.png" alt=""><figcaption></figcaption></figure></div>
 
 You can now reconfigure VxCentralScan with a different election package.
 

@@ -10,7 +10,7 @@ description: >-
 
 **VxCentralScan** is a commercial off-the-shelf (COTS) laptop pre-installed with VxCentralScan software that connects to a Ricoh scanner.
 
-![VxCentralScan in cases](<../.gitbook/assets/vxcentral in cases.png>) ![VxCentralScan set up](../.gitbook/assets/centralscan.jpg)
+![VxCentralScan in cases](<../.gitbook/assets/vxcentralscan-in-cases-22_10 (1).png>) ![VxCentralScan set up](../.gitbook/assets/centralscan.jpg)
 
 Two models of Ricoh scanners are supported: fi-8170 and fi-7600. The smaller fi-8170 (shown above) can scan batches of up to 30 ballots. The larger fi-7600 can scan larger batches of up to 100 ballots.
 
@@ -18,31 +18,31 @@ Two models of Ricoh scanners are supported: fi-8170 and fi-7600. The smaller fi-
 
 **VxCentralScan** can be set up through the following steps:
 
-1. **Unbox and set up Scanner**:&#x20;
-   * [ ] remove the scanner and power cord from the case
-   * [ ] attach and pull out the paper feed guide tray (a)
-   * [ ] pull out the paper holder tray (b)
-   * [ ] plug the USB cord (c) into the back of the scanner and into the laptop
-   * [ ] plug the power cord (d) into the back of the scanner and into an outlet or UPS power backup
-   * [ ] press the power button (e) to turn the scanner on
+1. **Unbox and set up scanner**:&#x20;
+   * [ ] Remove the scanner and power cord from the case
+   * [ ] Attach and pull out the paper feed guide tray (a)
+   * [ ] Pull out the paper holder tray (b)
+   * [ ] Plug the USB cord (c) into the back of the scanner and into the laptop
+   * [ ] Plug the power cord (d) into the back of the scanner and into an outlet or UPS power backup
+   * [ ] Press the power button (e) to turn the scanner on
 
-![Remove scanner and power cord from case](../.gitbook/assets/IMG_1675.jpeg) ![Attach and pull out paper trays](../.gitbook/assets/IMG_1676.jpeg) ![Plug cords in](../.gitbook/assets/PXL_20241125_223330294.jpg) ![Press the power button to turn on](../.gitbook/assets/IMG_1677.jpeg)
+![Remove scanner and power cord from case](../.gitbook/assets/ricoh-01-4_3.jpeg) ![Attach and pull out paper trays](../.gitbook/assets/ricoh-02-4_3.jpeg) ![Plug cords in](../.gitbook/assets/PXL_20241125_223330294.jpg) ![Press the power button to turn on](../.gitbook/assets/ricoh-03-4_3.jpeg)
 
 
 
-&#x32;**.  Setup VxCentralScan laptop:**
+&#x32;**.  Set up VxCentralScan laptop:**
 
-* [ ] remove and document seal(s) as necessary
-* [ ] open the case by lifting the latches on front
+* [ ] Remove and document seal(s) as necessary
+* [ ] Open the case by lifting the latches on front
 
 <div align="left"><figure><img src="../.gitbook/assets/image (397).png" alt=""><figcaption><p>remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/Vxcs case latches.png" alt=""><figcaption><p>lift the latches</p></figcaption></figure></div>
 
-* [ ] **prepare the components:**
-  * [ ] remove the **laptop**
-  * [ ] pull the **power cord** (a) out and plug into the laptop and an outlet
-  * [ ] pull the **USB hub** (b) out and plug into the laptop
-  * [ ] pull the **scanner cord** (c) out and plug into the USB hub and the scanner
-  * [ ] turn the laptop on
+* [ ] **Prepare the components:**
+  * [ ] Remove the **laptop**
+  * [ ] Pull the **power cord** (a) out and plug into the laptop and an outlet
+  * [ ] Pull the **USB hub** (b) out and plug into the laptop
+  * [ ] Pull the **scanner cord** (c) out and plug into the USB hub and the scanner
+  * [ ] Turn the laptop on
 
 ![Remove laptop](<../.gitbook/assets/PXL_20241119_220118873 (1).jpg>) ![Remove components](../.gitbook/assets/PXL_20241119_220606004.jpg) ![Plug components in](../.gitbook/assets/centralscan.jpg)
 
