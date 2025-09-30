@@ -32,8 +32,8 @@ All VotingWorks paper records and USB drives are specified to last at least 22 m
 
 To save the recommended VxAdmin files, follow these steps when logged in as an election manager:
 
-* [ ] Select _`Reports`_ from the side menu, select _`Full Election Tally Report`_, select _`Export Report PDF.`_
-* [ ] Then select _`Export Report CSV`_.
+* [ ] Select _`Reports`_ from the side menu, select _`Full Election Tally Report`_, select _`Export Report PDF`_
+* [ ] Then select _`Export Report CSV`_
 
 <div><figure><img src="../.gitbook/assets/vxadmin-reports-screen-official-report-button-highlight.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-full-election-report-official (1).png" alt=""><figcaption></figcaption></figure></div>
 

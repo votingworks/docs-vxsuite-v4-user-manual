@@ -14,7 +14,7 @@ description: >-
 
 ### **VxAdmin** Setup
 
-1. **Unbox and Setup Printer**:&#x20;
+1. **Unbox and Set Up Printer**:&#x20;
    * [ ] remove the printer and power cord from the case
    * [ ] plug the power cord into the back of the printer
    * [ ] plug the power cord into an outlet
@@ -23,7 +23,7 @@ description: >-
 
 <div><figure><img src="../.gitbook/assets/printer case.png" alt=""><figcaption><p>Remove printer and power cord</p></figcaption></figure> <figure><img src="../.gitbook/assets/printer plug.png" alt=""><figcaption><p>Plug the power cord into printer and an outlet</p></figcaption></figure> <figure><img src="../.gitbook/assets/printer power.png" alt=""><figcaption><p>Press the power button to turn on</p></figcaption></figure></div>
 
-2\. **Setup VxAdmin laptop:**
+2\. **Set Up VxAdmin laptop:**
 
 * [ ] remove and document seals as necessary,&#x20;
 * [ ] open the case by lifting the latches on the front

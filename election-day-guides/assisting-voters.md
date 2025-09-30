@@ -4,15 +4,15 @@
 
 VxScan is ready to accept a new ballot whenever it displays _Insert Your Ballot:_
 
-<figure><img src="../.gitbook/assets/insert-ballot-lang.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/insert-ballot-lang.png" alt="" width="375"><figcaption></figcaption></figure>
 
 A voter can then push their ballot onto the tray and into the scanner. When a ballot is properly inserted, the scanner will grip the ballot. If a ballot is inserted at an angle, the scanner may push the ballot back into the voter's hands without scanning, in which case the voter should simply re-insert their ballot. VxScan will then scan the ballot by pulling it in while showing the following screen:
 
-<figure><img src="../.gitbook/assets/please-wait.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/please-wait.png" alt="" width="375"><figcaption></figcaption></figure>
 
 If the ballot has no issues, the ballot will go into the ballot box and the screen will show that the ballot has been counted. Notice that the _Sheets Scanned_ count goes up.
 
-<figure><img src="../.gitbook/assets/ballot-counted.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ballot-counted.png" alt="" width="375"><figcaption></figcaption></figure>
 
 After a few seconds, VxScan will return to the _Insert Your Ballot_ screen in preparation for the next voter. &#x20;
 

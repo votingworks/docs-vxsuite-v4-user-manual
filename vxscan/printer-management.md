@@ -14,27 +14,27 @@ The paper roll can be replaced at any point of time, with the machine turned on 
 
 To replace or add a printer paper roll:
 
-* [ ] open the poll worker door
-* [ ] open the access door
-* [ ] press the release lever on the right side of the paper roll holder
-* [ ] remove the paper roll holder
+* [ ] Open the poll worker door
+* [ ] Open the access door
+* [ ] Press the release lever on the right side of the paper roll holder
+* [ ] Remove the paper roll holder
 
-<div><figure><img src="../.gitbook/assets/VxScan open panels to access printer roll.png" alt=""><figcaption><p>open panels</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan push green button printer roll.png" alt=""><figcaption><p>push the release lever</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan remove printer roll case.png" alt=""><figcaption><p>remove the paper roll case</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxScan open panels to access printer roll.png" alt=""><figcaption><p>Open panels</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan push green button printer roll.png" alt=""><figcaption><p>Push the release lever</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan remove printer roll case.png" alt=""><figcaption><p>Remove the paper roll case</p></figcaption></figure></div>
 
 {% hint style="warning" %}
 The paper roll must be installed in the correct orientation or it will not print. The correct orientation is indicated on the side of the paper roll holder.
 {% endhint %}
 
-* [ ] place one end of the paper roll on the paper roll holder
-* [ ] snap the other end of the paper roll onto the paper roll holder
-* [ ] pull a small amount of paper up and over the tear bar
+* [ ] Place one end of the paper roll on the paper roll holder
+* [ ] Snap the other end of the paper roll onto the paper roll holder
+* [ ] Pull a small amount of paper up and over the tear bar
 
 <div><figure><img src="../.gitbook/assets/VxScan put one side of paper on roll.png" alt=""><figcaption><p>place one end on the case</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan snap other side of paper roll in.png" alt=""><figcaption><p>place the other end on the case</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan pull paper up.png" alt=""><figcaption><p>pull paper through the feed</p></figcaption></figure></div>
 
-* [ ] snap the paper roll holder back into VxScan
-* [ ] remove excess paper by pulling toward you and tearing
+* [ ] Snap the paper roll holder back into VxScan
+* [ ] Remove excess paper by pulling toward you and tearing
 
-<div><figure><img src="../.gitbook/assets/VxScan put paper container back in.png" alt="" width="188"><figcaption><p>snap case back in to VxScan</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan remove any excess paper.png" alt="" width="188"><figcaption><p>remove excess paper</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxScan put paper container back in.png" alt="" width="188"><figcaption><p>Snap case back in to VxScan</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan remove any excess paper.png" alt="" width="188"><figcaption><p>Remove excess paper</p></figcaption></figure></div>
 
-* [ ] close the access door
-* [ ] close the poll worker door
+* [ ] Close the access door
+* [ ] Close the poll worker door

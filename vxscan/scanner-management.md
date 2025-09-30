@@ -6,9 +6,9 @@ VotingWorks recommends that someone cleans the scanner and calibrates double she
 
 The scanner must be clean to accurately detect marks on ballots. In order to clean the scanner:
 
-* [ ] open the poll worker door
-* [ ] open the access door
-* [ ] open the scanner
+* [ ] Open the poll worker door
+* [ ] Open the access door
+* [ ] Open the scanner
 
 <div><figure><img src="../.gitbook/assets/PXL_20241031_184055101 (1).jpg" alt="" width="188"><figcaption><p>Poll worker door closed</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184238006.jpg" alt="" width="188"><figcaption><p>Poll worker door open</p></figcaption></figure></div>
 
@@ -16,18 +16,18 @@ The scanner must be clean to accurately detect marks on ballots. In order to cle
 
 Once the scanner is open, you can use cleaning fluid and a microfiber or lint-free cloth to clean the scanner. Dampen the cloth and rub with moderate force on the scanning glass and the rollers:
 
-* [ ] clean upper glass
-* [ ] clean lower glass
-* [ ] clean upper rollers
-* [ ] clean lower rollers
+* [ ] Clean upper glass
+* [ ] Clean lower glass
+* [ ] Clean upper rollers
+* [ ] Clean lower rollers
 
 <figure><img src="../.gitbook/assets/PXL_20241031_203337811.jpg" alt="" width="375"><figcaption><p>Cleaning the scanner</p></figcaption></figure>
 
 After cleaning, simply close the following:
 
-* [ ] close scanner
-* [ ] close access door
-* [ ] close poll worker door
+* [ ] Close scanner
+* [ ] Close access door
+* [ ] Close poll worker door
 
 To confirm the scanner is clean and producing clear images, you may either run the [scanner diagnostic](vxscan-diagnostics.md) or simply start scanning - if streaks are detected in the images, the software will alert the user.
 
