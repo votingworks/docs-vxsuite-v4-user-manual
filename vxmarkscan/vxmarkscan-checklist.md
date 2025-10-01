@@ -4,73 +4,73 @@
 
 **Set up the stand**:
 
-* [ ] with the legs facing up, raise a leg until it snaps in place
-* [ ] continue until all legs are raised
-* [ ] flip the stand up right
-* [ ] snap the support bar in place on the back two legs
-* [ ] add power block holder to the back center on the top of the stand
-* [ ] insert power block into the holder so cords lay out each side
+* [ ] With the legs facing up, raise a leg until it snaps in place
+* [ ] Continue until all legs are raised
+* [ ] Flip the stand up right
+* [ ] Snap the support bar in place on the back two legs
+* [ ] Add power block holder to the back center on the top of the stand
+* [ ] Insert power block into the holder so cords lay out each side
 
 **Set up the ballot marking device:**
 
-* [ ] place the ballot marking device on the stand, aligning the stand bars with the bottom
-* [ ] plug in the power cord connector to the back of the ballot marking device
-* [ ] plug the power cord into the UPS battery backup
-* [ ] push the printer-scanner cover release button in
-* [ ] open the printer-scanner cover
-* [ ] slide the ballot bin into place
-* [ ] close the printer-scanner cover
-* [ ] document and seal the ballot bin (loop on right side) as required
-* [ ] place the privacy shield pegs in the holes on each side of the ballot marking device
-* [ ] plug the headphones into the front headphone jack
-* [ ] push the power button to turn VxMarkScan on
+* [ ] Place the ballot marking device on the stand, aligning the stand bars with the bottom
+* [ ] Plug in the power cord connector to the back of the ballot marking device
+* [ ] Plug the power cord into the UPS battery backup
+* [ ] Push the printer-scanner cover release button in
+* [ ] Open the printer-scanner cover
+* [ ] Slide the ballot bin into place
+* [ ] Close the printer-scanner cover
+* [ ] Document and seal the ballot bin (loop on right side) as required
+* [ ] Place the privacy shield pegs in the holes on each side of the ballot marking device
+* [ ] Plug the headphones into the front headphone jack
+* [ ] Push the power button to turn VxMarkScan on
 
 ### **Open Polls, Activate Voting Session, and Close Polls**
 
 **To open the polls:**
 
-* [ ] insert the poll worker card into the card reader beneath the accessible controller
-* [ ] select _`Open Polls`_
-* [ ] confirm by selecting _`Open Polls`_ again
-* [ ] remove the poll worker card
+* [ ] Insert the poll worker card into the card reader beneath the accessible controller
+* [ ] Select _`Open Polls`_
+* [ ] Confirm by selecting _`Open Polls`_ again
+* [ ] Remove the poll worker card
 
 **To activate a voting session:**
 
-* [ ] insert the poll worker card
-* [ ] select the voter's precinct (if in _All Precincts_ mode)
-* [ ] select the voter's ballot style
-* [ ] when prompted, feed one sheet of paper into the front input tray
-* [ ] once loaded, the screen will show that the voting session is active
-* [ ] review the ballot style and precinct to ensure it was selected correctly for the voter
-* [ ] remove the poll worker card
+* [ ] Insert the poll worker card
+* [ ] Select the voter's precinct (if in _All Precincts_ mode)
+* [ ] Select the voter's ballot style
+* [ ] When prompted, feed one sheet of paper into the front input tray
+* [ ] Once loaded, the screen will show that the voting session is active
+* [ ] Review the ballot style and precinct to ensure it was selected correctly for the voter
+* [ ] Remove the poll worker card
 
 **To close the polls:**
 
-* [ ] remove ballot bin seal
-* [ ] remove ballots inside (secure for central tabulation on VxCentralScan)
-* [ ] insert the poll worker card
-* [ ] select _`Close Polls`_
-* [ ] confirm by selecting _`Close Polls`_ again
-* [ ] remove the poll worker card
+* [ ] Remove ballot bin seal
+* [ ] Remove ballots inside (secure for central tabulation on VxCentralScan)
+* [ ] Insert the poll worker card
+* [ ] Select _`Close Polls`_
+* [ ] Confirm by selecting _`Close Polls`_ again
+* [ ] Remove the poll worker card
 
 ### Hardware Tear Down
 
 **Pack up the ballot marking device**:
 
-* [ ] push the power button to turn off
-* [ ] unplug and store the headphones
-* [ ] remove and store the privacy shield
-* [ ] push the printer-scanner release button to open the cover
-* [ ] lift the ballot bin to remove
-* [ ] unplug the power cord from the UPS battery backup
-* [ ] unplug the power cord connector from the back of the ballot marking device
-* [ ] remove and store the ballot marking device from the stand
-* [ ] remove and store the power block from the holder
-* [ ] remove and store the power block holder
+* [ ] Push the power button to turn off
+* [ ] Unplug and store the headphones
+* [ ] Remove and store the privacy shield
+* [ ] Push the printer-scanner release button to open the cover
+* [ ] Lift the ballot bin to remove
+* [ ] Unplug the power cord from the UPS battery backup
+* [ ] Unplug the power cord connector from the back of the ballot marking device
+* [ ] Remove and store the ballot marking device from the stand
+* [ ] Remove and store the power block from the holder
+* [ ] Remove and store the power block holder
 
 **Pack up the stand:**
 
-* [ ] remove the support bar
-* [ ] flip the stand over
-* [ ] with the legs facing up, pull a leg toward you and fold in
-* [ ] continue until all legs are folded down
+* [ ] Remove the support bar
+* [ ] Flip the stand over
+* [ ] With the legs facing up, pull a leg toward you and fold in
+* [ ] Continue until all legs are folded down
