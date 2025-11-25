@@ -54,7 +54,7 @@ VotingWorks recommends cleaning the scanner and replacing the thermal paper roll
 | ------------------------- | -------------- | -------- |
 | Scanner Cleaning Supplies | See above      | Various  |
 
-VotingWorks recommends cleaning the scanner for each election. VotingWorks also recommends keeping scanner cleaning supplies readily available on election day. Occasionally, the rollers will need to be replaced [as detailed in the maintenance manual](broken-reference/).
+VotingWorks recommends cleaning the scanner for each election. VotingWorks also recommends keeping scanner cleaning supplies readily available on election day. Occasionally, the rollers will need to be replaced [as detailed in the scanner's documentation.](https://github.com/votingworks/docs-vxsuite-v4/tree/main/hardware-assets/cots-documentation/central-system/ricoh-fi-8170).
 
 ## VxMarkScan Supply List
 
