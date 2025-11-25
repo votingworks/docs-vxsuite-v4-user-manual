@@ -27,7 +27,7 @@ VotingWorks recommends using a new USB drive for each election and each voting d
 
 ## Seals
 
-Cases should be secured with single use tamper evident numbered seals, such as heavy-duty [pull-tight seals](https://www.cambridgeseals.com/heavy-duty-pull-tight-seal). You may use different seals as preferred by your jurisdiction and may choose to use different types of seals, or even locks, if you confirm they fit through the seal points and properly secure the seal point. Locks shackles must be less than 5mm (3/16") in size to fit in all seal points.
+Cases should be secured with single use tamper evident numbered seals, such as heavy-duty pull-tight seals. You may use different seals as preferred by your jurisdiction and may choose to use different types of seals, or even locks, if you confirm they fit through the seal points and properly secure the seal point. Locks shackles must be less than 5mm (3/16") in size to fit in all seal points.
 
 ## Scanner Cleaning Supplies
 
@@ -54,7 +54,7 @@ VotingWorks recommends cleaning the scanner and replacing the thermal paper roll
 | ------------------------- | -------------- | -------- |
 | Scanner Cleaning Supplies | See above      | Various  |
 
-VotingWorks recommends cleaning the scanner for each election. VotingWorks also recommends keeping scanner cleaning supplies readily available on election day. Occasionally, the rollers will need to be replaced [as detailed in the maintenance manual](broken-reference).
+VotingWorks recommends cleaning the scanner for each election. VotingWorks also recommends keeping scanner cleaning supplies readily available on election day. Occasionally, the rollers will need to be replaced [as detailed in the maintenance manual](broken-reference/).
 
 ## VxMarkScan Supply List
 
