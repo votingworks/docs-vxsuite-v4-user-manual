@@ -2,8 +2,8 @@
 
 For reference information on VxMarkScan, see the following links:
 
-* **Hardware Overview -** [VxMarkScan Hardware](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/readme/vxmarkscan-hardware "mention")
-* **Software Functionality -** [VxMarkScan Function](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/readme/vxmarkscan-function "mention")
+* **Hardware Overview -** [VxMarkScan Hardware](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxmarkscan-hardware "mention")
+* **Software Functionality -** [VxMarkScan Function](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxmarkscan-function "mention")
 
 ## Hardware Maintenance
 

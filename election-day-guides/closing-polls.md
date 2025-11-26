@@ -20,5 +20,5 @@
 
 The polls are now closed. Below is an example of the polls closed report.
 
-<figure><img src="../.gitbook/assets/print-job-2024-11-22T184140.740Z.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pcr-west-lincoln.png" alt="" width="375"><figcaption></figcaption></figure>
 
