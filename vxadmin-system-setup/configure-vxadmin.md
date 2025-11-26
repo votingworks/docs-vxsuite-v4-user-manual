@@ -1,6 +1,6 @@
 # Configure VxAdmin
 
-For each election, you will configure VxAdmin by loading an election package provided by VotingWorks or downloaded from VxDesign. The [full election package specifications](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/readme/election-package) can be found in the technical data package.
+For each election, you will configure VxAdmin by loading an election package provided by VotingWorks or downloaded from VxDesign. The [full election package specifications](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/election-package) can be found in the technical data package.
 
 {% hint style="info" %}
 The following steps must be completed by a system administrator.

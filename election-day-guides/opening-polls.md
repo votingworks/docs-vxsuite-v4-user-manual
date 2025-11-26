@@ -33,7 +33,7 @@ The polls are now open. The number of ballots scanned should be zero. Verify the
 
 Below is an example of the polls opened report. All totals should be zero.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/por-west-lincoln.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 The poll worker door should remain sealed and secure at all times unless a poll worker requires access. Any unauthorized access should be reported to an election administrator immediately.

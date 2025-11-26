@@ -2,8 +2,8 @@
 
 For reference information on VxScan, see the following links:
 
-* **Hardware Overview -** [VxScan Hardware](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/readme/vxscan-hardware "mention")
-* **Software Functionality -** [VxScan Function](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/readme/vxscan-function "mention")
+* **Hardware Overview -** [VxScan Hardware](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxscan-hardware "mention")
+* **Software Functionality -** [VxScan Function](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxscan-function "mention")
 
 ## Hardware Maintenance
 
