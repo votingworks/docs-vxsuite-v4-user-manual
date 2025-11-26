@@ -37,8 +37,6 @@ Ballot count reports show the number of ballots cast. The ballot count report bu
 
 <div><figure><img src="../.gitbook/assets/vxadmin-reports-screen-unofficial-ballot-count-reports-highlight.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/ballot-count-report-voting-method.png" alt=""><figcaption></figcaption></figure></div>
 
-Ballot counts are recorded by type. Manual are counts recorded in the Manual Tally process, BMD are ballots from the VotingWorks ballot marking device (VxMarkScan), and HMPB are ballots hand marked by a voter and processed via VxScan or VxCentralScan.
-
 ### Write-In Adjudication Report
 
 The write-in adjudication report presents how all write-ins were adjudicated and the count of votes for write-in candidates.
