@@ -7,8 +7,8 @@ The following steps must be completed by an election manager.
 To complete adjudication, navigate to the `Adjudication` tab. The system settings for your election determine which contests are flagged for adjudication. Depending on those settings, adjudication may include:
 
 * Write-Ins - contests with a vote for a write-in which must be transcribed
-* Overvotes - contests with more votes than the maximum allowed
 * Marginal Marks - contests with ambiguous marks that may or may not represent voter intent
+* Overvotes - contests with more votes than the maximum allowed
 * Undervotes - contests with fewer votes than the maximum allowed
 
 Once CVRs have been loaded, the adjudication process can begin. Log in with an election manager card and select _`Adjudication`_ from the side menu.
