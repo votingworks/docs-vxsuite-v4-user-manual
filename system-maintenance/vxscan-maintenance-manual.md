@@ -7,7 +7,16 @@ For reference information on VxScan, see the following links:
 
 ## Hardware Maintenance
 
-The user should never try to perform complex repairs on VxScan. The top panel, behind which sits The screen and the speaker are sealed under the top panel and the computer and USB hub are sealed under the bottom left panel. The seals and panels should **not** be removed by end users. Only VotingWorks should perform repairs that require removing panels. Users are expected to keep the scanner clean, the printer paper loaded, and the screen and USB ports clean.
+Review the warnings and cautions listed below first.  Then below that, find specific recommendations about scanner cleaning, printer paper, and other maintenance.
+
+### Warnings &#x20;
+
+1. The user should **never** try to perform complex repairs on VxScan.&#x20;
+2. The top and bottom panel are sealed.  The screen and the speaker are sealed under the top panel, and the computer and USB hub are sealed under the bottom left panel. The seals and panels should **not** be removed by end users. Only VotingWorks should perform repairs that require removing panels.&#x20;
+3. Users are expected to keep the scanner clean, the printer paper loaded, and the screen and USB ports clean.
+4. **Never** disconnect the cables inside the unit, which can be seen after opening the poll worker door and scanner access door (see photo below). Users should never need to handle these cables. They should never handle them while the unit is plugged in. These cables are normally connected securely and safely. However, if any of these cables are disconnected or loosened in any way, then note how it happened and how the machine was behaving at the time, and then contact VotingWorks with these details to confirm how to proceed. If the power was on when a cable was disconnected, then power down the machine before continuing to use it or before making any more changes. If the power was off when a cable was disconnected, still confer with VotingWorks before proceeding. &#x20;
+
+<figure><img src="../.gitbook/assets/vxscan-scanner-cables-focus.jpg" alt="Photo of cables seen after opening scanner access door.  From left to right on the scanner metal: ribbon cable, twisted pair of wires, and a single wire. On the far right: another single wire connected to the scanner access door." width="342"><figcaption><p>Do not disconnect, cut, unplug, or remove these cables or wires.</p></figcaption></figure>
 
 ### Scanner Cleaning
 
