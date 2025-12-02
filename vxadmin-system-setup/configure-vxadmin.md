@@ -12,7 +12,7 @@ When VxAdmin is not configured, the screen will prompt you to _Insert a USB driv
 
 Once configured, the election screen will display the title and date of your election as well as the date and time VxAdmin was configured.
 
-<div><figure><img src="../.gitbook/assets/election-screen-unconfigured (2).png" alt=""><figcaption><p>System administrator election screen before configuring</p></figcaption></figure> <figure><img src="../.gitbook/assets/election-screen-select-election-package (1).png" alt=""><figcaption><p>System administrator election screen listing available election packages</p></figcaption></figure> <figure><img src="../.gitbook/assets/election-screen-configured (2).png" alt=""><figcaption><p>System administrator election screen once configured</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/election-screen-unconfigured (3).png" alt=""><figcaption><p>System administrator election screen before configuring</p></figcaption></figure> <figure><img src="../.gitbook/assets/election-screen-select-election-package (1).png" alt=""><figcaption><p>System administrator election screen listing available election packages</p></figcaption></figure> <figure><img src="../.gitbook/assets/election-screen-configured (2).png" alt=""><figcaption><p>System administrator election screen once configured</p></figcaption></figure></div>
 
 ## Remove Election
 
@@ -20,6 +20,6 @@ If you need to change an election package or reset VxAdmin for the next election
 
 Select _`Election`_ from the side menu and select _`Unconfigure Machine`_.
 
-<figure><img src="../.gitbook/assets/election-screen-configured-highlighted (2).png" alt="" width="375"><figcaption><p>Unconfiguring VxAdmin</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/unconfigure-button.png" alt="" width="375"><figcaption><p>Unconfiguring VxAdmin</p></figcaption></figure>
 
 After confirming by selecting _`Delete All Election Data`_ , you will return to the initial VxAdmin Election screen. VxAdmin can be reconfigured by loading a new election package by repeating the steps above.
