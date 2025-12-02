@@ -4,7 +4,7 @@
 
 After VxMarkScan is turned on, the screen will show _Polls Closed:_
 
-<figure><img src="../.gitbook/assets/mk-polls-closed.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pw-insert-card-closed-initial.png" alt="" width="188"><figcaption></figcaption></figure>
 
 Verify the election name, election date, and precinct are correct in the bottom left corner.
 
@@ -19,7 +19,7 @@ If there is an orange callout that says "Test Ballot Mode" on the screen, contac
 * [ ] Confirm by selecting _`Open Polls`_ again
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/PXL_20241119_204113175.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-pw-menu-closed-initial copy.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-confirm-open-polls.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/PXL_20241119_204113175.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/pw-menu-open-polls-button (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/pw-menu-open-polls-confirm-button (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 * [ ] Verify the number of ballots printed is zero
 
@@ -36,7 +36,7 @@ The polls are now open and VxMarkScan is ready for voters.
 * [ ] Select _`Close Polls`_
 * [ ] Confirm by selecting _`Close Polls`_ again
 
-<div><figure><img src="../.gitbook/assets/vxmark-poll-worker-close-polls.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-confirm-close-polls.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/pw-menu-close-polls-button.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/pw-menu-close-polls-confirm-button (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 * [ ] Remove the poll worker card
 
@@ -50,7 +50,7 @@ The _`Pause Voting`_ action is generally used by jurisdictions conducting early 
 * [ ] Select _`Pause Voting`_
 * [ ] Confirm by selecting _`Pause Voting`_ again
 
-<div><figure><img src="../.gitbook/assets/vxmark-poll-worker-pause-voting.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-confirm-pause-voting.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/pw-menu-pause-voting-button.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/pw-menu-pause-voting-confirm-button.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 * [ ] Remove the poll worker card
 
@@ -60,7 +60,7 @@ Voting is now paused. When you want to resume voting:
 * [ ] Select _`Resume Voting`_
 * [ ] Confirm by selecting _`Resume Voting`_ again
 
-<div><figure><img src="../.gitbook/assets/mk-pw-menu-paused copy.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-confirm-resume.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/pw-menu-resume-voting-button.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/pw-menu-resume-voting-confirm-button.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 * [ ] Remove the poll worker card
 
