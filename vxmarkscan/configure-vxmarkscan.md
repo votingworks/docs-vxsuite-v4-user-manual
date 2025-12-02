@@ -23,13 +23,13 @@ An unconfigured machine will prompt you to insert an election manager card to lo
 
 After the USB drive is inserted, VxMarkScan will automatically begin loading all ballot styles for the election. After the election package is done loading, the election manager menu screen will appear and VxMarkScan will be in test ballot mode.
 
-<div><figure><img src="../.gitbook/assets/markscan-insert-card.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-insert-usb.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-config (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/em-insert-card.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/em-insert-usb.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/em-menu.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## Setting Ballot Mode
 
 Use the toggle button to switch between _`Test Ballot Mode`_ and _`Official Ballot Mode`_. The machine must be in official ballot mode on election day. Review the [l-and-a-overview.md](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md "mention") instructions to understand which mode to use during logic and accuracy testing.
 
-<figure><img src="../.gitbook/assets/vxmark-config (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/em-menu-official-ballot-mode-button.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/em-menu-test-ballot-mode-button.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## Remove Election Data & Configuration
 
@@ -38,7 +38,7 @@ To remove election configuration (and all data) from VxMarkScan:
 * [ ] Log in with an election manager card
 * [ ] Select _`Unconfigure Machine`_
 
-<figure><img src="../.gitbook/assets/vxmark-config-done.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/em-menu-unconfigure-machine-button.png" alt="" width="188"><figcaption></figcaption></figure>
 
 * [ ] Confirm by selecting _`Delete All Election Data`_
 
