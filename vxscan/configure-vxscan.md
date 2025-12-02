@@ -55,7 +55,7 @@ You can now configure VxScan with a different election package.
 * [ ] Insert a system administrator card
 * [ ] Select _`Unconfigure Machine`_
 
-<figure><img src="../.gitbook/assets/vxscan-sys-admin-unconfigure-machine (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-sys-admin-unconfigure-machine.png" alt="" width="375"><figcaption></figcaption></figure>
 
 * [ ] Confirm by selecting _`Delete All Election Data.`_
 
