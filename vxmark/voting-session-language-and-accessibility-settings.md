@@ -24,7 +24,7 @@ Four different color options are available for users. While we provide a short d
 
 **Black text, white background** - used by people who need the highest contrast because of light vision or color perception disabilities or aging.
 
-<div><figure><img src="../.gitbook/assets/VxMarkScan Color White text black background.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMarkScan Color Gray text dark bkgd.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMarkScan Dark text light background.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMarkScan color black text white bkgd.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxMark Color White text black background.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark Color Gray text dark bkgd.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark Dark text light background.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark color black text white bkgd.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Text Size
 
@@ -40,7 +40,7 @@ Select _`Mute Audio`_ to mute all sound.  Select _`Enable Audio-Only Mode`_ to h
 
 Headphones should be sanitized after a voting session using the audio-tactile interface. To do so, simply discard the headphone ear covers and replace with a new set of ear covers. Disposable ear covers suitable for VxMarkScan are listed in the [supply-list.md](../miscellaneous/supply-list.md "mention").
 
-<div><figure><img src="../.gitbook/assets/VxMarkScan Audit.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMarkScan Setting Audio Unmute.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMarkScan Audio-Only Mode.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxMark Audit.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark Setting Audio Unmute.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark Audio-Only Mode.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 All selections above are made for a specific voting session and will reset with the next voter.
