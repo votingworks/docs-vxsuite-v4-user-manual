@@ -5,7 +5,7 @@
 * [ ] One copy of the polls closed report will print
 * [ ] Tear to remove the report
 
-<div><figure><img src="../.gitbook/assets/VxScan insert poll worker card 2.png" alt="" width="375"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/close-polls copy.png" alt="" width="563"><figcaption><p>Select <em>Close Polls</em></p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan Polls Closed Report Printing.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxScan insert poll worker card 2 (1).png" alt="" width="375"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/close-polls copy.png" alt="" width="563"><figcaption><p>Select <em>Close Polls</em></p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan Polls Closed Report Printing.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 * [ ] Select _`Reprint Polls Closed Report`_ to print more reports as necessary
 * [ ] Remove the poll worker card
@@ -21,4 +21,3 @@
 The polls are now closed. Below is an example of the polls closed report.
 
 <figure><img src="../.gitbook/assets/pcr-west-lincoln.png" alt="" width="375"><figcaption></figcaption></figure>
-

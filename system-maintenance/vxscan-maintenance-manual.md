@@ -7,28 +7,28 @@ For reference information on VxScan, see the following links:
 
 ## Hardware Maintenance
 
-Review the warnings and cautions listed below first.  Then below that, find specific recommendations about scanner cleaning, printer paper, and other maintenance.
+Review the warnings and cautions listed below first. Then below that, find specific recommendations about scanner cleaning, printer paper, and other maintenance.
 
-### Warnings &#x20;
+### Warnings
 
-1. The user should **never** try to perform complex repairs on VxScan.&#x20;
-2. The top and bottom panel are sealed.  The screen and the speaker are sealed under the top panel, and the computer and USB hub are sealed under the bottom left panel. The seals and panels should **not** be removed by end users. Only VotingWorks should perform repairs that require removing panels.&#x20;
+1. The user should **never** try to perform complex repairs on VxScan.
+2. The top and bottom panel are sealed. The screen and the speaker are sealed under the top panel, and the computer and USB hub are sealed under the bottom left panel. The seals and panels should **not** be removed by end users. Only VotingWorks should perform repairs that require removing panels.
 3. Users are expected to keep the scanner clean, the printer paper loaded, and the screen and USB ports clean.
-4. **Never** disconnect the cables inside the unit, which can be seen after opening the poll worker door and scanner access door (see photo below). Users should never need to handle these cables. They should never handle them while the unit is plugged in. These cables are normally connected securely and safely. However, if any of these cables are disconnected or loosened in any way, then note how it happened and how the machine was behaving at the time, and then contact VotingWorks with these details to confirm how to proceed. If the power was on when a cable was disconnected, then power down the machine before continuing to use it or before making any more changes. If the power was off when a cable was disconnected, still confer with VotingWorks before proceeding. &#x20;
+4. **Never** disconnect the cables inside the unit, which can be seen after opening the poll worker door and scanner access door (see photo below). Users should never need to handle these cables. They should never handle them while the unit is plugged in. These cables are normally connected securely and safely. However, if any of these cables are disconnected or loosened in any way, then note how it happened and how the machine was behaving at the time, and then contact VotingWorks with these details to confirm how to proceed. If the power was on when a cable was disconnected, then power down the machine before continuing to use it or before making any more changes. If the power was off when a cable was disconnected, still confer with VotingWorks before proceeding.
 
 <figure><img src="../.gitbook/assets/vxscan-scanner-cables-focus.jpg" alt="Photo of cables seen after opening scanner access door.  From left to right on the scanner metal: ribbon cable, twisted pair of wires, and a single wire. On the far right: another single wire connected to the scanner access door." width="342"><figcaption><p>Do not disconnect, cut, unplug, or remove these cables or wires.</p></figcaption></figure>
 
 ### Scanner Cleaning
 
-The scanner should be cleaned for every election before pre-election testing and again after pre-election testing. For instructions, see [scanner-management.md](../vxscan/scanner-management.md "mention") in the user manual. VotingWorks recommends using Ricoh Cleaner F1 (PN: PA03950-0352) with cleaning wipes (PN: CG90000-120001) or equivalent. Other scanner-specific cleaning fluids or greater than 70% isopropyl alcohol can be used for the cleaning fluid. A microfiber or lint-free cloth can be used for the wipe.  You may also blow out paper dust from the scanner with compressed air after wiping.
+The scanner should be cleaned for every election before pre-election testing and again after pre-election testing. For instructions, see [scanner-management.md](../vxscan/scanner-management.md "mention") in the user manual. VotingWorks recommends using Ricoh Cleaner F1 (PN: PA03950-0352) with cleaning wipes (PN: CG90000-120001) or equivalent. Other scanner-specific cleaning fluids or greater than 70% isopropyl alcohol can be used for the cleaning fluid. A microfiber or lint-free cloth can be used for the wipe. You may also blow out paper dust from the scanner with compressed air after wiping.
 
 If the software detects streaks in a scanned ballot, the user will be alerted and prompted to clean the scanner. To identify streaks proactively, an election manager or system administrator can perform a test scan in the diagnostics interface. For instructions, see the [vxscan-diagnostics.md](../vxscan/vxscan-diagnostics.md "mention") article.
 
-If the scanner is not used for an election, then the scanner should still be cleaned after approximately 15,000 scans or every 6 months, whichever comes first.  After 100,000 scans, it is recommended that the scanner rollers are inspected and cleaned using wipes and alcohol as mentioned above, if they were not cleaned previously.
+If the scanner is not used for an election, then the scanner should still be cleaned after approximately 15,000 scans or every 6 months, whichever comes first. After 100,000 scans, it is recommended that the scanner rollers are inspected and cleaned using wipes and alcohol as mentioned above, if they were not cleaned previously.
 
 ### Printer Paper Management
 
-VxScan features a full letter-width report printer. In order for VxScan to print reports, it must be properly loaded with a thermal paper roll. Polls cannot be opened or closed without the paper installed. The thermal paper rolls are provided by VotingWorks. While it is possible to use thermal rolls from another vendor that meet the requirements specified in the [approved-parts-list.md](approved-parts-list.md "mention"), it is not recommend.&#x20;
+VxScan features a full letter-width report printer. In order for VxScan to print reports, it must be properly loaded with a thermal paper roll. Polls cannot be opened or closed without the paper installed. The thermal paper rolls are provided by VotingWorks. While it is possible to use thermal rolls from another vendor that meet the requirements specified in the [approved-parts-list.md](approved-parts-list.md "mention"), it is not recommended.
 
 The thermal paper rolls are 78' in length. The amount of paper used will depend on the number of reports printed and the number of contests appearing on the report. 78' is enough for an entire election, including pre-election testing, in almost all cases. VotingWorks recommends replacing the thermal paper roll once for each election. Customers may choose to re-use rolls between elections but, in doing so, greatly increase the risk of running out of paper in the middle of an election. In those situations, an unprepared poll worker may have to replace paper or wait for an election administrator.
 
@@ -57,4 +57,3 @@ VotingWorks recommends that all cast vote records are backed up to a USB drive b
 VotingWorks recommends having scanner cleaning supplies immediately available at all times. If streaking is detected in the scanned images, the scanner will have to be cleaned to continue scanning. In order to avoid delays in voting, scanning cleaning supplies should be at all voting locations.
 
 VotingWorks recommends having extra thermal paper rolls easily available at all times. If thermal paper runs out, the polls cannot be opened or closed until paper is reloaded. Pre-election testing typically prevents paper issues, but it may still occur when election managers do not load new rolls for each election. Extra thermal paper rolls should either be available at every voting location or transportable to voting locations within a reasonable time window.
-

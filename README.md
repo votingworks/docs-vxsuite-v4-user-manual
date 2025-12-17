@@ -19,7 +19,7 @@ VotingWorks Central System includes two components:
 
 1. **VxAdmin**: the main tool for local election administrators, which programs elections, tabulates and reports results on election night.
 
-<figure><img src=".gitbook/assets/vxadmin-unpacked-1600w.png" alt=""><figcaption><p>VxAdmin</p></figcaption></figure>
+<figure><img src=".gitbook/assets/vxadmin-unpacked (1).png" alt=""><figcaption><p>VxAdmin</p></figcaption></figure>
 
 2. **VxCentralScan** (optional): a central scanner used for rapidly scanning absentee or vote by mail ballots.
 
