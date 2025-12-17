@@ -29,9 +29,6 @@ The polls are now open and VxMarkScan is ready for voters.
 
 * [ ] Remove ballot bin seal
 * [ ] Remove ballots inside (secure for tabulation on VxCentralScan)
-
-<figure><img src="../.gitbook/assets/VxMarkScan%20removing%20ballots%20from%20bin.png" alt="" width="188"><figcaption><p>remove ballot bin seal</p></figcaption></figure>
-
 * [ ] Insert the poll worker card into the card reader beneath the accessible controller
 * [ ] Select _`Close Polls`_
 * [ ] Confirm by selecting _`Close Polls`_ again

@@ -16,12 +16,9 @@ description: >-
 \
 **VxScan** can be set up through the following steps:
 
-1.  **Set up the ballot box:**
-
-    * [ ] Release the straps on each side
-    * [ ] Secure the straps on the underside of the lid
-
-
+1. **Set up the ballot box:**
+   * [ ] Release the straps on each side
+   * [ ] Secure the straps on the underside of the lid
 
 <div><figure><img src="../.gitbook/assets/PXL_20241031_182758328.jpg" alt=""><figcaption><p>Straps when closed</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_182921409.jpg" alt=""><figcaption><p>Fastening strap to lid</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_182928523.jpg" alt=""><figcaption><p>Tightening strap to lid</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183004440.jpg" alt=""><figcaption><p>Straps for set up</p></figcaption></figure></div>
 
@@ -46,7 +43,7 @@ description: >-
 * [ ] Push the purple security bolt down to secure the case to the ballot box
 * [ ] Close the poll worker door and seal and document as required
 
-<div><figure><img src="../.gitbook/assets/PXL_20241031_183949135.jpg" alt="" width="188"><figcaption><p>Pressing the security bolt down</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184055101.jpg" alt="" width="188"><figcaption><p>Sealing the poll worker door</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/PXL_20241031_183949135.jpg" alt="" width="188"><figcaption><p>Pressing the security bolt down</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184055101 (1).jpg" alt="" width="188"><figcaption><p>Sealing the poll worker door</p></figcaption></figure></div>
 
 * [ ] Remove the power cord from its storage place
 * [ ] Plug the power cord into the back of the scanner and then into an outlet or power backup
@@ -65,9 +62,9 @@ Be sure to assemble VxScan in an area of the room that allows for voter privacy 
 
 ## Auxiliary Bin
 
-VxScan has an auxiliary bin that can be used to for holding voted ballots when necessary. Most often this would be used in an emergency when the tabulator is not accepting ballots.
+VxScan has an auxiliary bin that can be used for holding voted ballots when necessary. Most often this would be used in an emergency when the tabulator is not accepting ballots.
 
-To open the auxiliary bin, push the handle down and pull the bin towards you. Stop at the mid-way point. Seal the auxiliary bin when in use.&#x20;
+To open the auxiliary bin, push the handle down and pull the bin towards you. Stop at the mid-way point. Seal the auxiliary bin when in use.
 
 <div><figure><img src="../.gitbook/assets/vxscan emergency bin.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan emergency bin out and sealed.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan - emergency bin putting a ballot in.png" alt=""><figcaption></figcaption></figure></div>
 

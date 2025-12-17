@@ -14,18 +14,18 @@ If the ballot has no issues, the ballot will go into the ballot box and the scre
 
 <figure><img src="../.gitbook/assets/ballot-counted.png" alt="" width="375"><figcaption></figcaption></figure>
 
-After a few seconds, VxScan will return to the _Insert Your Ballot_ screen in preparation for the next voter. &#x20;
+After a few seconds, VxScan will return to the _Insert Your Ballot_ screen in preparation for the next voter.
 
 If the ballot was not counted because of an issue, the scanner will hold the ballot. There could be any of the following issues with the ballot depending on state law or rule.
 
 ### Overvoted Ballots
 
-A ballot is considered overvoted if the scanner recognizes more than the allowed number of votes for a particular race. For example, a voter marked two candidates in a race where they must make a single choice. If the voter would like to correct their error, they should select _`Return Ballot`_ and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select _`Cast Ballot`_ and then confirm by selecting _`Cast Ballot`_ again.  All votes will be counted in correctly voted contests but the overvoted contest will be ignored.
+A ballot is considered overvoted if the scanner recognizes more than the allowed number of votes for a particular race. For example, a voter marked two candidates in a race where they must make a single choice. If the voter would like to correct their error, they should select _`Return Ballot`_ and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select _`Cast Ballot`_ and then confirm by selecting _`Cast Ballot`_ again. All votes will be counted in correctly voted contests but the overvoted contest will be ignored.
 
 <figure><img src="../.gitbook/assets/overvoted-ballot.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-An overvote will also be detected when a candidate is marked and writing is detected on the write-in line for the same contest if it exceeds the number of allowed votes (when required by law or rule). This is true even if the bubble is not marked.&#x20;
+An overvote will also be detected when a candidate is marked and writing is detected on the write-in line for the same contest if it exceeds the number of allowed votes (when required by law or rule). This is true even if the bubble is not marked.
 {% endhint %}
 
 ### Blank Ballots
@@ -40,7 +40,7 @@ If the voter would like to correct their error, they should select _`Return Ball
 
 ### Undervotes
 
-If a state requires notification to the voter that a specific contest has fewer than the maximum selections marked, the voter will be prompted to review their ballot.&#x20;
+If a state requires notification to the voter that a specific contest has fewer than the maximum selections marked, the voter will be prompted to review their ballot.
 
 <figure><img src="../.gitbook/assets/undervoted-ballot.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -48,7 +48,7 @@ If the voter would like to correct their error, they should select _`Return Ball
 
 ### Multiple Corrections
 
-If a voter has both undervotes and overvotes on their ballot and the state requires review of both, the _Review Your Ballot_ screen will list the number of contests with each issue. Select _`View contests`_ to see the full list of contests that were undervoted or overvoted.&#x20;
+If a voter has both undervotes and overvotes on their ballot and the state requires review of both, the _Review Your Ballot_ screen will list the number of contests with each issue. Select _`View contests`_ to see the full list of contests that were undervoted or overvoted.
 
 <figure><img src="../.gitbook/assets/multiple-issues.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -56,13 +56,13 @@ If the voter would like to correct their errors, they should select _`Return Bal
 
 ### Adjusting Color and Size
 
-Simple changes to the screens color and size can be very helpful for voters with low vision and other cognitive disabilities. Selecting _`Settings`_ in the upper left hand corner of the screen provides the voter with different options. Select _`Color`_ to change the text and background color and select _`Text Size`_ to change the text size.
+Simple changes to the screen's color and size can be very helpful for voters with low vision and other cognitive disabilities. Selecting _`Settings`_ in the upper left hand corner of the screen provides the voter with different options. Select _`Color`_ to change the text and background color and select _`Text Size`_ to change the text size.
 
 <div><figure><img src="../.gitbook/assets/insert-ballot-lang copy 2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/color-mode.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/text-size-mode.png" alt=""><figcaption></figcaption></figure></div>
 
 #### **Text and Background Color**
 
-Four different color options are available for users. While we provide a short description of who may benefit most from these different options, please note that the user likely knows what setting is best for them.&#x20;
+Four different color options are available for users. While we provide a short description of who may benefit most from these different options, please note that the user likely knows what setting is best for them.
 
 **White text, black background** - used by a person that finds white backgrounds too bright due to visual disabilities.
 
@@ -74,11 +74,11 @@ Four different color options are available for users. While we provide a short d
 
 #### Text Size
 
-The default text size is _`Medium`_.  A user can select _`Small`_, _`Large`_, or _`Extra-Large`_ based on their preferences.  Select _`Done`_ to save the selection.&#x20;
+The default text size is _`Medium`_. A user can select _`Small`_, _`Large`_, or _`Extra-Large`_ based on their preferences. Select _`Done`_ to save the selection.
 
 ### Language
 
-If a jurisdiction provides language options to voters, a voter may select that language by selecting _`English`_. Next, they'll select the language of their choice and select _`Done`_.&#x20;
+If a jurisdiction provides language options to voters, a voter may select that language by selecting _`English`_. Next, they'll select the language of their choice and select _`Done`_.
 
 {% include "../.gitbook/includes/untitled.md" %}
 
