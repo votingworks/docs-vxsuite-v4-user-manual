@@ -40,6 +40,16 @@ When the scanner is not in use between elections, the thermal paper roll should 
 
 VotingWorks recommends cleaning the screen and USB ports as needed. The screen can be cleaned by gently wiping with cleaning wipes such as ULINE S-12236 or equivalent. The USB ports can be cleaned by blowing them with air in a can, such as ULINE S-6771 or equivalent, from a distance of at least one foot. Read all manufacturer safety instructions before using air in a can.
 
+### Long-Term Hardware Maintenance
+
+To keep a VxScan machine functioning smoothly over many years, it is recommended to service it periodically after every 100,000 scans or every 3 years, whichever comes first.  At these intervals, the following preventative maintenance tasks can be done:
+
+1. [Clean the scanner glass and rollers](vxscan-maintenance-manual.md#scanner-cleaning). (Can be done by customer)
+2. [Recalibrate the image sensors](../vxscan/scanner-management.md#image-sensor-calibration). (Can be done by customer)
+3. Test the scanner speed. Recalibrate its speed if needed. (Should be done by VotingWorks technician)
+
+Contact VotingWorks support staff  maintenance tasks
+
 ## Software Maintenance
 
 There are no required steps for maintaining the software or firmware. The software is installed by VotingWorks and cannot be modified. The underlying databases for all applications are self-maintaining and do not need to be tuned by end users.
