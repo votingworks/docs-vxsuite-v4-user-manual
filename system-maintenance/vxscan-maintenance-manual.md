@@ -50,6 +50,10 @@ To keep a VxScan machine functioning smoothly over many years, it is recommended
 
 Contact VotingWorks support staff to schedule help with long-term maintenance tasks.
 
+## Ballot Box (VxBox) Maintenance
+
+The ballot box that works with VxScan requires little maintenance, but it should be inspected and cleaned as needed for every election before pre-election testing and again after pre-election testing.  Inspection confirms that it works as expected and checks for debris in or on the ballot box.  Cleaning should remove debris from inside the ballot ballot box bag and inside the emergency bin.  The plastic surfaces can also be wiped down with a lint-free wipe, or equivalent.
+
 ## Software Maintenance
 
 There are no required steps for maintaining the software or firmware. The software is installed by VotingWorks and cannot be modified. The underlying databases for all applications are self-maintaining and do not need to be tuned by end users.
