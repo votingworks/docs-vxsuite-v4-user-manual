@@ -48,7 +48,7 @@ To keep a VxScan machine functioning smoothly over many years, it is recommended
 2. [Recalibrate the image sensors](../vxscan/scanner-management.md#image-sensor-calibration). (Can be done by customer)
 3. Test the scanner speed. Recalibrate its speed if needed. (Should be done by VotingWorks technician)
 
-Contact VotingWorks support staff  maintenance tasks
+Contact VotingWorks support staff to schedule help with long-term maintenance tasks.
 
 ## Software Maintenance
 
