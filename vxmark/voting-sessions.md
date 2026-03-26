@@ -44,7 +44,13 @@ To enter a write-in candidate, select _`add write-in candidate`_ and use the key
 
 ### Reviewing Votes
 
-After working through all contests, a _Review Your Votes_ screen appears that allows the voter to change any vote by selecting _`Change`_. Once selections have been reviewed, select _`Print My Ballot`_. The ballot will print and be displayed for review. The final _Review Your Votes_ screen is displayed to compare the official ballot selections with the screen. Select _`Cast My Ballot`_ to cast the ballot.
+After working through all contests, a _Review Your Votes_ screen appears that allows the voter to change any vote by selecting _`Change`_. Once selections have been reviewed, select _`Print My Ballot`_. The ballot will print and be displayed for review.&#x20;
+
+{% hint style="warning" %}
+The "Ballots Printed" count in VxMarkScan intentionally increments up by one for all ballot prints, _including spoiled ballots_. Printing errors like jammed ballots and partial prints are also considered spoiled ballots. Spoiled ballots must be addressed procedurally with the assistance of a poll worker or election official and follow a jurisdiction-defined process for tracking through the end of the night. VxMarkScan counts every printing action so that election officials have clear information for their post-election precinct ballot accounting or reconciliation process.
+{% endhint %}
+
+The final _Review Your Votes_ screen is displayed to compare the official ballot selections with the screen. Select _`Cast My Ballot`_ to cast the ballot.
 
 <div><figure><img src="../.gitbook/assets/mk-review-votes.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/printing-official.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-review-votes-printed.png" alt=""><figcaption></figcaption></figure></div>
 
