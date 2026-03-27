@@ -90,10 +90,19 @@ All selections above are made for a specific voting session and will reset with 
 
 VxScan also supports ballot casting over an audio-tactile interface via an accessible controller and headphones. A poll worker does the following to enable the audio tactile interface:
 
-* Plug the accessible controller into the second USB port
-* Close and seal the poll worker door (document as required)
-* Plug in headphones to the accessible controller's headphone jack
-
-<div align="center"><figure><img src="../.gitbook/assets/PXL_20250706_231540615.jpg" alt="" width="188"><figcaption><p>USB connected</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20250706_231741988.jpg" alt="" width="188"><figcaption><p>Headphones connected</p></figcaption></figure></div>
+* Plug in the Personal Assistive Technology (PAT) device into the PAT port in front.
+* Plug in the headphones into the headphone jack in front.
 
 Voters can navigate with the touchpad, select with the center button, and adjust the volume using the volume control button next to the headphone jack.
+
+When first plugging in the PAT device, a 3-step tutorial first shows up to test the device, as shown in the following screens:
+
+<div><figure><img src="../.gitbook/assets/vxscan-pat-tutortial-01.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pat-tutortial-02.png" alt=""><figcaption></figcaption></figure></div>
+
+<div><figure><img src="../.gitbook/assets/vxscan-pat-tutortial-03.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pat-tutortial-04.png" alt=""><figcaption></figcaption></figure></div>
+
+<div><figure><img src="../.gitbook/assets/vxscan-pat-tutortial-05.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pat-tutortial-06.png" alt=""><figcaption></figcaption></figure></div>
+
+Audio settings can be modified by clicking the _`Settings`_  button in the top header and finding options under the  _`Audio`_  tab, as shown in the screen below.
+
+<figure><img src="../.gitbook/assets/vxscan-headphone-audio-settings.png" alt="" width="375"><figcaption></figcaption></figure>
