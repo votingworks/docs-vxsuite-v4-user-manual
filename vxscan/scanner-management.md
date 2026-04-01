@@ -23,6 +23,10 @@ Once the scanner is open, you can use cleaning fluid and a microfiber or lint-fr
 
 <figure><img src="../.gitbook/assets/PXL_20241031_203337811.jpg" alt="" width="375"><figcaption><p>Cleaning the scanner</p></figcaption></figure>
 
+{% hint style="info" %}
+The primary and most effective method of cleaning the scanner is the direct method above, requiring opening the scanner.  However, a good secondary option is to leave the scanner closed and gently blow compressed air through the infeed to force out dry dust and debris.  This may help during an election when unsealing the scanner is not reasonable.  Options for cleaning with air are powered compressed air devices and small cans of compressed air, such as ULINE S-6771 or equivalent. If using a can of air, be sure to leave the can upright to never spray liquid into the scanner.
+{% endhint %}
+
 After cleaning, simply close the following:
 
 * [ ] Close scanner
