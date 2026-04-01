@@ -90,19 +90,21 @@ All selections above are made for a specific voting session and will reset with 
 
 VxScan also supports ballot casting over an audio-tactile interface via an accessible controller and headphones. A poll worker does the following to enable the audio tactile interface:
 
-* Plug in the Personal Assistive Technology (PAT) device into the PAT port in front.
+* Plug in the Personal Assistive Technology (PAT) device into the PAT jack in front.
 * Plug in the headphones into the headphone jack in front.
 
-Voters can navigate with the touchpad, select with the center button, and adjust the volume using the volume control button next to the headphone jack.
+<figure><img src="../.gitbook/assets/scan_install_pat+audio-attached-front-1600x1200.jpg" alt="" width="563"><figcaption><p>PAT device and headphones plugged into the front left ports</p></figcaption></figure>
 
-When first plugging in the PAT device, a 3-step tutorial first shows up to test the device, as shown in the following screens:
+Voters can navigate with the PAT device. When first plugging in the PAT device, a 3-step tutorial first shows up to test the device, as shown in the following screens:
 
-<div><figure><img src="../.gitbook/assets/vxscan-pat-tutortial-01.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pat-tutortial-02.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/vxscan-pat-tutortial-01.png" alt="" width="375"><figcaption><p>Step 1: Activate a PAT input.</p></figcaption></figure>
 
-<div><figure><img src="../.gitbook/assets/vxscan-pat-tutortial-03.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pat-tutortial-04.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxscan-pat-tutortial-02.png" alt="" width="375"><figcaption><p>Step 2: Identify the "Move" input.</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pat-tutortial-03.png" alt="" width="375"><figcaption><p>Input identified</p></figcaption></figure></div>
 
-<div><figure><img src="../.gitbook/assets/vxscan-pat-tutortial-05.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pat-tutortial-06.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxscan-pat-tutortial-04.png" alt="" width="375"><figcaption><p>Step 3: Identify the "Select" input.</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pat-tutortial-05.png" alt="" width="375"><figcaption><p>Input identified</p></figcaption></figure></div>
 
-Audio settings can be modified by clicking the _`Settings`_  button in the top header and finding options under the  _`Audio`_  tab, as shown in the screen below.
+<figure><img src="../.gitbook/assets/vxscan-pat-tutortial-06.png" alt="" width="375"><figcaption><p>PAT setup complete</p></figcaption></figure>
+
+Voters can adjust the volume using the volume control interface in the _`Settings`_ menu.  Audio settings can be modified by clicking the _`Settings`_  button in the top header and finding options under the  _`Audio`_  tab, as shown in the screen below.
 
 <figure><img src="../.gitbook/assets/vxscan-headphone-audio-settings.png" alt="" width="375"><figcaption></figcaption></figure>
