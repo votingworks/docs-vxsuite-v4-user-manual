@@ -42,7 +42,7 @@ If the voter would like to correct their error, they should select _`Return Ball
 
 If a state requires notification to the voter that a specific contest has fewer than the maximum selections marked, the voter will be prompted to review their ballot.
 
-<figure><img src="../.gitbook/assets/undervoted-ballot.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-undervote.png" alt="" width="375"><figcaption></figcaption></figure>
 
 If the voter would like to correct their error, they should select _`Return Ballot`_ and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select _`Cast Ballot`_ and then confirm by selecting _`Cast Ballot`_ again. All votes will be counted.
 
