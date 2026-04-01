@@ -2,11 +2,11 @@
 
 Voters have a number of options to change the VxMarkScan interface to suit their individual needs.
 
-<figure><img src="../.gitbook/assets/image (27).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/voting-contest-1 (2).png" alt="" width="188"><figcaption></figcaption></figure>
 
 ## Ballot Language
 
-To change the language from English to another language select _`English`_ at the top of the screen. Additional language buttons will display, select the preferred language and then select _`Done`_.&#x20;
+To change the language from English to another language select _`English`_ at the top of the screen. Additional language buttons will display, select the preferred language and then select _`Done`_.
 
 <figure><img src="../.gitbook/assets/image (28).png" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -14,7 +14,7 @@ To change the language from English to another language select _`English`_ at th
 
 ### Text and Screen Color
 
-Four different color options are available for users. While we provide a short description of who may benefit most from these different options, please note that the user likely knows what setting is best for their disability.&#x20;
+Four different color options are available for users. While we provide a short description of who may benefit most from these different options, please note that the user likely knows what setting is best for their disability.
 
 **White text, black background** - used by a person that finds white backgrounds too bright due to visual disabilities. May also be easier to read when room lighting causes a glare on the screen.
 
@@ -28,7 +28,7 @@ Four different color options are available for users. While we provide a short d
 
 ### Text Size
 
-The default text size is _`Medium`_.  A user can select _`Small`_, _`Large`_, or _`Extra-Large`_ based on their preferences.  Select _`Done`_ to save the selection.&#x20;
+The default text size is _`Medium`_. A user can select _`Small`_, _`Large`_, or _`Extra-Large`_ based on their preferences. Select _`Done`_ to save the selection.
 
 <figure><img src="../.gitbook/assets/image (29).png" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -36,7 +36,7 @@ The default text size is _`Medium`_.  A user can select _`Small`_, _`Large`_, or
 
 Audio is always defaulted to on when headphones are plugged in. Instructions for all steps of the voting session are read to the user in audio format and all ballot content is read when navigated to by the user.
 
-Select _`Mute Audio`_ to mute all sound.  Select _`Enable Audio-Only Mode`_ to hide the screen. Voters using only audio to navigate through the ballot may want to hide the screen for privacy. Additionally, a voter who has a T-coil neckloop may unplug the headphones and plug that device into the headphone jack.&#x20;
+Select _`Mute Audio`_ to mute all sound. Select _`Enable Audio-Only Mode`_ to hide the screen. Voters using only audio to navigate through the ballot may want to hide the screen for privacy. Additionally, a voter who has a T-coil neckloop may unplug the headphones and plug that device into the headphone jack.
 
 Headphones should be sanitized after a voting session using the audio-tactile interface. To do so, simply discard the headphone ear covers and replace with a new set of ear covers. Disposable ear covers suitable for VxMarkScan are listed in the [supply-list.md](../miscellaneous/supply-list.md "mention").
 
