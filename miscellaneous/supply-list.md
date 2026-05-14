@@ -41,10 +41,11 @@ VotingWorks recommends having a backup toner cartridge and extra reams of paper 
 
 ## VxScan Supply List
 
-| Item                      | Recommendation       | Supplier    |
-| ------------------------- | -------------------- | ----------- |
-| Thermal Paper Rolls       | VotingWorks Provided | VotingWorks |
-| Scanner Cleaning Supplies | See above            | Various     |
+| Item                      | Recommendation                           | Supplier    |
+| ------------------------- | ---------------------------------------- | ----------- |
+| Thermal Paper Rolls       | VotingWorks Provided                     | VotingWorks |
+| Headphone Ear Covers      | BBTO headphone ear covers, or equivalent | Various     |
+| Scanner Cleaning Supplies | See above                                | Various     |
 
 VotingWorks recommends cleaning the scanner and replacing the thermal paper roll for each VxScan for each election. VotingWorks also recommends keeping scanner cleaning supplies and extra thermal paper rolls readily available on election day.
 
@@ -58,11 +59,11 @@ VotingWorks recommends cleaning the scanner for each election. VotingWorks also 
 
 ## VxMarkScan Supply List
 
-| Item                      | Recommendation                                                     | Supplier    |
-| ------------------------- | ------------------------------------------------------------------ | ----------- |
-| Thermal Ballot Paper      | VotingWorks Provided                                               | VotingWorks |
-| Headphone Ear Covers      | [BBTO headphone ear covers](https://a.co/d/eAaRt1K), or equivalent | Various     |
-| Scanner Cleaning Supplies | See above                                                          | Various     |
+| Item                      | Recommendation                           | Supplier    |
+| ------------------------- | ---------------------------------------- | ----------- |
+| Thermal Ballot Paper      | VotingWorks Provided                     | VotingWorks |
+| Headphone Ear Covers      | BBTO headphone ear covers, or equivalent | Various     |
+| Scanner Cleaning Supplies | See above                                | Various     |
 
 VotingWorks recommends cleaning the scanner for each election. VotingWorks also recommends keeping scanner cleaning supplies readily available on election day. Headphone ear covers are single use and should be disposed after each use.
 
