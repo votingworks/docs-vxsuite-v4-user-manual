@@ -90,10 +90,12 @@ All selections above are made for a specific voting session and will reset with 
 
 VxScan also supports ballot casting over an audio-tactile interface via an accessible controller and headphones. A poll worker does the following to enable the audio tactile interface:
 
-* Plug in the Personal Assistive Technology (PAT) device into the PAT jack in front.
-* Plug in the headphones into the headphone jack in front.
+* Plug in the Personal Assistive Technology (PAT) device into the PAT jack in front.&#x20;
+* Plug in the headphones into the headphone jack in front. &#x20;
 
 <figure><img src="../.gitbook/assets/scan_install_pat+audio-attached-front-1600x1200.jpg" alt="" width="563"><figcaption><p>PAT device and headphones plugged into the front left ports</p></figcaption></figure>
+
+{% include "../.gitbook/includes/sanitizing-headphones-instructions.md" %}
 
 Voters can navigate with the PAT device. When first plugging in the PAT device, a 3-step tutorial first shows up to test the device, as shown in the following screens:
 
