@@ -88,12 +88,16 @@ If a jurisdiction provides language options to voters, a voter may select that l
 All selections above are made for a specific voting session and will reset with the next voter.
 {% endhint %}
 
-### Audio Tactile Interface
+### Audio-Tactile Interface
 
-VxScan also supports ballot casting over an audio-tactile interface via an accessible controller and headphones. A poll worker does the following to enable the audio tactile interface:
+VxScan also supports ballot casting over an audio-tactile interface via an accessible controller and headphones. A poll worker does the following to enable the audio-tactile interface:
 
-* Plug in the Personal Assistive Technology (PAT) device into the PAT jack in front.&#x20;
-* Plug in the headphones into the headphone jack in front. &#x20;
+* Plug in the Personal Assistive Technology (PAT) device into the PAT jack in front in the top-left.
+* Plug in the headphones into the headphone jack in front in the bottom-left.
+
+{% hint style="warning" %}
+Accessibility devices MUST be connected to VxScan before scanning a ballot, for a voter using the audio-tactile interface.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/scan_install_pat+audio-attached-front-1600x1200.jpg" alt="" width="563"><figcaption><p>PAT device and headphones plugged into the front left ports</p></figcaption></figure>
 
@@ -109,6 +113,6 @@ Voters can navigate with the PAT device. When first plugging in the PAT device, 
 
 <figure><img src="../.gitbook/assets/vxscan-pat-tutortial-06.png" alt="" width="375"><figcaption><p>PAT setup complete</p></figcaption></figure>
 
-Voters can adjust the volume using the volume control interface in the _`Settings`_ menu.  Audio settings can be modified by clicking the _`Settings`_  button in the top header and finding options under the  _`Audio`_  tab, as shown in the screen below.
+Voters can adjust the volume using the volume control interface in the _`Settings`_ menu. Audio settings can be modified by clicking the _`Settings`_ button in the top header and finding options under the _`Audio`_ tab, as shown in the screen below.
 
 <figure><img src="../.gitbook/assets/vxscan-headphone-audio-settings.png" alt="" width="375"><figcaption></figcaption></figure>
