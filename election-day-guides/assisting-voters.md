@@ -18,6 +18,8 @@ After a few seconds, VxScan will return to the _Insert Your Ballot_ screen in pr
 
 If the ballot was not counted because of an issue, the scanner will hold the ballot. There could be any of the following issues with the ballot depending on state law or rule.
 
+{% include "../.gitbook/includes/instructions-on-damaged-ballots.md" %}
+
 ### Overvoted Ballots
 
 A ballot is considered overvoted if the scanner recognizes more than the allowed number of votes for a particular race. For example, a voter marked two candidates in a race where they must make a single choice. If the voter would like to correct their error, they should select _`Return Ballot`_ and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select _`Cast Ballot`_ and then confirm by selecting _`Cast Ballot`_ again. All votes will be counted in correctly voted contests but the overvoted contest will be ignored.
