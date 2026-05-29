@@ -117,7 +117,7 @@ Voters can adjust the volume using the volume control interface in the _`Setting
 
 <figure><img src="../.gitbook/assets/vxscan-headphone-audio-settings.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Voters using the PAT device to cast a ballot use two inputs to perform this task. The move input allows voters to navigate through a screen's focusable elements, and the select input allows voters to select, i.e., click, the currently focused element. Every focusable element has an audio cue that it is played when the element is focused.\
+Voters using the PAT device to cast a ballot use two inputs to perform this task. The move input allows voters to navigate through a screen's focusable elements, and the select input allows voters to select, i.e., click, the currently focused element. Every focusable element has an audio cue that is played when the element is focused.\
 \
 The move input provides a means of skipping and pausing audio playback. Using the move input while audio is being played will navigate to the next focusable element and skip/pause the previous element's audio. By cycling through all focusable elements with the move input and returning to the element for which the audio was skipped/paused, the voter can repeat/resume the audio playback for that element. This is most relevant for the main body text on the screen, e.g., the adjudication warnings when that screen is surfaced, as these are the most likely audio cues that a voter would want to skip/repeat.
 
