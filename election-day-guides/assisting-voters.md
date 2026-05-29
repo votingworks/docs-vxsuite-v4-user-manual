@@ -117,10 +117,10 @@ Voters can adjust the volume using the volume control interface in the _`Setting
 
 <figure><img src="../.gitbook/assets/vxscan-headphone-audio-settings.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Voters using the PAT device to cast a ballot use two commands to perform this task. First, the Move command allows voters to navigate through the focusable items within the page. Second, the Select command allows a voter to select an item in the page.\
+Voters using the PAT device to cast a ballot use two inputs to perform this task. The move input allows voters to navigate through a screen's focusable elements, and the select input allows voters to select, i.e., click, the currently focused element. Every focusable element has an audio cue that it is played when the element is focused.\
 \
-The Move command provides both Skip and Pause functionality for the audio playback.  Using the Move command to navigate to the next focusable element in the page allows the user to Skip the audio being played.  To Pause the audio playback, the voter uses the Move command which moves to the next focusable element in the page.  By cycling through all focusable elements in the page using the Move command and returning to the element at which the audio was Paused or Skipped, the Voter is able to both Resume or Repeat audio playback for that element.
+The move input provides a means of skipping and pausing audio playback. Using the move input while audio is being played will navigate to the next focusable element and skip/pause the previous element's audio. By cycling through all focusable elements with the move input and returning to the element for which the audio was skipped/paused, the voter can repeat/resume the audio playback for that element. This is most relevant for the main body text on the screen, e.g., the adjudication warnings when that screen is surfaced, as these are the most likely audio cues that a voter would want to skip/repeat.
 
 {% hint style="info" %}
-The instructions provided above for using a PAT device to cast a ballot, enable both voters and a jurisdiction to perform these tasks.
+Poll workers can share the above guidance with voters using a PAT device and audio cues to cast a ballot on VxScan to help orient those voters.
 {% endhint %}
