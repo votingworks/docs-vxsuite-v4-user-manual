@@ -116,3 +116,11 @@ Voters can navigate with the PAT device. When first plugging in the PAT device, 
 Voters can adjust the volume using the volume control interface in the _`Settings`_ menu. Audio settings can be modified by clicking the _`Settings`_ button in the top header and finding options under the _`Audio`_ tab, as shown in the screen below.
 
 <figure><img src="../.gitbook/assets/vxscan-headphone-audio-settings.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Voters using the PAT device to cast a ballot use two commands to perform this task. First, the Move command allows voters to navigate through the focusable items within the page. Second, the Select command allows a voter to select an item in the page.\
+\
+The Move command provides both Skip and Pause functionality for the audio playback.  Using the Move command to navigate to the next focusable element in the page allows the user to Skip the audio being played.  To Pause the audio playback, the voter uses the Move command which moves to the next focusable element in the page.  By cycling through all focusable elements in the page using the Move command and returning to the element at which the audio was Paused or Skipped, the Voter is able to both Resume or Repeat audio playback for that element.
+
+{% hint style="info" %}
+The instructions provided above for using a PAT device to cast a ballot, enable both voters and a jurisdiction to perform these tasks.
+{% endhint %}
