@@ -48,7 +48,7 @@ Two models of Ricoh scanners are supported: fi-8170 and fi-7600. The smaller fi-
 
 To pack up the VxCentralScan, simply place all of the components back into the case as displayed above and package the batch document scanner. Secure the laptop case as required by sealing the eyelets highlighted below.
 
-<div align="center"><figure><img src="../.gitbook/assets/image (397) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/image (397).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Imprinting
 

@@ -1,15 +1,15 @@
 # Printer Management
 
-To replace a paper roll or print a test page, navigate to the _`Printer`_  tab in the election manager menu and select _`Load Paper`_ or _`Print Test Page`_.&#x20;
+To replace a paper roll or print a test page, navigate to the _`Printer`_ tab in the election manager menu and select _`Load Paper`_ or _`Print Test Page`_.
 
-<figure><img src="../.gitbook/assets/printer-menu.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/configuration-008-em-printer-tab.png" alt=""><figcaption></figcaption></figure>
 
 If loading a new paper roll, the screen will walk you through removing the paper roll holder and loading a new paper roll. Select _`Print Test Page`_ to print a test page and confirm the paper was loaded properly.
 
-<div><figure><img src="../.gitbook/assets/Screenshot-VxScan-2025-09-09T193528.273Z.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot-VxScan-2025-09-09T193539.839Z.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot-VxScan-2025-09-09T193551.560Z.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/configuration-009-em-printer-remove-roll-holder.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/configuration-010-em-printer-load-new-roll.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/configuration-011-em-printer-paper-detected.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-The paper roll can be replaced at any point of time, with the machine turned on or off.  Using the election manager printer flow is not required but can be helpful for someone who needs step-by-step instructions or wants to print a test page.
+The paper roll can be replaced at any point of time, with the machine turned on or off. Using the election manager printer flow is not required but can be helpful for someone who needs step-by-step instructions or wants to print a test page.
 {% endhint %}
 
 To replace or add a printer paper roll:

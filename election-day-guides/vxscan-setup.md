@@ -24,7 +24,7 @@ description: >-
 
 * [ ] Pull the box open and gently push the purple hooks down with your foot
 
-<div><figure><img src="../.gitbook/assets/PXL_20241031_183032911 (1).jpg" alt="" width="375"><figcaption><p>Box fully expanded</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183046879.jpg" alt="" width="375"><figcaption><p>Box interior when expanded</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/PXL_20241031_183032911.jpg" alt="" width="375"><figcaption><p>Box fully expanded</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183046879.jpg" alt="" width="375"><figcaption><p>Box interior when expanded</p></figcaption></figure></div>
 
 * [ ] Close the lid, pushing until you hear a click
 
@@ -43,7 +43,7 @@ description: >-
 * [ ] Push the purple security bolt down to secure the case to the ballot box
 * [ ] Close the poll worker door and seal and document as required
 
-<div><figure><img src="../.gitbook/assets/PXL_20241031_183949135.jpg" alt="" width="188"><figcaption><p>Pressing the security bolt down</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184055101 (1).jpg" alt="" width="188"><figcaption><p>Sealing the poll worker door</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/PXL_20241031_183949135.jpg" alt="" width="188"><figcaption><p>Pressing the security bolt down</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184055101.jpg" alt="" width="188"><figcaption><p>Sealing the poll worker door</p></figcaption></figure></div>
 
 * [ ] Remove the power cord from its storage place
 * [ ] Plug the power cord into the back of the scanner and then into an outlet or power backup

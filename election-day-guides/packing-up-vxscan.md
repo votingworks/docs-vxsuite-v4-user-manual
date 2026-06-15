@@ -28,7 +28,7 @@ Pack up **VxScan** through the following steps:
 * [ ] Remove all ballots from the ballot box and seal into a secure container, recording the seal number as required
 * [ ] Press the latch on the lid to release the lid and lift the lid over to the side
 
-<div><figure><img src="../.gitbook/assets/PXL_20241031_185722806.jpg" alt=""><figcaption><p>Press lid latch</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_185738805.jpg" alt=""><figcaption><p>Lift lid</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183032911 (1).jpg" alt=""><figcaption><p>Set lid to the side</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/PXL_20241031_185722806.jpg" alt=""><figcaption><p>Press lid latch</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_185738805.jpg" alt=""><figcaption><p>Lift lid</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183032911.jpg" alt=""><figcaption><p>Set lid to the side</p></figcaption></figure></div>
 
 * [ ] Fully collapse the ballot by gently using your foot to lift the bottom purple hooks
 

@@ -38,7 +38,7 @@ To remove an election package and reset VxCentralScan:
 * [ ] Select _`Unconfigure Machine`_
 * [ ] Confirm by selecting _`Delete All Election Data`_
 
-<div><figure><img src="../.gitbook/assets/em-settings-unconfigure-machine-button.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/em-settings-confirm-unconfigure-button (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/em-settings-unconfigure-machine-button.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/em-settings-confirm-unconfigure-button.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 You can now reconfigure VxCentralScan with a different election package.
 
