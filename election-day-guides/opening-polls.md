@@ -27,9 +27,9 @@ To open the polls:
 For primary elections, you may be prompted to print and tear multiple reports, one for each party.
 {% endhint %}
 
-The polls are now open. The number of ballots scanned should be zero. Verify the precinct name and election date are correct in the bottom left corner.
+The polls are now open. The number of ballots scanned should be zero. Verify the polling place name and election date are correct in the bottom left corner.
 
-<figure><img src="../.gitbook/assets/insert-your-ballot copy.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/voting-008-insert-ballot-election-info.png" alt=""><figcaption></figcaption></figure>
 
 Below is an example of the polls opened report. All totals should be zero.
 

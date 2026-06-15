@@ -20,4 +20,4 @@
 
 The polls are now closed. Below is an example of the polls closed report.
 
-<figure><img src="../.gitbook/assets/pcr-west-lincoln.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/voting-038-polls-closed-report-multi-batch.png" alt=""><figcaption></figcaption></figure>
