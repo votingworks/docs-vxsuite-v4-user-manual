@@ -24,7 +24,7 @@ If the ballot was not counted because of an issue, the scanner will hold the bal
 
 A ballot is considered overvoted if the scanner recognizes more than the allowed number of votes for a particular race. For example, a voter marked two candidates in a race where they must make a single choice. If the voter would like to correct their error, they should select _`Return Ballot`_ and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select _`Cast Ballot`_ and then confirm by selecting _`Cast Ballot`_ again. All votes will be counted in correctly voted contests but the overvoted contest will be ignored.
 
-<figure><img src="../.gitbook/assets/overvoted-ballot.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/voting-015-overvote-warning.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 An overvote will also be detected when a candidate is marked and writing is detected on the write-in line for the same contest if it exceeds the number of allowed votes (when required by law or rule). This is true even if the bubble is not marked.
@@ -36,7 +36,7 @@ If a state requires notification to the voter that a ballot has no selections ma
 
 The voter may have circled or underlined the names of their choices instead of filling in the bubbles. Or the voter may have used a writing utensil whose marks are ignored by the scanner, like a highlighter. VxScan will warn the voter that their ballot appears blank.
 
-<figure><img src="../.gitbook/assets/blank-ballot.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/voting-013-blank-ballot-warning.png" alt=""><figcaption></figcaption></figure>
 
 If the voter would like to correct their error, they should select _`Return Ballot`_ and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select _`Cast Ballot`_ and then confirm by selecting _`Cast Ballot`_ again. The _Sheets Scanned count_ will increase but no votes will be counted from a blank ballot.
 
@@ -52,7 +52,7 @@ If the voter would like to correct their error, they should select _`Return Ball
 
 If a voter has both undervotes and overvotes on their ballot and the state requires review of both, the _Review Your Ballot_ screen will list the number of contests with each issue. Select _`View contests`_ to see the full list of contests that were undervoted or overvoted.
 
-<figure><img src="../.gitbook/assets/multiple-issues.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/voting-016-mixed-overvote-undervote-warning.png" alt=""><figcaption></figcaption></figure>
 
 If the voter would like to correct their errors, they should select _`Return Ballot`_ and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select _`Cast Ballot`_ and then confirm by selecting _`Cast Ballot`_ again.
 
@@ -60,7 +60,7 @@ If the voter would like to correct their errors, they should select _`Return Bal
 
 Simple changes to the screen's color and size can be very helpful for voters with low vision and other cognitive disabilities. Selecting _`Settings`_ in the upper left hand corner of the screen provides the voter with different options. Select _`Color`_ to change the text and background color and select _`Text Size`_ to change the text size.
 
-<div><figure><img src="../.gitbook/assets/insert-ballot-lang copy 2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/color-mode.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/text-size-mode.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/voting-017-settings-button.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/color-mode.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/text-size-mode.png" alt=""><figcaption></figcaption></figure></div>
 
 #### **Text and Background Color**
 
