@@ -2,13 +2,13 @@
 
 Voters have a number of options to change the VxMarkScan interface to suit their individual needs.
 
-<figure><img src="../.gitbook/assets/voting-contest-1 (2).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/voter-settings-000-voting-language-and-settings-highlighted.png" alt=""><figcaption></figcaption></figure>
 
 ## Ballot Language
 
 To change the language from English to another language select _`English`_ at the top of the screen. Additional language buttons will display, select the preferred language and then select _`Done`_.
 
-<figure><img src="../.gitbook/assets/image (28).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/voter-settings-001-voting-language-settings.png" alt=""><figcaption></figcaption></figure>
 
 ## Visual Settings
 
@@ -24,13 +24,13 @@ Four different color options are available for users. While we provide a short d
 
 **Black text, white background** - used by people who need the highest contrast because of light vision or color perception disabilities or aging.
 
-<div><figure><img src="../.gitbook/assets/VxMark Color White text black background.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark Color Gray text dark bkgd.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark Dark text light background.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark color black text white bkgd.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/voter-settings-002-voting-settings-color-1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-003-voting-settings-color-2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-004-voting-settings-color-3.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-005-voting-settings-color-4.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Text Size
 
 The default text size is _`Medium`_. A user can select _`Small`_, _`Large`_, or _`Extra-Large`_ based on their preferences. Select _`Done`_ to save the selection.
 
-<figure><img src="../.gitbook/assets/image (29).png" alt="" width="188"><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/voter-settings-009-voting-settings-text-size-4.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-008-voting-settings-text-size-3.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-007-voting-settings-text-size-2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-006-voting-settings-text-size-1.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Audio Settings
 
@@ -40,7 +40,7 @@ Select _`Mute Audio`_ to mute all sound. Select _`Enable Audio-Only Mode`_ to hi
 
 Headphones should be sanitized after a voting session using the audio-tactile interface. To do so, simply discard the headphone ear covers and replace with a new set of ear covers. Disposable ear covers suitable for VxMarkScan are listed in the [supply-list.md](../miscellaneous/supply-list.md "mention").
 
-<div><figure><img src="../.gitbook/assets/VxMark Audit.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark Setting Audio Unmute.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark Audio-Only Mode.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/voter-settings-010-voting-settings-audio.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-011-voting-settings-audio-only-mode.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 All selections above are made for a specific voting session and will reset with the next voter.

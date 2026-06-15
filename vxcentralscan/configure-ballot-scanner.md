@@ -17,7 +17,7 @@ Once the election package is saved to a USB drive, you can load the file to VxCe
 
 [Set up the VxCentralScan hardware](vxcentralscan-hardware-setup.md) and turn on the VxCentralScan laptop.
 
-<div><figure><img src="../.gitbook/assets/em-insert-card-screen (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/smartcard-laptop-16_10.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/screenshots-000-unconfigured-screen.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/smartcard-laptop-16_10.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Use an election manager card to unlock the machine. Insert the USB drive with the election package. The election package will automatically load.
 
@@ -25,7 +25,7 @@ Use an election manager card to unlock the machine. Insert the USB drive with th
 
 VxCentralScan is now configured and in test mode. The screen will show _No ballots have been scanned_ and election summary information (name, date, jurisdiction, etc.) will be shown in the bottom left corner of the screen.
 
-<figure><img src="../.gitbook/assets/em-scan-ballots-empty.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/screenshots-009-scan-ballots-empty-no-ballots-highlight.png" alt=""><figcaption></figcaption></figure>
 
 VxCentralScan is now ready for scanning.
 
@@ -38,7 +38,7 @@ To remove an election package and reset VxCentralScan:
 * [ ] Select _`Unconfigure Machine`_
 * [ ] Confirm by selecting _`Delete All Election Data`_
 
-<div><figure><img src="../.gitbook/assets/em-settings-unconfigure-machine-button.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/em-settings-confirm-unconfigure-button.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/screenshots-005-em-settings-unconfigure-machine-button (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/screenshots-006-em-settings-confirm-unconfigure-button.png" alt=""><figcaption></figcaption></figure></div>
 
 You can now reconfigure VxCentralScan with a different election package.
 
