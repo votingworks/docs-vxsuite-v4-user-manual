@@ -11,7 +11,7 @@ The _`Pause Voting`_ action in the poll worker screen is generally used by juris
 * [ ] Insert a poll worker card and select _`Menu`_
 * [ ] Select _`Pause Voting`_
 
-<div><figure><img src="../.gitbook/assets/close-polls copy 2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/pw-menu-while-open copy.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/close-polls copy 2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voting-035-pw-pause-voting-button.png" alt=""><figcaption></figcaption></figure></div>
 
 * [ ] Select _`Reprint Voting Paused Report`_ to print more reports as necessary
 * [ ] Remove the poll worker card
