@@ -10,7 +10,7 @@ The scanner must be clean to accurately detect marks on ballots. In order to cle
 * [ ] Open the access door
 * [ ] Open the scanner
 
-<div><figure><img src="../.gitbook/assets/PXL_20241031_184055101 (1).jpg" alt="" width="188"><figcaption><p>Poll worker door closed</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184238006.jpg" alt="" width="188"><figcaption><p>Poll worker door open</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/PXL_20241031_184055101.jpg" alt="" width="188"><figcaption><p>Poll worker door closed</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184238006.jpg" alt="" width="188"><figcaption><p>Poll worker door open</p></figcaption></figure></div>
 
 <div><figure><img src="../.gitbook/assets/PXL_20241031_184245241.jpg" alt="" width="375"><figcaption><p>Access door open</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184257763.jpg" alt="" width="375"><figcaption><p>Scanner open</p></figcaption></figure></div>
 
@@ -24,7 +24,7 @@ Once the scanner is open, you can use cleaning fluid and a microfiber or lint-fr
 <figure><img src="../.gitbook/assets/PXL_20241031_203337811.jpg" alt="" width="375"><figcaption><p>Cleaning the scanner</p></figcaption></figure>
 
 {% hint style="info" %}
-The primary and most effective method of cleaning the scanner is the direct method above, requiring opening the scanner.  However, a good secondary option is to leave the scanner closed and gently blow compressed air through the infeed to force out dry dust and debris.  This may help during an election when unsealing the scanner is not reasonable.  Options for cleaning with air are powered compressed air devices and small cans of compressed air, such as ULINE S-6771 or equivalent. If using a can of air, be sure to leave the can upright to never spray liquid into the scanner.
+The primary and most effective method of cleaning the scanner is the direct method above, requiring opening the scanner. However, a good secondary option is to leave the scanner closed and gently blow compressed air through the infeed to force out dry dust and debris. This may help during an election when unsealing the scanner is not reasonable. Options for cleaning with air are powered compressed air devices and small cans of compressed air, such as ULINE S-6771 or equivalent. If using a can of air, be sure to leave the can upright to never spray liquid into the scanner.
 {% endhint %}
 
 After cleaning, simply close the following:
@@ -55,7 +55,7 @@ The _`Disable Double Sheet Detection`_ feature is used to disable the ultrasonic
 The following step can only be completed by a system administrator.
 {% endhint %}
 
-Image sensor calibration is recommended as part of [regular long-term maintenance](../system-maintenance/vxscan-maintenance-manual.md#long-term-hardware-maintenance) every 100k scans or every 3 years.  Under exceedingly rare circumstances, one may need to calibrate the scanner image sensors more often.  In this calibration, the scanner reads a blank white sheet of paper to ensure proper conversion from physical paper to digital image.&#x20;
+Image sensor calibration is recommended as part of [regular long-term maintenance](../system-maintenance/vxscan-maintenance-manual.md#long-term-hardware-maintenance) every 100k scans or every 3 years. Under exceedingly rare circumstances, one may need to calibrate the scanner image sensors more often. In this calibration, the scanner reads a blank white sheet of paper to ensure proper conversion from physical paper to digital image.
 
 <figure><img src="../.gitbook/assets/vxscan-sys-admin-calibrate-image-sensors.png" alt="" width="375"><figcaption></figcaption></figure>
 

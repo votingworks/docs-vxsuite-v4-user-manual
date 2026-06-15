@@ -19,7 +19,7 @@ If there is an orange callout that says "Test Ballot Mode" on the screen, contac
 * [ ] Confirm by selecting _`Open Polls`_ again
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/PXL_20241119_204113175.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/pw-menu-open-polls-button (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/pw-menu-open-polls-confirm-button (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/PXL_20241119_204113175.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/pw-menu-open-polls-button.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/pw-menu-open-polls-confirm-button.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 * [ ] Verify the number of ballots printed is zero
 
@@ -33,7 +33,7 @@ The polls are now open and VxMarkScan is ready for voters.
 * [ ] Select _`Close Polls`_
 * [ ] Confirm by selecting _`Close Polls`_ again
 
-<div><figure><img src="../.gitbook/assets/pw-menu-close-polls-button.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/pw-menu-close-polls-confirm-button (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/pw-menu-close-polls-button.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/pw-menu-close-polls-confirm-button.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 * [ ] Remove the poll worker card
 

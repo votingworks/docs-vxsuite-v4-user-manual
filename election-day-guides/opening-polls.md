@@ -13,7 +13,7 @@ To open the polls:
 * [ ] Insert the poll worker card into the card reader
 * [ ] Select _`Open Polls`_
 
-<div><figure><img src="../.gitbook/assets/VxScan insert poll worker card 2 (1).png" alt="" width="188"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/open-polls-landing-primary.png" alt="" width="375"><figcaption><p>Select <em>Open Polls</em></p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxScan insert poll worker card 2.png" alt="" width="188"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/open-polls-landing-primary.png" alt="" width="375"><figcaption><p>Select <em>Open Polls</em></p></figcaption></figure></div>
 
 * [ ] One copy of the polls opened report will print
 * [ ] Tear to remove the report
@@ -38,4 +38,3 @@ Below is an example of the polls opened report. All totals should be zero.
 {% hint style="danger" %}
 The poll worker door should remain sealed and secure at all times unless a poll worker requires access. Any unauthorized access should be reported to an election administrator immediately.
 {% endhint %}
-
