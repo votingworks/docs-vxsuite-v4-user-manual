@@ -13,14 +13,14 @@ If a voter chooses to use VxMarkScan:
 * [ ] Insert a poll worker card into the card reader beneath the accessible controller
 * [ ] Select the voter's ballot style
 
-<div><figure><img src="../.gitbook/assets/vxmark-poll-worker-insert-card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-poll-worker.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-poll-worker-select-ballot-style.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/basic-election-flow-012-unauthenticated-polls-opened-election-info.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-013-pw-menu-polls-open.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-014-pw-start-voting-session-button.png" alt=""><figcaption></figcaption></figure></div>
 
 * [ ] When prompted, feed one sheet of paper into the front input tray
 * [ ] Once loaded, the screen will show that the voting session is active
 * [ ] Review the precinct and ballot style to ensure it was selected correctly for the voter
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/Screenshot-VxMarkScan-2025-09-09T053003.489Z.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot-VxMarkScan-2025-09-09T053017.619Z.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot-VxMarkScan-2025-09-09T052531.678Z.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/Screenshot-VxMarkScan-2025-09-09T053003.489Z.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot-VxMarkScan-2025-09-09T053017.619Z.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-015-pw-remove-card-to-vote.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 If the wrong ballot style or precinct was selected, insert the poll worker card (if not already inserted) and select _`Cancel Voting Session`_ to return to the poll worker menu.
@@ -32,7 +32,7 @@ Let the voter know they can begin voting by selecting _`Start Voting`_.
 
 One contest will display at a time. The voter will select the candidate(s) of their choice. The voter moves to the next contest by selecting _`Next`_. The voter can skip a contest by selecting _`Next`_ without making a selection. To return to a previous contest, select _`Back`_. A _`More`_ button will display if there are more candidates or text than fit on a single screen. The _`View All`_ button can be used to jump to a review screen summarizing all contest selections, described in greater detail below.
 
-<div><figure><img src="../.gitbook/assets/voting-start-screen (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voting-contest-1 (1).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/basic-election-flow-016-voting-start-screen.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-017-voting-single-seat-selection.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 If a voter would like to change a selection, they must first deselect a candidate previously selected.
@@ -42,11 +42,11 @@ If a voter would like to change a selection, they must first deselect a candidat
 
 To enter a write-in candidate, select _`add write-in candidate`_ and use the keyboard to type in the candidate's name. Select _`Accept`_ when finished.
 
-<div><figure><img src="../.gitbook/assets/voting-write-in-button (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voting-write-in-entry (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voting-write-in-selected (1).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/basic-election-flow-018-voting-write-in-button (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-019-voting-write-in-keyboard.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-020-voting-write-in-accepted.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Reviewing Votes
 
-After working through all contests, a _Review Your Votes_ screen appears that allows the voter to change any vote by selecting _`Change`_. Once selections have been reviewed, select _`Print My Ballot`_. The ballot will print and be displayed for review.&#x20;
+After working through all contests, a _Review Your Votes_ screen appears that allows the voter to change any vote by selecting _`Change`_. Once selections have been reviewed, select _`Print My Ballot`_. The ballot will print and be displayed for review.
 
 {% hint style="warning" %}
 The "Ballots Printed" count in VxMarkScan intentionally increments up by one for all ballot prints, _including spoiled ballots_. Printing errors like jammed ballots and partial prints are also considered spoiled ballots. Spoiled ballots must be addressed procedurally with the assistance of a poll worker or election official and follow a jurisdiction-defined process for tracking through the end of the night. VxMarkScan counts every printing action so that election officials have clear information for their post-election precinct ballot accounting or reconciliation process.
@@ -54,7 +54,7 @@ The "Ballots Printed" count in VxMarkScan intentionally increments up by one for
 
 The final _Review Your Votes_ screen is displayed to compare the official ballot selections with the screen. Select _`Cast My Ballot`_ to cast the ballot.
 
-<div><figure><img src="../.gitbook/assets/mk-review-votes.png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voting-printing.png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mk-review-votes-printed.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/basic-election-flow-022-voting-review.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-023-voting-printing.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-024-voting-post-print-review.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 If the voter removes the ballot from the printer to review, the VxMarkScan will ask if they are still voting. They should reload their ballot to cast the ballot. If the ballot is not reloaded, the VxMarkScan will clear the ballot after five minutes of inactivity.
@@ -62,7 +62,7 @@ If the voter removes the ballot from the printer to review, the VxMarkScan will 
 
 The screen will show the ballot being cast and verify it was cast and dropped into the ballot bin.
 
-<div><figure><img src="../.gitbook/assets/casting-ballot (1).png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/ballot-cast.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/basic-election-flow-025-voting-casting-ballot.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-026-voting-ballot-cast.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 If headphones are used, using earpad covers and replacing after use is recommended. See the [Supply List](../miscellaneous/supply-list.md) for more information.
