@@ -4,32 +4,18 @@ Logic & accuracy testing (L\&A) is meant to ensure that every component of the v
 
 ### VxAdmin Tally Report
 
-Before starting the testing process, using an election manager card, confirm VxAdmin does not have CVRs loaded. Select _`Reports`_ from the side menu and select _`Full Election Tally Report`_ to print a "zero" report.
+Before starting the testing process, using an election manager card, confirm VxAdmin does not have CVRs loaded. Select `Reports` from the side menu and select `Full Election Tally Report` to print a "zero report."
 
 <figure><img src="../.gitbook/assets/vxadmin-reports-screen-unofficial (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Test Ballot vs. Official Ballot Mode
 
-VxScan, VxCentralScan, and VxMarkScan can be placed into test ballot mode to only accept test ballots. VxScan and VxCentralScan default to test mode after configuration.
+VxScan, VxCentralScan, VxMark, VxMarkScan, and VxPrint can be placed into test ballot mode to accept or produce only test ballots. Each of these apps defaults to test mode after configuration, with the exception of VxPrint.
 
 {% hint style="info" %}
 You may scan official ballots in test mode if your election package has the system setting `allowOfficialBallotsInTestMode` enabled. This setting is used for jurisdictions that only print official ballots.
 {% endhint %}
 
-In VxScan, insert an election manager card and select the correct mode.
+If any device is not in test ballot mode, toggle the ballot mode on the election manager menu for VxScan, VxMark, or VxMarkScan or on the `Settings` page for VxCentralScan or VxPrint. A test mode banner is displayed on the top of the screen while in test ballot mode:
 
-<figure><img src="../.gitbook/assets/election-manager-settings copy.png" alt="" width="375"><figcaption></figcaption></figure>
-
-In VxCentralScan, insert an election manager card, select _`Settings`_ from the side menu, and select the correct mode.
-
-<figure><img src="../.gitbook/assets/em-settings-test-mode.png" alt="" width="375"><figcaption></figcaption></figure>
-
-In VxMarkScan, insert an election manager card and select the correct mode.
-
-<figure><img src="../.gitbook/assets/vxmark-config.png" alt="" width="188"><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-A callout is displayed on machines when in test ballot mode.
-{% endhint %}
-
-<div><figure><img src="../.gitbook/assets/vxscan-test-mode.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/pw-insert-card-test-mode.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/vxscan-test-mode.png" alt="" width="375"><figcaption></figcaption></figure>

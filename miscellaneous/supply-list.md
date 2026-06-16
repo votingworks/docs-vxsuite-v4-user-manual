@@ -67,6 +67,21 @@ VotingWorks recommends cleaning the scanner for each election. VotingWorks also 
 
 VotingWorks recommends cleaning the scanner for each election. VotingWorks also recommends keeping scanner cleaning supplies readily available on election day. Headphone ear covers are single use and should be disposed after each use.
 
+## VxMark Supply List
+
+| Item                 | Recommendation                           | Supplier |
+| -------------------- | ---------------------------------------- | -------- |
+| Printer Paper        | HP Premium 32, or equivalent             | Various  |
+| Printer Toner        | HP 148A or HP 148X Black Toner           | Various  |
+| Headphone Ear Covers | BBTO headphone ear covers, or equivalent | Various  |
+
+## VxPrint Supply List
+
+| Item          | Recommendation                 | Supplier |
+| ------------- | ------------------------------ | -------- |
+| Printer Paper | HP Premium 32, or equivalent   | Various  |
+| Printer Toner | HP 148A or HP 148X Black Toner | Various  |
+
 ## Additional Information
 
 For part numbers not listed above or details on long-term maintenance, consult the System Maintenance section, in particular the [approved-parts-list.md](../system-maintenance/approved-parts-list.md "mention").

@@ -27,10 +27,11 @@ Successfully completing all tests and producing a complete readiness report also
 
 Election managers should confirm that the VxScan and VxMarkScan ballot boxes are physically empty and that relevant digital storage locations are clear:
 
-* [ ] VxAdmin - _Reports > Ballot Count_ on the election manager screen should be 0
-* [ ] VxScan - _Sheets Scanned_ on the election manager screen should be 0
-* [ ] VxCentralScan - "No ballots have been scanned" should be displayed on the election manager screen
-* [ ] VxMarkScan - _Ballots Printed_ on the election manager screen should be 0
+* [ ] VxAdmin - `Reports` _>_ "Ballot Count" on the election manager screen should be 0
+* [ ] VxScan - "Sheets Scanned" on the election manager screen should be 0
+* [ ] VxCentralScan - "No ballots have been scanned" should be displayed on the `Scan Ballots` page
+* [ ] VxMarkScan - "Ballots Printed" on the election manager screen should be 0
+* [ ] VxMark - "Ballots Printed" on the election manager screen should be 0
 
 ## USB Drive Inspection
 
@@ -52,24 +53,33 @@ All required consumable levels should be checked:
 * [ ] VxMarkScan
   * [ ] Thermal ballot paper supply is sufficient for expected number of voters
   * [ ] Headphone ear cover supply is sufficient for expected number of voters
+* [ ] VxMark
+  * [ ] Toner level is greater than 10% (included in readiness report)
+  * [ ] Paper is loaded, sufficient for printing your expected number of ballots
+* [ ] VxPrint
+  * [ ] Toner level is greater than 10% (included in readiness report)
+  * [ ] Paper is loaded, sufficient for printing your expected number of ballots
 
 ## Backup Power Inspection
 
 All backup power supplies (also known as UPSs for uninterruptible power supplies) must be fully charged. When fully charged, backup power supplies will allow powering devices for approximately four hours without power. Even when fully charged, however, backup power supplies should be connected to a standard 120V wall outlet to avoid draining the battery unnecessary.
 
-To confirm that the charge is full before an election, check the LED display. On the GoldenMate 1000VA/600W, tap the power button to illuminate (or hide) the display. On the APC BN1500M2, press any button to illuminate the display. Refer to the user manual provided with your UPS for more information if needed.
+To confirm that the charge is full before an election, check the LED display. On the Goldenmate 1000VA/600W and Goldenmate 1500VA/100W, tap the power button to illuminate (or hide) the display. On the APC BN1500M2, press any button to illuminate the display. Refer to the user manual provided with your UPS for more information if needed.
 
 ## Factory Seal Inspection
 
 While most seals are applied during the course of an election, some seals are applied when the device is first manufactured. These factory seals are intended to be permanent except in cases where VotingWorks performs a repair. The presence of each factory seal should be confirmed before each election as a check against hardware tampering.
 
-VxAdmin and VxCentralScan have one factory seal that wraps around the right side of the laptop. VxScan has three factory seals: bottom left panel, bottom right panel, top panel. VxMarkScan has one behind the touchscreen.
+* VxAdmin, VxCentralScan, and VxPrint have one factory seal that wraps around the right side of the laptop.&#x20;
+* VxScan has three factory seals - bottom left panel, bottom right panel, and top panel.
+* VxMarkScan has one factory seal behind the touchscreen.
+* VxMark has two factory seals - one in the headphone bin and one under the accessible controller.
 
 All seals should start with `VX-` and should appear whole and free of defects.
 
 ## Setup Inspection Checklist
 
-The setup inspection procedures described above are intended to be completed before, during, or after logic and accuracy testing for each election _in addition to_ the jurisdiction-specific logic and accuracy testing which validates the election configuration, the ballots, and full system operation. The steps below may be completed in a variety of orders depending on your logic and accuracy procedures:
+The setup inspection procedures described above are intended to be completed before, during, or after logic and accuracy testing for each election in addition to the jurisdiction-specific logic and accuracy testing which validates the election configuration, the ballots, and full system operation. The steps below may be completed in a variety of orders depending on your logic and accuracy procedures:
 
 * [ ] Complete [signed-hash-validation.md](../miscellaneous/signed-hash-validation.md "mention") on all devices to verify that only certified software is installed
 * [ ] Calibrate [#double-sheet-detection](../vxscan/scanner-management.md#double-sheet-detection "mention") on VxScan for the upcoming election's ballot paper weight

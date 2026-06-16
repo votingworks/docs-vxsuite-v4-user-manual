@@ -30,8 +30,8 @@
 **To open the polls:**
 
 * [ ] Insert the poll worker card into the card reader beneath the accessible controller
-* [ ] Select _`Open Polls`_
-* [ ] Confirm by selecting _`Open Polls`_ again
+* [ ] Select `Open Polls`
+* [ ] Confirm by selecting `Open Polls` again
 * [ ] Remove the poll worker card
 
 **To activate a voting session:**
@@ -49,8 +49,8 @@
 * [ ] Remove ballot bin seal
 * [ ] Remove ballots inside (secure for central tabulation on VxCentralScan)
 * [ ] Insert the poll worker card
-* [ ] Select _`Close Polls`_
-* [ ] Confirm by selecting _`Close Polls`_ again
+* [ ] Select `Close Polls`
+* [ ] Confirm by selecting `Close Polls` again
 * [ ] Remove the poll worker card
 
 ### Hardware Tear Down

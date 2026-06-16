@@ -27,21 +27,18 @@ After the USB drive is inserted, VxMarkScan will automatically begin loading all
 
 ## Setting Ballot Mode
 
-Use the toggle button to switch between _`Test Ballot Mode`_ and _`Official Ballot Mode`_. The machine must be in official ballot mode on election day. Review the [l-and-a-overview.md](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md "mention") instructions to understand which mode to use during logic and accuracy testing.
+Use the toggle button to switch between `Test Ballot Mode` and `Official Ballot Mode`. The machine must be in official ballot mode on election day. Review the [l-and-a-overview.md](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md "mention") instructions to understand which mode to use during logic and accuracy testing.
 
-<div><figure><img src="../.gitbook/assets/basic-election-flow-004-em-menu-official-ballot-mode-highlighted.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-005-em-menu-test-ballot-mode-highlighted.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/basic-election-flow-004-em-menu-official-ballot-mode-highlighted.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-005-em-menu-test-ballot-mode-highlighted.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Remove Election Data & Configuration
 
 To remove election configuration (and all data) from VxMarkScan:
 
 * [ ] Log in with an election manager card
-* [ ] Select _`Unconfigure Machine`_
+* [ ] Select `Unconfigure Machine`
+* [ ] Confirm by selecting `Delete All Election Data`&#x20;
 
-<figure><img src="../.gitbook/assets/basic-election-flow-031-em-menu-unconfigure-highlighted.png" alt=""><figcaption></figcaption></figure>
-
-* [ ] Confirm by selecting _`Delete All Election Data`_&#x20;
-
-<figure><img src="../.gitbook/assets/basic-election-flow-032-em-unconfigure-modal.png" alt="" width="375"><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/basic-election-flow-031-em-menu-unconfigure-highlighted.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-032-em-unconfigure-modal.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 You can now re-configure VxMarkScan with a different election package.
