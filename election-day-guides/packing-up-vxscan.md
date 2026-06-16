@@ -6,7 +6,7 @@ Pack up **VxScan** through the following steps:
 
 * [ ] Insert the poll worker card and select _`Power Down`_ to turn VxScan off. VxScan has shutdown properly once the screen is off and presents no content.
 
-<figure><img src="../.gitbook/assets/pw-menu-closed copy.png" alt="" width="375"><figcaption><p>Insert the poll worker card and select <em>Power Down</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * [ ] Once the screen is off, remove the power cord from VxScan
 * [ ] Remove the power cord from the UPS or outlet
