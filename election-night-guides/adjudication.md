@@ -1,46 +1,43 @@
 # Adjudication
 
-{% hint style="info" %}
-The following steps must be completed by an election manager.
-{% endhint %}
+## The Adjudication Workflow
 
-To complete adjudication, navigate to the `Adjudication` tab. The system settings for your election determine which contests are flagged for adjudication. Depending on those settings, adjudication may include:
+Once CVRs have been loaded, the adjudication process can begin. Log in with an election manager card and select `Adjudication` from the side menu. If you are using an adjudication station connected to VxAdmin, you may also log in with a poll worker card.
 
-* Write-Ins - contests with a vote for a write-in which must be transcribed
-* Marginal Marks - contests with ambiguous marks that may or may not represent voter intent
-* Overvotes - contests with more votes than the maximum allowed
-* Undervotes - contests with fewer votes than the maximum allowed
+Select the `Adjudicate` button to begin adjudication.
 
-Once CVRs have been loaded, the adjudication process can begin. Log in with an election manager card and select _`Adjudication`_ from the side menu.
+<figure><img src="../.gitbook/assets/image (36).png" alt="" width="375"><figcaption></figcaption></figure>
 
-If a contest has any ballots cast requiring adjudication, an _`Adjudicate X`_ button will appear to the right of the contest. The number indicates how many votes there are to adjudicate. Select _`Adjudicate X`_ to the right of the contest to start the adjudication process.
+The ballot adjudication flow will show you one ballot at a time. On the left is a an image of the ballot. On the right is the list of contests on the ballot. Contests that need attention are highlighted in orange and annotated with the adjudication reason. The same contests are also highlighted on the ballot image. Select the contest you want to adjudicate.&#x20;
 
-<figure><img src="../.gitbook/assets/vxadmin-adjudication-screen-pre-adjudication.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37).png" alt="" width="375"><figcaption></figcaption></figure>
 
-For every ballot requiring adjudication, the contest area will be highlighted. Select _`Zoom Out`_ to see the entire ballot. Select _`Back`_, _`Skip`_, or _`Save & Next`_ to navigate across ballots.
+Selecting a contest will bring you into the contest view. On the left side is an enlarged image of the contest and on the right is the list of contest options. You may toggle each contest option from a vote to a non-vote by clicking it. Adjudicate marks, overvotes, and undervotes according to your jurisdiction's rules.
 
-<div><figure><img src="../.gitbook/assets/vxadmin-adjudication-view.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-adjudication-view-zoomed-out.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/image (38).png" alt="" width="375"><figcaption></figcaption></figure>
 
-For write-ins, the dropdown will display buttons for each of the official candidates on the ballot. If the voter wrote in an official candidate, simply select the correct one to award the vote to that candidate. If the voter wrote in a candidate not on the ballot, type in the name of the candidate. Previously entered names will show up as you type. If the entered name is not allowed under state law or is a stray mark, empty space, or any other invalid entry, select _`Invalid`_.
+To adjudicate a write-in, click the `Click to adjudicate` dropdown below the write-in option. Select an existing option or type in the name and select `Press enter to add: [Name]`. If your jurisdiction requires write-in candidates to be pre-qualified, you will not have the option to add new write-in candidates. If the write-in is not valid, select `Invalid` and it will be treated as an undervote.
 
-<div><figure><img src="../.gitbook/assets/vxadmin-adjudication-write-in-focused.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-adjudication-write-in-new-candidate-adjudicated.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (39).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (40).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-{% hint style="warning" %}
-Write-in votes without the bubble marked are not included in tally reports until their vote is assigned via adjudication. They will always appear in the write-in adjudication report, assuming the relevant system setting has been enabled.
-{% endhint %}
+When you're done adjudicating a contest, select `Confirm` to return to the ballot view.&#x20;
 
-If a write-in is for an official candidate and the system also detects a mark for the official candidate, the following message will appear to prevent double votes:
+On the ballot view, you can navigate to the next contest needing adjudication or review your adjudications. Once you've adjudicated all contests needing attention, select `Accept` to save your changes and move on to the next ballot.
 
-<figure><img src="../.gitbook/assets/vxadmin-double-vote-detected.png" alt="" width="188"><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/image (43).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (42).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-For marginal marks, determine whether the mark is an intentional mark or not given your jurisdiction's guidelines. If the mark is deemed unintentional, click _`Dismiss`_. If the mark is deemed intentional, check the box of the corresponding candidate.
+The `Adjudication` screen will show your progress as you work through the ballots.
 
-<div><figure><img src="../.gitbook/assets/vxadmin-adjudication-write-in-new-candidate-adjudicated.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-adjudication-marginal-mark-adjudicated.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/image (47).png" alt="" width="375"><figcaption></figcaption></figure>
 
-After finishing adjudication for a contest, select _`Finish`_ to return to the contest menu, or select _`Close`_ to return to the contest menu at any time.
+## Marginal Marks
 
-<figure><img src="../.gitbook/assets/vxadmin-adjudication-1-contest-done.png" alt="" width="375"><figcaption></figcaption></figure>
+If your jurisdiction adjudicates marginal marks, the text "Review Marginal Mark" will appear over any marginally marked contest option. Select the contest option to adjudicate as a valid mark or select `Dismiss` to adjudicate it as a stray or invalid mark.
 
-Proceed through all contests until adjudication is complete.
+<div><figure><img src="../.gitbook/assets/image (44).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (45).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-<div><figure><img src="../.gitbook/assets/vxadmin-adjudication-1-contest-done-queue.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-adjudication-complete.png" alt=""><figcaption></figcaption></figure></div>
+## Blank Ballots
+
+If your jurisdiction adjudicates blank ballots, there will be no specific contests flagged for adjudication. Instead there will be a "Blank Ballot Detected" banner with the option to flip to the back. If the ballot is indeed blank, simply select `Accept`. If the ballot is not actually blank, adjudicate individual contests according to your jurisdiction's rules.
+
+<figure><img src="../.gitbook/assets/image (46).png" alt="" width="375"><figcaption></figcaption></figure>

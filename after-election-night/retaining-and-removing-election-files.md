@@ -30,12 +30,12 @@ All VotingWorks paper records and USB drives are specified to last at least 22 m
 
 To save the recommended VxAdmin files, follow these steps when logged in as an election manager:
 
-* [ ] Select _`Reports`_ from the side menu, select _`Full Election Tally Report`_, select _`Export Report PDF`_
-* [ ] Then select _`Export Report CSV`_
+* [ ] Select `Reports` from the side menu, select `Full Election Tally Report`, select `Export Report PDF`
+* [ ] Then select `Export Report CSV`
 
-<div><figure><img src="../.gitbook/assets/vxadmin-reports-screen-official-report-button-highlight.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-full-election-report-official (1).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (48).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (49).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-Next select _`Settings`_ from the side menu and _`Save Logs`_. Machine log files are saved in the /logs folder on the USB drive.
+Next select `Settings` from the side menu and `Save Logs`. Machine log files are saved in the `/logs` folder on the USB drive.
 
 <figure><img src="../.gitbook/assets/vxadmin-election-manager-settings-screen-logs-highlight.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -57,10 +57,10 @@ VxScan CVRs include the VxScan's CVRs and ballot images. The log file contains t
 
 ### Removing Election Files
 
-In VxAdmin, log in with a system administrator card, select _`Election`_ from the side menu and select _`Unconfigure Machine`_.
+In VxAdmin, log in with a system administrator card, select `Election` from the side menu and select `Unconfigure Machine`.
 
-<figure><img src="../.gitbook/assets/election-screen-configured-highlighted (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (63).png" alt="" width="375"><figcaption></figcaption></figure>
 
-In VxScan, log in with an election manager card and select _`Unconfigure Machine`_.
+In VxScan, log in with an election manager card and select `Unconfigure Machine`.
 
-<figure><img src="../.gitbook/assets/election-manager-settings-unconfigure.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (64).png" alt="" width="375"><figcaption></figcaption></figure>
