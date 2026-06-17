@@ -18,7 +18,7 @@ The default action for poll workers in early voting mode is `Pause Voting` rathe
 
 The cast vote records contain the images and the interpretation for each ballot cast and is used to tally votes in VxAdmin. The cast vote record saves continuously to the USB drive throughout the day and again at the close of polls. If another copy is needed, however, it can also be saved by selecting `CVRs and Logs` from the side menu and selecting `Save CVRs`.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 The `Pause Continuous CVR Export` feature is used to disable continuous cast vote record export in the case that a USB drive fails or is unavailable. When continuous export is paused, VxScan can be used without an inserted USB drive and CVRs must be manually exported from the election manager menu after polls are closed. If you experience USB drive issues, contact customer support. This setting should only be used if advised by the VotingWorks support team.
 
@@ -42,7 +42,7 @@ The following step can only be completed by an election manager.
 
 VxScan makes sounds every time a ballot is accepted or rejected. Sounds can be muted and unmuted by an election manager.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Resetting Polls to Paused
 
@@ -52,4 +52,4 @@ The following step can only be completed by a system administrator.
 
 If polls have been closed accidentally by a poll worker, a system administrator may reset the polls to paused, after which a poll worker can resume voting.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt="" width="375"><figcaption></figcaption></figure>
