@@ -2,9 +2,9 @@
 
 ## Full Election Tally Report
 
-To review results, select _`Reports`_ from the side menu and select _`Full Election Tally Report`._ A preview will appear. Select _`Print Report`_ to print the report, _`Export Report as PDF`_ to save the election tally report to a USB drive as a .pdf file, or _`Export Report CSV`_ to save the election tally report to a USB drive as a .csv file. Files will save to a reports/ folder on the USB drive.
+To review results, select `Reports` from the side menu and select `Full Election Tally Report`. A preview will appear. Select `Print Report` to print the report, `Export Report as PDF` to save the election tally report to a USB drive as a .pdf file, or `Export Report CSV` to save the election tally report to a USB drive as a .csv file. Files will save to a `reports/` folder on the USB drive.
 
-<div><figure><img src="../.gitbook/assets/vxadmin-reports-screen-unofficial (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/full-election-report-unofficial.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (48).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (49).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 The tally report will include any total write-in count of one or more in a contest. If a specific write-in candidate has enough votes to be considered in the outcome of a contest, the report will list that candidate and their vote total. The tally report will not list every write-in adjudicated - the write-in adjudication report will have the full list.
@@ -12,39 +12,37 @@ The tally report will include any total write-in count of one or more in a conte
 
 ### Tally Report Builder
 
-The tally report builder allows you to create custom reports. These reports can be filtered or reported by precinct, district, ballot style, and more. To navigate to the tally report builder, select _`Tally Report Builder`_ from the Reports screen.
+The tally report builder allows you to create custom reports. These reports can be filtered or reported by precinct, district, ballot style, and more. To navigate to the tally report builder, select `Tally Report Builder` from the Reports screen.
 
 <figure><img src="../.gitbook/assets/vxadmin-reports-screen-unofficial-tally-report-builder-highlight.png" alt="" width="375"><figcaption></figcaption></figure>
 
 To create a filtered and/or grouped report:
 
-1. Select _`Add Filter`_
-2. Select Ballot Style, Batch, Precinct, or Scanner
+1. Select `Add Filter`
+2. Select a filter type e.g. ballot style, voting method, or precinct
 
-<div align="center"><figure><img src="../.gitbook/assets/vxadmin-tally-report-builder-initial.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-tally-report-builder-filter-selection.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (51).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (52).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-3. Specify any specific ballot style(s), batch(es), precinct(s), or scanner(s)
-4. Select _`Add Filter`_ to add an additional filter as needed
-5. Select how you'd like the report organized
-6. Select _`Generate Report`_
-7. Print or export the report as a .pdf or .csv file (if needed)
 
-<div><figure><img src="../.gitbook/assets/vxadmin-tally-report-builder-group-selected.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-tally-report-builder-done.png" alt=""><figcaption></figcaption></figure></div>
+
+3. Specify any specific ballot style(s), voting method(s), or precinct(s)
+4. Select `Add Filter` to add an additional filter as needed
+5. Select how you'd like the report grouped under "Report By"
+6. Select `Generate Report`
+7. If desired, print or export the report as a .pdf or .csv file
+
+<div><figure><img src="../.gitbook/assets/image (53).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (54).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Ballot Count Reports
 
 Ballot count reports show the number of ballots cast. The ballot count report builder enables you to generate custom reports by precinct, district, ballot style, and more. An example of the Voting Method Ballot Count Report is on the right.
 
-<div><figure><img src="../.gitbook/assets/vxadmin-reports-screen-unofficial-ballot-count-reports-highlight.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/ballot-count-report-voting-method.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (55).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (56).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Write-In Adjudication Report
 
 The write-in adjudication report presents how all write-ins were adjudicated and the count of votes for write-in candidates.
 
-To print the report, select _`Unofficial Write-In Adjudication Report`_. An example of the write-in adjudication report is on the right.
+To print the report, select `Unofficial Write-In Adjudication Report`. An example of the write-in adjudication report is on the right.
 
-<div><figure><img src="../.gitbook/assets/vxadmin-reports-screen-unofficial-wia-report.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/write-in-adjudication-report.png" alt=""><figcaption></figcaption></figure></div>
-
-### Example Reports
-
-<div><figure><img src="../.gitbook/assets/admin-full-election-report 2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/admin-ballot-count-report-voting-method 2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/admin-write-in-adjudication-report 2.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (57).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (58).png" alt="" width="375"><figcaption></figcaption></figure></div>
