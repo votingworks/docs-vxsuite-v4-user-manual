@@ -8,6 +8,7 @@
 * [Configure VxAdmin](vxadmin-system-setup/configure-vxadmin.md)
 * [Save Election Package](vxadmin-system-setup/save-election-package.md)
 * [Smart Cards and User Roles](vxadmin-system-setup/programming-cards.md)
+* [Pre-Election Adjudication Setup](vxadmin-system-setup/pre-election-adjudication-setup.md)
 * [USB Formatting](vxadmin-system-setup/usb-formatting.md)
 * [VxAdmin Diagnostics](vxadmin-system-setup/vxadmin-diagnostics.md)
 * [Unlocking & Locking](vxadmin-system-setup/unlocking-locking-hardware.md)

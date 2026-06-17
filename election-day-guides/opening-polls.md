@@ -2,7 +2,7 @@
 
 After VxScan is plugged in, the screen will show that polls are closed:
 
-<figure><img src="../.gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 If there is an orange callout that says "Test Ballot Mode" on the screen, contact your election administrator immediately to prepare the machine for the election.

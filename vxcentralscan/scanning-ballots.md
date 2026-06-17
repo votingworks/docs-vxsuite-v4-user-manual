@@ -12,7 +12,7 @@ Follow the [vxcentralscan-hardware-setup.md](vxcentralscan-hardware-setup.md "me
 
 Before scanning the first ballot batch, confirm that VxCentralScan displays "No ballots have been scanned." If not, select `Delete All Batches` to clear the scanned ballot data.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Load a stack of ballots into the feeder tray of the scanner. VotingWorks recommends loading no more than 30 ballot sheets at time for Ricoh model fi-8170 and 100 ballot sheets for Fujitsu model fi-7600. The ballots need to be in a neat stack, unfolded and lying flat, but ballots can be in any orientation (e.g. upside down or backwards is fine).
 

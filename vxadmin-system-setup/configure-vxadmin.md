@@ -8,18 +8,18 @@ The following steps must be completed by a system administrator.
 
 ## Load Election Package
 
-When VxAdmin is not configured, the screen will prompt you to _Insert a USB drive containing an election package_**.** After inserting the USB drive, VxAdmin will automatically list the election package(s) available. Select the file name of the correct election package to configure VxAdmin. If the file is not automatically listed, select _`Select Other File...`_ and manually select the file from the USB drive.&#x20;
+When VxAdmin is not configured, the screen will prompt you to insert a USB drive containing an election packag&#x65;**.** After inserting the USB drive, VxAdmin will automatically list the election package(s) available. Select the file name of the correct election package to configure VxAdmin. If the file is not automatically listed, select `Select Other File...` and manually select the file from the USB drive.
 
 Once configured, the election screen will display the title and date of your election as well as the date and time VxAdmin was configured.
 
-<div><figure><img src="../.gitbook/assets/election-screen-unconfigured (3).png" alt=""><figcaption><p>System administrator election screen before configuring</p></figcaption></figure> <figure><img src="../.gitbook/assets/election-screen-select-election-package (1).png" alt=""><figcaption><p>System administrator election screen listing available election packages</p></figcaption></figure> <figure><img src="../.gitbook/assets/election-screen-configured (2).png" alt=""><figcaption><p>System administrator election screen once configured</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/system-administrator-003-election-screen-unconfigured (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/system-administrator-004-election-screen-select-election-package (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/system-administrator-005-election-screen-configured (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Remove Election
 
 If you need to change an election package or reset VxAdmin for the next election, you must unconfigure the machine.
 
-Select _`Election`_ from the side menu and select _`Unconfigure Machine`_.
+Select `Election` from the side menu and select `Unconfigure Machine`.
 
-<figure><img src="../.gitbook/assets/unconfigure-button.png" alt="" width="375"><figcaption><p>Unconfiguring VxAdmin</p></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/system-administrator-008-confirm-unconfigure-button.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-After confirming by selecting _`Delete All Election Data`_ , you will return to the initial VxAdmin Election screen. VxAdmin can be reconfigured by loading a new election package by repeating the steps above.
+After confirming by selecting `Delete All Election Data` , you will return to the initial VxAdmin `Election` screen. VxAdmin can be reconfigured by loading a new election package by repeating the steps above.

@@ -29,7 +29,7 @@ VxCentralScan is now configured and in test mode. The election summary informati
 
 When testing is complete, switch VxCentralScan to official ballot mode on the settings screen:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 The `Scan Ballots` page should have the text "No ballots have been scanned" and there should be no test ballot mode banner. VxCentralScan is now ready for the election.
 
