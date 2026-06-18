@@ -79,13 +79,26 @@
 * [VxCentralScan Diagnostics](vxcentralscan/vxcentralscan-diagnostics.md)
 * [VxCentralScan Error Messages](vxcentralscan/vxcentralscan-error-messages.md)
 
+## VxMark
+
+* [VxMark Hardware Setup](vxmark/vxmark-hardware-setup.md)
+* [Configure VxMark](vxmark/configure-vxmark.md)
+* [Open and Close Polls](vxmark/open-and-close-polls.md)
+* [Voting Sessions](vxmark/voting-sessions.md)
+* [Voting Session Language & Accessibility Settings](vxmark/voting-session-language-and-accessibility-settings.md)
+* [Packing Up VxMark](vxmark/packing-up-vxmark.md)
+* [VxMark Error Messages](vxmark/vxmark-error-messages.md)
+* [VxMark Diagnostics](vxmark/diagnostics.md)
+* [Retaining and Removing Files - VxMark](vxmark/retaining-and-removing-files.md)
+* [VxMark Checklist](vxmark/vxmark-checklist.md)
+
 ## VxMarkScan
 
 * [VxMarkScan Hardware Setup](vxmarkscan/vxmarkscan-hardware-setup.md)
 * [Configure VxMarkScan](vxmarkscan/configure-vxmarkscan.md)
-* [Open and Close Polls](vxmark/open-and-close-polls.md)
-* [Voting Sessions](vxmark/voting-sessions.md)
-* [Voting Session Language & Accessibility Settings](vxmark/voting-session-language-and-accessibility-settings.md)
+* [Open and Close Polls](<vxmark/open-and-close-polls (1).md>)
+* [Voting Sessions](<vxmark/voting-sessions (1).md>)
+* [Voting Session Language & Accessibility Settings](<vxmark/voting-session-language-and-accessibility-settings (1).md>)
 * [Packing Up VxMarkScan](vxmarkscan/packing-up-vxmarkscan.md)
 * [VxMarkScan Error Messages](vxmarkscan/vxmarkscan-error-messages.md)
 * [VxMarkScan Diagnostics](vxmarkscan/diagnostics.md)

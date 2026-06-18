@@ -2,7 +2,7 @@
 
 ## VxMarkScan Setup
 
-Part of the Precinct System, VxMarkScan is an accessible ballot marking device that gives voters the ability to mark their choices and print their ballot from a touchscreen.
+Part of the Precinct System, VxMarkScan is a free-standing accessible ballot marking device that gives voters the ability to mark their choices and print their ballot from a touchscreen.
 
 **VxMarkScan** can be set up through the following steps:
 
