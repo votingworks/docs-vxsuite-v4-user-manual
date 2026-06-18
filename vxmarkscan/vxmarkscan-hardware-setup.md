@@ -30,7 +30,7 @@ Part of the Precinct System, VxMarkScan is an accessible ballot marking device t
 <div><figure><img src="../.gitbook/assets/VxMark main unit.png" alt=""><figcaption><p>Ballot marking device</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark place unit on legs.png" alt=""><figcaption><p>Place ballot marking device on the stand</p></figcaption></figure></div>
 
 * [ ] Plug in the power cord connector to the back of the ballot marking device
-* [ ] Plug the power cord into the UPS battery backup
+* [ ] Plug the power cord into the APC UPS battery backup
 
 <div><figure><img src="../.gitbook/assets/VxMark unit plug.png" alt=""><figcaption><p>Power cord connector</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark unit plug plugged in.png" alt=""><figcaption><p>Power cord connector plugged in</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark power cord.png" alt=""><figcaption><p>Power plug</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark power cord plugged into UPS.png" alt=""><figcaption><p>Power cord plugged in</p></figcaption></figure></div>
 

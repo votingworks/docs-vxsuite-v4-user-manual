@@ -12,7 +12,7 @@ description: >-
 
 ![VxCentralScan in cases](<../.gitbook/assets/vxcentralscan-in-cases-22_10 (1).png>) ![VxCentralScan set up](../.gitbook/assets/centralscan.jpg)
 
-Two models of Ricoh scanners are supported: fi-8170 and fi-7600. The smaller fi-8170 (shown above) can scan batches of up to 30 ballots. The larger fi-7600 can scan larger batches of up to 100 ballots.
+Two models of Ricoh scanners are supported: fi-8170 and fi-7600. The smaller fi-8170 (shown above) can scan batches of up to 30 ballots. The larger fi-7600 can scan larger batches of up to 100 ballots. Backup power for the scanner is provided by the APC UPS.
 
 ## **VxCentralScan** Setup
 
@@ -23,7 +23,7 @@ Two models of Ricoh scanners are supported: fi-8170 and fi-7600. The smaller fi-
    * [ ] Attach and pull out the paper feed guide tray (a)
    * [ ] Pull out the paper holder tray (b)
    * [ ] Plug the USB cord (c) into the back of the scanner and into the laptop
-   * [ ] Plug the power cord (d) into the back of the scanner and into an outlet or UPS power backup
+   * [ ] Plug the power cord (d) into the back of the scanner and into the APC UPS
    * [ ] Press the power button (e) to turn the scanner on
 
 ![Remove scanner and power cord from case](../.gitbook/assets/ricoh-01-4_3.jpeg) ![Attach and pull out paper trays](../.gitbook/assets/ricoh-02-4_3.jpeg) ![Plug cords in](../.gitbook/assets/PXL_20241125_223330294.jpg) ![Press the power button to turn on](../.gitbook/assets/ricoh-03-4_3.jpeg)

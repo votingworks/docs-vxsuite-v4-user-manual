@@ -27,9 +27,9 @@ description: >-
 * [ ] Close the poll worker door and seal and document as required
 * [ ] Remove the power cord from its storage place
 * [ ] Plug the power cord into the case
-* [ ] Plug the power cord into an outlet or UPS power backup
-* [ ] Plug UPS power backup into an outlet (if applicable)
-* [ ] Turn the UPS power backup on (if applicable)
+* [ ] Plug the power cord into the Goldenmate UPS
+* [ ] Plug the Goldenmate UPS into an outlet
+* [ ] Turn the Goldenmate UPS on
 
 ### [Open Polls](../election-day-guides/opening-polls.md)
 
@@ -73,7 +73,7 @@ Single polling place jurisdictions may want to skip to the [Election Night Check
 
 * [ ] Insert the poll worker card and select _`Power Down`_ to turn VxScan off
 * [ ] Once the screen has turned off, remove the power cord from VxScan
-* [ ] Remove the power cord from the UPS or outlet
+* [ ] Remove the power cord from the Goldenmate UPS, power off the UPS, and pack it up
 * [ ] Wrap the power cord in its storage location
 * [ ] Push the purple release button to the left to release the case from the ballot box
 * [ ] Close the poll worker door
@@ -83,9 +83,8 @@ Single polling place jurisdictions may want to skip to the [Election Night Check
 
 **Pack up the ballot box:**
 
-* [ ] Unseal and/or unlock the ballot box&#x20;
+* [ ] Unseal and/or unlock the ballot box
 * [ ] Remove all ballots from the ballot box and seal into a secure container, recording the seal number as required
 * [ ] Press the latch on the lid to release the lid and lift the lid over to the side
 * [ ] Fully collapse the ballot by gently using your foot to lift the bottom purple hooks
 * [ ] Remove the straps from the underside of the lid and tighten them around the side
-
