@@ -29,7 +29,7 @@ The paper roll must be installed in the correct orientation or it will not print
 * [ ] Snap the other end of the paper roll onto the paper roll holder
 * [ ] Pull a small amount of paper up and over the tear bar
 
-<div><figure><img src="../.gitbook/assets/VxScan put one side of paper on roll.png" alt=""><figcaption><p>place one end on the case</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan snap other side of paper roll in.png" alt=""><figcaption><p>place the other end on the case</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan pull paper up.png" alt=""><figcaption><p>pull paper through the feed</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxScan put one side of paper on roll.png" alt=""><figcaption><p>Place one end on the case</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan snap other side of paper roll in.png" alt=""><figcaption><p>Place the other end on the case</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxScan pull paper up.png" alt=""><figcaption><p>Pull paper through the feed</p></figcaption></figure></div>
 
 * [ ] Snap the paper roll holder back into VxScan
 * [ ] Remove excess paper by pulling toward you and tearing
