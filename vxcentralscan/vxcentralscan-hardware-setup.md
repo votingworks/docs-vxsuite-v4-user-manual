@@ -10,15 +10,19 @@ description: >-
 
 **VxCentralScan** is a commercial off-the-shelf (COTS) laptop pre-installed with VxCentralScan software that connects to a Ricoh scanner.
 
-![VxCentralScan in cases](<../.gitbook/assets/vxcentralscan-in-cases-22_10 (1).png>) ![VxCentralScan set up](../.gitbook/assets/centralscan.jpg)
+![VxCentralScan in cases](<../.gitbook/assets/vxcentralscan-in-cases-22_10 (1).png>) ![VxCentralScan set up with fi-8170](../.gitbook/assets/centralscan.jpg)
 
-Two models of Ricoh scanners are supported: fi-8170 and fi-7600. The smaller fi-8170 (shown above) can scan batches of up to 30 ballots. The larger fi-7600 can scan larger batches of up to 100 ballots.
+Three models of scanner are supported:&#x20;
+
+* Ricoh fi-8170 - Small. Recommended maximum batch size of 30 ballots.
+* Ricoh fi-7600 - Medium. Recommended maximum batch size of 100 ballots.
+* Ricoh fi-8950 - Large. Recommended maximum batch size of 250 ballots.
 
 ## **VxCentralScan** Setup
 
 **VxCentralScan** can be set up through the following steps:
 
-1. **Unbox and set up scanner**:
+1. **Unbox and set up scanner (Ricoh fi-8170)**:
    * [ ] Remove the scanner and power cord from the case
    * [ ] Attach and pull out the paper feed guide tray (a)
    * [ ] Pull out the paper holder tray (b)
@@ -52,9 +56,15 @@ To pack up the VxCentralScan, simply place all of the components back into the c
 
 ## Imprinting
 
-Both the fi-8170 and the fi-7600 can be used with an optional imprinter, the fi-819PRB and the fi-760PRB respectively. See the user guides for the [fi-819PRB](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-8170/ricoh-fi-819prb-user-guide.pdf) and [fi-760PRB](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-760prb-user-guide.pdf) for assembly instructions. The scanner should be off when attaching the imprinter. After the imprinter is attached, adjust the paper guides on the imprinter to match the paper width of each batch, which is 8.5" for hand marked paper ballots or 8" for machine marked paper ballots.
+All three scanners can be used with an optional imprinter:
 
-After the imprinter is attached, adjust the paper guides on the imprinter to match the paper width of each batch, which is 8.5" for hand marked paper ballots or 8" for machine marked paper ballots. This adjustment is necessary to ensure that imprinting is done outside of the ballot marking area on each ballot.
+* Ricoh fi-8170 - Uses the fi-819PRB. See the [fi-819PRB user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-8170/ricoh-fi-819prb-user-guide.pdf) for assembly instructions.
+* Ricoh fi-7600 - Uses the fi-760PRB. See the [fi-760PRB user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-760prb-user-guide.pdf) for assembly instructions.
+* Ricoh fi-8950 - Uses the fi-890PRB. See the [fi-890PRB user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-8950/ricoh-fi-890prb-user-guide.pdf). The one-time installation must be performed by a Ricoh support technician.&#x20;
+
+For the detachable imprinters, the scanner must be off when attaching the imprinter. After the imprinter is attached, adjust the paper guides on the imprinter to match the paper width of each batch, which is 8.5" for hand marked paper ballots or 8" for machine marked paper ballots.
+
+For all imprinters, adjust the position of the imprinter to ensure that imprinting is done outside of the ballot marking area on each ballot. Test imprinting on blank paper or test ballots before using it on official ballots.
 
 ## Scanner Maintenance
 
