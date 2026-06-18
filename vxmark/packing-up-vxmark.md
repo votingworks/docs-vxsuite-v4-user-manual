@@ -16,7 +16,7 @@ Then, pack up VxMark:
 
 <div><figure><img src="../.gitbook/assets/Mark _packingup_image2.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _packingup_image3.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-* [ ] Rotate the screen from vertical to horizontal, and then tilt it back into the case
+* [ ] Rotate the screen counterclockwise 90°, and then tilt it back into the case
 * [ ] Close the lid of the case and latch it shut
 
 <div><figure><img src="../.gitbook/assets/Mark _packingup_image4.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _packingup_image5.jpg" alt=""><figcaption></figcaption></figure></div>
@@ -25,7 +25,7 @@ Then, pack up VxMark:
 * [ ] Tilt the case on its front to access the back compartment
 * [ ] Neatly bundle the power and printer cables together and place the bundle in the back compartment
 * [ ] Close the back compartment
-* [ ] Seal VxMark per the jurisdiction's processes
+* [ ] Seal VxMark per your jurisdiction's processes
 
 ## Printer Pack Up
 

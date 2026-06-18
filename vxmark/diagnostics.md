@@ -6,11 +6,7 @@ In preparation for an election or in response to issues, the diagnostics interfa
 
 The diagnostics screen shows information about how the machine is configured, how much storage is left on the device, and the current status of the hardware. There are tests for the accessible controller, PAT Device input, printer, barcode reader, headphone input, system audio, and uninterruptible power supply.
 
-<figure><img src="../.gitbook/assets/VxMark-Diagnostics2.png" alt="" width="375"><figcaption></figcaption></figure>
-
-For each component test, simply select _`Test xxx`_ and follow the instructions on the screen. The results of the most recent test are displayed on the diagnostics screen.
-
-\[Diagnostics Screenshots]
+<figure><img src="../.gitbook/assets/VxMark-DiagnosticsMenu.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Readiness Report
 
