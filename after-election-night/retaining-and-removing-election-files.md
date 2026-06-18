@@ -16,6 +16,7 @@ VotingWorks recommends retaining the following files after each election:
 * [ ] VxMarkScan log file (if applicable - see [Retaining and Removing Files - VxMarkScan](../vxmarkscan/retaining-and-removing-files.md))
 * [ ] VxMark log file (if applicable - see [Retaining and Removing Files - VxMark](../vxmark/retaining-and-removing-files.md))
 * [ ] VxPrint log file (if applicable - see [Reporting & Logs](../vxprint/reportingandlogs.md#saving-logs))
+* [ ] VxPrint ballots printed report, exported as a PDF (if applicable - see [Reporting & Logs](../vxprint/reportingandlogs.md#reporting))
 
 {% hint style="warning" %}
 Ballots should have been secured post-tabulation. Follow state guidelines to ensure proper retention.
