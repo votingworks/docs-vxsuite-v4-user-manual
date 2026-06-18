@@ -1,7 +1,7 @@
 # Manual Tallies
 
 {% hint style="info" %}
-The following steps must be completed by the Election Manager.
+The following steps must be completed by the election manager.
 {% endhint %}
 
 To enter tallies manually, select `Tally` from the side menu and then select the `Manual Tallies` tab.
