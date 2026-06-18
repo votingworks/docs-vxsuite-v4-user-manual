@@ -3,7 +3,7 @@
 ### Activating a Voting Session
 
 {% hint style="warning" %}
-A voter may bring their own Personal Assistive Technology (PAT) device (ex. jelly bean switch, sip and puff device, etc.) or headphones. It must have a 3.5mm plug or connector. Once plugged in, a test screen will pop up to assist in configuration. See [System Administrator Functions & System Diagnostics ](../vxmarkscan/diagnostics.md)for instructions.
+A voter may bring their own Personal Assistive Technology (PAT) device (ex. jelly bean switch, sip and puff device, etc.) or headphones. It must have a 3.5mm plug or connector. Once plugged in, a test screen will pop up to assist in configuration. See [VxMarkScan Diagnostics](../vxmarkscan/diagnostics.md) for instructions.
 {% endhint %}
 
 {% include "../.gitbook/includes/sanitizing-headphones-instructions.md" %}
@@ -23,7 +23,7 @@ If a voter chooses to use VxMarkScan:
 <div><figure><img src="../.gitbook/assets/basic-election-flow-015-pw-load-ballot-sheet.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-016-pw-loading-sheet.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-015-pw-remove-card-to-vote.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
-If the wrong ballot style or precinct was selected, insert the poll worker card (if not already inserted) and select _`Cancel Voting Session`_ to return to the poll worker menu.
+If the wrong ballot style or precinct was selected, insert the poll worker card (if not already inserted) and select `Cancel Voting Session` to return to the poll worker menu.
 {% endhint %}
 
 ### Marking a Ballot
@@ -40,7 +40,7 @@ If a voter would like to change a selection, they must first deselect a candidat
 
 ### Entering a Write-In
 
-To enter a write-in candidate, select `add write-in candidate` and use the keyboard to type in the candidate's name. Select `Accept` when finished.
+To enter a write-in candidate, select `Add write-in candidate` and use the keyboard to type in the candidate's name. Select `Accept` when finished.
 
 <div><figure><img src="../.gitbook/assets/basic-election-flow-018-voting-write-in-button (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-019-voting-write-in-keyboard.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-020-voting-write-in-accepted.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
