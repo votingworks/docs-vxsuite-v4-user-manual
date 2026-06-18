@@ -14,6 +14,8 @@ VotingWorks recommends retaining the following files after each election:
 * [ ] VxCentralScan CVRs (if applicable - see [Retaining and Removing files - VxCentralScan](../vxcentralscan/retaining-and-removing-files-vxcentralscan.md))
 * [ ] VxCentralScan log file (if applicable - see [Retaining and Removing files - VxCentralScan](../vxcentralscan/retaining-and-removing-files-vxcentralscan.md))
 * [ ] VxMarkScan log file (if applicable - see [Retaining and Removing Files - VxMarkScan](../vxmarkscan/retaining-and-removing-files.md))
+* [ ] VxMark log file (if applicable - see [Retaining and Removing Files - VxMark](../vxmark/retaining-and-removing-files.md))
+* [ ] VxPrint log file (if applicable - see [Reporting & Logs](../vxprint/reportingandlogs.md#saving-logs))
 
 {% hint style="warning" %}
 Ballots should have been secured post-tabulation. Follow state guidelines to ensure proper retention.
@@ -44,10 +46,10 @@ Next select `Settings` from the side menu and `Save Logs`. Machine log files are
 VxScan CVRs include the VxScan's CVRs and ballot images. The log file contains the logs. To save the VxScan files, [setup the VxScan](../election-day-guides/vxscan-setup.md) without the ballot box and follow the following steps:
 
 * [ ] Insert election manager card
-* [ ] Select _`CVRs and Logs`_ from the side menu
+* [ ] Select `CVRs and Logs` from the side menu
 * [ ] Insert a USB drive
-* [ ] Select _`Save CVRs`_
-* [ ] Selec&#x74;_`Save Logs`_
+* [ ] Select `Save CVRs`
+* [ ] Select `Save Logs`
 
 <div><figure><img src="../.gitbook/assets/configuration-016-em-save-cvrs-button.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/configuration-017-em-save-logs-button (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
