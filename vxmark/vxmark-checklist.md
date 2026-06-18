@@ -19,7 +19,7 @@
 * [ ] Connect the printer USB cable exiting the back of VxMark to the USB port on the printer
 * [ ] Press the power button on the front of the printer
 
-### **Open Polls, Activate Voting Session, and Close Polls**
+### Open Polls, Activate Voting Session, and Close Polls
 
 **To open the polls:**
 
@@ -42,18 +42,18 @@
 * [ ] Confirm by selecting `Close Polls` again
 * [ ] Remove the poll worker card
 
-### **Pause Voting and Resume Voting**
+### Pause Voting and Resume Voting
 
 **To pause voting:**
 
-* [ ] Insert the poll worker card into the card reader beneath the accessible controller
+* [ ] Insert the poll worker card into the card reader in the back right
 * [ ] Select `Pause Voting`
 * [ ] Confirm by selecting `Pause Voting` again
 * [ ] Remove the poll worker card
 
 **To resume voting:**
 
-* [ ] Insert the poll worker card into the card reader beneath the accessible controller
+* [ ] Insert the poll worker card into the card reader in the back right
 * [ ] Select `Resume Voting`
 * [ ] Confirm by selecting `Resume Voting` again&#x20;
 * [ ] Remove the poll worker card
