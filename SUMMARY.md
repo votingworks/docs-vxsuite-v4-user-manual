@@ -15,6 +15,15 @@
 * [VxAdmin Printer FAQs](reference/printer-faqs.md)
 * [VxAdmin Error Messages](vxadmin-system-setup/vxadmin-error-messages.md)
 
+## VxPrint
+
+* [VxPrint Hardware Setup](vxprint/vxprint-hardware-setup.md)
+* [Configure VxPrint](vxprint/configure-vxprint.md)
+* [Printing Ballots](vxprint/printing-ballots.md)
+* [Reporting & Logs](vxprint/reportingandlogs.md)
+* [VxPrint Diagnostics](vxprint/vxprint-diagnostics.md)
+* [VxPrint Error Messages](vxprint/vxprint-error-messages.md)
+
 ## VxScan
 
 * [Configure VxScan](vxscan/configure-vxscan.md)
@@ -65,6 +74,7 @@
 
 * [Signed Hash Validation](miscellaneous/signed-hash-validation.md)
 * [Setting Date & Time](miscellaneous/setting-date-and-time.md)
+* [HP Printer FAQ's](miscellaneous/hp-printer-faqs.md)
 * [Operational Environment](miscellaneous/operational-environment.md)
 * [Seal Recommendations](miscellaneous/seal-recommendations.md)
 * [Supply List](miscellaneous/supply-list.md)

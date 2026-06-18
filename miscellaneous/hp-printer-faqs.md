@@ -1,13 +1,10 @@
----
-description: VxAdmin prints reports with the HP LaserJet Pro 4001dn printer.
-hidden: true
----
+# HP Printer FAQ's
 
-# VxAdmin Printer FAQs
+**This FAQ document applies to VxAdmin, VxPrint, and VxMark.**
 
 **Do we need to install toner?**
 
-New printers come with toner pre-installed, see the [#vxadmin-supply-list](../miscellaneous/supply-list.md#vxadmin-supply-list "mention") for replacement options. To install a new toner cartridge, follow [HP's instructions](https://support.hp.com/us-en/document/ish_5455373-5578919-16).
+New printers come with toner pre-installed, see the [Supply List](supply-list.md) for replacement options. To install a new toner cartridge, follow [HP's instructions](https://support.hp.com/us-en/document/ish_5455373-5578919-16).
 
 **The printer displays "Select Language" and won't print. What do I do?**
 
