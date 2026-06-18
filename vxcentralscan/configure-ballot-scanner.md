@@ -8,8 +8,8 @@ Before you configure VxCentralScan, you must set up the machine. Follow the step
 
 To configure **VxCentralScan**, you must do two things in **VxAdmin**:
 
-1. [Save the election package](../vxadmin-system-setup/save-election-package.md) to a USB drive.
-2. [Create an election manager card](../vxadmin-system-setup/programming-cards.md).
+1. [Save the election package](../vxadmin-system-setup/save-election-package.md "mention") to a USB drive.
+2. [Create an election manager card](../vxadmin-system-setup/programming-cards.md "mention").
 
 ## Load Election Package
 
@@ -35,7 +35,7 @@ The `Scan Ballots` page should have the text "No ballots have been scanned" and 
 
 <figure><img src="../.gitbook/assets/screenshots-009-scan-ballots-empty-no-ballots-highlight.png" alt="" width="375"><figcaption></figcaption></figure>
 
-#### **Polling Places**
+#### Polling Places
 
 There's usually no need to set the polling place on VxCentralScan. For most jurisdictions, it will default to an absentee polling place like "Central Scanning" or "Absentee Voting" that covers all precincts in the jurisdictions. If VxCentralScan must be limited to certain precincts, the election manager should select a different polling place from the dropdown. If ballots outside the selected polling place are scanned, VxCentralScan will stop on those ballots and will not allow tabulating them. The polling place cannot be changed once ballots have been scanned.
 
