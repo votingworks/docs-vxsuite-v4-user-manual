@@ -56,7 +56,7 @@ The adjudication stations can only adjudicate if the host has turned on multi-st
 
 The adjudication stations will now be able to adjudicate ballots. Adjudicators can log in with either an election manager card or a poll worker card. The adjudication process is exactly the same at adjudication stations as it is at the host except that adjudicators are not able to view previous ballots. Refer to the [adjudication.md](../election-night-guides/adjudication.md "mention") guide for a walkthrough of the adjudication process.
 
-You can can monitor the progress of adjudication from the `Adjudication` screen at the host. They can also see the status of each station e.g. "Locked" or "Adjudicating".&#x20;
+You can monitor the progress of adjudication from the `Adjudication` screen at the host. You can also see the status of each station e.g. "Locked" or "Adjudicating".&#x20;
 
 \[screenshot]
 

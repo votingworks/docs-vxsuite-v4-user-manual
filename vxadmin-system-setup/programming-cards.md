@@ -6,7 +6,7 @@ The following steps must be completed by a system administrator.
 
 ## Overview
 
-Smart cards are used to configure and operate equipment. It's the same technology as the chip in your credit card, but is instead used to provide election administrators and poll workers a secure means to configure and operate the equipment. There are three user roles and cards: system administrator, election manager, and poll worke&#x72;**.**
+Smart cards are used to configure and operate equipment. It's the same technology as the chip in your credit card, but is instead used to provide election administrators and poll workers a secure means to configure and operate the equipment. There are three user roles and cards: system administrator, election manager, and poll worker.
 
 <figure><img src="../.gitbook/assets/image (678).png" alt="" width="375"><figcaption><p>Smart cards</p></figcaption></figure>
 
@@ -41,7 +41,7 @@ Election manager cards should only be used by election administrators and should
 {% hint style="info" %}
 Election managers should be an election administrator (central election official, administrator, etc.) or their designee responsible for the aforementioned tasks. The technical skill level required for this role is a 4-hour training session provided by VotingWorks.
 
-The technical skill level required for an election manager only operating the VxCentralScan or adjudicating ballots in VxAdmin is a 1-hour training session provided by the election official. In some jurisdications, an election judge may be responsible for adjudicating ballots and be considered an election manager.
+The technical skill level required for an election manager only operating the VxCentralScan or adjudicating ballots in VxAdmin is a 1-hour training session provided by the election official. In some jurisdictions, an election judge may be responsible for adjudicating ballots and be considered an election manager.
 {% endhint %}
 
 ### Poll Worker Cards
@@ -85,6 +85,6 @@ If you insert an already programmed card, you will be presented with options to 
 
 <div><figure><img src="../.gitbook/assets/system-administrator-016-smart-cards-sa-existing.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/system-administrator-023-smart-cards-pw-existing.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/system-administrator-020-smart-cards-em-existing.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**Unprogram Card** will remove the election configuration from the card, after which it can be programmed for a new election. System administrator cards cannot be unprogrammed.
+`Unprogram Card` will remove the election configuration from the card, after which it can be programmed for a new election. System administrator cards cannot be unprogrammed.
 
-**Reset Card PIN** will reset the card PIN. The old PIN will no longer be valid. Note the new PIN and keep it secure. The PIN can only be reset on cards that match the current election.
+`Reset Card PIN` will reset the card PIN. The old PIN will no longer be valid. Note the new PIN and keep it secure. The PIN can only be reset on cards that match the current election.
