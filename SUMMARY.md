@@ -118,7 +118,7 @@
 ## System Maintenance Manual <a href="#system-maintenance" id="system-maintenance"></a>
 
 * [Maintenance Overview](system-maintenance/maintenance-overview.md)
-* [VxAdmin & VxCentralScan Maintenance Manual](system-maintenance/vxadmin-and-vxcentralscan-maintenance-manual.md)
+* [VxAdmin, VxCentralScan, & VxPrint Maintenance Manual](system-maintenance/vxadmin-and-vxcentralscan-maintenance-manual.md)
 * [VxScan Maintenance Manual](system-maintenance/vxscan-maintenance-manual.md)
 * [VxMarkScan Maintenance Manual](system-maintenance/vxmarkscan-maintenance-manual.md)
 * [Approved Parts List](system-maintenance/approved-parts-list.md)

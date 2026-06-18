@@ -14,7 +14,13 @@ Before scanning the first ballot batch, confirm that VxCentralScan displays "No 
 
 <figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Load a stack of ballots into the feeder tray of the scanner. VotingWorks recommends loading no more than 30 ballot sheets at time for Ricoh model fi-8170 and 100 ballot sheets for Fujitsu model fi-7600. The ballots need to be in a neat stack, unfolded and lying flat, but ballots can be in any orientation (e.g. upside down or backwards is fine).
+Load a stack of ballots into the feeder tray of the scanner. VotingWorks recommends the following batch sizes for typical, thick ballot paper:
+
+* Ricoh fi-8170 - maximum 30 ballot sheets at a time
+* Ricoh fi-7600 - maximum 100 ballot sheets at a time
+* Ricoh fi-8950 - maximum 250 ballot sheets at a time
+
+The ballots need to be in a neat stack, unfolded and lying flat, but ballots can be in any orientation (e.g. upside down or backwards is fine).
 
 Select `Scan New Batch`. Ballots feed through the scanner automatically and the "Sheet Count" will increase as each ballot is scanned. A timestamp will appear under the "Finished At" header when a batch is done scanning.
 

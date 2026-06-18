@@ -1,10 +1,10 @@
-# VxAdmin & VxCentralScan Maintenance Manual
+# VxAdmin, VxCentralScan, & VxPrint Maintenance Manual
 
 ## Laptop Maintenance
 
-VxAdmin & VxCentralScan are simply COTS laptops that are sealed and installed with VotingWorks software. For additional reference information, see the following links:
+VxAdmin, VxCentralScan, and VxPrint are simply COTS laptops that are sealed and installed with VotingWorks software. For additional reference information, see the following links:
 
-* **Hardware Overview -** [VxAdmin & VxCentralScan Hardware](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxadmin-and-vxcentralscan-hardware "mention")
+* **Hardware Overview -** [VxAdmin, VxPrint, & VxCentralScan Hardware](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxadmin-and-vxcentralscan-hardware "mention")
 * **Software Functionality -** [VxAdmin Function](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxadmin-function "mention") & [VxCentralScan Function](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxcentralscan-function "mention")
 * [**Manufacturer Datasheet**](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-elitebook-840-14in-g11/hp-elitebook-840-14in-g11-datasheet.pdf)
 * [**Manufacturer User Guide**](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-elitebook-840-14in-g11/hp-elitebook-840-14in-g11-user-guide.pdf)
@@ -21,43 +21,35 @@ There are no required steps for maintaining the software or firmware. The softwa
 
 ### Data Maintenance
 
-As VxAdmin and VxCentralScan are used for an election, they will gradually store more and more data. VxCentralScan stores ballot images and interpretations for all scanned ballots and VxAdmin stores imported cast vote records, which often include images as well. It is the responsibility of the election manager using VxAdmin and VxCentralScan to monitor data usage.&#x20;
+As VxAdmin and VxCentralScan are used for an election, they will gradually store more and more data. VxCentralScan stores ballot images and interpretations for all scanned ballots and VxAdmin stores imported cast vote records, which often include images as well. It is the responsibility of the election manager using VxAdmin and VxCentralScan to monitor data usage. VxPrint does not store meaningful amounts of data so no monitoring is required.
 
-The free disk space available on VxAdmin and VxCentralScan is visible to system administrators and election managers by selecting _`Diagnostics`_ from the side menu. When free disk space hits 0%, the application is no longer able to add data, whether that's in the form of a scanned ballot or imported CVRs. As long as users remain within the specified [System Limits](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-performance-and-specifications/system-limits "mention") they should not hit 0%.
+The free disk space available on VxAdmin and VxCentralScan is visible to system administrators and election managers by selecting `Diagnostics` from the side menu. When free disk space hits 0%, the application is no longer able to add data, whether that's in the form of a scanned ballot or imported CVRs. As long as users remain within the specified [System Limits](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-performance-and-specifications/system-limits "mention") they should not hit 0%.
 
 When the machine is unconfigured or ballot data is cleared, disk space will be recovered. The free disk space may not appear to return to 100% but old files will eventually be replaced by new files and the disk space will be re-used.
 
-VotingWorks recommends that all scanned ballot data is backed up from VxCentralScan to a USB drive before being cleared from the application. The application forces the user to perform the backup. VotingWorks recommends a 64GB SanDisk Ultra Flair USB 3.0 Drive (PN: SDCZ73-064G-G46) for most operations and the faster 128GB SanDisk Extreme PRO USB 3.2 Drive (PN: SDCZ880-128G-G46) for very large backups. See [retaining-and-removing-files-vxcentralscan.md](../vxcentralscan/retaining-and-removing-files-vxcentralscan.md "mention")for details.&#x20;
+VotingWorks recommends that all scanned ballot data is backed up from VxCentralScan to a USB drive before being cleared from the application. The application forces the user to perform the backup. VotingWorks recommends a 64GB SanDisk Ultra Flair USB 3.0 Drive (PN: SDCZ73-064G-G46) for most operations and the faster 128GB SanDisk Extreme PRO USB 3.2 Drive (PN: SDCZ880-128G-G46) for very large backups. See [retaining-and-removing-files-vxcentralscan.md](../vxcentralscan/retaining-and-removing-files-vxcentralscan.md "mention")for details.
 
-## VxAdmin Printer Maintenance
+## Printer Maintenance
 
-VxAdmin uses a HP LaserJet Pro 4001dn printer to print reports. The [manufacturer specifications ](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-datasheet.pdf)and [manufacturer user guide ](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-user-guide.pdf)are included in the documentation repository.&#x20;
+VxAdmin & VxPrint use the HP LaserJet Pro 4001dn printer. The [manufacturer specifications](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-datasheet.pdf) and [manufacturer user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-user-guide.pdf) are included in the documentation repository.
 
 ### Paper Specifications
 
-VotingWorks recommends using only the printer's Tray 2, which is the bottom, higher capacity tray. The [manufacturer specifications](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-datasheet.pdf) allow for paper between 60 and 120 GSM, which roughly corresponds to between 16lb and 32lb bond paper. For higher quality reports, VotingWorks recommends paper on the thicker end of that scale such as HP Premium 32lb paper (PN: HPU1132) or equivalent. All report paper should be letter-sized. Using paper outside of the manufacturer specified weight range may result in jams and incorrect operation.
+VotingWorks recommends using only the printer's Tray 2, which is the bottom, higher capacity tray. The [manufacturer specifications](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-datasheet.pdf) allow for paper between 60 and 120 GSM, which roughly corresponds to between 16lb and 32lb bond paper. For the highest quality ballots and reports, VotingWorks recommends paper at the maximum supported paper weight, such as HP Premium 32lb paper (PN: HPU1132) or equivalent. All report paper should be letter-sized. All ballot paper should match the length of the election's ballots. Using paper outside of the manufacturer specified weight range may result in jams and incorrect operation.
 
 ### Toner Specifications
 
-The HP LaserJet Pro 4001dn requires genuine HP toner cartridges. Both the HP 148A Black Original LaserJet Toner Cartridge and the HP 148X High Yield Black Original LaserJet Toner Cartridge are acceptable.&#x20;
+The HP LaserJet Pro 4001dn requires genuine HP toner cartridges. Both the HP 148A Black Original LaserJet Toner Cartridge and the HP 148X High Yield Black Original LaserJet Toner Cartridge are acceptable.
 
-The printer is provided to customers with toner installed, which should last for many elections or even for the lifetime of the system. Low toner is indicated on the printer's small LED screen and also in the VxAdmin diagnostics section. When replacing the toner, refer to the [manufacturer's instructions](https://support.hp.com/us-en/document/ish_5455373-5578919-16).
+The printer is provided to customers with toner installed, which should last for many elections or even for the lifetime of the system. Low toner is indicated on the printer's small LED screen and also in the diagnostics section. When replacing the toner, refer to the [manufacturer's instructions](https://support.hp.com/us-en/document/ish_5455373-5578919-16).
 
 ### Diagnostics & Troubleshooting
 
-VxAdmin features diagnostics for troubleshooting the printer. After authenticating and navigating to the **Diagnostics** menu, you can select **Print Test Page** to print a mock report. The diagnostics interface will also provide the printer status, including if paper is jammed or toner is low. For the most common issues, refer to the [printer-faqs.md](../reference/printer-faqs.md "mention"). For other issues, refer directly to the [manufacturer user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-user-guide.pdf).
+VxAdmin and VxPrint features diagnostics for troubleshooting the printer. After authenticating and navigating to the `Diagnostics` menu, you can select `Print Test Page` to print a mock report. The diagnostics interface will also provide the printer status, including if paper is jammed or toner is low. For the most common issues, refer to the [printer-faqs.md](../reference/printer-faqs.md "mention"). For other issues, refer directly to the [manufacturer user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-user-guide.pdf).
 
 ## VxCentralScan Scanner Maintenance
 
-VxCentralScan supports scanning with either the Ricoh fi-7600 or the Ricoh fi-8170.
-
-### fi-7600 Large Desktop Scanner
-
-The Ricoh fi-7600 [manufacturer specifications](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-7600-datasheet.pdf) and [manufacturer operator's guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-7600-user-guide.pdf) and included in the documentation repository.
-
-The scanner must be periodically cleaned to ensure the scanner is clean and ballot images are clear, before every election and after every 10,000 sheets scanned within an election. If streaks are detected in an image while scanning, the software will proactively alert the user to clean the scanner. To clean the scanner, follow the cleaning instructions in the [manufacturer's consumable replacement and cleaning guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-7600-cleaning-guide.pdf). VotingWorks recommends using Ricoh Cleaner F1 (PN: PA03950-0352) with cleaning wipes (PN: CG90000-120001) or equivalent.
-
-The scanner's brake rollers (PN: PA03740-K010) and pick rollers (PA03740-K011) must be replaced every 250,000 sheets or every year, whichever is sooner. To replace these consumables, follow the instructions in the [manufacturer's consumable replacement and cleaning guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-7600-cleaning-guide.pdf). In order to get all consumables and cleaning supplies together, you may choose to purchase the fi-7600 ScanAid kit (PN: CG01000-288701).
+VxCentralScan supports scanning with the Ricoh fi-8170, fi-7600, and fi-8950.
 
 ### fi-8170 Compact Desktop Scanner
 
@@ -65,8 +57,24 @@ The Ricoh fi-8170 [manufacturer specifications](https://github.com/votingworks/d
 
 The scanner must be periodically cleaned to ensure the scanner is clean and ballot images are clear, before every election and after every 5,000 sheets scanned within an election. If streaks are detected in an image while scanning, the software will proactively alert the user to clean the scanner. To clean the scanner, follow the cleaning instructions in the [manufacturer's consumable replacement and cleaning guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-8170/ricoh-fi-8170-cleaning-guide.pdf). VotingWorks recommends using Ricoh Cleaner F1 (PN: PA03950-0352) with cleaning wipes (PN: CG90000-120001) or equivalent.
 
-The scanner's brake rollers (PN: PA03810-0001) and pick rollers (PA03640-0002) must be replaced every 200,000 sheets or every year, whichever is sooner. To replace these consumables, follow the instructions in the [manufacturer's consumable replacement and cleaning guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-8170/ricoh-fi-8170-cleaning-guide.pdf). In order to get all consumables and cleaning supplies together, you may choose to purchase the fi-8170 ScanAid kit (PN: CG01000-302801).
+The scanner's brake roller (PN: PA03810-0001) and pick roller (PA03640-0002) must be replaced every 200,000 sheets or every year, whichever is sooner. To replace these consumables, follow the instructions in the [manufacturer's consumable replacement and cleaning guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-8170/ricoh-fi-8170-cleaning-guide.pdf). In order to get all consumables and cleaning supplies together, you may choose to purchase the fi-8170 ScanAid kit (PN: CG01000-302801).
+
+### fi-7600 Large Desktop Scanner
+
+The Ricoh fi-7600 [manufacturer specifications](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-7600-datasheet.pdf) and [manufacturer operator's guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-7600-user-guide.pdf) are included in the documentation repository.
+
+The scanner must be periodically cleaned to ensure the scanner is clean and ballot images are clear, before every election and after every 10,000 sheets scanned within an election. If streaks are detected in an image while scanning, the software will proactively alert the user to clean the scanner. To clean the scanner, follow the cleaning instructions in the [manufacturer's consumable replacement and cleaning guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-7600-cleaning-guide.pdf). VotingWorks recommends using Ricoh Cleaner F1 (PN: PA03950-0352) with cleaning wipes (PN: CG90000-120001) or equivalent.
+
+The scanner's brake roller (PN: PA03740-K010) and pick roller (PA03740-K011) must be replaced every 250,000 sheets or every year, whichever is sooner. To replace these consumables, follow the instructions in the [manufacturer's consumable replacement and cleaning guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-7600-cleaning-guide.pdf). In order to get all consumables and cleaning supplies together, you may choose to purchase the fi-7600 ScanAid kit (PN: CG01000-288701).
+
+### fi-8950 Production Scanner
+
+The Ricoh fi-8950 [manufacturer specifications](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-7600-datasheet.pdf) and [manufacturer operator's guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-8950/ricoh-fi-8950-user-guide.pdf) are included in the documentation repository.
+
+The scanner must be periodically cleaned to ensure the scanner is clean and ballot images are clear, before every election and after every 10,000 sheets scanned within an election. If streaks are detected in an image while scanning, the software will proactively alert the user to clean the scanner. To clean the scanner, follow the cleaning instructions in the [manufacturer's consumable replacement and cleaning guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-7600-cleaning-guide.pdf). VotingWorks recommends using Ricoh Cleaner F1 (PN: PA03950-0352) with cleaning wipes (PN: CG90000-120001) or equivalent.
+
+The scanner's brake roller (PN: PA03830-K023), pick roller (PA03830-K021), and separation roller (PA03830-K022) must be replaced every 700,000 sheets or every year, whichever is sooner. To replace these consumables, follow the instructions in the [manufacturer's consumable replacement and cleaning guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-7600-cleaning-guide.pdf). In order to get all consumables and cleaning supplies together, you may choose to purchase the fi-8950 ScanAid kit (PN: CG01000-310112).
 
 ## Maintenance Support & Spare Recommendations
 
-For VxAdmin, VotingWorks recommends keeping an extra toner cartridge and an extra ream of report paper on hand at all times. For VxCentralScan, VotingWorks recommends keeping scanner cleaning materials on hand at all times. Maintenance tasks can be performed by election managers or system administrators at the central location where VxAdmin and VxCentralScan are used.
+For VxAdmin and VxPrint, VotingWorks recommends keeping an extra toner cartridge and an extra ream of report paper on hand at all times. For VxCentralScan, VotingWorks recommends keeping scanner cleaning materials on hand at all times. Maintenance tasks can be performed by election managers or system administrators at the central location where VxAdmin, VxCentralScan, and VxPrint are used or stored.
