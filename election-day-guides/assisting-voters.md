@@ -10,7 +10,7 @@ A voter can then push their ballot onto the tray and into the scanner. When a ba
 
 <figure><img src="../.gitbook/assets/image (13) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-If the ballot has no issues, the ballot will go into the ballot box and the screen will show that the ballot has been counted. Notice that the _Sheets Scanned_ count goes up.
+If the ballot has no issues, the ballot will go into the ballot box and the screen will show that the ballot has been counted. Notice that the "Sheets Scanned" count goes up.
 
 <figure><img src="../.gitbook/assets/image (14).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ The voter may have circled or underlined the names of their choices instead of f
 
 <figure><img src="../.gitbook/assets/voting-013-blank-ballot-warning.png" alt="" width="375"><figcaption></figcaption></figure>
 
-If the voter would like to correct their error, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select _`Cast Ballot`_ and then confirm by selecting `Cast Ballot` again. The _Sheets Scanned count_ will increase but no votes will be counted from a blank ballot.
+If the voter would like to correct their error, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot` and then confirm by selecting `Cast Ballot` again. The "Sheets Scanned" count will increase but no votes will be counted from a blank ballot.
 
 ### Undervotes
 
@@ -62,7 +62,7 @@ Simple changes to the screen's color and size can be very helpful for voters wit
 
 <div><figure><img src="../.gitbook/assets/voting-017-settings-button.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/color-mode.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/text-size-mode.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-#### **Text and Background Color**
+#### Text and Background Color
 
 Four different color options are available for users. While we provide a short description of who may benefit most from these different options, please note that the user likely knows what setting is best for them.
 
@@ -113,7 +113,7 @@ Voters can navigate with the PAT device. When first plugging in the PAT device, 
 
 <figure><img src="../.gitbook/assets/vxscan-pat-tutortial-06.png" alt="" width="375"><figcaption><p>PAT setup complete</p></figcaption></figure>
 
-Voters can adjust the volume using the volume control interface in the `Settings` menu. Audio settings can be modified by clicking the `Settings` button in the top header and finding options under the `Audio` tab, as shown in the screen below.
+Voters can adjust the volume using the volume control interface in the `Settings` menu. Audio settings can be modified by selecting the `Settings` button in the top header and finding options under the `Audio` tab, as shown in the screen below.
 
 <figure><img src="../.gitbook/assets/vxscan-headphone-audio-settings.png" alt="" width="375"><figcaption></figcaption></figure>
 
