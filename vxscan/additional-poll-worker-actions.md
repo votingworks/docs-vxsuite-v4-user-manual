@@ -31,7 +31,7 @@ The polls are now open.
 
 ## Printing Previous Reports
 
-If additional copies of a report need to be printed at any time, insert a poll worker card and select `Menu` to access the poll worker menu. Select `Print [ Type] Report` to print additional copies.
+If additional copies of a report need to be printed at any time, insert a poll worker card and select `Menu` to access the poll worker menu. Select `Print [Type] Report` to print additional copies.
 
 <div><figure><img src="../.gitbook/assets/voting-006-pw-print-polls-opened-report-button.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voting-027-pw-print-polls-closed-report-button.png" alt="" width="375"><figcaption></figcaption></figure></div>
 

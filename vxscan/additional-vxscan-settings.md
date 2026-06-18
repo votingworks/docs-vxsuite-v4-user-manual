@@ -2,7 +2,7 @@
 
 ## Early Voting Mode
 
-Before using VxScan for early voting, an election should put it into Early Voting mode.
+Before using VxScan for early voting, an election official should put it into Early Voting mode.
 
 <figure><img src="../.gitbook/assets/image (22).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -16,7 +16,7 @@ The default action for poll workers in early voting mode is `Pause Voting` rathe
 
 ## Saving CVRs
 
-The cast vote records contain the images and the interpretation for each ballot cast and is used to tally votes in VxAdmin. The cast vote record saves continuously to the USB drive throughout the day and again at the close of polls. If another copy is needed, however, it can also be saved by selecting `CVRs and Logs` from the side menu and selecting `Save CVRs`.
+The cast vote records contain the images and the interpretation for each ballot cast and are used to tally votes in VxAdmin. The cast vote record saves continuously to the USB drive throughout the day and again at the close of polls. If another copy is needed, however, it can also be saved by selecting `CVRs and Logs` from the side menu and selecting `Save CVRs`.
 
 <figure><img src="../.gitbook/assets/image (7) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
