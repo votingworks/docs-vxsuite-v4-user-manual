@@ -15,15 +15,6 @@
 * [VxAdmin Printer FAQs](reference/printer-faqs.md)
 * [VxAdmin Error Messages](vxadmin-system-setup/vxadmin-error-messages.md)
 
-## VxPrint
-
-* [VxPrint Hardware Setup](vxprint/vxprint-hardware-setup.md)
-* [Configure VxPrint](vxprint/configure-vxprint.md)
-* [Printing Ballots](vxprint/printing-ballots.md)
-* [Reporting & Logs](vxprint/reportingandlogs.md)
-* [VxPrint Diagnostics](vxprint/vxprint-diagnostics.md)
-* [VxPrint Error Messages](vxprint/vxprint-error-messages.md)
-
 ## VxScan
 
 * [Configure VxScan](vxscan/configure-vxscan.md)
@@ -88,6 +79,15 @@
 * [Retaining and Removing Files - VxCentralScan](vxcentralscan/retaining-and-removing-files-vxcentralscan.md)
 * [VxCentralScan Diagnostics](vxcentralscan/vxcentralscan-diagnostics.md)
 * [VxCentralScan Error Messages](vxcentralscan/vxcentralscan-error-messages.md)
+
+## VxPrint
+
+* [VxPrint Hardware Setup](vxprint/vxprint-hardware-setup.md)
+* [Configure VxPrint](vxprint/configure-vxprint.md)
+* [Printing Ballots](vxprint/printing-ballots.md)
+* [Reporting & Logs](vxprint/reportingandlogs.md)
+* [VxPrint Diagnostics](vxprint/vxprint-diagnostics.md)
+* [VxPrint Error Messages](vxprint/vxprint-error-messages.md)
 
 ## VxMark
 
