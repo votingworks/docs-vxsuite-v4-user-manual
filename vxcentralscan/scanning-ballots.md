@@ -6,7 +6,7 @@ The following steps must be completed by an election manager.
 
 VxCentralScan is a central scanning solution that allows you to quickly scan large batches of ballots. If you are using VxScan at your precincts, you can use VxCentralScan to scan absentee or vote-by-mail ballots on election day and mail, provisional, military ballots, or other ballots counted post-election day. VxCentralScan can also be used to quickly verify a test deck and re-tabulate an out-of-balance precinct.
 
-Follow the [vxcentralscan-hardware-setup.md](vxcentralscan-hardware-setup.md "mention")instructions to prepare the system for use.
+Follow the [vxcentralscan-hardware-setup.md](vxcentralscan-hardware-setup.md "mention") instructions to prepare the system for use.
 
 ## Scan Ballot Batches
 
@@ -46,7 +46,7 @@ The scanner will present overvotes, blank ballots, and undervotes in that order.
 
 ### Unreadable Ballots
 
-VxCentralScan may show an **Unreadable** ballot screen for a properly marked ballot if it's unable to decode ballot information due to page skew, dust, or tampering of the ballot. When a ballot sheet is shown as unreadable, you can safely remove the ballot and re-scan the ballot sheet. If the ballot is unreadable on a second scan, you should remove the ballot for duplication.
+VxCentralScan may show an "Unreadable" ballot screen for a properly marked ballot if it's unable to decode ballot information due to page skew, dust, or tampering of the ballot. When a ballot sheet is shown as unreadable, you can safely remove the ballot and re-scan the ballot sheet. If the ballot is unreadable on a second scan, you should remove the ballot for duplication.
 
 <figure><img src="../.gitbook/assets/screenshots-015-adjudication-unreadable.png" alt="" width="375"><figcaption></figcaption></figure>
 
