@@ -8,16 +8,16 @@ description: >-
 
 ### Hardware Overview
 
-**VxAdmin** is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software and an optional printer. All USB drives, cords, adapters, and programmable smart cards needed to operate the system are included and stored in an orange case.
+**VxAdmin** is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software and an optional printer. All USB drives, cords, adapters, and programmable smart cards needed to operate the system are included and stored in an orange case. An APC uninterruptible power supply (UPS) provides backup power to the VxAdmin printer.
 
 <div><figure><img src="../.gitbook/assets/VxAdmin in case.png" alt="" width="188"><figcaption><p>VxAdmin stored in case</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241119_221005359.jpg" alt="" width="375"><figcaption><p>VxAdmin fully set up</p></figcaption></figure></div>
 
 ### **VxAdmin** Setup
 
-1. **Unbox and Set Up Printer**:&#x20;
+1. **Unbox and Set Up Printer**:
    * [ ] remove the printer and power cord from the case
    * [ ] plug the power cord into the back of the printer
-   * [ ] plug the power cord into an outlet
+   * [ ] plug the power cord into the APC UPS which is connected to AC power
    * [ ] press the power button to turn the printer on
    * [ ] load paper into the lower paper tray
 
@@ -25,7 +25,7 @@ description: >-
 
 2\. **Set Up VxAdmin laptop:**
 
-* [ ] remove and document seals as necessary,&#x20;
+* [ ] remove and document seals as necessary,
 * [ ] open the case by lifting the latches on the front
 
 <div><figure><img src="../.gitbook/assets/VxAdmin case sealed.png" alt=""><figcaption><p>Remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxAdmin case latches.png" alt=""><figcaption><p>Open the case by lifting the latches</p></figcaption></figure></div>
@@ -37,14 +37,13 @@ description: >-
 * [ ] turn the laptop on
 
 {% hint style="info" %}
-An optional mouse is included.  Plug it in to the USB hub to use.
+An optional mouse is included. Plug it in to the USB hub to use.
 {% endhint %}
 
 <div><figure><img src="../.gitbook/assets/PXL_20241119_220230549.jpg" alt="" width="188"><figcaption><p>Remove laptop</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241119_220512937.jpg" alt="" width="188"><figcaption><p>Remove peripherals</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241119_221005359 (1).jpg" alt="" width="563"><figcaption><p>Connect peripherals</p></figcaption></figure></div>
 
 ### Packing Up VxAdmin
 
-To pack up the VxAdmin, simply place all of the components back into the case as displayed above. Secure the case as required by sealing the eyelets highlighted below.
+To pack up the VxAdmin, simply place all of the components back into the case as displayed above. Secure the case as required by sealing the eyelets highlighted below. Disconnect the printer power cord from the APC UPS. Pack up the printer and its power cord and the APC UPS.
 
 <figure><img src="../.gitbook/assets/image (692).png" alt="" width="375"><figcaption></figcaption></figure>
-

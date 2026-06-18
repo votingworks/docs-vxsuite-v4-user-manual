@@ -9,7 +9,7 @@ Pack up **VxScan** through the following steps:
 <figure><img src="../.gitbook/assets/pw-menu-closed copy.png" alt="" width="375"><figcaption><p>Insert the poll worker card and select <em>Power Down</em></p></figcaption></figure>
 
 * [ ] Once the screen is off, remove the power cord from VxScan
-* [ ] Remove the power cord from the UPS or outlet
+* [ ] Disconnect the power cord from the Goldenmate UPS, then pack up the UPS
 * [ ] Wrap the power cord in its storage space
 
 <figure><img src="../.gitbook/assets/VxScan cord wrapped.png" alt="" width="375"><figcaption><p>Remove and wrap the power cord</p></figcaption></figure>
