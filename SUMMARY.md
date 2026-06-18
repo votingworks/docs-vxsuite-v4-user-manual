@@ -106,9 +106,9 @@
 
 * [VxMarkScan Hardware Setup](vxmarkscan/vxmarkscan-hardware-setup.md)
 * [Configure VxMarkScan](vxmarkscan/configure-vxmarkscan.md)
-* [Open and Close Polls](<vxmark/open-and-close-polls (1).md>)
-* [Voting Sessions](<vxmark/voting-sessions (1).md>)
-* [Voting Session Language & Accessibility Settings](<vxmark/voting-session-language-and-accessibility-settings (1).md>)
+* [Open and Close Polls](vxmarkscan/open-and-close-polls.md)
+* [Voting Sessions](vxmarkscan/voting-sessions.md)
+* [Voting Session Language & Accessibility Settings](vxmarkscan/voting-session-language-and-accessibility-settings.md)
 * [Packing Up VxMarkScan](vxmarkscan/packing-up-vxmarkscan.md)
 * [VxMarkScan Error Messages](vxmarkscan/vxmarkscan-error-messages.md)
 * [VxMarkScan Diagnostics](vxmarkscan/diagnostics.md)
