@@ -1,5 +1,6 @@
 ---
 description: VxAdmin prints reports with the HP LaserJet Pro 4001dn printer.
+hidden: true
 ---
 
 # VxAdmin Printer FAQs
