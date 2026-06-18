@@ -4,7 +4,7 @@
 The following steps must be completed by an election manager.
 {% endhint %}
 
-Before you configure VxMark, you must set up the machine. Follow [VxMarkScan Hardware Setup](../vxmarkscan/vxmarkscan-hardware-setup.md) steps.
+Before you configure VxMark, you must set up the machine. Follow the [VxMark Hardware Setup](vxmark-hardware-setup.md) steps.
 
 To configure **VxMark**, you must do two things in **VxAdmin**:
 
@@ -45,9 +45,9 @@ Use the toggle button to switch between `Test Ballot Mode` and `Official Ballot 
 
 To remove election configuration (and all data) from VxMark:
 
-* [ ] log in with an election manager card
-* [ ] select `Unconfigure Machine`
-* [ ] confirm by selecting `Delete All Election Data`
+* [ ] Log in with an election manager card
+* [ ] Select `Unconfigure Machine`
+* [ ] Confirm by selecting `Delete All Election Data`
 
 <div><figure><img src="../.gitbook/assets/VxMark-UnconfigureMenuButton.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark-UnconfigureModal.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 

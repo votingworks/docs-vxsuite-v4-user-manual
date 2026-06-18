@@ -14,11 +14,11 @@ If there is an orange callout that says "Test Ballot Mode" on the screen, contac
 
 **In order to open the polls:**
 
-* [ ] insert the poll worker card into the card reader in the back right
-* [ ] select `Open Polls`
-* [ ] confirm by selecting `Open Polls` again
-* [ ] verify the number of ballots printed is zero
-* [ ] remove the poll worker card
+* [ ] Insert the poll worker card into the card reader in the back right
+* [ ] Select `Open Polls`
+* [ ] Confirm by selecting `Open Polls` again
+* [ ] Verify the number of ballots printed is zero
+* [ ] Remove the poll worker card
 
 <div><figure><img src="../.gitbook/assets/Mark-OpenClose-OpenPolls1.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark-OpenClose-OpenPolls2.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark-OpenClose-OpenPolls3.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
@@ -26,10 +26,10 @@ The polls are now open and voting can begin.
 
 ## Close Polls on VxMark
 
-* [ ] insert the poll worker card into the card reader in the back right
-* [ ] select `Close Polls`
-* [ ] confirm by selecting `Close Polls` again
-* [ ] remove the poll worker card
+* [ ] Insert the poll worker card into the card reader in the back right
+* [ ] Select `Close Polls`
+* [ ] Confirm by selecting `Close Polls` again
+* [ ] Remove the poll worker card
 
 <div><figure><img src="../.gitbook/assets/Mark-OpenClose-ClosePolls1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark-OpenClose-ClosePolls2 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark-OpenClose-ClosePolls3 (1).jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -39,19 +39,19 @@ The polls are now closed and voting is complete.
 
 The `Pause Voting` action is generally used by jurisdictions conducting early voting over multiple days or during an emergency situation. To pause voting and not allow ballots to be marked by VxMark:
 
-* [ ] insert the poll worker card into the card reader beneath the accessible controller
-* [ ] select `Pause Voting`
-* [ ] confirm by selecting `Pause Voting` again
-* [ ] remove the poll worker card
+* [ ] Insert the poll worker card into the card reader beneath the accessible controller
+* [ ] Select `Pause Voting`
+* [ ] Confirm by selecting `Pause Voting` again
+* [ ] Remove the poll worker card
 
 <div><figure><img src="../.gitbook/assets/Mark-OpenClose-PausePolls1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark-OpenClose-PausePolls2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark-OpenClose-PausePolls3.jpg" alt=""><figcaption></figcaption></figure></div>
 
 Voting is now paused. When you want to resume voting:
 
-* [ ] insert the poll worker card into the card reader beneath the accessible controller
-* [ ] select `Resume Voting`
-* [ ] confirm by selecting `Resume Voting` again
-* [ ] remove the poll worker card
+* [ ] Insert the poll worker card into the card reader beneath the accessible controller
+* [ ] Select `Resume Voting`
+* [ ] Confirm by selecting `Resume Voting` again
+* [ ] Remove the poll worker card
 
 <div><figure><img src="../.gitbook/assets/Mark-OpenClose-ResumePolls1.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark-OpenClose-ResumePolls2.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
