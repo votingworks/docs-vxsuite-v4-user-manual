@@ -4,7 +4,7 @@ Pack up **VxScan** through the following steps:
 
 1. **Pack up the scanner**:
 
-* [ ] Insert the poll worker card and select _`Power Down`_ to turn VxScan off. VxScan has shutdown properly once the screen is off and presents no content.
+* [ ] Insert the poll worker card and select `Power Down` to turn VxScan off. VxScan has shutdown properly once the screen is off and presents no content.
 
 <figure><img src="../.gitbook/assets/image (19).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@ Pack up **VxScan** through the following steps:
 
 <div><figure><img src="../.gitbook/assets/PXL_20241031_185722806.jpg" alt=""><figcaption><p>Press lid latch</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_185738805.jpg" alt=""><figcaption><p>Lift lid</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183032911.jpg" alt=""><figcaption><p>Set lid to the side</p></figcaption></figure></div>
 
-* [ ] Fully collapse the ballot by gently using your foot to lift the bottom purple hooks
+* [ ] Fully collapse the ballot box by gently using your foot to lift the bottom purple hooks
 
 <div><figure><img src="../.gitbook/assets/PXL_20241031_185802759.jpg" alt="" width="563"><figcaption><p>Using the foot hook</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_185822709.jpg" alt="" width="563"><figcaption><p>Collapsing the ballot box</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_185834321.jpg" alt="" width="375"><figcaption><p>Box when collapsed</p></figcaption></figure></div>
 

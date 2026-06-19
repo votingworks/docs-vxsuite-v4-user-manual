@@ -8,7 +8,7 @@ The following steps must be completed by a system administrator.
 
 ## Load Election Package
 
-When VxAdmin is not configured, the screen will prompt you to insert a USB drive containing an election packag&#x65;**.** After inserting the USB drive, VxAdmin will automatically list the election package(s) available. Select the file name of the correct election package to configure VxAdmin. If the file is not automatically listed, select `Select Other File...` and manually select the file from the USB drive.
+When VxAdmin is not configured, the screen will prompt you to insert a USB drive containing an election package. After inserting the USB drive, VxAdmin will automatically list the election package(s) available. Select the file name of the correct election package to configure VxAdmin. If the file is not automatically listed, select `Select Other File...` and manually select the file from the USB drive.
 
 Once configured, the election screen will display the title and date of your election as well as the date and time VxAdmin was configured.
 

@@ -8,8 +8,8 @@ Before you configure VxScan, set up the machine with the [vxscan-setup.md](../el
 
 To configure **VxScan**, you must do two things in **VxAdmin**:
 
-1. [Save the election package](../vxadmin-system-setup/save-election-package.md) to a USB drive
-2. [Create an election manager card](../vxadmin-system-setup/programming-cards.md)
+1. [Save the election package](../vxadmin-system-setup/save-election-package.md "mention") to a USB drive
+2. [Create an election manager card](../vxadmin-system-setup/programming-cards.md "mention")
 
 ## Loading The Election Package
 

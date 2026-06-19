@@ -11,15 +11,15 @@ If there is an orange callout that says "Test Ballot Mode" on the screen, contac
 To open the polls:
 
 * [ ] Insert the poll worker card into the card reader
-* [ ] Select `Open Polls` . The polls opened report will start printing.
+* [ ] Select `Open Polls`. The polls opened report will start printing.
 
-<div><figure><img src="../.gitbook/assets/VxScan insert poll worker card 2.png" alt="" width="188"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/voting-002-open-polls-button.png" alt="" width="375"><figcaption><p>Select <em>Open Polls</em></p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxScan insert poll worker card 2.png" alt="" width="188"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/voting-002-open-polls-button.png" alt="" width="375"><figcaption><p>Select <code>Open Polls</code></p></figcaption></figure></div>
 
 * [ ] Gently tear the report against the tear bar.&#x20;
 * [ ] If you see the `Print Next Report` button, select it. Gently tear the report against the tear bar. Repeat until there is no `Print Next Report` button.
 * [ ] Select `Reprint Polls Opened Report` to print additional copies as necessary
 
-<div><figure><img src="../.gitbook/assets/VxScan Polls Opened Report.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voting-003-polls-opened.png" alt="" width="375"><figcaption><p>Select <em>Reprint Polls Opened Report</em> to print more reports</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxScan Polls Opened Report.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voting-003-polls-opened.png" alt="" width="375"><figcaption><p>Select <code>Reprint Polls Opened Report</code> to print more reports</p></figcaption></figure></div>
 
 * [ ] Remove the poll worker card
 

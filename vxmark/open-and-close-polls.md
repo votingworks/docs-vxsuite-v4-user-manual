@@ -2,7 +2,7 @@
 
 ## Open Polls on VxMark
 
-After VxMark is turned on, the screen will show _Polls Closed:_
+After VxMark is turned on, the screen will show "Polls Closed":
 
 <figure><img src="../.gitbook/assets/Mark-OpenClose-PollsClosedB4Open.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
@@ -39,7 +39,7 @@ The polls are now closed and voting is complete.
 
 The `Pause Voting` action is generally used by jurisdictions conducting early voting over multiple days or during an emergency situation. To pause voting and not allow ballots to be marked by VxMark:
 
-* [ ] Insert the poll worker card into the card reader beneath the accessible controller
+* [ ] Insert the poll worker card into the card reader in the back right
 * [ ] Select `Pause Voting`
 * [ ] Confirm by selecting `Pause Voting` again
 * [ ] Remove the poll worker card
@@ -48,7 +48,7 @@ The `Pause Voting` action is generally used by jurisdictions conducting early vo
 
 Voting is now paused. When you want to resume voting:
 
-* [ ] Insert the poll worker card into the card reader beneath the accessible controller
+* [ ] Insert the poll worker card into the card reader in the back right
 * [ ] Select `Resume Voting`
 * [ ] Confirm by selecting `Resume Voting` again
 * [ ] Remove the poll worker card

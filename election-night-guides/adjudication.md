@@ -8,7 +8,7 @@ Select the `Adjudicate` button to begin adjudication.
 
 <figure><img src="../.gitbook/assets/image (36).png" alt="" width="375"><figcaption></figcaption></figure>
 
-The ballot adjudication flow will show you one ballot at a time. On the left is a an image of the ballot. On the right is the list of contests on the ballot. Contests that need attention are highlighted in orange and annotated with the adjudication reason. The same contests are also highlighted on the ballot image. Select the contest you want to adjudicate.&#x20;
+The ballot adjudication flow will show you one ballot at a time. On the left is an image of the ballot. On the right is the list of contests on the ballot. Contests that need attention are highlighted in orange and annotated with the adjudication reason. The same contests are also highlighted on the ballot image. Select the contest you want to adjudicate.&#x20;
 
 <figure><img src="../.gitbook/assets/image (37).png" alt="" width="375"><figcaption></figcaption></figure>
 

@@ -25,7 +25,7 @@
 * [ ] Plug the headphones into the front headphone jack
 * [ ] Push the power button to turn VxMarkScan on
 
-### **Open Polls, Activate Voting Session, and Close Polls**
+### Open Polls, Activate Voting Session, and Close Polls
 
 **To open the polls:**
 
@@ -37,7 +37,6 @@
 **To activate a voting session:**
 
 * [ ] Insert the poll worker card
-* [ ] Select the voter's precinct (if in _All Precincts_ mode)
 * [ ] Select the voter's ballot style
 * [ ] When prompted, feed one sheet of paper into the front input tray
 * [ ] Once loaded, the screen will show that the voting session is active

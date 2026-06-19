@@ -3,7 +3,7 @@
 ## Activating a Voting Session
 
 {% hint style="warning" %}
-A voter may bring their own Personal Assistive Technology (PAT) device (ex. jelly bean switch, sip and puff device, etc.) or headphones. It must have a 3.5mm plug or connector. Once plugged in, a test screen will pop up to assist in configuration. See [System Administrator Functions & System Diagnostics ](../vxmarkscan/diagnostics.md)for instructions.
+A voter may bring their own Personal Assistive Technology (PAT) device (ex. jelly bean switch, sip and puff device, etc.) or headphones. It must have a 3.5mm plug or connector. Once plugged in, a test screen will pop up to assist in configuration. See [VxMark Diagnostics](diagnostics.md) for instructions.
 {% endhint %}
 
 {% include "../.gitbook/includes/sanitizing-headphones-instructions.md" %}
@@ -34,13 +34,13 @@ If a voter would like to change a selection, they must first deselect a candidat
 
 ## Entering a Write-In
 
-To enter a write-in candidate, select `Add write-in candidate` and use the keyboard to type in the candidate's name. Select `Accept` when finished.&#x20;
+To enter a write-in candidate, select `add write-in candidate` and use the keyboard to type in the candidate's name. Select `Accept` when finished.&#x20;
 
 <div><figure><img src="../.gitbook/assets/VxMark_Votingsessions_WriteIn1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark_Votingsessions_WriteIn2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark_Votingsessions_WriteIn3.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Reviewing Votes
 
-After working through all contests, a _Review Your Votes_ screen appears that allows the voter to change any vote by selecting `Change`. Once selections have been reviewed, select `Print My Ballot`. After the ballot prints, the voter should retrieve and review the printed ballot.
+After working through all contests, a "Review Your Votes" screen appears that allows the voter to change any vote by selecting `Change`. Once selections have been reviewed, select `Print My Ballot`. After the ballot prints, the voter should retrieve and review the printed ballot.
 
 <div><figure><img src="../.gitbook/assets/VxMark_Votingsessions_Reviewing1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark_Votingsessions_Reviewing2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark_Votingsessions_Reviewing3.jpg" alt=""><figcaption></figcaption></figure></div>
 

@@ -2,7 +2,7 @@
 
 ## Full Election Tally Report
 
-To review results, select `Reports` from the side menu and select `Full Election Tally Report`. A preview will appear. Select `Print Report` to print the report, `Export Report as PDF` to save the election tally report to a USB drive as a .pdf file, or `Export Report CSV` to save the election tally report to a USB drive as a .csv file. Files will save to a `reports/` folder on the USB drive.
+To review results, select `Reports` from the side menu and select `Full Election Tally Report`. A preview will appear. Select `Print Report` to print the report, `Export Report PDF` to save the election tally report to a USB drive as a .pdf file, or `Export Report CSV` to save the election tally report to a USB drive as a .csv file. Files will save to a `reports/` folder on the USB drive.
 
 <div><figure><img src="../.gitbook/assets/image (48).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (49).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -43,6 +43,6 @@ Ballot count reports show the number of ballots cast. The ballot count report bu
 
 The write-in adjudication report presents how all write-ins were adjudicated and the count of votes for write-in candidates.
 
-To print the report, select `Unofficial Write-In Adjudication Report`. An example of the write-in adjudication report is on the right.
+To print the report, select `Write-In Adjudication Report`. An example of the write-in adjudication report is on the right.
 
 <div><figure><img src="../.gitbook/assets/image (57).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (58).png" alt="" width="375"><figcaption></figcaption></figure></div>

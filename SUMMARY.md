@@ -15,15 +15,6 @@
 * [VxAdmin Printer FAQs](reference/printer-faqs.md)
 * [VxAdmin Error Messages](vxadmin-system-setup/vxadmin-error-messages.md)
 
-## VxPrint
-
-* [VxPrint Hardware Setup](vxprint/vxprint-hardware-setup.md)
-* [Configure VxPrint](vxprint/configure-vxprint.md)
-* [Printing Ballots](vxprint/printing-ballots.md)
-* [Reporting & Logs](vxprint/reportingandlogs.md)
-* [VxPrint Diagnostics](vxprint/vxprint-diagnostics.md)
-* [VxPrint Error Messages](vxprint/vxprint-error-messages.md)
-
 ## VxScan
 
 * [Configure VxScan](vxscan/configure-vxscan.md)
@@ -89,6 +80,15 @@
 * [VxCentralScan Diagnostics](vxcentralscan/vxcentralscan-diagnostics.md)
 * [VxCentralScan Error Messages](vxcentralscan/vxcentralscan-error-messages.md)
 
+## VxPrint
+
+* [VxPrint Hardware Setup](vxprint/vxprint-hardware-setup.md)
+* [Configure VxPrint](vxprint/configure-vxprint.md)
+* [Printing Ballots](vxprint/printing-ballots.md)
+* [Reporting & Logs](vxprint/reportingandlogs.md)
+* [VxPrint Diagnostics](vxprint/vxprint-diagnostics.md)
+* [VxPrint Error Messages](vxprint/vxprint-error-messages.md)
+
 ## VxMark
 
 * [VxMark Hardware Setup](vxmark/vxmark-hardware-setup.md)
@@ -106,9 +106,9 @@
 
 * [VxMarkScan Hardware Setup](vxmarkscan/vxmarkscan-hardware-setup.md)
 * [Configure VxMarkScan](vxmarkscan/configure-vxmarkscan.md)
-* [Open and Close Polls](<vxmark/open-and-close-polls (1).md>)
-* [Voting Sessions](<vxmark/voting-sessions (1).md>)
-* [Voting Session Language & Accessibility Settings](<vxmark/voting-session-language-and-accessibility-settings (1).md>)
+* [Open and Close Polls](vxmarkscan/open-and-close-polls.md)
+* [Voting Sessions](vxmarkscan/voting-sessions.md)
+* [Voting Session Language & Accessibility Settings](vxmarkscan/voting-session-language-and-accessibility-settings.md)
 * [Packing Up VxMarkScan](vxmarkscan/packing-up-vxmarkscan.md)
 * [VxMarkScan Error Messages](vxmarkscan/vxmarkscan-error-messages.md)
 * [VxMarkScan Diagnostics](vxmarkscan/diagnostics.md)
