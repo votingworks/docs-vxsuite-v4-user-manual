@@ -40,7 +40,7 @@ If a voter would like to change a selection, they must first deselect a candidat
 
 ### Entering a Write-In
 
-To enter a write-in candidate, select `Add write-in candidate` and use the keyboard to type in the candidate's name. Select `Accept` when finished.
+To enter a write-in candidate, select `add write-in candidate` and use the keyboard to type in the candidate's name. Select `Accept` when finished.
 
 <div><figure><img src="../.gitbook/assets/basic-election-flow-018-voting-write-in-button (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-019-voting-write-in-keyboard.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-020-voting-write-in-accepted.png" alt="" width="375"><figcaption></figcaption></figure></div>
 

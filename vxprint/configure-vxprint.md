@@ -25,16 +25,16 @@ After the USB drive is inserted, VxPrint will automatically begin loading all ba
 
 <div><figure><img src="../.gitbook/assets/VxPrint-configuration-LoadElectionPackage1.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxPrint-configuration-LoadElectionPackage2.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxPrint-configuration-LoadElectionPackage3.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-## Selecting a Polling Place
+## Select a Polling Place
 
-VxPrint can be configured to print ballots only for a specific polling place. Use the `Select a Polling Place...` dropdown to choose one.
+If the election has more than one polling place, an election manager must select one before VxPrint can print ballots. Until a polling place is selected, VxPrint prompts you to insert an election manager card to select a polling place. From the `Election` screen, use the `Select a Polling Place...` dropdown to choose the polling place for the device.
 
-Note that the polling place setting only limits the options for poll workers. Election managers, on the other hand, are always able to print all ballot styles.
+The selected polling place limits which ballot styles poll workers can print. Election managers can always print any ballot style.
 
 <figure><img src="../.gitbook/assets/VxPrint-configuration-selectapollplace (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If your election package defines only one polling place, there is no need to select one and the `Select a Polling Place...` dropdown will not be visible.&#x20;
+If your election package defines only one polling place, it is selected automatically and the `Select a Polling Place...` dropdown will not be visible.&#x20;
 {% endhint %}
 
 ## Changing Ballot Mode

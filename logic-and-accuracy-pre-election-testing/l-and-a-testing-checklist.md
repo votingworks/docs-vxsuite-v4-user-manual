@@ -24,14 +24,14 @@ description: >-
 * [ ] Remove the election manager card
 * [ ] Insert the poll worker card
 * [ ] Select `Open Polls`
-* [ ] One copy of the polls opened report will print (this is your Zero Report)
+* [ ] The polls opened report will print (this is your Zero Report)
 * [ ] Tear to remove the report
 * [ ] Verify precinct name, election date, and totals are zero
 * [ ] Remove the poll worker card
 * [ ] Run test ballots through the scanner as required
 * [ ] Insert poll worker card
 * [ ] Select `Close Polls`
-* [ ] One copy of the polls closed report will print
+* [ ] The polls closed report will print
 * [ ] Tear to remove the report
 * [ ] Verify results match expected test ballot results
 * [ ] Remove the poll worker card
