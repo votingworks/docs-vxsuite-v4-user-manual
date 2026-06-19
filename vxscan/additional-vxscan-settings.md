@@ -26,7 +26,7 @@ The `Pause Continuous CVR Export` feature is used to disable continuous cast vot
 
 The logs contain information about the regular operation of the hardware and software and also any error messages. Both election managers and system administrators can export logs by selecting `Save Logs` .
 
-<div><figure><img src="../.gitbook/assets/configuration-017-em-save-logs-button.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/configuration-031-sa-save-logs-button.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/configuration-018-em-save-logs-modal (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/configuration-017-em-save-logs-button.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/configuration-031-sa-save-logs-button.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/configuration-018-em-save-logs-modal.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Setting Date & Time
 

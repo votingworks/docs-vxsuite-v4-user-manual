@@ -2,7 +2,7 @@
 
 In preparation for an election or in response to issues, the diagnostics interface can help verify VxMark is functioning as expected or pinpoint problems that do arise. Both election managers and system administrators can access the diagnostic interface.
 
-<div><figure><img src="../.gitbook/assets/VxMark-Diagnostics1 (2).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark-Diagnostics5 (1).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxMark-Diagnostics1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark-Diagnostics5.png" alt=""><figcaption></figcaption></figure></div>
 
 The diagnostics screen shows information about how the machine is configured, how much storage is left on the device, and the current status of the hardware. There are tests for the accessible controller, PAT Device input, printer, barcode reader, headphone input, system audio, and uninterruptible power supply.
 
@@ -12,4 +12,4 @@ The diagnostics screen shows information about how the machine is configured, ho
 
 The readiness report can be used as a record of system diagnostic verification. Select `Save Readiness Report` to save a copy to a USB drive.
 
-<div><figure><img src="../.gitbook/assets/VxMark-Diagnostics3 (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark-Diagnostics4 (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxMark-Diagnostics3.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark-Diagnostics4.png" alt="" width="375"><figcaption></figcaption></figure></div>

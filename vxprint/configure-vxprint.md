@@ -6,20 +6,20 @@ The following steps must be completed by an election manager. You may configure 
 
 To configure **VxPrint**, you must do two things in **VxAdmin**:
 
-1. [Save the election package](../vxadmin-system-setup/save-election-package.md "mention") to a USB drive
-2. [Create an election manager card](../vxadmin-system-setup/programming-cards.md "mention")
+1. [save-election-package.md](../vxadmin-system-setup/save-election-package.md "mention") to a USB drive
+2. [programming-cards.md](../vxadmin-system-setup/programming-cards.md "mention")
 
 ## Inserting Smart Cards
 
 The smart card reader is located on the side of the laptop to the left of the trackpad. Insert a smart card with the chip facing up.
 
-<figure><img src="../.gitbook/assets/VxPrint-configuration-smartcardinsert (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/VxPrint-configuration-smartcardinsert.png" alt="" width="375"><figcaption></figcaption></figure>
 
 The picture above shows someone inserting a system administrator card into the laptop. To configure VxPrint, you will need to insert an election manager card.
 
 ## Loading The Election Package
 
-After logging in with an election manager card, VxPrint will prompt you to insert a USB drive with the election package saved from VxAdmin.&#x20;
+After logging in with an election manager card, VxPrint will prompt you to insert a USB drive with the election package saved from VxAdmin.
 
 After the USB drive is inserted, VxPrint will automatically begin loading all ballot styles for the election. After the election package is done loading, the election information will appear.
 
@@ -31,15 +31,15 @@ If the election has more than one polling place, an election manager must select
 
 The selected polling place limits which ballot styles poll workers can print. Election managers can always print any ballot style.
 
-<figure><img src="../.gitbook/assets/VxPrint-configuration-selectapollplace (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/VxPrint-configuration-selectapollplace.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If your election package defines only one polling place, it is selected automatically and the `Select a Polling Place...` dropdown will not be visible.&#x20;
+If your election package defines only one polling place, it is selected automatically and the `Select a Polling Place...` dropdown will not be visible.
 {% endhint %}
 
 ## Changing Ballot Mode
 
-By default, VxPrint is in `Official Ballot Mode` and all ballots printed will be official ballots. If you intend to use VxPrint for testing with the rest of the voting system, navigate to the `Settings` page and use the toggle button to switch to `Test Ballot Mode` . In `Test Ballot Mode`, all ballots printed will be test ballots and a `Test Ballot Mode` banner will display in the top bar at all times.&#x20;
+By default, VxPrint is in `Official Ballot Mode` and all ballots printed will be official ballots. If you intend to use VxPrint for testing with the rest of the voting system, navigate to the `Settings` page and use the toggle button to switch to `Test Ballot Mode` . In `Test Ballot Mode`, all ballots printed will be test ballots and a `Test Ballot Mode` banner will display in the top bar at all times.
 
 <div><figure><img src="../.gitbook/assets/VxPrint-configuration-ChangeBallotMode1.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxPrint-configuration-ChangeBallotMode2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -55,7 +55,7 @@ To remove election configuration (and all data) from VxPrint:
 
 * [ ] Log in with an election manager card
 * [ ] Select `Unconfigure Machine`
-* [ ] Confirm by selecting `Delete All Election Data`&#x20;
+* [ ] Confirm by selecting `Delete All Election Data`
 
 <div><figure><img src="../.gitbook/assets/VxPrint-configuration-RemoveConfigData1.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxPrint-configuration-RemoveConfigData2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 

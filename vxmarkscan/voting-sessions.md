@@ -13,7 +13,7 @@ If a voter chooses to use VxMarkScan:
 * [ ] Insert a poll worker card into the card reader beneath the accessible controller
 * [ ] Select the voter's ballot style
 
-<div><figure><img src="../.gitbook/assets/basic-election-flow-011-unauthenticated-polls-opened (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-013-pw-menu-polls-open (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-014-pw-start-voting-session-button (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/basic-election-flow-011-unauthenticated-polls-opened.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-013-pw-menu-polls-open (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-014-pw-start-voting-session-button (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 * [ ] When prompted, feed one sheet of paper into the front input tray
 * [ ] Once loaded, the screen will show that the voting session is active
@@ -32,7 +32,7 @@ Let the voter know they can begin voting by selecting `Start Voting`.
 
 One contest will display at a time. The voter will select the candidate(s) of their choice. The voter moves to the next contest by selecting `Next`. The voter can skip a contest by selecting `Next` without making a selection. To return to a previous contest, select `Back`. A `More` button will display if there are more candidates or text than fit on a single screen. The `View All` button can be used to jump to a review screen summarizing all contest selections, described in greater detail below.
 
-<div><figure><img src="../.gitbook/assets/basic-election-flow-016-voting-start-screen.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-017-voting-single-seat-selection.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxMark_Votingsessions_Marking1.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-017-voting-single-seat-selection.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 If a voter would like to change a selection, they must first deselect a candidate previously selected.
@@ -42,7 +42,7 @@ If a voter would like to change a selection, they must first deselect a candidat
 
 To enter a write-in candidate, select `add write-in candidate` and use the keyboard to type in the candidate's name. Select `Accept` when finished.
 
-<div><figure><img src="../.gitbook/assets/basic-election-flow-018-voting-write-in-button (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-019-voting-write-in-keyboard.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-020-voting-write-in-accepted.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxMark_Votingsessions_WriteIn1.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark_Votingsessions_WriteIn2.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark_Votingsessions_WriteIn3.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Reviewing Votes
 
@@ -54,7 +54,7 @@ The "Ballots Printed" count in VxMarkScan intentionally increments up by one for
 
 The final "Review Your Votes" screen is displayed to compare the official ballot selections with the screen. Select `Cast My Ballot` to cast the ballot.
 
-<div><figure><img src="../.gitbook/assets/basic-election-flow-022-voting-review.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-023-voting-printing.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-024-voting-post-print-review.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxMark_Votingsessions_Reviewing1.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voting-printing.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/basic-election-flow-024-voting-post-print-review.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 If the voter removes the ballot from the printer to review, the VxMarkScan will ask if they are still voting. They should reload their ballot to cast the ballot. If the ballot is not reloaded, the VxMarkScan will clear the ballot after five minutes of inactivity.

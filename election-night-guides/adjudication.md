@@ -8,7 +8,7 @@ Select the `Adjudicate` button to begin adjudication.
 
 <figure><img src="../.gitbook/assets/image (36).png" alt="" width="375"><figcaption></figcaption></figure>
 
-The ballot adjudication flow will show you one ballot at a time. On the left is an image of the ballot. On the right is the list of contests on the ballot. Contests that need attention are highlighted in orange and annotated with the adjudication reason. The same contests are also highlighted on the ballot image. Select the contest you want to adjudicate.&#x20;
+The ballot adjudication flow will show you one ballot at a time. On the left is an image of the ballot. On the right is the list of contests on the ballot. Contests that need attention are highlighted in orange and annotated with the adjudication reason. The same contests are also highlighted on the ballot image. Select the contest you want to adjudicate.
 
 <figure><img src="../.gitbook/assets/image (37).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -20,11 +20,11 @@ To adjudicate a write-in, click the `Click to adjudicate` dropdown below the wri
 
 <div><figure><img src="../.gitbook/assets/image (39).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (40).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-When you're done adjudicating a contest, select `Confirm` to return to the ballot view.&#x20;
+When you're done adjudicating a contest, select `Confirm` to return to the ballot view.
 
 On the ballot view, you can navigate to the next contest needing adjudication or review your adjudications. Once you've adjudicated all contests needing attention, select `Accept` to save your changes and move on to the next ballot.
 
-<div><figure><img src="../.gitbook/assets/image (43).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (42).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (41).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (42).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 The `Adjudication` screen will show your progress as you work through the ballots.
 
