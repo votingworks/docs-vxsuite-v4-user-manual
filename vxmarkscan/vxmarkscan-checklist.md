@@ -37,7 +37,6 @@
 **To activate a voting session:**
 
 * [ ] Insert the poll worker card
-* [ ] Select the voter's precinct (if in "All Precincts" mode)
 * [ ] Select the voter's ballot style
 * [ ] When prompted, feed one sheet of paper into the front input tray
 * [ ] Once loaded, the screen will show that the voting session is active
