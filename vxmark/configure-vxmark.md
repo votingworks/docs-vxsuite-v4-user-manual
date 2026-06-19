@@ -8,8 +8,8 @@ Before you configure VxMark, you must set up the machine. Follow the [VxMark Har
 
 To configure **VxMark**, you must do two things in **VxAdmin**:
 
-1. [Save the election package](../vxadmin-system-setup/save-election-package.md) to a USB drive.
-2. [Create an election manager card](../vxadmin-system-setup/programming-cards.md).
+1. [Save the election package](../vxadmin-system-setup/save-election-package.md "mention") to a USB drive.
+2. [Create an election manager card](../vxadmin-system-setup/programming-cards.md "mention").
 
 ## Inserting Smart Cards & USB Drives
 
@@ -27,12 +27,12 @@ After the USB drive is inserted, VxMark will automatically begin loading all bal
 
 ## Select a Polling Place
 
-Use the `Select a polling place...`  dropdown to choose a polling place. Only ballot styles for the selected polling place will be options for voting.
+Use the `Select a polling place...` dropdown to choose a polling place. Only ballot styles for the selected polling place will be options for voting.
 
 <figure><img src="../.gitbook/assets/VxMark-SelectPollingPlace-TESTMode.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If your election package defines only one polling place, there is no need to select a precinct and the `Select a polling place...` dropdown will not be visible.
+If your election package defines only one polling place, there is no need to select one and the `Select a polling place...` dropdown will not be visible.
 {% endhint %}
 
 ## Setting Ballot Mode

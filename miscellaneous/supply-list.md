@@ -4,7 +4,7 @@ The specifications and supply lists below define all the materials to run an ele
 
 ## Ballots
 
-Ballots must be printed according to [paper ballot specifications](https://docs.voting.works/vxsuite-tdp-v4/system-performance-and-specifications/paper-ballot-specifications).
+Ballots must be printed according to [paper ballot specifications](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-performance-and-specifications/paper-ballot-specifications "mention").
 
 ### Marking Utensils
 

@@ -2,7 +2,7 @@
 
 ## Open Polls on VxMarkScan
 
-After VxMarkScan is turned on, the screen will show _Polls Closed:_
+After VxMarkScan is turned on, the screen will show "Polls Closed":
 
 <figure><img src="../.gitbook/assets/basic-election-flow-030-unauthenticated-polls-closed-final.png" alt="" width="188"><figcaption></figcaption></figure>
 

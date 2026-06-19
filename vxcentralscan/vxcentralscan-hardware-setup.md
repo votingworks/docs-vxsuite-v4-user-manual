@@ -32,12 +32,12 @@ Three models of scanner are supported:&#x20;
 
 ![Remove scanner and power cord from case](../.gitbook/assets/ricoh-01-4_3.jpeg) ![Attach and pull out paper trays](../.gitbook/assets/ricoh-02-4_3.jpeg) ![Plug cords in](../.gitbook/assets/PXL_20241125_223330294.jpg) ![Press the power button to turn on](../.gitbook/assets/ricoh-03-4_3.jpeg)
 
-&#x32;**. Set up VxCentralScan laptop:**
+2\. **Set up VxCentralScan laptop:**
 
 * [ ] Remove and document seal(s) as necessary
 * [ ] Open the case by lifting the latches on front
 
-<div align="left"><figure><img src="../.gitbook/assets/image (397).png" alt=""><figcaption><p>remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/Vxcs case latches.png" alt=""><figcaption><p>lift the latches</p></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (397).png" alt=""><figcaption><p>Remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/Vxcs case latches.png" alt=""><figcaption><p>Lift the latches</p></figcaption></figure></div>
 
 * [ ] **Prepare the components:**
   * [ ] Remove the **laptop**

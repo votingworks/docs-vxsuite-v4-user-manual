@@ -34,17 +34,17 @@ description: >-
 ### [Open Polls](../election-day-guides/opening-polls.md)
 
 * [ ] Insert the poll worker card
-* [ ] Select _`Open Polls`_
-* [ ] One copy of the polls opened report will print
+* [ ] Select `Open Polls`
+* [ ] The polls opened report will print
 * [ ] Tear to remove the report
-* [ ] Select _`Reprint Polls Opened Report`_ to print more, if needed
-* [ ] Verify precinct name, election date, and totals are zero
+* [ ] Select `Reprint Polls Opened Report` to print more, if needed
+* [ ] Verify polling place name, election date, and totals are zero
 * [ ] Sign, retain and/or display the polls opened report as instructed by your election administrator
 * [ ] Remove the poll worker card
 
 ### [Assisting Voters](checklist.md#assisting-voters)
 
-#### **Helping a voter cast their ballot at VxScan**
+#### Helping a voter cast their ballot at VxScan
 
 * [ ] Instruct the voter to insert their ballot in any orientation
 * [ ] _If ballot scans successfully_, let the voter know their vote has been cast
@@ -53,10 +53,10 @@ description: >-
 ### [Close Polls](checklist.md#close-polls)
 
 * [ ] Insert the poll worker card
-* [ ] Select _`Close Polls`_
-* [ ] One copy of the polls closed report will print
+* [ ] Select `Close Polls`
+* [ ] The polls closed report will print
 * [ ] Tear to remove the report
-* [ ] Select _`Reprint Polls Closed Report`_ to print more
+* [ ] Select `Reprint Polls Closed Report` to print more
 * [ ] Retain and/or display the polls closed report as instructed by your election administrator
 * [ ] Remove the poll worker card
 * [ ] Unseal and document the poll worker door seal as required
@@ -71,7 +71,7 @@ Single polling place jurisdictions may want to skip to the [Election Night Check
 
 **Pack up the scanner**:
 
-* [ ] Insert the poll worker card and select _`Power Down`_ to turn VxScan off
+* [ ] Insert the poll worker card and select `Power Down` to turn VxScan off
 * [ ] Once the screen has turned off, remove the power cord from VxScan
 * [ ] Remove the power cord from the UPS or outlet
 * [ ] Wrap the power cord in its storage location
@@ -86,6 +86,6 @@ Single polling place jurisdictions may want to skip to the [Election Night Check
 * [ ] Unseal and/or unlock the ballot box&#x20;
 * [ ] Remove all ballots from the ballot box and seal into a secure container, recording the seal number as required
 * [ ] Press the latch on the lid to release the lid and lift the lid over to the side
-* [ ] Fully collapse the ballot by gently using your foot to lift the bottom purple hooks
+* [ ] Fully collapse the ballot box by gently using your foot to lift the bottom purple hooks
 * [ ] Remove the straps from the underside of the lid and tighten them around the side
 
