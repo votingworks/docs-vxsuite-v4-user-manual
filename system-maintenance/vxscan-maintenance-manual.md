@@ -52,7 +52,7 @@ Contact VotingWorks support staff to schedule help with long-term maintenance ta
 
 ## Ballot Box (VxBox) Maintenance
 
-The ballot box that works with VxScan requires little maintenance, but it should be inspected and cleaned as needed for every election before pre-election testing and again after pre-election testing.  Inspection confirms that it works as expected and checks for debris in or on the ballot box.  Cleaning should remove debris from inside the ballot ballot box bag and inside the emergency bin.  The plastic surfaces can also be wiped down with a lint-free wipe, or equivalent.
+The ballot box that works with VxScan requires little maintenance, but it should be inspected and cleaned as needed for every election before pre-election testing and again after pre-election testing.  Inspection confirms that it works as expected and checks for debris in or on the ballot box.  Cleaning should remove debris from inside the ballot box bag and inside the emergency bin.  The plastic surfaces can also be wiped down with a lint-free wipe, or equivalent.
 
 ## Software Maintenance
 
@@ -60,7 +60,7 @@ There are no required steps for maintaining the software or firmware. The softwa
 
 ## Data Maintenance
 
-As VxScan is used for an election, it will gradually be storing more and more ballot data. As long as users remain within the specified [System Limits](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-performance-and-specifications/system-limits "mention") they should not exceed the data limits on VxScan. The free disk space available on VxScan is visible to system administrators and election managers by selecting _`Diagnostics`_ from the side menu.
+As VxScan is used for an election, it will gradually be storing more and more ballot data. As long as users remain within the specified [System Limits](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-performance-and-specifications/system-limits "mention") they should not exceed the data limits on VxScan. The free disk space available on VxScan is visible to system administrators and election managers by selecting `Diagnostics` from the side menu.
 
 When the machine is unconfigured or ballot data is cleared, disk space will be recovered. The free disk space may not appear to return to 100% but old files will eventually be replaced by new files and the disk space will be re-used.
 
