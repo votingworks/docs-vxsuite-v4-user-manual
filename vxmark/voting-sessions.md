@@ -34,7 +34,7 @@ If a voter would like to change a selection, they must first deselect a candidat
 
 ## Entering a Write-In
 
-To enter a write-in candidate, select `Add write-in candidate` and use the keyboard to type in the candidate's name. Select `Accept` when finished.&#x20;
+To enter a write-in candidate, select `add write-in candidate` and use the keyboard to type in the candidate's name. Select `Accept` when finished.&#x20;
 
 <div><figure><img src="../.gitbook/assets/VxMark_Votingsessions_WriteIn1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark_Votingsessions_WriteIn2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark_Votingsessions_WriteIn3.jpg" alt=""><figcaption></figcaption></figure></div>
 
