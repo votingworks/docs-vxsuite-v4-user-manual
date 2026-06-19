@@ -14,7 +14,7 @@ In order to start a new voting session on VxMark:
 * [ ] Select the voter's ballot style
 * [ ] Remove the poll worker card to begin the voting session
 
-<div><figure><img src="../.gitbook/assets/VxMark_Votingsessions_Activating1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark_Votingsessions_Activating2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark_Votingsessions_Activating3.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxMark_Votingsessions_Activating1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark-OpenClose-ResumePolls3.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark_Votingsessions_Activating3.jpg" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 If the wrong ballot style or precinct was selected, insert the poll worker card (if not already inserted) and select `Deactivate Voting Session` to return to the poll worker menu.
@@ -24,7 +24,7 @@ If the wrong ballot style or precinct was selected, insert the poll worker card 
 
 Let the voter know they can begin voting by selecting `Start Voting`.
 
-One contest will display at a time. The voter will select the candidate(s) of their choice. The voter moves to the next contest by selecting `Next`. The voter can skip a contest by selecting `Next` without making a selection.  To return to a previous contest, select `Back`.  A `More` button will display if there are more candidates or text than fit on a single screen.
+One contest will display at a time. The voter will select the candidate(s) of their choice. The voter moves to the next contest by selecting `Next`. The voter can skip a contest by selecting `Next` without making a selection. To return to a previous contest, select `Back`. A `More` button will display if there are more candidates or text than fit on a single screen.
 
 <div><figure><img src="../.gitbook/assets/VxMark_Votingsessions_Marking1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark_Votingsessions_Marking2(No3rdImage).jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -34,7 +34,7 @@ If a voter would like to change a selection, they must first deselect a candidat
 
 ## Entering a Write-In
 
-To enter a write-in candidate, select `add write-in candidate` and use the keyboard to type in the candidate's name. Select `Accept` when finished.&#x20;
+To enter a write-in candidate, select `add write-in candidate` and use the keyboard to type in the candidate's name. Select `Accept` when finished.
 
 <div><figure><img src="../.gitbook/assets/VxMark_Votingsessions_WriteIn1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark_Votingsessions_WriteIn2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark_Votingsessions_WriteIn3.jpg" alt=""><figcaption></figcaption></figure></div>
 

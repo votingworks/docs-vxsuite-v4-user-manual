@@ -4,7 +4,7 @@
 
 First, power down VxMark with the `Power Down` button in the poll worker menu:
 
-<figure><img src="../.gitbook/assets/Mark _packingup_pollsclosed1.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Mark-OpenClose-OpenPolls1.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 Then, pack up VxMark:
 
@@ -31,7 +31,7 @@ Then, pack up VxMark:
 
 * [ ] Turn off the printer by pressing the power button on the front
 
-<figure><img src="../.gitbook/assets/Mark _packingup_image6.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Mark _setup_image6.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 * [ ] Unplug the power cable from the outlet and the printer
 * [ ] Place the printer into its case

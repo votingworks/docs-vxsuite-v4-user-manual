@@ -14,7 +14,7 @@ To change the language from English to another language select `English` at the 
 
 ### Text and Screen Color
 
-Four different color options are available for users. While we provide a short description of who may benefit most from these different options, please note that the user likely knows what setting is best for their disability.&#x20;
+Four different color options are available for users. While we provide a short description of who may benefit most from these different options, please note that the user likely knows what setting is best for their disability.
 
 **White text, black background** - used by a person that finds white backgrounds too bright due to visual disabilities. May also be easier to read when room lighting causes a glare on the screen.
 
@@ -24,11 +24,11 @@ Four different color options are available for users. While we provide a short d
 
 **Black text, white background** - used by people who need the highest contrast because of light vision or color perception disabilities or aging.
 
-<div><figure><img src="../.gitbook/assets/Mark _languageaccessibility_TextScreenColor1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_TextScreenColor2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_TextScreenColor3.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_TextScreenColor4.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/voter-settings-002-voting-settings-color-1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-003-voting-settings-color-2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-004-voting-settings-color-3.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-005-voting-settings-color-4.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Text Size
 
-The default text size is `Medium`.  A user can select `Small`, `Large`, or `Extra-Large` based on their preferences.  Select `Done` to save the selection.&#x20;
+The default text size is `Medium`. A user can select `Small`, `Large`, or `Extra-Large` based on their preferences. Select `Done` to save the selection.
 
 <div><figure><img src="../.gitbook/assets/Mark _languageaccessibility_textsize-01 .jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_textsize-02.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_textsize-03.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_textsize-04.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -36,7 +36,7 @@ The default text size is `Medium`.  A user can select `Small`, `Large`, or `Extr
 
 Audio is always defaulted to on when headphones are plugged in. Instructions for all steps of the voting session are read to the user in audio format and all ballot content is read when navigated to by the user.
 
-Select `Mute Audio` to mute all sound.  Select `Enable Audio-Only Mode` to hide the screen. Voters using only audio to navigate through the ballot may want to hide the screen for privacy. Additionally, a voter who has a T-coil neckloop may unplug the headphones and plug that device into the headphone jack.&#x20;
+Select `Mute Audio` to mute all sound. Select `Enable Audio-Only Mode` to hide the screen. Voters using only audio to navigate through the ballot may want to hide the screen for privacy. Additionally, a voter who has a T-coil neckloop may unplug the headphones and plug that device into the headphone jack.
 
 Headphones should be sanitized after a voting session using the audio-tactile interface. To do so, simply discard the headphone ear covers and replace with a new set of ear covers.
 

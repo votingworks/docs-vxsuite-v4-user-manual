@@ -8,8 +8,8 @@ Before you configure VxMark, you must set up the machine. Follow the [VxMark Har
 
 To configure **VxMark**, you must do two things in **VxAdmin**:
 
-1. [Save the election package](../vxadmin-system-setup/save-election-package.md "mention") to a USB drive.
-2. [Create an election manager card](../vxadmin-system-setup/programming-cards.md "mention").
+1. [save-election-package.md](../vxadmin-system-setup/save-election-package.md "mention") to a USB drive.
+2. [programming-cards.md](../vxadmin-system-setup/programming-cards.md "mention").
 
 ## Inserting Smart Cards & USB Drives
 
@@ -19,11 +19,11 @@ The smart card reader is to the right in the back of the case. Insert smart card
 
 ## Loading The Election Package
 
-An unconfigured machine will prompt you to insert an election manager card to log in and then insert a USB drive with the election package saved from VxAdmin.&#x20;
+An unconfigured machine will prompt you to insert an election manager card to log in and then insert a USB drive with the election package saved from VxAdmin.
 
 After the USB drive is inserted, VxMark will automatically begin loading all ballot styles for the election. After the election package is done loading, the election manager screen will appear and VxMark will be in test ballot mode.
 
-<div><figure><img src="../.gitbook/assets/VxMark-Configure-Fix-01.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark-Configure-Fix-02.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark-Configure-Fix-03.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxMark-Configure-Fix-01.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/em-insert-usb.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark-Configure-Fix-03.png" alt=""><figcaption></figcaption></figure></div>
 
 ## Select a Polling Place
 
@@ -37,9 +37,9 @@ If your election package defines only one polling place, there is no need to sel
 
 ## Setting Ballot Mode
 
-Use the toggle button to switch between `Test Ballot Mode` and `Official Ballot Mode`. The machine must be in official ballot mode on election day.&#x20;
+Use the toggle button to switch between `Test Ballot Mode` and `Official Ballot Mode`. The machine must be in official ballot mode on election day.
 
-<div><figure><img src="../.gitbook/assets/VxMark-SelectPollingPlace-TESTMode (1).jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark-SelectPollingPlace-OFFICIALMode.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxMark-SelectPollingPlace-TESTMode.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark-SelectPollingPlace-OFFICIALMode.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## Removing Configuration & Election Data
 

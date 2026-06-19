@@ -30,7 +30,7 @@ Four different color options are available for users. While we provide a short d
 
 The default text size is `Medium`. A user can select `Small`, `Large`, or `Extra-Large` based on their preferences. Select `Done` to save the selection.
 
-<div><figure><img src="../.gitbook/assets/voter-settings-009-voting-settings-text-size-4.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-008-voting-settings-text-size-3.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-007-voting-settings-text-size-2.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-006-voting-settings-text-size-1.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/Mark _languageaccessibility_textsize-01 .jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_textsize-02.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_textsize-03.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_textsize-04.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## Audio Settings
 
@@ -40,7 +40,7 @@ Select `Mute Audio` to mute all sound. Select `Enable Audio-Only Mode` to hide t
 
 Headphones should be sanitized after a voting session using the audio-tactile interface. To do so, simply discard the headphone ear covers and replace with a new set of ear covers. Disposable ear covers suitable for VxMarkScan are listed in the [supply-list.md](../miscellaneous/supply-list.md "mention").
 
-<div><figure><img src="../.gitbook/assets/voter-settings-010-voting-settings-audio.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-011-voting-settings-audio-only-mode.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/Mark _languageaccessibility_Audio1.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_Audio2.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 All selections above are made for a specific voting session and will reset with the next voter.

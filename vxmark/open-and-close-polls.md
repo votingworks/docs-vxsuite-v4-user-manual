@@ -31,7 +31,7 @@ The polls are now open and voting can begin.
 * [ ] Confirm by selecting `Close Polls` again
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/Mark-OpenClose-ClosePolls1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark-OpenClose-ClosePolls2 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark-OpenClose-ClosePolls3 (1).jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/Mark-OpenClose-ClosePolls1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark-OpenClose-ClosePolls2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark-OpenClose-OpenPolls1.jpg" alt=""><figcaption></figcaption></figure></div>
 
 The polls are now closed and voting is complete.
 

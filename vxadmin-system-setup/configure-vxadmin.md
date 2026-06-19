@@ -12,7 +12,7 @@ When VxAdmin is not configured, the screen will prompt you to insert a USB drive
 
 Once configured, the election screen will display the title and date of your election as well as the date and time VxAdmin was configured.
 
-<div><figure><img src="../.gitbook/assets/system-administrator-003-election-screen-unconfigured (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/system-administrator-004-election-screen-select-election-package (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/system-administrator-005-election-screen-configured (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/system-administrator-003-election-screen-unconfigured.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/system-administrator-004-election-screen-select-election-package.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/system-administrator-005-election-screen-configured.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Remove Election
 

@@ -24,4 +24,4 @@ Election managers have a few additional options for printing. Regardless of how 
 
 Election managers may also print all ballot styles at once, instead of printing ballot styles one at a time. Select the `Print All Ballot Styles` button, select the options for the ballot styles you want to print, and select `Print X Ballot Styles`:
 
-<div><figure><img src="../.gitbook/assets/VxPrint-Printing-ElecManType3-allballotstyles (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxPrint-Printing-ElecManType3-allballotstyles-2 (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/VxPrint-Printing-ElecManType3-allballotstyles.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxPrint-Printing-ElecManType3-allballotstyles-2.png" alt="" width="375"><figcaption></figcaption></figure></div>
