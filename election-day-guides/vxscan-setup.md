@@ -50,8 +50,8 @@ description: >-
 
 <div><figure><img src="../.gitbook/assets/PXL_20241031_183628378.jpg" alt=""><figcaption><p>Wrapped power cable</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183652085.jpg" alt=""><figcaption><p>Power cable plugged into scanner</p></figcaption></figure></div>
 
-* [ ] Plug the APC UPS into an outlet
-* [ ] Turn the APC UPS on
+* [ ] Plug the UPS into an outlet
+* [ ] Turn the UPS on
 * [ ] Seal and document the ballot box door as required
 
 <figure><img src="../.gitbook/assets/PXL_20241031_184832238.jpg" alt="" width="188"><figcaption></figcaption></figure>
