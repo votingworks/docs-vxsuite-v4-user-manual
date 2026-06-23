@@ -46,12 +46,12 @@ description: >-
 <div><figure><img src="../.gitbook/assets/PXL_20241031_183949135.jpg" alt="" width="188"><figcaption><p>Pressing the security bolt down</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184055101.jpg" alt="" width="188"><figcaption><p>Sealing the poll worker door</p></figcaption></figure></div>
 
 * [ ] Remove the power cord from its storage place
-* [ ] Plug the power cord into the back of the scanner and then into an outlet or power backup
+* [ ] Plug the power cord into the back of the scanner and then into an outlet or the Goldenmate UPS
 
 <div><figure><img src="../.gitbook/assets/PXL_20241031_183628378.jpg" alt=""><figcaption><p>Wrapped power cable</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183652085.jpg" alt=""><figcaption><p>Power cable plugged into scanner</p></figcaption></figure></div>
 
-* [ ] Plug the power backup into an outlet (if applicable)
-* [ ] Turn the power backup on
+* [ ] Plug the UPS into an outlet (if applicable)
+* [ ] Turn the UPS on (if applicable)
 * [ ] Seal and document the ballot box door as required
 
 <figure><img src="../.gitbook/assets/PXL_20241031_184832238.jpg" alt="" width="188"><figcaption></figcaption></figure>
