@@ -2,8 +2,8 @@
 
 For reference information on VxMark, see the following links:
 
-* **Hardware Overview -** [VxMark Hardware](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxmark-hardware)
-* **Software Functionality -** [VxMark Function](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxmark-function)
+* **Hardware Overview -** [VxMark Hardware](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxmark-hardware "mention")
+* **Software Functionality -** [VxMark Function](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxmark-function "mention")
 
 ## Hardware Maintenance
 
@@ -29,7 +29,7 @@ VotingWorks recommends cleaning the screen, accessible controller, and USB port 
 
 ### VxMark Printer Maintenance <a href="#vxmark-printer-maintenance" id="vxmark-printer-maintenance"></a>
 
-VxMark uses a HP LaserJet Pro 4001dn printer to print ballots. The [manufacturer specifications ](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-datasheet.pdf)and [manufacturer user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-user-guide.pdf) are included in the documentation repository. For more troubleshooting tips on the printer, consult the [HP Printer FAQ](../miscellaneous/hp-printer-faqs.md) section.
+VxMark uses a HP LaserJet Pro 4001dn printer to print ballots. The [manufacturer specifications ](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-datasheet.pdf)and [manufacturer user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-user-guide.pdf) are included in the documentation repository. For more troubleshooting tips on the printer, consult the [hp-printer-faqs.md](../miscellaneous/hp-printer-faqs.md "mention") section.
 
 #### Paper Specifications <a href="#paper-specifications" id="paper-specifications"></a>
 
