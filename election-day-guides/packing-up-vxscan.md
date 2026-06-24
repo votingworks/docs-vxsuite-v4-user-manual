@@ -9,7 +9,10 @@ Pack up **VxScan** through the following steps:
 <figure><img src="../.gitbook/assets/image (18).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * [ ] Once the screen is off, remove the power cord from VxScan
-* [ ] Remove the power cord from the UPS or outlet
+* [ ] Disconnect the power cord from the Goldenmate 1000VA/600W UPS
+* [ ] Unplug the UPS from the power outlet
+* [ ] Turn off the UPS
+* [ ] Pack up the UPS
 * [ ] Wrap the power cord in its storage space
 
 <figure><img src="../.gitbook/assets/VxScan cord wrapped.png" alt="" width="375"><figcaption><p>Remove and wrap the power cord</p></figcaption></figure>

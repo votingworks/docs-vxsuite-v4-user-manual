@@ -7,7 +7,7 @@ description: >-
 
 # VxScan Setup
 
-**VxScan** has three primary components: the scanner in a hard case, the collapsible ballot box, and an uninterruptible power supply.
+**VxScan** has three primary components: the scanner in a hard case, the collapsible ballot box, and a Goldenmate 1000VA/600W uninterruptible power supply (UPS).
 
 <figure><img src="../.gitbook/assets/PXL_20241031_182622227.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -46,12 +46,12 @@ description: >-
 <div><figure><img src="../.gitbook/assets/PXL_20241031_183949135.jpg" alt="" width="188"><figcaption><p>Pressing the security bolt down</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184055101.jpg" alt="" width="188"><figcaption><p>Sealing the poll worker door</p></figcaption></figure></div>
 
 * [ ] Remove the power cord from its storage place
-* [ ] Plug the power cord into the back of the scanner and then into an outlet or the Goldenmate UPS
+* [ ] Plug the power cord into the back of the scanner and then into the Goldenmate 1000VA/600W UPS
 
 <div><figure><img src="../.gitbook/assets/PXL_20241031_183628378.jpg" alt=""><figcaption><p>Wrapped power cable</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_183652085.jpg" alt=""><figcaption><p>Power cable plugged into scanner</p></figcaption></figure></div>
 
-* [ ] Plug the UPS into an outlet (if applicable)
-* [ ] Turn the UPS on (if applicable)
+* [ ] Plug the UPS into an outlet
+* [ ] Turn the UPS on
 * [ ] Seal and document the ballot box door as required
 
 <figure><img src="../.gitbook/assets/PXL_20241031_184832238.jpg" alt="" width="188"><figcaption></figcaption></figure>

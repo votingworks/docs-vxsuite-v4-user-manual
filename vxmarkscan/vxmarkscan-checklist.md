@@ -15,7 +15,7 @@
 
 * [ ] Place the ballot marking device on the stand, aligning the stand bars with the bottom
 * [ ] Plug in the power cord connector to the back of the ballot marking device
-* [ ] Plug the power cord into the UPS battery backup
+* [ ] Plug the power cord into the APC UPS battery backup
 * [ ] Push the printer-scanner cover release button in
 * [ ] Open the printer-scanner cover
 * [ ] Slide the ballot bin into place
@@ -61,7 +61,7 @@
 * [ ] Remove and store the privacy shield
 * [ ] Push the printer-scanner release button to open the cover
 * [ ] Lift the ballot bin to remove
-* [ ] Unplug the power cord from the UPS battery backup
+* [ ] Unplug the power cord from the APC UPS battery backup
 * [ ] Unplug the power cord connector from the back of the ballot marking device
 * [ ] Remove and store the ballot marking device from the stand
 * [ ] Remove and store the power block from the holder

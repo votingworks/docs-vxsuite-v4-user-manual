@@ -8,7 +8,9 @@ First, power down VxMark with the `Power Down` button in the poll worker menu:
 
 Then, pack up VxMark:
 
-* [ ] Unplug the VxMark power cable from the outlet
+* [ ] Unplug the VxMark power cable from the Goldenmate 1500VA/1000W UPS.&#x20;
+* [ ] Unplug the UPS from the power outlet
+* [ ] Turn off the UPS
 * [ ] Unplug the headphones from the accessible controller
 * [ ] Collapse the headphones and wrap the headphone cord around it
 * [ ] Place the headphones in the bin to the left of the screen and close it
@@ -33,7 +35,8 @@ Then, pack up VxMark:
 
 <figure><img src="../.gitbook/assets/Mark _setup_image6.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-* [ ] Unplug the power cable from the outlet and the printer
+* [ ] Unplug the power cable from the Goldenmate 1500VA/1000W UPS and the printer
+* [ ] Pack up the UPS
 * [ ] Place the printer into its case
 
 <figure><img src="../.gitbook/assets/Mark _packingup_image7.jpg" alt="" width="375"><figcaption></figcaption></figure>

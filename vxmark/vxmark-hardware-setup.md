@@ -1,12 +1,14 @@
 # VxMark Hardware Setup
 
+**VxMark** has three primary components: the ballot-marking device (BMD) in a hard case, the printer, and a Goldenmate 1500VA/1000W uninterruptible power supply (UPS).
+
 ## VxMark Setup
 
 * [ ] Place the VxMark case on a standard height table
 
 <figure><img src="../.gitbook/assets/Mark _setup_image1.jpg" alt=""><figcaption></figcaption></figure>
 
-* [ ] Open the VxMark case; breaking and documenting seals per the jurisdiction's procedures
+* [ ] Open the VxMark case, breaking and documenting seals per the jurisdiction's procedures
 * [ ] Tilt the screen forward and rotate it clockwise 90° so it faces the voter
 
 <div><figure><img src="../.gitbook/assets/Mark _setup_image2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _setup_image3.jpg" alt=""><figcaption></figcaption></figure></div>
@@ -16,13 +18,15 @@
 
 <figure><img src="../.gitbook/assets/Mark _setup_image4.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-* [ ] Connect the power cable to an outlet
+* [ ] Plug the VxMark power cable into the Goldenmate 1500VA/1000W UPS
+* [ ] Plug the UPS into an outlet
+* [ ] Turn the UPS on
 
 ## Printer Setup
 
 * [ ] Remove the printer from its case and set it next to VxMark
 * [ ] Connect the printer power cable to the printer
-* [ ] Connect the printer power cable to an outlet
+* [ ] Plug the printer power cable into the Goldenmate 1500VA/1000W UPS
 * [ ] Connect the printer USB cable exiting the back of VxMark to the USB port on the printer
 * [ ] Press the power button on the front of the printer
 
