@@ -38,28 +38,28 @@ To physically set up the network, start by connecting the network switch to powe
 
 You must choose one VxAdmin to act as the "host VxAdmin." The host VxAdmin is where all data will be stored and where all VxAdmin features will be available. All other VxAdmins must be configured as adjudication stations. Adjudication stations are only for adjudication. To switch a VxAdmin to adjudication station mode, log in as a system administrator, go to `Settings`, and select `Switch to Adjudication Station Mode`. You will be prompted to reboot the computer. If you don't see the option to `Switch to Adjudication Station Mode`, your VxAdmin may not have networking enabled and you should contact VotingWorks.
 
-\[screenshot]
+<figure><img src="../.gitbook/assets/multi-station-1.png" alt="" width="375"><figcaption></figcaption></figure>
 
 If your network is properly set up, you should see the list of the connected adjudication stations on the host's `Adjudication` screen.
 
-\[screenshot]
+<figure><img src="../.gitbook/assets/multi-station-2.png" alt="" width="375"><figcaption></figcaption></figure>
 
 If there is a problem with your network, you will see a status indicator on the hosts `Adjudication` page or on the adjudication station.
 
-\[screenshots]
+<figure><img src="../.gitbook/assets/multi-station-3.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Adjudication
 
 The adjudication stations can only adjudicate if the host has turned on multi-station adjudication. To do so, log in as an election manager at the host VxAdmin and select `Enable Multi-Station`.
 
-\[screenshot]
+<figure><img src="../.gitbook/assets/multi-station-4.png" alt="" width="375"><figcaption></figcaption></figure>
 
 The adjudication stations will now be able to adjudicate ballots. Adjudicators can log in with either an election manager card or a poll worker card. The adjudication process is exactly the same at adjudication stations as it is at the host except that adjudicators are not able to view previous ballots. Refer to the [adjudication.md](../election-night-guides/adjudication.md "mention") guide for a walkthrough of the adjudication process.
 
 You can monitor the progress of adjudication from the `Adjudication` screen at the host. You can also see the status of each station e.g. "Locked" or "Adjudicating".
 
-\[screenshot]
+<figure><img src="../.gitbook/assets/multi-station-5.png" alt="" width="375"><figcaption></figcaption></figure>
 
-When adjudication is done for the day, turn off adjudication by selecting `Disable Multi-Station` .
+When adjudication is done for the day, turn off multi-station adjudication by selecting `Disable`.
 
-\[screenshot]
+<figure><img src="../.gitbook/assets/multi-station-6.png" alt="" width="375"><figcaption></figcaption></figure>
