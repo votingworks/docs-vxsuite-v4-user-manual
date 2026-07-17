@@ -18,6 +18,8 @@ Review the warnings and cautions listed below first. Then below that, find speci
 
 <figure><img src="../.gitbook/assets/vxscan-scanner-cables-focus.jpg" alt="Photo of cables seen after opening scanner access door.  From left to right on the scanner metal: ribbon cable, twisted pair of wires, and a single wire. On the far right: another single wire connected to the scanner access door." width="342"><figcaption><p>Do not disconnect, cut, unplug, or remove these cables or wires.</p></figcaption></figure>
 
+5. The VxBox unit used with VxScan should be stored in a climate-controlled environment when possible, and never in conditions hotter than 90°F.  Extended periods of heat can weaken the hinges.
+
 ### Scanner Cleaning
 
 The scanner should be cleaned for every election before pre-election testing and again after pre-election testing. For instructions, see [scanner-management.md](../vxscan/scanner-management.md "mention") in the user manual. VotingWorks recommends using Ricoh Cleaner F1 (PN: PA03950-0352) with cleaning wipes (PN: CG90000-120001) or equivalent. Other scanner-specific cleaning fluids or greater than 70% isopropyl alcohol can be used for the cleaning fluid. A microfiber or lint-free cloth can be used for the wipe. You may also blow out paper dust from the scanner with compressed air after wiping.
@@ -42,7 +44,7 @@ VotingWorks recommends cleaning the screen and USB ports as needed. The screen c
 
 ### Long-Term Hardware Maintenance
 
-To keep a VxScan machine functioning smoothly over many years, it is recommended to service it periodically after every 100,000 scans or every 3 years, whichever comes first.  At these intervals, the following preventative maintenance tasks can be done:
+To keep a VxScan machine functioning smoothly over many years, it is recommended to service it periodically after every 100,000 scans or every 3 years, whichever comes first. At these intervals, the following preventative maintenance tasks can be done:
 
 1. [Clean the scanner glass and rollers](vxscan-maintenance-manual.md#scanner-cleaning). (Can be done by customer)
 2. [Recalibrate the image sensors](../vxscan/scanner-management.md#image-sensor-calibration). (Can be done by customer)
@@ -52,7 +54,7 @@ Contact VotingWorks support staff to schedule help with long-term maintenance ta
 
 ## Ballot Box (VxBox) Maintenance
 
-The ballot box that works with VxScan requires little maintenance, but it should be inspected and cleaned as needed for every election before pre-election testing and again after pre-election testing.  Inspection confirms that it works as expected and checks for debris in or on the ballot box.  Cleaning should remove debris from inside the ballot box bag and inside the emergency bin.  The plastic surfaces can also be wiped down with a lint-free wipe, or equivalent.
+The ballot box that works with VxScan requires little maintenance, but it should be inspected and cleaned as needed for every election before pre-election testing and again after pre-election testing. Inspection confirms that it works as expected and checks for debris in or on the ballot box. Cleaning should remove debris from inside the ballot box bag and inside the emergency bin. The plastic surfaces can also be wiped down with a lint-free wipe, or equivalent.
 
 ## Software Maintenance
 
