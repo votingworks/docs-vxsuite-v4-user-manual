@@ -1,6 +1,6 @@
 # VxPrint Error Messages
 
-VxPrint is programmed to intuitively explain problems to an election official.
+VxPrint is programmed to intuitively explain problems to an election official. Error messages are listed in alphabetical order within each category.
 
 | Error Message                                                                                                                                  | Election Official Action                                                                                                                                           | Log File Entry                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
