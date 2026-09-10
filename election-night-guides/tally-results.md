@@ -12,5 +12,8 @@ Select `Load` to begin loading cast vote records. One at a time, insert each USB
 
 The selected CVR export should show as "Loaded". At this point, you may eject the USB drive and insert the next USB drive or, if you are done loading CVRs for now, select `Done`. Back on the list of polling places, confirm that each polling place shows as loaded with the expected number of CVRs. You may search the list of polling places by typing in the "Search Locations" bar. You may also filter the list of polling places to only those that have already been loaded by selecting `Loaded` or only those that have not been loaded by selecting `Pending`.
 
-<div><figure><img src="../.gitbook/assets/results-002-cvrs-loaded (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/results-003-tally-screen-with-cvrs.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/results-002-cvrs-loaded.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/results-003-tally-screen-with-cvrs.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
+Click on a polling place to view all of its associated CVR exports. For each CVR export, the list shows the number of CVRs, the loading time, and the ID of the scanner. Click the trash can icon next to an export to remove it from VxAdmin.
+
+<figure><img src="../.gitbook/assets/image (31).png" alt="" width="375"><figcaption></figcaption></figure>
