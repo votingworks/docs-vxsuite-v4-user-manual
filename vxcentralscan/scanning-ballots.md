@@ -32,25 +32,29 @@ Once the batch finishes scanning, remove it from the output tray on the scanner 
 If a batch needs to be rescanned, use the `Delete` button to remove the original scan.
 {% endhint %}
 
-## Adjudicate Ballots
+## Handle Ballots Needing Attention
 
-VxCentralScan will stop scanning and present a review screen if scanning cannot be completed due to a blank ballot, overvoted or undervoted contest, scan mode mismatch, or an otherwise unreadable ballot sheet. The review screen will display an image of the scanned ballot sheet, the reason why scanning was stopped, and confirm that this ballot sheet has not been tabulated yet.
+VxCentralScan will stop scanning and present a review screen if a ballot needs attention. The review screen will display an image of the scanned ballot sheet, the reason why scanning was stopped, and confirm that this ballot sheet has not been tabulated yet. There are two reasons VxCentralScan might stop on a ballot: the ballot needs adjudication or the ballot could not be accepted.&#x20;
 
-### Overvoted, Blank, and Undervoted Ballots
+### Ballots Needing Adjudication
 
-If the scanner stops, remove the last ballot sheet scanned from the scanner output tray and confirm it matches the ballot sheet displayed onscreen. Once removed, follow review requirements. If the ballot needs to be reviewed by someone not operating the scanner or needs to be duplicated to be tabulated properly, select `Confirm Ballot Removed`. If the ballot should be tabulated as-is, meaning that overvoted contests will be ignored but any other valid votes will be counted, select `Tabulate Ballot`. After making a selection, the scanner will resume scanning ballots in the batch.
+VxCentralScan may be configured to stop on ballots requiring adjudication for any combination of these reasons: overvotes, undervotes, marginal marks, or blank ballots.
+
+When the scanner stops, remove the last ballot sheet scanned from the scanner output tray and confirm it matches the ballot sheet displayed onscreen. Once removed, follow your jurisdiction's review requirements. If the ballot needs to be reviewed by someone not operating the scanner or needs to be duplicated to be tabulated properly, select `Confirm Ballot Removed`. If the ballot should be tabulated as-is, meaning that overvoted contests and marginal marks will be ignored but any other valid votes will be counted, select `Tabulate Ballot`. After making a selection, the scanner will resume scanning ballots in the batch.
 
 <div><figure><img src="../.gitbook/assets/screenshots-012-adjudication-overvote.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/screenshots-013-adjudication-blank-ballot.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/screenshots-014-adjudication-undervote.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-The scanner will present overvotes, blank ballots, and undervotes in that order. In other words, an overvoted ballot may also have undervoted contests not highlighted. Depending on the adjudication settings for the current election, VxCentralScan may not stop for every adjudication reason.
+The scanner will present overvotes, blank ballots, undervotes, and marginal marks in that order. In other words, an overvoted ballot may also have undervoted contests not highlighted.&#x20;
 
-### Unreadable Ballots
+### Unreadable and Rejected Ballots
 
-VxCentralScan may show an "Unreadable" ballot screen for a properly marked ballot if it's unable to decode ballot information due to page skew, dust, or tampering of the ballot. When a ballot sheet is shown as unreadable, you can safely remove the ballot and re-scan the ballot sheet. If the ballot is unreadable on a second scan, you should remove the ballot for duplication.
+VxCentralScan will show an "Unreadable" ballot screen for a properly marked ballot if it's unable to decode ballot information due to page skew, dust, or tampering of the ballot. When a ballot sheet is shown as unreadable, you can safely remove the ballot and re-scan the ballot sheet. If the ballot is unreadable on a second scan, you should remove the ballot for duplication.
 
 <figure><img src="../.gitbook/assets/screenshots-015-adjudication-unreadable.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### Saving Cast Vote Records (CVRs)
+The ballot might be readable but rejected because it doesn't match how the scanner is configured. Possible reasons are are ballots from the wrong election, ballots in the wrong mode (test vs. official), or ballots from a precinct that VxCentralScan is not configured to accept. In these cases, the reason will be shown on screen and, after you remove the ballot and click `Confirm Ballot Removed`, the batch will continue scanning.
+
+## Saving Cast Vote Records (CVRs)
 
 When all ballot batches (including any duplicated ballots) have been scanned, you will need to save the CVRs from VxCentralScan to load into VxAdmin for further adjudication and reporting.
 

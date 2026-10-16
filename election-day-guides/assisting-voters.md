@@ -22,7 +22,7 @@ If the ballot was not counted because of an issue, the scanner will hold the bal
 
 ### Overvoted Ballots
 
-A ballot is considered overvoted if the scanner recognizes more than the allowed number of votes for a particular race. For example, a voter marked two candidates in a race where they must make a single choice. If the voter would like to correct their error, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot` and then confirm by selecting `Cast Ballot` again. All votes will be counted in correctly voted contests but the overvoted contest will be ignored.
+A ballot is considered overvoted if the scanner recognizes more than the allowed number of votes for a particular race. For example, a voter marked two candidates in a race where they must make a single choice. If the voter would like to correct their ballot, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot` . All votes will be counted in correctly voted contests but the overvoted contest will be ignored.
 
 <figure><img src="../.gitbook/assets/voting-015-overvote-warning.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ The voter may have circled or underlined the names of their choices instead of f
 
 <figure><img src="../.gitbook/assets/voting-013-blank-ballot-warning.png" alt="" width="375"><figcaption></figcaption></figure>
 
-If the voter would like to correct their error, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot` and then confirm by selecting `Cast Ballot` again. The "Sheets Scanned" count will increase but no votes will be counted from a blank ballot.
+If the voter would like to have any votes counted, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot` and then confirm by selecting `Cast Ballot` again. The "Sheets Scanned" count will increase but no votes will be counted from a blank ballot.
 
 ### Undervotes
 
@@ -46,15 +46,23 @@ If a state requires notification to the voter that a specific contest has fewer 
 
 <figure><img src="../.gitbook/assets/image (24).png" alt="" width="375"><figcaption></figcaption></figure>
 
-If the voter would like to correct their error, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot` and then confirm by selecting `Cast Ballot` again. All votes will be counted.
+If the voter would like to make additional selections in those contests, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot` . All votes will be counted.
+
+### Marginal Marks
+
+If a state requires notification to the voter that the ballot contains ambiguous marks (also known as marginal marks), the voter will be prompted to review their ballot.
+
+<figure><img src="../.gitbook/assets/vxscan-marginal-mark-warning.png" alt="" width="375"><figcaption></figcaption></figure>
+
+If the voter would like to clarify the marks on their ballot, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot`. Ambiguous marks will not be counted as votes.
 
 ### Multiple Corrections
 
-If a voter has both undervotes and overvotes on their ballot and the state requires review of both, the "Review Your Ballot" screen will list the number of contests with each issue. Select `View Contests` to see the full list of contests that were undervoted or overvoted.
+If a voter has multiple issues on their ballot and a state requires review of all of them, the "Review Your Ballot" screen will list the number of contests with each issue. Select `View Contests` to see the full list of contests for each issue.
 
 <figure><img src="../.gitbook/assets/voting-016-mixed-overvote-undervote-warning.png" alt="" width="375"><figcaption></figcaption></figure>
 
-If the voter would like to correct their errors, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot` and then confirm by selecting `Cast Ballot` again.
+If the voter would like to change their ballot, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot` .
 
 ### Adjusting Color and Size
 
