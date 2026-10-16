@@ -54,11 +54,11 @@ If a state requires notification to the voter that the ballot contains ambiguous
 
 <figure><img src="../.gitbook/assets/vxscan-marginal-mark-warning.png" alt="" width="375"><figcaption></figcaption></figure>
 
-If the voter would like to clarify the marks on their ballot, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot`. Ambiguous marks will not be counted as votes.
+If the voter would like to clarify the marks on their ballot, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot`. Marginal marks will not be counted as votes.
 
 ### Multiple Corrections
 
-If a voter has multiple issues on their ballot and a state requires review of all of them, the "Review Your Ballot" screen will list the number of contests with each issue. Select `View Contests` to see the full list of contests for each issue.
+If a voter has multiple issues on their ballot and a state requires review of all of them, the "Review Your Ballot" screen will list the number of contests with each issue. Select `View Contests` to see the full list of contests for each type of issue.
 
 <figure><img src="../.gitbook/assets/voting-016-mixed-overvote-undervote-warning.png" alt="" width="375"><figcaption></figcaption></figure>
 
