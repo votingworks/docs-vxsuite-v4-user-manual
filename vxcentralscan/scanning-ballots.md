@@ -68,6 +68,16 @@ VxCentralScan will show an "Unreadable" ballot screen if it's unable to interpre
 
 The ballot also might be rejected because it doesn't match how the scanner is configured. For example, the ballot may be from the wrong election, may be in the wrong mode (test vs. official), or may be from a precinct that VxCentralScan is not configured to accept.
 
+## Imprinting
+
+Imprinters are an optional add-on for VxCentralScan's COTS scanners - see [VxCentralScan Hardware Setup > Imprinting](vxcentralscan-hardware-setup.md#imprinting) for additional details. If an imprinter is installed, an audit ID will be printed on the edge of each ballot sheet. The audit ID is a shortened version of the batch ID plus the number of the ballot within the batch.&#x20;
+
+Before scanning ballots, ideally during logic and accuracy testing, ensure the imprinter is properly aligned such that it prints on the edge of the ballot by scanning a test sheet.
+
+If an imprinter is installed, imprinting is enabled by default. In order to skip imprinting for an election or for a batch, an election manager may go to `Settings` and toggle to `Imprinting Disabled`. This setting will reset to `Imprinting Enabled` for each election.
+
+<figure><img src="../.gitbook/assets/screenshots-006-em-settings-imprinting-disabled-button.png" alt="" width="375"><figcaption></figcaption></figure>
+
 ## Batch History and Cast Vote Records (CVRs)
 
 Navigate to the `Batch History` page to see the list of scanned batches. For each batch, the list shows the batch name (e.g. "Batch 4"), the number of ballot sheets in that batch, and the time at which the batch was saved.
