@@ -8,8 +8,8 @@ Before you configure VxCentralScan, you must set up the machine. Follow the step
 
 To configure **VxCentralScan**, you must do two things in **VxAdmin**:
 
-1. [Save the election package](../vxadmin-system-setup/save-election-package.md "mention") to a USB drive.
-2. [Create an election manager card](../vxadmin-system-setup/programming-cards.md "mention").
+1. [save-election-package.md](../vxadmin-system-setup/save-election-package.md "mention") to a USB drive.
+2. [programming-cards.md](../vxadmin-system-setup/programming-cards.md "mention").
 
 ## Load Election Package
 
@@ -21,19 +21,19 @@ Once the election package is saved to a USB drive, you can load the file to VxCe
 
 Use an election manager card to unlock the machine. Insert the USB drive with the election package. The election package will automatically load.
 
-<div><figure><img src="../.gitbook/assets/em-insert-usb (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/em-configuring.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/screenshots-001-em-insert-usb.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/screenshots-002-configuring.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-VxCentralScan is now configured and in test mode. The election summary information (name, date, jurisdiction, etc.) will be shown in the bottom left corner of the screen - confirm that it is correct.&#x20;
+VxCentralScan is now configured and in test mode. The election summary information (name, date, jurisdiction, etc.) will be shown in the bottom left corner of the screen - confirm that it is correct.
 
-<figure><img src="../.gitbook/assets/image (21).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34).png" alt="" width="375"><figcaption></figcaption></figure>
 
 When testing is complete, switch VxCentralScan to official ballot mode on the settings screen:
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43).png" alt="" width="375"><figcaption></figcaption></figure>
 
-The `Scan Ballots` page should have the text "No ballots have been scanned" and there should be no test ballot mode banner. VxCentralScan is now ready for the election.
+The `Scan Ballots` page should show zeroes for "Total Batches" and "Total Sheets," and there should also be no test ballot mode banner. VxCentralScan is now ready for the election.
 
-<figure><img src="../.gitbook/assets/screenshots-009-scan-ballots-empty-no-ballots-highlight.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/screenshots-011-scan-ballots-empty-batch-stats-highlight.png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Polling Places
 
@@ -48,7 +48,7 @@ To remove an election package and reset VxCentralScan:
 * [ ] Select `Unconfigure Machine`
 * [ ] Confirm by selecting `Delete All Election Data`
 
-<div><figure><img src="../.gitbook/assets/screenshots-005-em-settings-unconfigure-machine-button.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/screenshots-006-em-settings-confirm-unconfigure-button (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/screenshots-007-em-settings-unconfigure-machine-button.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/screenshots-008-em-settings-confirm-unconfigure-button.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 You can now reconfigure VxCentralScan with a different election package.
 
