@@ -56,7 +56,7 @@ The adjudication stations can only adjudicate if the host has turned on multi-st
 
 <figure><img src="../.gitbook/assets/multi-station-4.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The adjudication stations will now be able to adjudicate ballots. Adjudicators can log in with either an election manager card or a poll worker card. The adjudication process is exactly the same at adjudication stations as it is at the host except that adjudicators are not able to view previous ballots. Refer to the [adjudication.md](../election-night-guides/adjudication.md "mention") guide for a walkthrough of the adjudication process.
+The adjudication stations will now be able to adjudicate ballots. Adjudicators can log in with either an election manager card or a poll worker card. The adjudication process is exactly the same at adjudication stations as it is at the host except that adjudicators are not able to view previous ballots or skip ballots. Refer to the [adjudication.md](../election-night-guides/adjudication.md "mention") guide for a walkthrough of the adjudication process.
 
 You can monitor the progress of adjudication from the `Adjudication` screen at the host. You can also see the status of each station e.g. "Locked" or "Adjudicating".
 
@@ -65,3 +65,9 @@ You can monitor the progress of adjudication from the `Adjudication` screen at t
 When adjudication is done for the day, turn off multi-station adjudication by selecting `Disable`.
 
 <figure><img src="../.gitbook/assets/multi-station-6.png" alt="" width="375"><figcaption></figcaption></figure>
+
+#### Escalated Ballots
+
+If an adjudicator at an adjudication station is unsure how to adjudicate a ballot, they can select `Escalate` instead of `Accept` to send the ballot to the host for election manager review. Any unsaved changes to the ballot are discarded and the station moves on to the next ballot.
+
+Escalated ballots appear in a callout at the top of the host's `Adjudication` screen. Select `Adjudicate Escalated Ballots` to work through only the escalated ballots. Each escalated ballot is also labeled "Escalated for election manager review" when viewed at the host. Escalated ballots remain in the main adjudication queue as well, so they will also be encountered when adjudicating all ballots from the host. Escalated ballots are resolved by adjudicating them at the host; ballots cannot be escalated from the host.
