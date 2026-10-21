@@ -64,7 +64,6 @@ You can monitor the progress of adjudication from the `Adjudication` screen at t
 
 When adjudication is done for the day, turn off multi-station adjudication by selecting `Disable`.
 
-
 <figure><img src="../.gitbook/assets/multi-station-6.png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Escalated Ballots
