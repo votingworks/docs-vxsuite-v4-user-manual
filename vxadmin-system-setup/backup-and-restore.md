@@ -42,7 +42,7 @@ A backup can only be restored onto an unconfigured VxAdmin, and restoring requir
 
 <div><figure><img src="../.gitbook/assets/backups-000-restore-from-backup-button.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/backups-001-enter-restore-mode-modal.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-VxAdmin restarts in Restore Mode, which is marked by a banner at the top of every screen. Restore Mode only allows restoring from a backup. To leave Restore Mode without restoring, select `Exit Restore Mode` and VxAdmin will restart normally.
+VxAdmin restarts in Restore Mode, which is marked by a banner at the top of every screen. Restore Mode only allows restoring from a backup. To leave Restore Mode without restoring, select `Exit Restore Mode` and confirm by selecting `Restart`; VxAdmin will restart normally.
 
 * [ ] Log in as a system administrator
 * [ ] Connect the backup drive
