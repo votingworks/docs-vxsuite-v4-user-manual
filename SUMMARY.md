@@ -95,6 +95,7 @@
 * [Configure VxMark](vxmark/configure-vxmark.md)
 * [Open and Close Polls](vxmark/open-and-close-polls.md)
 * [Voting Sessions](vxmark/voting-sessions.md)
+* [Printing Blank Ballots](vxmark/printing-blank-ballots.md)
 * [Voting Session Language & Accessibility Settings](vxmark/voting-session-language-and-accessibility-settings.md)
 * [Packing Up VxMark](vxmark/packing-up-vxmark.md)
 * [VxMark Error Messages](vxmark/vxmark-error-messages.md)
