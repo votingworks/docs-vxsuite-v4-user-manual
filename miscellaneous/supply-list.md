@@ -25,6 +25,18 @@ A faster drive may be necessary when exporting large volumes of ballots from VxC
 
 VotingWorks recommends using a new USB drive for each election and each voting device as well as separate USBs for L\&A testing.
 
+## Backup Drives
+
+VxAdmin saves election backups to a dedicated backup drive rather than a general purpose USB drive; see [backup-and-restore.md](../vxadmin-system-setup/backup-and-restore.md "mention"). VotingWorks recommends the Western Digital 8TB Elements Desktop external hard drive (WDBWLG0080HBK), but any drive meeting the specifications below can be used. A backup drive must be prepared by VotingWorks before it can be used, whether it is purchased from VotingWorks or elsewhere.
+
+| Attribute   | Requirement              |
+| ----------- | ------------------------ |
+| Interface   | USB 3.0 (5 Gbps) minimum |
+| Read Speed  | 100 MB/s minimum         |
+| Write Speed | 100 MB/s minimum         |
+
+No minimum capacity is specified. A backup drive holds one backup per election, and the size of each backup depends on the number of ballots cast, the ballot size and number of sheets per ballot, the tabulator used (VxScan or VxCentralScan), the configured ballot image bit depth, and other factors that determine CVR and ballot image sizes. As a point of reference, for a jurisdiction with a turnout of 250,000 voters per election, single-sheet ballots, and standard system settings, a 1TB drive should hold at least 10 elections. Jurisdictions can extrapolate from this figure or ask VotingWorks for a recommendation.
+
 ## Seals
 
 Cases should be secured with single use tamper evident numbered seals, such as heavy-duty pull-tight seals. You may use different seals as preferred by your jurisdiction and may choose to use different types of seals, or even locks, if you confirm they fit through the seal points and properly secure the seal point. Lock shackles must be less than 5mm (3/16") in size to fit in all seal points.

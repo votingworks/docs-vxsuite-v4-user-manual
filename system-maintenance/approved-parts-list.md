@@ -2,7 +2,7 @@
 
 ## Approved Parts List
 
-<table><thead><tr><th>Item</th><th width="183">Supplier / Mfr.</th><th>Part Number(s)</th><th>Equivalent OK?</th></tr></thead><tbody><tr><td>USB Drives</td><td>SanDisk</td><td>SDCZ73-064G-G46</td><td>Yes</td></tr><tr><td>Screen Cleaning Wipes</td><td>ULINE</td><td>S-12236</td><td>Yes</td></tr><tr><td>Canned Air</td><td>ULINE</td><td>S-6771</td><td>Yes</td></tr><tr><td>HP 4001dn Printer Paper</td><td>HP</td><td>HPU1132</td><td>Yes</td></tr><tr><td>HP 4001dn Black Toner</td><td>HP</td><td>W1480A, W1480X</td><td>No</td></tr><tr><td>Scanner Cleaning Fluid</td><td>Ricoh</td><td>PA03950-0352</td><td>Yes</td></tr><tr><td>Scanner Cleaning Wipes</td><td>Ricoh</td><td>CG90000-120001</td><td>Yes</td></tr><tr><td>fi-8170 Brake Roller</td><td>Ricoh</td><td>PA03810-0001</td><td>No</td></tr><tr><td>fi-8170 Pick Roller</td><td>Ricoh</td><td>PA03640-0002</td><td>No</td></tr><tr><td>fi-7600 Brake Roller</td><td>Ricoh</td><td>PA03740-K010</td><td>No</td></tr><tr><td>fi-7600 Pick Roller</td><td>Ricoh</td><td>PA03740-K011</td><td>No</td></tr><tr><td>fi-8950 Brake Roller</td><td>Ricoh</td><td>PA03830-K023</td><td>No</td></tr><tr><td>fi-8950 Pick Roller</td><td>Ricoh</td><td>PA03830-K021</td><td>No</td></tr><tr><td>fi-8950 Separation Roller</td><td>Ricoh</td><td>PA03830-K022</td><td>No</td></tr><tr><td>VxScan Thermal Paper</td><td>Nakagawa, Inc.</td><td>N/A</td><td>No</td></tr><tr><td>VxMarkScan Thermal Paper</td><td>Mitsubishi, ProVote Solutions</td><td>N/A</td><td>No</td></tr><tr><td>Headphone Ear Covers</td><td>BBTO</td><td>BBTO-Earpads-e1083</td><td>Yes</td></tr></tbody></table>
+<table><thead><tr><th>Item</th><th width="183">Supplier / Mfr.</th><th>Part Number(s)</th><th>Equivalent OK?</th></tr></thead><tbody><tr><td>USB Drives</td><td>SanDisk</td><td>SDCZ73-064G-G46</td><td>Yes</td></tr><tr><td>Backup Drive</td><td>Western Digital</td><td>WDBWLG0080HBK</td><td>Yes</td></tr><tr><td>Screen Cleaning Wipes</td><td>ULINE</td><td>S-12236</td><td>Yes</td></tr><tr><td>Canned Air</td><td>ULINE</td><td>S-6771</td><td>Yes</td></tr><tr><td>HP 4001dn Printer Paper</td><td>HP</td><td>HPU1132</td><td>Yes</td></tr><tr><td>HP 4001dn Black Toner</td><td>HP</td><td>W1480A, W1480X</td><td>No</td></tr><tr><td>Scanner Cleaning Fluid</td><td>Ricoh</td><td>PA03950-0352</td><td>Yes</td></tr><tr><td>Scanner Cleaning Wipes</td><td>Ricoh</td><td>CG90000-120001</td><td>Yes</td></tr><tr><td>fi-8170 Brake Roller</td><td>Ricoh</td><td>PA03810-0001</td><td>No</td></tr><tr><td>fi-8170 Pick Roller</td><td>Ricoh</td><td>PA03640-0002</td><td>No</td></tr><tr><td>fi-7600 Brake Roller</td><td>Ricoh</td><td>PA03740-K010</td><td>No</td></tr><tr><td>fi-7600 Pick Roller</td><td>Ricoh</td><td>PA03740-K011</td><td>No</td></tr><tr><td>fi-8950 Brake Roller</td><td>Ricoh</td><td>PA03830-K023</td><td>No</td></tr><tr><td>fi-8950 Pick Roller</td><td>Ricoh</td><td>PA03830-K021</td><td>No</td></tr><tr><td>fi-8950 Separation Roller</td><td>Ricoh</td><td>PA03830-K022</td><td>No</td></tr><tr><td>VxScan Thermal Paper</td><td>Nakagawa, Inc.</td><td>N/A</td><td>No</td></tr><tr><td>VxMarkScan Thermal Paper</td><td>Mitsubishi, ProVote Solutions</td><td>N/A</td><td>No</td></tr><tr><td>Headphone Ear Covers</td><td>BBTO</td><td>BBTO-Earpads-e1083</td><td>Yes</td></tr></tbody></table>
 
 ## VxScan Thermal Paper Specifications
 
@@ -24,6 +24,16 @@
 | Capacity   | 64GB minimum                             |
 | Length     | 55mm maximum, measured from inserted tip |
 | Read Speed | 60 Mbps minimum                          |
+
+## Backup Drive Specifications
+
+| Attribute   | Requirement              |
+| ----------- | ------------------------ |
+| Interface   | USB 3.0 (5 Gbps) minimum |
+| Read Speed  | 100 MB/s minimum         |
+| Write Speed | 100 MB/s minimum         |
+
+No minimum capacity is specified. Backup drives must be prepared by VotingWorks before use. See the [Supply List](../miscellaneous/supply-list.md#backup-drives) for capacity guidance.
 
 ## Marking Devices
 
