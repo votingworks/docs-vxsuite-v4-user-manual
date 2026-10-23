@@ -8,7 +8,7 @@ VxAdmin can save a backup of its election data to a backup drive. A backup inclu
 
 ## Backup Drives
 
-Backups are saved to a dedicated backup drive supplied by VotingWorks. Backup drives are formatted differently from the USB drives used for election packages, CVRs, and reports, and the two cannot be used interchangeably. A backup drive can be connected at the same time as a regular USB drive.
+Backups are saved to a dedicated backup drive prepared by VotingWorks. Recommended drives and specifications are listed in the [Supply List](../miscellaneous/supply-list.md#backup-drives). Backup drives are formatted differently from the USB drives used for election packages, CVRs, and reports, and the two cannot be used interchangeably. A backup drive can be connected at the same time as a regular USB drive.
 
 A backup drive holds one backup per election. Saving a new backup of the same election replaces the previous backup on the drive.
 
