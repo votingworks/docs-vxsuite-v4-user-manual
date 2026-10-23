@@ -33,7 +33,7 @@
 | Read Speed  | 100 MB/s minimum         |
 | Write Speed | 100 MB/s minimum         |
 
-No minimum capacity is specified. Backup drives must be prepared by VotingWorks before use. See [#backup-drives](../miscellaneous/supply-list.md#backup-drives "mention") for capacity guidance.
+No minimum capacity is specified. Backup drives must be prepared by VotingWorks before use. See the [Supply List](../miscellaneous/supply-list.md#backup-drives) for capacity guidance.
 
 ## Marking Devices
 
