@@ -2,7 +2,7 @@
 
 In preparation for an election or in response to issues, the diagnostics interface can help verify VxMark is functioning as expected or pinpoint problems that do arise. Both election managers and system administrators can access the diagnostic interface.
 
-<div><figure><img src="../.gitbook/assets/vxmark-em-menu-diagnostics-highlighted.png" alt="VxMark election manager menu with the Diagnostics button highlighted"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-sa-menu-diagnostics-highlighted.png" alt="System Administrator Menu with the Diagnostics button highlighted"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmark-em-menu-diagnostics-highlighted.png" alt="VxMark election manager menu with the Diagnostics button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-sa-menu-diagnostics-highlighted.png" alt="System Administrator Menu with the Diagnostics button highlighted" width="188"><figcaption></figcaption></figure></div>
 
 The diagnostics screen shows information about how the machine is configured, how much storage is left on the device, and the current status of the hardware. There are tests for the accessible controller, PAT Device input, printer, barcode reader, headphone input, system audio, and uninterruptible power supply.
 

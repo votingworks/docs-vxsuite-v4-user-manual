@@ -31,7 +31,7 @@ VotingWorks Precinct System consists of three portable, self-contained products:
 
 <div><figure><img src=".gitbook/assets/photo-vxscan-full-setup.png" alt="VxScan case open on top of the expanded ballot box, screen off, poll worker door and ballot box door closed" width="375"><figcaption><p>VxScan</p></figcaption></figure> <figure><img src=".gitbook/assets/photo-vxmarkscan-full-setup.png" alt="VxMarkScan assembled in its privacy booth with the controller, headphones, touchscreen, and printer-scanner tray" width="375"><figcaption><p>VxMarkScan</p></figcaption></figure></div>
 
-<figure><img src=".gitbook/assets/photo-vxmark-full-setup.jpg" alt="VxMark in its open case beside an HP LaserJet printer and headphones, screen asking for an election manager card"><figcaption><p>VxMark</p></figcaption></figure>
+<figure><img src=".gitbook/assets/photo-vxmark-full-setup.jpg" alt="VxMark in its open case beside an HP LaserJet printer and headphones, screen asking for an election manager card" width="375"><figcaption><p>VxMark</p></figcaption></figure>
 
 Voters at the precinct vote on hand-marked paper ballots (bubble ballots) and cast their ballot into VxScan, with the option to instead vote and cast one's ballot on VxMarkScan if requested.
 
