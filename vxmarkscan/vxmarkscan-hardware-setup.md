@@ -12,27 +12,27 @@ Part of the Precinct System, VxMarkScan is a free-standing accessible ballot mar
 * [ ] Continue until all legs are raised
 * [ ] Flip the stand up right
 
-<div><figure><img src="../.gitbook/assets/VxMark raising one leg.png" alt=""><figcaption><p>Raise leg to snap in place</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark one leg raised.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark all legs raised.png" alt=""><figcaption><p>All legs in place</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-stand-raise-leg.png" alt="Hand raising one leg of the folded VxMarkScan stand until it snaps in place"><figcaption><p>Raise leg to snap in place</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-stand-one-leg-raised.png" alt="The VxMarkScan stand on the floor with one leg raised and snapped into place."><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-stand-all-legs-raised.png" alt="VxMarkScan stand base with all four legs raised and snapped into place"><figcaption><p>All legs in place</p></figcaption></figure></div>
 
 * [ ] Snap the support bar in place on the back two legs
 
-<div><figure><img src="../.gitbook/assets/VxMark support bar.png" alt=""><figcaption><p>Support bar</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark put support bar in place.png" alt=""><figcaption><p>Snap support bar to back legs</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark support bar installed.png" alt=""><figcaption><p>Support bar installed</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-stand-support-bar.png" alt="The VxMarkScan stand support bar lying on the floor before installation"><figcaption><p>Support bar</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-support-bar.png" alt="Hand snapping the support bar onto the back legs of the VxMarkScan stand."><figcaption><p>Snap support bar to back legs</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-stand-support-bar-installed.png" alt="VxMarkScan stand with the support bar snapped onto the two back legs"><figcaption><p>Support bar installed</p></figcaption></figure></div>
 
 * [ ] Add power block holder to the back center on the top of the stand
 * [ ] Insert power block into the holder so cords lay out each side
 
-<div><figure><img src="../.gitbook/assets/VxMark add power cord holder.png" alt=""><figcaption><p>Add power block holder</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark power block in holder.png" alt=""><figcaption><p>Insert power block into the holder</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark stand power cord holder and power block istalled.png" alt=""><figcaption><p>Power block and holder installed</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-power-block-holder.png" alt="Hand holding the power block holder above the slotted center of the VxMarkScan stand."><figcaption><p>Add power block holder</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-power-block-in-holder.png" alt="Power block seated in the holder on the back center of the VxMarkScan stand"><figcaption><p>Insert power block into the holder</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-stand-power-block-installed.png" alt="Assembled VxMarkScan stand with the power block holder and cords installed"><figcaption><p>Power block and holder installed</p></figcaption></figure></div>
 
 **Set up the ballot marking device:**
 
 * [ ] Using two people, lift and place the ballot marking device on the stand by aligning the stand bars with the bottom
 
-<div><figure><img src="../.gitbook/assets/VxMark main unit.png" alt=""><figcaption><p>Ballot marking device</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark place unit on legs.png" alt=""><figcaption><p>Place ballot marking device on the stand</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-main-unit.png" alt="Top view of the VxMarkScan main unit showing the accessible controller, screen and printer-scanner cover."><figcaption><p>Ballot marking device</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-unit-on-stand.png" alt="Rear view of the VxMarkScan ballot marking device placed on its stand with power cord routed below"><figcaption><p>Place ballot marking device on the stand</p></figcaption></figure></div>
 
 * [ ] Plug in the power cord connector to the back of the ballot marking device
 * [ ] Plug the power cord into the APC UPS battery backup
 
-<div><figure><img src="../.gitbook/assets/VxMark unit plug.png" alt=""><figcaption><p>Power cord connector</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark unit plug plugged in.png" alt=""><figcaption><p>Power cord connector plugged in</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark power cord.png" alt=""><figcaption><p>Power plug</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark power cord plugged into UPS.png" alt=""><figcaption><p>Power cord plugged in</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-power-cord-connector.png" alt="Hand holding the round power cord connector, marked TOP, beneath the VxMarkScan unit."><figcaption><p>Power cord connector</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-power-cord-connector-plugged-in.png" alt="Power cord connector plugged into the underside of VxMarkScan beside the power button and headphone jack."><figcaption><p>Power cord connector plugged in</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-power-plug.png" alt="Hand holding the three-prong AC plug of the VxMarkScan power cord beneath the unit."><figcaption><p>Power plug</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-power-cord-plugged-into-ups.png" alt="VxMarkScan power cord plugged into an outlet on the APC Back-UPS 850 battery backup."><figcaption><p>Power cord plugged in</p></figcaption></figure></div>
 
 * [ ] Push the printer-scanner cover release button in
 * [ ] Open the printer-scanner cover
@@ -40,16 +40,16 @@ Part of the Precinct System, VxMarkScan is a free-standing accessible ballot mar
 * [ ] Close the printer-scanner cover
 * [ ] Document and seal the ballot bin (loop on right side) as required
 
-<div><figure><img src="../.gitbook/assets/VxMark open printer cover.png" alt=""><figcaption><p>Push the printer cover button</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark printer cover open.png" alt=""><figcaption><p>Open the printer cover</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark ballot bin.png" alt=""><figcaption><p>Ballot bin</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark ballot bin attached.png" alt=""><figcaption><p>Slide ballot bin into place</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark ballot bin seal.png" alt=""><figcaption><p>Document and seal as required</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-push-printer-cover-button.png" alt="Hand pressing the printer cover release button on the underside of the VxMarkScan"><figcaption><p>Push the printer cover button</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-printer-cover-open.png" alt="VxMarkScan printer cover open, exposing the thermal printer with its green push-to-close label"><figcaption><p>Open the printer cover</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-ballot-bin.png" alt="The VxMarkScan ballot bin standing on its own with its lid closed."><figcaption><p>Ballot bin</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-ballot-bin-attached.png" alt="Ballot bin slid into place on the side of the VxMarkScan with the printer cover held open"><figcaption><p>Slide ballot bin into place</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-ballot-bin-seal.png" alt="Close-up of the seal loop where the ballot bin meets the VxMarkScan body"><figcaption><p>Document and seal as required</p></figcaption></figure></div>
 
 * [ ] Place the privacy shield pegs in the holes on each side of the ballot marking device
 
-<div><figure><img src="../.gitbook/assets/VxMark privacy shield pegs highlighted.png" alt=""><figcaption><p>Privacy shield pegs</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark privacy shield holes.png" alt=""><figcaption><p>Privacy shield holes</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark privacy shield installed.png" alt=""><figcaption><p>Privacy shield installed</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-privacy-shield-pegs.png" alt="Privacy shield panels laid flat with the four yellow pegs circled in blue"><figcaption><p>Privacy shield pegs</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-privacy-shield-holes.png" alt="Two privacy shield peg holes on the side of the ballot marking device circled in blue"><figcaption><p>Privacy shield holes</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-privacy-shield-installed.png" alt="VxMarkScan on its stand with the privacy shield installed around the screen, controller and printer."><figcaption><p>Privacy shield installed</p></figcaption></figure></div>
 
 * [ ] Plug the headphones into the front headphone jack
 * [ ] Push the power button to turn VxMarkScan on
 
-<div><figure><img src="../.gitbook/assets/image (26).png" alt="" width="188"><figcaption><p>Plug the headphones in</p></figcaption></figure> <figure><img src="../.gitbook/assets/VxMark power button.png" alt="" width="375"><figcaption><p>Push the power button to turn on</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-headphones-plugged-in.png" alt="Headphones resting beside the accessible controller with their cable plugged into the front headphone jack." width="188"><figcaption><p>Plug the headphones in</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-power-button.png" alt="Blue arrow pointing to the power button on the underside of VxMarkScan, next to the plugged-in power connector." width="375"><figcaption><p>Push the power button to turn on</p></figcaption></figure></div>
 
 The VxMarkScan is set up.
 
@@ -67,4 +67,4 @@ The scanner should be cleaned for every election with scanner cleaning solution 
 * [ ] Close scanner by pressing down on the green sticker until the scanner clicks into place
 * [ ] Close printer cover until it clicks into place
 
-<figure><img src="../.gitbook/assets/PXL_20241125_224803109.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo-vxmarkscan-cleaning-printer-scanner.jpg" alt="Hands wiping the rollers inside the open VxMarkScan printer-scanner with an orange cloth." width="563"><figcaption></figcaption></figure>

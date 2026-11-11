@@ -36,11 +36,11 @@ To save the recommended VxAdmin files, follow these steps when logged in as an e
 * [ ] Select `Reports` from the side menu, select `Full Election Tally Report`, select `Export Report PDF`
 * [ ] Then select `Export Report CSV`
 
-<div><figure><img src="../.gitbook/assets/image (48).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (49).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxadmin-reports-full-election-tally-highlighted.png" alt="VxAdmin Election Reports screen with the Full Election Tally Report button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-full-election-tally-report-actions-highlighted.png" alt="VxAdmin Full Election Tally Report preview with the Print and Export action buttons highlighted" width="375"><figcaption></figcaption></figure></div>
 
 Next select `Settings` from the side menu and `Save Logs`. Machine log files are saved in the `/logs` folder on the USB drive.
 
-<figure><img src="../.gitbook/assets/vxadmin-election-manager-settings-screen-logs-highlight.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxadmin-em-settings-save-logs-highlighted.png" alt="VxAdmin election manager Settings screen with the Save Logs button highlighted" width="375"><figcaption></figcaption></figure>
 
 ### VxScan CVR Files
 
@@ -52,7 +52,7 @@ VxScan CVRs include the VxScan's CVRs and ballot images. The log file contains t
 * [ ] Select `Save CVRs`
 * [ ] Select `Save Logs`
 
-<div><figure><img src="../.gitbook/assets/configuration-016-em-save-cvrs-button.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/configuration-017-em-save-logs-button.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxscan-em-save-cvrs-button.png" alt="VxScan election manager CVRs and Logs tab with the Save CVRs button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-em-save-logs-button.png" alt="VxScan election manager CVRs and Logs tab with the Save Logs button highlighted" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 **Log files** contain records of user interactions with the machine (e.g., election officials and poll workers unlocking the machine, voters casting ballots, etc.) as well as internal system information (e.g., the status of paper running through the scanner, errors, etc.). [A detailed description for each event in the log can be found in Github](https://github.com/votingworks/vxsuite/blob/main/libs/logging/VotingWorksLoggingDocumentation.md).
@@ -62,8 +62,8 @@ VxScan CVRs include the VxScan's CVRs and ballot images. The log file contains t
 
 In VxAdmin, log in with a system administrator card, select `Election` from the side menu and select `Unconfigure Machine`.
 
-<figure><img src="../.gitbook/assets/image (63).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxadmin-unconfigure-button.png" alt="VxAdmin system administrator Election screen with the Unconfigure Machine button highlighted" width="375"><figcaption></figcaption></figure>
 
 In VxScan, log in with an election manager card and select `Unconfigure Machine`.
 
-<figure><img src="../.gitbook/assets/image (64).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-em-unconfigure-machine-button.png" alt="VxScan election manager Configuration tab with the Unconfigure Machine button highlighted" width="375"><figcaption></figcaption></figure>

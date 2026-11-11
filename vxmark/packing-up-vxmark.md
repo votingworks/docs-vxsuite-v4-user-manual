@@ -4,7 +4,7 @@
 
 First, power down VxMark with the `Power Down` button in the poll worker menu:
 
-<figure><img src="../.gitbook/assets/Mark-OpenClose-OpenPolls1.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxmark-pw-menu-polls-closed.png" alt="Poll Worker Menu with polls closed showing Open Polls and Power Down buttons" width="188"><figcaption></figcaption></figure>
 
 Then, pack up VxMark:
 
@@ -16,12 +16,12 @@ Then, pack up VxMark:
 * [ ] Place the headphones in the bin to the left of the screen and close it
 * [ ] Place the accessible controller in its place to the right of the screen, pushing the cable beneath it
 
-<div><figure><img src="../.gitbook/assets/Mark _packingup_image2.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _packingup_image3.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmark-headphones-compartment.jpg" alt="Headphones stowed in the compartment beside the VxMark screen." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmark-accessible-controller.jpg" alt="The Storm accessible controller mounted in the VxMark case with its headphone jack lit." width="188"><figcaption></figcaption></figure></div>
 
 * [ ] Rotate the screen counterclockwise 90°, and then tilt it back into the case
 * [ ] Close the lid of the case and latch it shut
 
-<div><figure><img src="../.gitbook/assets/Mark _packingup_image4.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _packingup_image5.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmark-case-open-screen-flat.jpg" alt="Open VxMark case with the screen tilted back flat into the case for packing."><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmark-case-closed.jpg" alt="The VxMark case closed and latched on a table."><figcaption></figcaption></figure></div>
 
 * [ ] Unplug the printer cable from the printer
 * [ ] Tilt the case on its front to access the back compartment
@@ -33,13 +33,13 @@ Then, pack up VxMark:
 
 * [ ] Turn off the printer by pressing the power button on the front
 
-<figure><img src="../.gitbook/assets/Mark _setup_image6.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo-vxmark-printer-power-button.jpg" alt="Front of the HP LaserJet Pro printer with the power button circled and labeled." width="375"><figcaption></figcaption></figure>
 
 * [ ] Unplug the power cable from the Goldenmate 1500VA/1000W UPS and the printer
 * [ ] Pack up the UPS
 * [ ] Place the printer into its case
 
-<figure><img src="../.gitbook/assets/Mark _packingup_image7.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo-vxmark-printer-in-case.jpg" alt="The VxMark laser printer placed inside its padded soft case with the lid open." width="375"><figcaption></figcaption></figure>
 
 * [ ] Place the power cable into the case atop the printer
 * [ ] Close the printer case

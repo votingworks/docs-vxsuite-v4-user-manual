@@ -2,13 +2,13 @@
 
 Voters have a number of options to change the VxMarkScan interface to suit their individual needs.
 
-<figure><img src="../.gitbook/assets/voter-settings-000-voting-language-and-settings-highlighted.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxmarkscan-voting-language-and-settings-highlighted.png" alt="VxMarkScan contest screen with the language and Settings buttons in the header highlighted" width="375"><figcaption></figcaption></figure>
 
 ## Ballot Language
 
 To change the language from English to another language select `English` at the top of the screen. Additional language buttons will display, select the preferred language and then select `Done`.
 
-<figure><img src="../.gitbook/assets/voter-settings-001-voting-language-settings.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxmarkscan-voting-language-settings.png" alt="Select Your Ballot Language screen with English selected and a Done button." width="375"><figcaption></figcaption></figure>
 
 ## Visual Settings
 
@@ -24,13 +24,13 @@ Four different color options are available for users. While we provide a short d
 
 **Black text, white background** - used by people who need the highest contrast because of light vision or color perception disabilities or aging.
 
-<div><figure><img src="../.gitbook/assets/voter-settings-002-voting-settings-color-1.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-003-voting-settings-color-2.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-004-voting-settings-color-3.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-005-voting-settings-color-4.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmark-voting-settings-color-1.png" alt="Settings Color tab with White text, black background selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-color-2.png" alt="Settings Color tab with Gray text, dark background selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-color-3.png" alt="Settings Color tab with Dark text, light background selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-color-4.png" alt="Settings Color tab with Black text, white background selected" width="188"><figcaption></figcaption></figure></div>
 
 ### Text Size
 
 The default text size is `Medium`. A user can select `Small`, `Large`, or `Extra-Large` based on their preferences. Select `Done` to save the selection.
 
-<div><figure><img src="../.gitbook/assets/Mark _languageaccessibility_textsize-01 .jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_textsize-02.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_textsize-03.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_textsize-04.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmark-voting-settings-text-size-4.png" alt="Settings Text Size tab with Extra-Large selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-text-size-3.png" alt="Settings Text Size tab with Large selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-text-size-2.png" alt="Settings Text Size tab with Medium selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-text-size-1.png" alt="Settings Text Size tab with Small selected" width="188"><figcaption></figcaption></figure></div>
 
 ## Audio Settings
 
@@ -40,7 +40,7 @@ Select `Mute Audio` to mute all sound. Select `Enable Audio-Only Mode` to hide t
 
 Headphones should be sanitized after a voting session using the audio-tactile interface. To do so, simply discard the headphone ear covers and replace with a new set of ear covers. Disposable ear covers suitable for VxMarkScan are listed in the [supply-list.md](../miscellaneous/supply-list.md "mention").
 
-<div><figure><img src="../.gitbook/assets/Mark _languageaccessibility_Audio1.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_Audio2.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-audio.png" alt="Voter Settings screen on the Audio tab with mute, volume, rate of speech, and audio-only mode controls" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-audio-only-mode.png" alt="Audio-Only Mode screen with an Exit Audio-Only Mode button" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 All selections above are made for a specific voting session and will reset with the next voter.

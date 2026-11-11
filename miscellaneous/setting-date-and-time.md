@@ -10,4 +10,4 @@ The `Set Date and Time` button is in the settings menu on VxAdmin, VxCentralScan
 
 Update the date and time and select `Save`.
 
-<figure><img src="../.gitbook/assets/set-date-and-time-cropped.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxadmin-set-date-and-time.png" alt="Set Date and Time dialog with date, time and time zone dropdowns and Cancel and Save buttons." width="375"><figcaption></figcaption></figure>

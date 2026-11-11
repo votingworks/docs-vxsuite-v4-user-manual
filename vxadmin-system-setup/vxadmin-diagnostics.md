@@ -4,10 +4,10 @@ The VxAdmin diagnostics interface displays information about the currently confi
 
 The printer status indicates whether the printer is ready to print, in sleep mode, or jammed, in addition to the toner level. You can print a test page with `Print Test Page` to verify the printer is working as expected. After printing the test page, you'll be asked to indicate whether the print was successful or failed. The results of the most recent test are displayed on the diagnostics page. You can repeat the test as many times as needed.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxadmin-diagnostics-screen.png" alt="VxAdmin Diagnostics screen listing configuration, battery, storage, printer status and ballot styles." width="375"><figcaption></figcaption></figure>
 
 The list of ballot styles loaded as part of the election definition is also listed. The ballot style information lists all information about the ballot such as contests, allowable number of candidates, tabulation method, associated precincts, and more. As part of pre-election preparation, election officials should review this list of configured ballot styles and compare to the associated PDFs for each style to confirm the election definition configuration is accurate.
 
 The readiness report can be used as a record of system diagnostic verification. Select `Save Readiness Report` to save a copy to a USB drive.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxadmin-readiness-report.png" alt="Printed VxAdmin Readiness Report showing configuration, battery, storage, printer and ballot style checks." width="375"><figcaption></figcaption></figure>

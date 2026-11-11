@@ -4,15 +4,15 @@
 
 VxScan is ready to accept a new ballot whenever it displays "Insert Your Ballot":
 
-<figure><img src="../.gitbook/assets/image (15).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-insert-ballot.png" alt="VxScan Insert Your Ballot screen ready to accept a ballot sheet" width="375"><figcaption></figcaption></figure>
 
 A voter can then push their ballot onto the tray and into the scanner. When a ballot is properly inserted, the scanner will grip the ballot. If a ballot is inserted at an angle, the scanner may push the ballot back into the voter's hands without scanning, in which case the voter should simply re-insert their ballot. VxScan will then scan the ballot by pulling it in while showing the following screen:
 
-<figure><img src="../.gitbook/assets/image (13) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-scanning.png" alt="VxScan Please wait screen shown while scanning the marks on a ballot" width="375"><figcaption></figcaption></figure>
 
 If the ballot has no issues, the ballot will go into the ballot box and the screen will show that the ballot has been counted. Notice that the "Sheets Scanned" count goes up.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-ballot-counted.png" alt="VxScan Your ballot was counted screen with the sheets scanned count at 1" width="375"><figcaption></figcaption></figure>
 
 After a few seconds, VxScan will return to the "Insert Your Ballot" screen in preparation for the next voter.
 
@@ -24,7 +24,7 @@ If the ballot was not counted because of an issue, the scanner will hold the bal
 
 A ballot is considered overvoted if the scanner recognizes more than the allowed number of votes for a particular race. For example, a voter marked two candidates in a race where they must make a single choice. If the voter would like to correct their ballot, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot` . All votes will be counted in correctly voted contests but the overvoted contest will be ignored.
 
-<figure><img src="../.gitbook/assets/voting-015-overvote-warning.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-overvote-warning.png" alt="VxScan Review Your Ballot warning that too many votes were marked in a contest" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 An overvote will also be detected when a candidate is marked and writing is detected on the write-in line for the same contest if it exceeds the number of allowed votes (when required by law or rule). This is true even if the bubble is not marked.
@@ -36,7 +36,7 @@ If a state requires notification to the voter that a ballot has no selections ma
 
 The voter may have circled or underlined the names of their choices instead of filling in the bubbles. Or the voter may have used a writing utensil whose marks are ignored by the scanner, like a highlighter. VxScan will warn the voter that their ballot appears blank.
 
-<figure><img src="../.gitbook/assets/voting-013-blank-ballot-warning.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-blank-ballot-warning.png" alt="VxScan Review Your Ballot warning that no votes were found, with Return Ballot and Cast Ballot" width="375"><figcaption></figcaption></figure>
 
 If the voter would like to have any votes counted, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot` and then confirm by selecting `Cast Ballot` again. The "Sheets Scanned" count will increase but no votes will be counted from a blank ballot.
 
@@ -44,7 +44,7 @@ If the voter would like to have any votes counted, they should select `Return Ba
 
 If a state requires notification to the voter that a specific contest has fewer than the maximum selections marked, the voter will be prompted to review their ballot.
 
-<figure><img src="../.gitbook/assets/image (24).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-undervote-warning.png" alt="VxScan Review Your Ballot warning listing blank and undervoted contests, with Cast Ballot emphasized" width="375"><figcaption></figcaption></figure>
 
 If the voter would like to make additional selections in those contests, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot` . All votes will be counted.
 
@@ -52,7 +52,7 @@ If the voter would like to make additional selections in those contests, they sh
 
 If a state requires notification to the voter that the ballot contains ambiguous marks (also known as marginal marks), the voter will be prompted to review their ballot.
 
-<figure><img src="../.gitbook/assets/vxscan-marginal-mark-warning.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-marginal-mark-warning.png" alt="VxScan Review Your Ballot warning listing contests with faint marks that will not count" width="375"><figcaption></figcaption></figure>
 
 If the voter would like to clarify the marks on their ballot, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot`. Marginal marks will not be counted as votes.
 
@@ -60,7 +60,7 @@ If the voter would like to clarify the marks on their ballot, they should select
 
 If a voter has multiple issues on their ballot and a state requires review of all of them, the "Review Your Ballot" screen will list the number of contests with each issue. Select `View Contests` to see the full list of contests for each type of issue.
 
-<figure><img src="../.gitbook/assets/voting-016-mixed-overvote-undervote-warning.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-mixed-overvote-undervote-warning.png" alt="VxScan Review Your Ballot summary of blank, undervoted, and overvoted contests with View Contests" width="375"><figcaption></figcaption></figure>
 
 If the voter would like to change their ballot, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot` .
 
@@ -68,7 +68,7 @@ If the voter would like to change their ballot, they should select `Return Ballo
 
 Simple changes to the screen's color and size can be very helpful for voters with low vision and other cognitive disabilities. Selecting `Settings` in the upper left hand corner of the screen provides the voter with different options. Select `Color` to change the text and background color and select `Text Size` to change the text size.
 
-<div><figure><img src="../.gitbook/assets/voting-017-settings-button.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/color-mode.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/text-size-mode.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxscan-settings-button.png" alt="VxScan Insert Your Ballot screen with the Settings button in the header highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-settings-color.png" alt="VxScan voter Settings screen on the Color tab with Dark text, light background selected" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-settings-text-size.png" alt="VxScan voter Settings screen on the Text Size tab with Medium selected" width="375"><figcaption></figcaption></figure></div>
 
 #### Text and Background Color
 
@@ -90,7 +90,7 @@ The default text size is `Medium`. A user can select `Small`, `Large`, or `Extra
 
 If a jurisdiction provides language options to voters, a voter may select that language by selecting `English`. Next, they'll select the language of their choice and select `Done`.
 
-<div><figure><img src="../.gitbook/assets/voting-009-language-button.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voting-010-language-settings.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxscan-language-button.png" alt="VxScan Insert Your Ballot screen with the English language button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-language-settings.png" alt="VxScan Select Your Ballot Language screen with English selected and a Done button" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 All selections above are made for a specific voting session and will reset with the next voter.
@@ -107,23 +107,23 @@ VxScan also supports ballot casting over an audio-tactile interface via an acces
 Accessibility devices MUST be connected to VxScan before scanning a ballot, for a voter using the audio-tactile interface.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/scan_install_pat+audio-attached-front-1600x1200.jpg" alt="" width="563"><figcaption><p>PAT device and headphones plugged into the front left ports</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo-vxscan-pat-and-headphones-attached.jpg" alt="VxScan front panel with a two-switch PAT device and headphones plugged into the accessibility ports" width="563"><figcaption><p>PAT device and headphones plugged into the front left ports</p></figcaption></figure>
 
 {% include "../.gitbook/includes/sanitizing-headphones-instructions.md" %}
 
 Voters can navigate with the PAT device. When first plugging in the PAT device, a 3-step tutorial first shows up to test the device, as shown in the following screens:
 
-<figure><img src="../.gitbook/assets/vxscan-pat-tutortial-01.png" alt="" width="375"><figcaption><p>Step 1: Activate a PAT input.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-pat-intro.png" alt="VxScan PAT identification step 1 of 3 Test Your Device, asking to activate either input" width="375"><figcaption><p>Step 1: Activate a PAT input.</p></figcaption></figure>
 
-<div><figure><img src="../.gitbook/assets/vxscan-pat-tutortial-02.png" alt="" width="375"><figcaption><p>Step 2: Identify the "Move" input.</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pat-tutortial-03.png" alt="" width="375"><figcaption><p>Input identified</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxscan-pat-identify-move.png" alt="VxScan PAT identification step 2 of 3 asking the voter to activate the Move input" width="375"><figcaption><p>Step 2: Identify the "Move" input.</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pat-move-identified.png" alt="VxScan PAT identification step 2 of 3 confirming the Move input was identified" width="375"><figcaption><p>Input identified</p></figcaption></figure></div>
 
-<div><figure><img src="../.gitbook/assets/vxscan-pat-tutortial-04.png" alt="" width="375"><figcaption><p>Step 3: Identify the "Select" input.</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pat-tutortial-05.png" alt="" width="375"><figcaption><p>Input identified</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxscan-pat-identify-select.png" alt="VxScan PAT device tutorial step 3, identify the Select input" width="375"><figcaption><p>Step 3: Identify the "Select" input.</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pat-select-identified.png" alt="VxScan PAT device tutorial, Select input identified" width="375"><figcaption><p>Input identified</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/vxscan-pat-tutortial-06.png" alt="" width="375"><figcaption><p>PAT setup complete</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-pat-device-identified.png" alt="VxScan PAT device identification complete screen with Continue and Back buttons" width="375"><figcaption><p>PAT setup complete</p></figcaption></figure>
 
 Voters can adjust the volume using the volume control interface in the `Settings` menu. Audio settings can be modified by selecting the `Settings` button in the top header and finding options under the `Audio` tab, as shown in the screen below.
 
-<figure><img src="../.gitbook/assets/vxscan-headphone-audio-settings.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-a11y-settings-audio-headphones-connected.png" alt="VxScan Settings Audio tab with headphones connected: Mute Audio, volume and rate of speech controls" width="375"><figcaption></figcaption></figure>
 
 Voters using the PAT device to cast a ballot use two inputs to perform this task. The move input allows voters to navigate through a screen's focusable elements, and the select input allows voters to select, i.e., click, the currently focused element. Every focusable element has an audio cue that is played when the element is focused.\
 \
