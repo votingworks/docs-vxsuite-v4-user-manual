@@ -31,7 +31,7 @@ The polls are now open and voting can begin.
 * [ ] Confirm by selecting `Close Polls` again
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/vxmark-pw-menu-polls-open.png" alt="Poll Worker Menu with polls open showing Close Polls and Pause Voting buttons"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pw-close-polls-modal.png" alt="VxMark poll worker menu with the Close Polls confirmation dialog and the Close Polls button highlighted."><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pw-menu-polls-closed.png" alt="Poll Worker Menu with polls closed showing Open Polls and Power Down buttons"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmark-pw-menu-polls-open-close-polls-highlighted.png" alt="VxMark poll worker menu with polls open and the Close Polls button highlighted"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pw-close-polls-modal.png" alt="VxMark poll worker menu with the Close Polls confirmation dialog and the Close Polls button highlighted."><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pw-menu-polls-closed.png" alt="Poll Worker Menu with polls closed showing Open Polls and Power Down buttons"><figcaption></figcaption></figure></div>
 
 The polls are now closed and voting is complete.
 
@@ -53,6 +53,6 @@ Voting is now paused. When you want to resume voting:
 * [ ] Confirm by selecting `Resume Voting` again
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/vxmark-pw-menu-polls-paused.png" alt="Poll Worker Menu with voting paused showing Resume Voting and Close Polls buttons" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pw-resume-voting-modal.png" alt="Resume Voting confirmation dialog with the Resume Voting button highlighted" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmark-pw-menu-resume-voting-highlighted.png" alt="VxMark poll worker menu with voting paused and the Resume Voting button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pw-resume-voting-modal.png" alt="Resume Voting confirmation dialog with the Resume Voting button highlighted" width="375"><figcaption></figcaption></figure></div>
 
 Voting can now continue.
