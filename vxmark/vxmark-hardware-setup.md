@@ -6,17 +6,17 @@
 
 * [ ] Place the VxMark case on a standard height table
 
-<figure><img src="../.gitbook/assets/Mark _setup_image1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo-vxmark-cases-closed.jpg" alt="The VxMark printer soft case and the VxMark hard case side by side on a table."><figcaption></figcaption></figure>
 
 * [ ] Open the VxMark case, breaking and documenting seals per the jurisdiction's procedures
 * [ ] Tilt the screen forward and rotate it clockwise 90° so it faces the voter
 
-<div><figure><img src="../.gitbook/assets/Mark _setup_image2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _setup_image3.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmark-tilt-screen-forward.jpg" alt="Hands tilting the VxMark screen forward out of the open case."><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmark-rotate-screen.jpg" alt="Hands rotating the VxMark screen into portrait orientation above the open case."><figcaption></figcaption></figure></div>
 
 * [ ] Remove the headphones from the compartment to the left of the screen, plug them into the accessible controller, and hang them on the hook above the card reader
 * [ ] Open the compartment on the back of the case by lifting the release knob behind the screen to reveal the power cable and printer USB cable
 
-<figure><img src="../.gitbook/assets/Mark _setup_image4.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo-vxmark-back-compartment-cables.jpg" alt="Open back compartment of the VxMark case showing the power cable and printer USB cable." width="375"><figcaption></figcaption></figure>
 
 * [ ] Plug the VxMark power cable into the Goldenmate 1500VA/1000W UPS
 * [ ] Plug the UPS into an outlet
@@ -30,4 +30,4 @@
 * [ ] Connect the printer USB cable exiting the back of VxMark to the USB port on the printer
 * [ ] Press the power button on the front of the printer
 
-<div><figure><img src="../.gitbook/assets/Mark _setup_image5.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _setup_image6.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmark-printer-rear-ports.jpg" alt="Rear of the HP LaserJet Pro printer with the USB and Power ports circled and labeled."><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmark-printer-power-button.jpg" alt="Front of the HP LaserJet Pro printer with the power button circled and labeled."><figcaption></figcaption></figure></div>

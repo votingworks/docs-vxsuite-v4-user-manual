@@ -10,9 +10,9 @@ The scanner must be clean to accurately detect marks on ballots. In order to cle
 * [ ] Open the access door
 * [ ] Open the scanner
 
-<div><figure><img src="../.gitbook/assets/PXL_20241031_184055101.jpg" alt="" width="188"><figcaption><p>Poll worker door closed</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184238006.jpg" alt="" width="188"><figcaption><p>Poll worker door open</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxscan-security-bolt-sealed.jpg" alt="Close-up of the VxScan case security bolt pressed down with a green numbered tamper seal threaded through it." width="188"><figcaption><p>Poll worker door closed</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-access-door-release-latch.jpg" alt="Finger pressing the purple unlock latch beside the closed metal access door inside VxScan" width="188"><figcaption><p>Poll worker door open</p></figcaption></figure></div>
 
-<div><figure><img src="../.gitbook/assets/PXL_20241031_184245241.jpg" alt="" width="375"><figcaption><p>Access door open</p></figcaption></figure> <figure><img src="../.gitbook/assets/PXL_20241031_184257763.jpg" alt="" width="375"><figcaption><p>Scanner open</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxscan-access-door-open-scanner-closed.jpg" alt="VxScan access door open showing the closed purple scanner cover and caution label" width="375"><figcaption><p>Access door open</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-scanner-open.jpg" alt="VxScan scanner opened to expose the upper and lower image sensor glass and rollers" width="375"><figcaption><p>Scanner open</p></figcaption></figure></div>
 
 Once the scanner is open, you can use cleaning fluid and a microfiber or lint-free cloth to clean the scanner. Dampen the cloth and rub with moderate force on the scanning glass and the rollers:
 
@@ -21,7 +21,7 @@ Once the scanner is open, you can use cleaning fluid and a microfiber or lint-fr
 * [ ] Clean upper rollers
 * [ ] Clean lower rollers
 
-<figure><img src="../.gitbook/assets/PXL_20241031_203337811.jpg" alt="" width="375"><figcaption><p>Cleaning the scanner</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo-vxscan-scanner-cleaning-cloth.jpg" alt="Hand wiping the open VxScan scanner glass with an orange microfiber cloth" width="375"><figcaption><p>Cleaning the scanner</p></figcaption></figure>
 
 {% hint style="info" %}
 The primary and most effective method of cleaning the scanner is the direct method above, requiring opening the scanner. However, a good secondary option is to leave the scanner closed and gently blow compressed air through the infeed to force out dry dust and debris. This may help during an election when unsealing the scanner is not reasonable. Options for cleaning with air are powered compressed air devices and small cans of compressed air, such as ULINE S-6771 or equivalent. If using a can of air, be sure to leave the can upright to never spray liquid into the scanner.
@@ -43,7 +43,7 @@ The following steps can only be completed by an election manager.
 
 In order to prevent voters attempting to scan two ballots at once, VxScan has a double sheet detection feature. To manage double sheet detection, navigate to the `Scanner` tab of the election manager menu.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-em-scanner-tab.png" alt="VxScan election manager Scanner tab with Calibrate and Disable Double Sheet Detection buttons" width="375"><figcaption></figcaption></figure>
 
 Select `Calibrate Double Sheet Detection` to begin calibration. Follow the instructions on screen. You will need two sheets of blank paper that have the same paper weight as the ballots for the election.
 
@@ -57,6 +57,6 @@ The following step can only be completed by a system administrator.
 
 Image sensor calibration is recommended as part of [regular long-term maintenance](../system-maintenance/vxscan-maintenance-manual.md#long-term-hardware-maintenance) every 100k scans or every 3 years. Under exceedingly rare circumstances, one may need to calibrate the scanner image sensors more often. In this calibration, the scanner reads a blank white sheet of paper to ensure proper conversion from physical paper to digital image.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-sa-calibrate-image-sensors.png" alt="VxScan system administrator menu with the Calibrate Image Sensors button highlighted" width="375"><figcaption></figcaption></figure>
 
 Machines are shipped with this calibration having already been completed by the part manufacturer, and it may never have to be performed outside the regular long-term maintenance. It should only be performed during L\&A if ballots _consistently_ fail to scan with generic errors unrelated to election configuration (e.g., "Ballot Scan Failed - There was a problem scanning your ballot. Please scan it again."), all other reasons for failure (e.g., ballots not printed to spec) have been ruled out, and VotingWorks support has suggested this as a course of action.

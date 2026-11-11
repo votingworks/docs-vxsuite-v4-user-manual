@@ -1,0 +1,3353 @@
+# Screenshot manifest: one entry per image asset, keyed by its stable ID.
+# source: generated (from the vxsuite-screenshots gallery, by ID), unspecced (UI
+# screenshot with no spec yet; wanted_spec says how to reach it), manual-photo
+# (photo or diagram, maintained by hand). Transitional: once every UI screenshot
+# has a spec this collapses into the gallery catalog plus a grep.
+
+"diagram-hmpb-test-ballot-page-1.png":
+  source: manual-photo
+  alt: "Page 1 of a hand-marked paper test ballot with fill-in ovals, timing marks, and instructions"
+  pages:
+    - "README.md"
+  was:
+    - "hmpb-600w.png"
+"diagram-signed-hash-validation-check-site-verified.png":
+  source: manual-photo
+  alt: "The check.voting.works Hash Validation page on a phone showing a green check with machine ID, timestamp and election ID."
+  pages:
+    - "miscellaneous/signed-hash-validation.md"
+  was:
+    - "Hash Validation check voting works.png"
+"diagram-smart-card-types.png":
+  source: manual-photo
+  alt: "Illustration of the three smart card types: System Administrator, Election Manager, and Poll Worker."
+  pages:
+    - "vxadmin-system-setup/programming-cards.md"
+  was:
+    - "image (678).png"
+"photo-laptop-insert-smart-card.png":
+  source: manual-photo
+  alt: "Hand inserting a System Administrator smart card, chip first, into the laptop card reader."
+  pages:
+    - "vxadmin-system-setup/programming-cards.md"
+    - "vxadmin-system-setup/unlocking-locking-hardware.md"
+    - "vxcentralscan/configure-ballot-scanner.md"
+  was:
+    - "smartcard-laptop-16_10.png"
+"photo-printer-in-case.png":
+  source: manual-photo
+  alt: "HP LaserJet printer and its power cord packed in the open grey soft carrying case."
+  pages:
+    - "vxadmin-system-setup/vxadmin-hardware-setup.md"
+    - "vxprint/vxprint-hardware-setup.md"
+  was:
+    - "printer case.png"
+"photo-printer-power-button.png":
+  source: manual-photo
+  alt: "Front of the HP LaserJet Pro M404n printer with the power button circled."
+  pages:
+    - "vxadmin-system-setup/vxadmin-hardware-setup.md"
+    - "vxprint/vxprint-hardware-setup.md"
+  was:
+    - "printer power.png"
+"photo-printer-power-cord-port.png":
+  source: manual-photo
+  alt: "Rear of the HP LaserJet printer with the power cord socket circled."
+  pages:
+    - "vxadmin-system-setup/vxadmin-hardware-setup.md"
+    - "vxprint/vxprint-hardware-setup.md"
+  was:
+    - "printer plug.png"
+"photo-vxadmin-case-closed.png":
+  source: manual-photo
+  app: vxadmin
+  alt: "Closed orange VxAdmin carrying case with VotingWorks label on a table."
+  pages:
+    - "vxadmin-system-setup/vxadmin-hardware-setup.md"
+  was:
+    - "VxAdmin in case.png"
+"photo-vxadmin-case-latches.png":
+  source: manual-photo
+  app: vxadmin
+  alt: "Closed orange VxAdmin case with arrows pointing to the two front latches."
+  pages:
+    - "vxadmin-system-setup/vxadmin-hardware-setup.md"
+  was:
+    - "VxAdmin case latches.png"
+"photo-vxadmin-case-seals.png":
+  source: manual-photo
+  app: vxadmin
+  alt: "Closed orange VxAdmin case with red tamper-evident seals on both latches circled."
+  pages:
+    - "vxadmin-system-setup/vxadmin-hardware-setup.md"
+  was:
+    - "VxAdmin case sealed.png"
+    - "image (692).png"
+"photo-vxadmin-laptop-in-case.jpg":
+  source: manual-photo
+  app: vxadmin
+  alt: "Open orange VxAdmin case with the HP laptop seated in the foam insert."
+  pages:
+    - "vxadmin-system-setup/vxadmin-hardware-setup.md"
+  was:
+    - "PXL_20241119_220230549.jpg"
+"photo-vxadmin-peripherals-in-case.jpg":
+  source: manual-photo
+  app: vxadmin
+  alt: "Open orange VxAdmin case with the laptop removed, showing the power adapter, cables and mouse."
+  pages:
+    - "vxadmin-system-setup/vxadmin-hardware-setup.md"
+  was:
+    - "PXL_20241119_220512937.jpg"
+"photo-vxadmin-setup.jpg":
+  source: manual-photo
+  app: vxadmin
+  alt: "VxAdmin laptop showing the locked screen, connected to a mouse, USB hub and HP LaserJet printer."
+  pages:
+    - "vxadmin-system-setup/vxadmin-hardware-setup.md"
+  was:
+    - "PXL_20241119_221005359.jpg"
+"photo-vxadmin-setup-labeled.jpg":
+  source: manual-photo
+  app: vxadmin
+  alt: "VxAdmin laptop, mouse, USB hub and HP printer connected, with power cord, hub and printer cable labeled A, B, C."
+  pages:
+    - "vxadmin-system-setup/vxadmin-hardware-setup.md"
+    - "vxprint/vxprint-hardware-setup.md"
+  was:
+    - "PXL_20241119_221005359 (1).jpg"
+"photo-vxcentralscan-case-latches.png":
+  source: manual-photo
+  app: vxcentralscan
+  alt: "Closed tan VxCentralScan case with arrows pointing to the two front latches."
+  pages:
+    - "vxcentralscan/vxcentralscan-hardware-setup.md"
+  was:
+    - "Vxcs case latches.png"
+"photo-vxcentralscan-case-seals.png":
+  source: manual-photo
+  app: vxcentralscan
+  alt: "Closed tan VxCentralScan case with red tamper-evident seals on both latches circled."
+  pages:
+    - "vxcentralscan/vxcentralscan-hardware-setup.md"
+  was:
+    - "image (397).png"
+"photo-vxcentralscan-in-cases.png":
+  source: manual-photo
+  app: vxcentralscan
+  alt: "VxCentralScan carrying cases: the scanner soft bag and the laptop hard case side by side"
+  pages:
+    - "vxcentralscan/vxcentralscan-hardware-setup.md"
+  was:
+    - "vxcentralscan-in-cases-22_10 (1).png"
+"photo-vxcentralscan-laptop-in-case.jpg":
+  source: manual-photo
+  app: vxcentralscan
+  alt: "VxCentralScan laptop seated in the foam of its open carrying case"
+  pages:
+    - "vxcentralscan/vxcentralscan-hardware-setup.md"
+  was:
+    - "PXL_20241119_220118873 (1).jpg"
+"photo-vxcentralscan-peripherals-in-case.jpg":
+  source: manual-photo
+  app: vxcentralscan
+  alt: "Open tan VxCentralScan case with the laptop removed, showing the power adapter, cables and mouse."
+  pages:
+    - "vxcentralscan/vxcentralscan-hardware-setup.md"
+  was:
+    - "PXL_20241119_220606004.jpg"
+"photo-vxcentralscan-scanner-power-button-labeled.jpg":
+  source: manual-photo
+  app: vxcentralscan
+  alt: "Ricoh fi-8170 scanner control panel showing Ready, with the power button labeled (e)."
+  pages:
+    - "vxcentralscan/vxcentralscan-hardware-setup.md"
+  was:
+    - "ricoh-03-4_3.jpeg"
+"photo-vxcentralscan-scanner-rear-ports-labeled.jpg":
+  source: manual-photo
+  app: vxcentralscan
+  alt: "Rear of the Ricoh fi-8170 scanner with the USB cable (c) and power cord (d) plugged in and labeled."
+  pages:
+    - "vxcentralscan/vxcentralscan-hardware-setup.md"
+  was:
+    - "PXL_20241125_223330294.jpg"
+"photo-vxcentralscan-scanner-ricoh-fi8170.jpg":
+  source: manual-photo
+  app: vxcentralscan
+  alt: "Ricoh fi-8170 scanner on a table with its trays closed."
+  pages:
+    - "vxcentralscan/vxcentralscan-hardware-setup.md"
+  was:
+    - "ricoh-01-4_3.jpeg"
+"photo-vxcentralscan-scanner-trays-labeled.jpg":
+  source: manual-photo
+  app: vxcentralscan
+  alt: "Ricoh fi-8170 scanner with the input tray (a) attached and output tray (b) pulled out and labeled."
+  pages:
+    - "vxcentralscan/vxcentralscan-hardware-setup.md"
+  was:
+    - "ricoh-02-4_3.jpeg"
+"photo-vxcentralscan-setup.jpg":
+  source: manual-photo
+  app: vxcentralscan
+  alt: "VxCentralScan laptop showing the locked screen, mouse, APC UPS and Ricoh fi-8170 scanner set up on a table."
+  pages:
+    - "vxcentralscan/vxcentralscan-hardware-setup.md"
+  was:
+    - "centralscan.jpg"
+"photo-vxmark-accessible-controller.jpg":
+  source: manual-photo
+  app: vxmark
+  alt: "The Storm accessible controller mounted in the VxMark case with its headphone jack lit."
+  pages:
+    - "vxmark/packing-up-vxmark.md"
+  was:
+    - "Mark _packingup_image3.jpg"
+"photo-vxmark-back-compartment-cables.jpg":
+  source: manual-photo
+  app: vxmark
+  alt: "Open back compartment of the VxMark case showing the power cable and printer USB cable."
+  pages:
+    - "vxmark/vxmark-hardware-setup.md"
+  was:
+    - "Mark _setup_image4.jpg"
+"photo-vxmark-case-closed.jpg":
+  source: manual-photo
+  app: vxmark
+  alt: "The VxMark case closed and latched on a table."
+  pages:
+    - "vxmark/packing-up-vxmark.md"
+  was:
+    - "Mark _packingup_image5.jpg"
+"photo-vxmark-case-open-screen-flat.jpg":
+  source: manual-photo
+  app: vxmark
+  alt: "Open VxMark case with the screen tilted back flat into the case for packing."
+  pages:
+    - "vxmark/packing-up-vxmark.md"
+  was:
+    - "Mark _packingup_image4.jpg"
+"photo-vxmark-cases-closed.jpg":
+  source: manual-photo
+  app: vxmark
+  alt: "The VxMark printer soft case and the VxMark hard case side by side on a table."
+  pages:
+    - "vxmark/vxmark-hardware-setup.md"
+  was:
+    - "Mark _setup_image1.jpg"
+"photo-vxmark-full-setup.jpg":
+  source: manual-photo
+  app: vxmark
+  alt: "VxMark in its open case beside an HP LaserJet printer and headphones, screen asking for an election manager card"
+  pages:
+    - "README.md"
+  was:
+    - "VxMark_Image.jpg"
+"photo-vxmark-headphones-compartment.jpg":
+  source: manual-photo
+  app: vxmark
+  alt: "Headphones stowed in the compartment beside the VxMark screen."
+  pages:
+    - "vxmark/packing-up-vxmark.md"
+  was:
+    - "Mark _packingup_image2.jpg"
+"photo-vxmark-insert-smart-card.jpg":
+  source: manual-photo
+  app: vxmark
+  alt: "Poll Worker smart card inserted into the card reader at the back of the VxMark case, next to the USB port."
+  pages:
+    - "vxmark/configure-vxmark.md"
+  was:
+    - "Mark _configure_image1.jpg"
+"photo-vxmark-printer-in-case.jpg":
+  source: manual-photo
+  app: vxmark
+  alt: "The VxMark laser printer placed inside its padded soft case with the lid open."
+  pages:
+    - "vxmark/packing-up-vxmark.md"
+  was:
+    - "Mark _packingup_image7.jpg"
+"photo-vxmark-printer-power-button.jpg":
+  source: manual-photo
+  app: vxmark
+  alt: "Front of the HP LaserJet Pro printer with the power button circled and labeled."
+  pages:
+    - "vxmark/packing-up-vxmark.md"
+    - "vxmark/vxmark-hardware-setup.md"
+  was:
+    - "Mark _setup_image6.jpg"
+"photo-vxmark-printer-rear-ports.jpg":
+  source: manual-photo
+  app: vxmark
+  alt: "Rear of the HP LaserJet Pro printer with the USB and Power ports circled and labeled."
+  pages:
+    - "vxmark/vxmark-hardware-setup.md"
+  was:
+    - "Mark _setup_image5.jpg"
+"photo-vxmark-rotate-screen.jpg":
+  source: manual-photo
+  app: vxmark
+  alt: "Hands rotating the VxMark screen into portrait orientation above the open case."
+  pages:
+    - "vxmark/vxmark-hardware-setup.md"
+  was:
+    - "Mark _setup_image3.jpg"
+"photo-vxmark-tilt-screen-forward.jpg":
+  source: manual-photo
+  app: vxmark
+  alt: "Hands tilting the VxMark screen forward out of the open case."
+  pages:
+    - "vxmark/vxmark-hardware-setup.md"
+  was:
+    - "Mark _setup_image2.jpg"
+"photo-vxmarkscan-ballot-bin.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "The VxMarkScan ballot bin standing on its own with its lid closed."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark ballot bin.png"
+"photo-vxmarkscan-ballot-bin-attached.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Ballot bin slid into place on the side of the VxMarkScan with the printer cover held open"
+  pages:
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark ballot bin attached.png"
+"photo-vxmarkscan-ballot-bin-seal.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Close-up of the seal loop where the ballot bin meets the VxMarkScan body"
+  pages:
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark ballot bin seal.png"
+"photo-vxmarkscan-case-ballot-bin-privacy-shield.jpg":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Open VxMarkScan case holding the ballot bin and the folded privacy shield panels."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+  was:
+    - "PXL_20241119_202236326.jpg"
+"photo-vxmarkscan-case-ballot-bin-stand.jpg":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Open VxMarkScan case holding the ballot bin and the folded stand with its support bar and legs."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+  was:
+    - "PXL_20241119_202304226.jpg"
+"photo-vxmarkscan-cleaning-printer-scanner.jpg":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Hands wiping the rollers inside the open VxMarkScan printer-scanner with an orange cloth."
+  pages:
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "PXL_20241125_224803109.jpg"
+"photo-vxmarkscan-full-setup.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "VxMarkScan assembled in its privacy booth with the controller, headphones, touchscreen, and printer-scanner tray"
+  pages:
+    - "README.md"
+  was:
+    - "vxmarkscan-1200w.png"
+"photo-vxmarkscan-headphones-plugged-in.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Headphones resting beside the accessible controller with their cable plugged into the front headphone jack."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "image (26).png"
+"photo-vxmarkscan-main-unit.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Top view of the VxMarkScan main unit showing the accessible controller, screen and printer-scanner cover."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark main unit.png"
+"photo-vxmarkscan-peripherals-case-packed.jpg":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Open VxMarkScan peripherals case with headphones, power block, accessible controller and wrapped parts in foam cutouts."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+  was:
+    - "PXL_20241119_201847102.jpg"
+"photo-vxmarkscan-power-block.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "The VxMarkScan power block with its DC connector cable and AC power cord laid out on the floor."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+  was:
+    - "VxMark power block.png"
+"photo-vxmarkscan-power-block-holder.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Hand holding the power block holder above the slotted center of the VxMarkScan stand."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark add power cord holder.png"
+"photo-vxmarkscan-power-block-in-holder.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Power block seated in the holder on the back center of the VxMarkScan stand"
+  pages:
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark power block in holder.png"
+"photo-vxmarkscan-power-button.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Blue arrow pointing to the power button on the underside of VxMarkScan, next to the plugged-in power connector."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark power button.png"
+"photo-vxmarkscan-power-cord-connector.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Hand holding the round power cord connector, marked TOP, beneath the VxMarkScan unit."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark unit plug.png"
+"photo-vxmarkscan-power-cord-connector-plugged-in.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Power cord connector plugged into the underside of VxMarkScan beside the power button and headphone jack."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark unit plug plugged in.png"
+"photo-vxmarkscan-power-cord-plugged-into-ups.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "VxMarkScan power cord plugged into an outlet on the APC Back-UPS 850 battery backup."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark power cord plugged into UPS.png"
+"photo-vxmarkscan-power-plug.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Hand holding the three-prong AC plug of the VxMarkScan power cord beneath the unit."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark power cord.png"
+"photo-vxmarkscan-printer-cover-open.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "VxMarkScan printer cover open, exposing the thermal printer with its green push-to-close label"
+  pages:
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark printer cover open.png"
+"photo-vxmarkscan-privacy-shield-holes.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Two privacy shield peg holes on the side of the ballot marking device circled in blue"
+  pages:
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark privacy shield holes.png"
+"photo-vxmarkscan-privacy-shield-installed.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "VxMarkScan on its stand with the privacy shield installed around the screen, controller and printer."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark privacy shield installed.png"
+"photo-vxmarkscan-privacy-shield-pegs.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Privacy shield panels laid flat with the four yellow pegs circled in blue"
+  pages:
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark privacy shield pegs highlighted.png"
+"photo-vxmarkscan-pull-stand-leg.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Hand pulling a leg of the VxMarkScan stand up from its folded position."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+  was:
+    - "VxMark pull leg.png"
+"photo-vxmarkscan-push-ballot-bin-release.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Hand pressing the ballot bin release on VxMarkScan with the printer-scanner cover open."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+  was:
+    - "VxMark push ballot bin release to remove.png"
+"photo-vxmarkscan-push-printer-cover-button.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Hand pressing the printer cover release button on the underside of the VxMarkScan"
+  pages:
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark open printer cover.png"
+"photo-vxmarkscan-remove-ballot-bin.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Hand lifting the ballot bin out of VxMarkScan with the printer-scanner cover open."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+  was:
+    - "VxMark printer cover open remove ballot bin.png"
+"photo-vxmarkscan-smart-card-reader.jpg":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Smart card reader slot (yellow) in the recess beside the headphones on VxMarkScan."
+  pages:
+    - "vxmarkscan/configure-vxmarkscan.md"
+    - "vxmarkscan/open-and-close-polls.md"
+  was:
+    - "PXL_20241119_204113175.jpg"
+"photo-vxmarkscan-stand-all-legs-raised.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "VxMarkScan stand base with all four legs raised and snapped into place"
+  pages:
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark all legs raised.png"
+"photo-vxmarkscan-stand-folded.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "The VxMarkScan stand lying flat on the floor with all four legs folded down."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+  was:
+    - "VxMark all legs down.png"
+"photo-vxmarkscan-stand-one-leg-raised.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "The VxMarkScan stand on the floor with one leg raised and snapped into place."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark one leg raised.png"
+"photo-vxmarkscan-stand-power-block-installed.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Assembled VxMarkScan stand with the power block holder and cords installed"
+  pages:
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark stand power cord holder and power block istalled.png"
+"photo-vxmarkscan-stand-raise-leg.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Hand raising one leg of the folded VxMarkScan stand until it snaps in place"
+  pages:
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark raising one leg.png"
+"photo-vxmarkscan-stand-support-bar.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "The VxMarkScan stand support bar lying on the floor before installation"
+  pages:
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark support bar.png"
+"photo-vxmarkscan-stand-support-bar-installed.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "VxMarkScan stand with the support bar snapped onto the two back legs"
+  pages:
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark support bar installed.png"
+"photo-vxmarkscan-support-bar.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Hand snapping the support bar onto the back legs of the VxMarkScan stand."
+  pages:
+    - "vxmarkscan/packing-up-vxmarkscan.md"
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark put support bar in place.png"
+"photo-vxmarkscan-unit-on-stand.png":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Rear view of the VxMarkScan ballot marking device placed on its stand with power cord routed below"
+  pages:
+    - "vxmarkscan/vxmarkscan-hardware-setup.md"
+  was:
+    - "VxMark place unit on legs.png"
+"photo-vxmarkscan-usb-port.jpg":
+  source: manual-photo
+  app: vxmarkscan
+  alt: "Arrow pointing to the USB port under the VxMarkScan unit, next to a blue port lock."
+  pages:
+    - "vxmarkscan/configure-vxmarkscan.md"
+  was:
+    - "PXL_20241125_222936358.jpg"
+"photo-vxprint-insert-smart-card.jpg":
+  source: manual-photo
+  app: vxprint
+  alt: "Hand inserting a system administrator smart card chip-up into the laptop card reader, with arrows"
+  pages:
+    - "vxprint/configure-vxprint.md"
+  was:
+    - "VxPrint-configuration-smartcardinsert.png"
+"photo-vxscan-access-door-open-scanner-closed.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "VxScan access door open showing the closed purple scanner cover and caution label"
+  pages:
+    - "vxscan/scanner-management.md"
+  was:
+    - "PXL_20241031_184245241.jpg"
+"photo-vxscan-access-door-release-latch.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Finger pressing the purple unlock latch beside the closed metal access door inside VxScan"
+  pages:
+    - "vxscan/scanner-management.md"
+  was:
+    - "PXL_20241031_184238006.jpg"
+"photo-vxscan-auxiliary-bin-insert-ballot.png":
+  source: manual-photo
+  app: vxscan
+  alt: "A hand inserting a ballot into the VxScan auxiliary (emergency) bin slot on the front of the ballot box."
+  pages:
+    - "election-day-guides/vxscan-setup.md"
+  was:
+    - "vxscan - emergency bin putting a ballot in.png"
+"photo-vxscan-auxiliary-bin-location.png":
+  source: manual-photo
+  app: vxscan
+  alt: "Fully assembled VxScan with a blue arrow pointing to the auxiliary bin handle on the ballot box door."
+  pages:
+    - "election-day-guides/vxscan-setup.md"
+  was:
+    - "vxscan emergency bin.png"
+"photo-vxscan-auxiliary-bin-seal-highlighted.png":
+  source: manual-photo
+  app: vxscan
+  alt: "Front of the VxScan ballot box with a blue box highlighting the sealed auxiliary bin latch."
+  pages:
+    - "election-day-guides/vxscan-setup.md"
+  was:
+    - "vxscan emergency bin out and sealed.png"
+"photo-vxscan-ballot-box-collapsed.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "VxScan ballot box fully collapsed, standing on its wheels with the lid alongside"
+  pages:
+    - "election-day-guides/packing-up-vxscan.md"
+  was:
+    - "PXL_20241031_185834321.jpg"
+"photo-vxscan-ballot-box-collapsed-straps-closed.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Collapsed VxScan ballot box from the side with the strap fastened and the handle extended"
+  pages:
+    - "election-day-guides/vxscan-setup.md"
+  was:
+    - "PXL_20241031_182758328.jpg"
+"photo-vxscan-ballot-box-collapsing.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "VxScan ballot box partly collapsed, seen from above with the vinyl walls folding inward"
+  pages:
+    - "election-day-guides/packing-up-vxscan.md"
+  was:
+    - "PXL_20241031_185822709.jpg"
+"photo-vxscan-ballot-box-door-sealed.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Close-up of the purple VxScan ballot box door latch secured with a green tamper seal."
+  pages:
+    - "election-day-guides/vxscan-setup.md"
+  was:
+    - "PXL_20241031_184832238.jpg"
+"photo-vxscan-ballot-box-expanded-lid-closed.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Expanded VxScan ballot box from the side with the lid closed on top"
+  pages:
+    - "election-day-guides/vxscan-setup.md"
+  was:
+    - "PXL_20241031_183046879.jpg"
+"photo-vxscan-ballot-box-expanded-lid-open.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Expanded VxScan ballot box seen from the side with the lid lifted open"
+  pages:
+    - "election-day-guides/packing-up-vxscan.md"
+    - "election-day-guides/vxscan-setup.md"
+  was:
+    - "PXL_20241031_183032911.jpg"
+"photo-vxscan-ballot-box-expanded-top-view.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Looking down into the open, expanded VxScan ballot box with the lid folded aside"
+  pages:
+    - "election-day-guides/vxscan-setup.md"
+  was:
+    - "PXL_20241031_183116725.jpg"
+"photo-vxscan-ballot-box-fasten-strap.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Hand hooking the purple strap buckle onto the side bracket of the collapsed ballot box"
+  pages:
+    - "election-day-guides/packing-up-vxscan.md"
+  was:
+    - "PXL_20241031_185919884.jpg"
+"photo-vxscan-ballot-box-fasten-strap-to-lid.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Hand hooking the purple strap buckle onto the storage hook on the underside of the ballot box lid"
+  pages:
+    - "election-day-guides/vxscan-setup.md"
+  was:
+    - "PXL_20241031_182921409.jpg"
+"photo-vxscan-ballot-box-foot-hook.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Foot lifting the purple hook at the bottom of the VxScan ballot box to collapse it"
+  pages:
+    - "election-day-guides/packing-up-vxscan.md"
+  was:
+    - "PXL_20241031_185802759.jpg"
+"photo-vxscan-ballot-box-lid-straps-stored.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Underside of the VxScan ballot box lid with both straps hooked and stored"
+  pages:
+    - "election-day-guides/vxscan-setup.md"
+  was:
+    - "PXL_20241031_183004440.jpg"
+"photo-vxscan-ballot-box-lift-lid.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Hand lifting the VxScan ballot box lid open by its latch"
+  pages:
+    - "election-day-guides/packing-up-vxscan.md"
+  was:
+    - "PXL_20241031_185738805.jpg"
+"photo-vxscan-ballot-box-lifting-lid.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Hand lifting the VxScan ballot box lid, showing the underside with its strap hooks"
+  pages:
+    - "election-day-guides/vxscan-setup.md"
+  was:
+    - "PXL_20241031_183140058.jpg"
+"photo-vxscan-ballot-box-press-lid-latch.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Hand pressing the purple latch on top of the VxScan ballot box lid"
+  pages:
+    - "election-day-guides/packing-up-vxscan.md"
+  was:
+    - "PXL_20241031_185722806.jpg"
+"photo-vxscan-ballot-box-remove-strap-from-lid.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Hand unhooking a purple strap buckle from the storage hook on the underside of the ballot box lid"
+  pages:
+    - "election-day-guides/packing-up-vxscan.md"
+  was:
+    - "PXL_20241031_185851437.jpg"
+"photo-vxscan-ballot-box-strapped.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Collapsed VxScan ballot box with the strap fastened and tightened around its side"
+  pages:
+    - "election-day-guides/packing-up-vxscan.md"
+  was:
+    - "PXL_20241031_190014226.jpg"
+"photo-vxscan-ballot-box-tighten-strap.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Hand pulling the strap tight through the purple buckle on the collapsed ballot box"
+  pages:
+    - "election-day-guides/packing-up-vxscan.md"
+  was:
+    - "PXL_20241031_185927692.jpg"
+"photo-vxscan-ballot-box-tighten-strap-to-lid.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Purple strap buckle seated on the lid hook with the strap pulled tight"
+  pages:
+    - "election-day-guides/vxscan-setup.md"
+  was:
+    - "PXL_20241031_182928523.jpg"
+"photo-vxscan-case-back-cord-plugged-in.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Back of the VxScan case with the power cord unwrapped and plugged into the power inlet"
+  pages:
+    - "election-day-guides/vxscan-setup.md"
+  was:
+    - "PXL_20241031_183652085.jpg"
+"photo-vxscan-case-back-cord-wrapped.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Back of the VxScan case on the ballot box with the power cord wrapped in its storage recess"
+  pages:
+    - "election-day-guides/vxscan-setup.md"
+  was:
+    - "PXL_20241031_183628378.jpg"
+"photo-vxscan-case-latches.png":
+  source: manual-photo
+  app: vxscan
+  alt: "Two hands working the latches on the closed VxScan case lid while it sits on the ballot box"
+  pages:
+    - "election-day-guides/packing-up-vxscan.md"
+  was:
+    - "VxScan open the latches.png"
+"photo-vxscan-case-on-ballot-box.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Closed VxScan case seated on top of the expanded ballot box"
+  pages:
+    - "election-day-guides/vxscan-setup.md"
+  was:
+    - "PXL_20241031_183312800.jpg"
+"photo-vxscan-components-packed.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Closed VxScan case next to the collapsed ballot box with its telescoping handle raised"
+  pages:
+    - "election-day-guides/vxscan-setup.md"
+  was:
+    - "PXL_20241031_182622227.jpg"
+"photo-vxscan-full-setup.png":
+  source: manual-photo
+  app: vxscan
+  alt: "VxScan case open on top of the expanded ballot box, screen off, poll worker door and ballot box door closed"
+  pages:
+    - "README.md"
+  was:
+    - "vxscan-1200w.png"
+"photo-vxscan-full-setup.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "VxScan case open on top of the expanded ballot box, screen off, poll worker door and ballot box door closed"
+  pages:
+    - "election-day-guides/vxscan-setup.md"
+  was:
+    - "PXL_20241031_183331525.jpg"
+"photo-vxscan-insert-poll-worker-card.png":
+  source: manual-photo
+  app: vxscan
+  alt: "Hand inserting a Poll Worker smart card into the VxScan card reader slot"
+  pages:
+    - "election-day-guides/closing-polls.md"
+    - "election-day-guides/opening-polls.md"
+  was:
+    - "VxScan insert poll worker card 2.png"
+"photo-vxscan-pat-and-headphones-attached.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "VxScan front panel with a two-switch PAT device and headphones plugged into the accessibility ports"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "scan_install_pat+audio-attached-front-1600x1200.jpg"
+"photo-vxscan-poll-worker-door-seal.png":
+  source: manual-photo
+  app: vxscan
+  alt: "Numbered green plastic security seal threaded through the VxScan poll worker door latch"
+  pages:
+    - "election-day-guides/closing-polls.md"
+  was:
+    - "VxScan poll worker door sealed.png"
+"photo-vxscan-polls-opened-report-printing.png":
+  source: manual-photo
+  app: vxscan
+  alt: "VxScan screen showing Opening Polls with the polls opened report emerging from the printer slot"
+  pages:
+    - "election-day-guides/opening-polls.md"
+  was:
+    - "VxScan Polls Opened Report.png"
+"photo-vxscan-power-cord-storage.png":
+  source: manual-photo
+  app: vxscan
+  alt: "Hand holding the plug end of the power cord wrapped in the storage recess on the back of the VxScan case"
+  pages:
+    - "election-day-guides/packing-up-vxscan.md"
+  was:
+    - "VxScan cord wrapped.png"
+"photo-vxscan-printer-open-panels.png":
+  source: manual-photo
+  app: vxscan
+  alt: "VxScan with the lid open and numbered arrows showing the two panels to open to reach the printer roll"
+  pages:
+    - "vxscan/printer-management.md"
+  was:
+    - "VxScan open panels to access printer roll.png"
+"photo-vxscan-printer-pull-paper-over-tear-bar.png":
+  source: manual-photo
+  app: vxscan
+  alt: "Hands holding the paper roll holder above the VxScan printer with paper pulled up over the tear bar"
+  pages:
+    - "vxscan/printer-management.md"
+  was:
+    - "VxScan pull paper up.png"
+"photo-vxscan-printer-push-release-lever.png":
+  source: manual-photo
+  app: vxscan
+  alt: "Finger pressing the green release lever on the end of the VxScan printer roll holder"
+  pages:
+    - "vxscan/printer-management.md"
+  was:
+    - "VxScan push green button printer roll.png"
+"photo-vxscan-printer-roll-holder-reinsert.png":
+  source: manual-photo
+  app: vxscan
+  alt: "Hands snapping the loaded paper roll holder back into the VxScan printer"
+  pages:
+    - "vxscan/printer-management.md"
+  was:
+    - "VxScan put paper container back in.png"
+"photo-vxscan-printer-roll-holder-remove.png":
+  source: manual-photo
+  app: vxscan
+  alt: "Hand lifting the paper roll holder out of the VxScan printer"
+  pages:
+    - "vxscan/printer-management.md"
+  was:
+    - "VxScan remove printer roll case.png"
+"photo-vxscan-printer-roll-place-one-end.png":
+  source: manual-photo
+  app: vxscan
+  alt: "Hands placing one end of a new paper roll onto the VxScan roll holder"
+  pages:
+    - "vxscan/printer-management.md"
+  was:
+    - "VxScan put one side of paper on roll.png"
+"photo-vxscan-printer-roll-snap-other-end.png":
+  source: manual-photo
+  app: vxscan
+  alt: "Hands snapping the other end of the paper roll into the VxScan roll holder"
+  pages:
+    - "vxscan/printer-management.md"
+  was:
+    - "VxScan snap other side of paper roll in.png"
+"photo-vxscan-printer-tear-excess-paper.png":
+  source: manual-photo
+  app: vxscan
+  alt: "Hand tearing excess paper off the VxScan printer after reinserting the roll holder"
+  pages:
+    - "vxscan/printer-management.md"
+  was:
+    - "VxScan remove any excess paper.png"
+"photo-vxscan-report-printing.png":
+  source: manual-photo
+  app: vxscan
+  alt: "VxScan printing a report from the slot below the screen while the screen shows a progress indicator"
+  pages:
+    - "election-day-guides/closing-polls.md"
+  was:
+    - "VxScan Polls Closed Report Printing.png"
+"photo-vxscan-scanner-cleaning-cloth.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Hand wiping the open VxScan scanner glass with an orange microfiber cloth"
+  pages:
+    - "vxscan/scanner-management.md"
+  was:
+    - "PXL_20241031_203337811.jpg"
+"photo-vxscan-scanner-internal-cables.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Close-up of internal ribbon and wire cables connecting the VxScan scanner module inside the open case."
+  pages:
+    - "system-maintenance/vxscan-maintenance-manual.md"
+  was:
+    - "vxscan-scanner-cables-focus.jpg"
+"photo-vxscan-scanner-open.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "VxScan scanner opened to expose the upper and lower image sensor glass and rollers"
+  pages:
+    - "vxscan/scanner-management.md"
+  was:
+    - "PXL_20241031_184257763.jpg"
+"photo-vxscan-security-bolt-release.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Thumb pushing the purple security bolt release inside the VxScan poll worker door"
+  pages:
+    - "election-day-guides/packing-up-vxscan.md"
+  was:
+    - "PXL_20241031_185345256.jpg"
+"photo-vxscan-security-bolt-sealed.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Close-up of the VxScan case security bolt pressed down with a green numbered tamper seal threaded through it."
+  pages:
+    - "election-day-guides/vxscan-setup.md"
+    - "vxscan/scanner-management.md"
+  was:
+    - "PXL_20241031_184055101.jpg"
+"photo-vxscan-security-bolt-secure.jpg":
+  source: manual-photo
+  app: vxscan
+  alt: "Thumb pushing the purple security bolt down inside the VxScan poll worker door to secure the case"
+  pages:
+    - "election-day-guides/vxscan-setup.md"
+  was:
+    - "PXL_20241031_183949135.jpg"
+"photo-vxscan-slide-case-onto-ballot-box.png":
+  source: manual-photo
+  app: vxscan
+  alt: "Hands sliding the closed VxScan case into the recess on top of the ballot box"
+  pages:
+    - "election-day-guides/packing-up-vxscan.md"
+  was:
+    - "VxScan slide black case on the ballot box.png"
+"photo-vxscan-usb-drive-inserted.png":
+  source: manual-photo
+  app: vxscan
+  alt: "USB drive inserted into the port behind the VxScan poll worker door, circled in blue"
+  pages:
+    - "election-day-guides/closing-polls.md"
+  was:
+    - "VxScan usb drive.png"
+"vxadmin-adjudication-ballot-view.png":
+  source: generated
+  app: vxadmin
+  alt: "Adjudication ballot view with the Mayor contest highlighted as having one write-in to adjudicate"
+  pages:
+    - "election-night-guides/adjudication.md"
+  was:
+    - "image (37).png"
+"vxadmin-adjudication-ballot-view-after-changes.png":
+  source: generated
+  app: vxadmin
+  alt: "Adjudication ballot view with the Mayor write-in adjudicated for Bill Withers and Accept enabled"
+  pages:
+    - "election-night-guides/adjudication.md"
+  was:
+    - "image (42).png"
+"vxadmin-adjudication-blank-ballot-view.png":
+  source: generated
+  app: vxadmin
+  alt: "Adjudication ballot view with a Blank Ballot Detected warning, View Back and Accept buttons"
+  pages:
+    - "election-night-guides/adjudication.md"
+  was:
+    - "image (46).png"
+"vxadmin-adjudication-complete.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Adjudication screen showing all ballots adjudicated at 100% with a Review button."
+  pages:
+    - "election-night-guides/adjudication.md"
+  was:
+    - "image (47).png"
+"vxadmin-adjudication-contest-view-after-selection.png":
+  source: generated
+  app: vxadmin
+  alt: "Contest view for Mayor with Write-In checked and Bill Withers selected in the write-in dropdown"
+  pages:
+    - "election-night-guides/adjudication.md"
+  was:
+    - "image (41).png"
+"vxadmin-adjudication-marginal-contest-view.png":
+  source: generated
+  app: vxadmin
+  alt: "Contest view for Controller showing a Review marginal mark warning with a Dismiss option"
+  pages:
+    - "election-night-guides/adjudication.md"
+  was:
+    - "image (44).png"
+"vxadmin-adjudication-marginal-dismissed.png":
+  source: generated
+  app: vxadmin
+  alt: "Contest view for Controller after the marginal mark was dismissed and marked adjudicated as invalid"
+  pages:
+    - "election-night-guides/adjudication.md"
+  was:
+    - "image (45).png"
+"vxadmin-adjudication-multi-station-disable-highlighted.png":
+  source: unspecced
+  app: vxadmin
+  alt: "VxAdmin Adjudication screen with all ballots adjudicated and the multi-station Disable button highlighted."
+  wanted_spec: "Host VxAdmin as election manager with multi-station enabled and all ballots adjudicated, Adjudication screen, highlighting the Disable button."
+  pages:
+    - "vxadmin-system-setup/pre-election-adjudication-setup.md"
+  was:
+    - "multi-station-6.png"
+"vxadmin-adjudication-multi-station-enable-highlighted.png":
+  source: unspecced
+  app: vxadmin
+  alt: "VxAdmin Adjudication screen with the Enable Multi-Station button highlighted and connected stations listed."
+  wanted_spec: "Host VxAdmin as election manager with CVRs loaded and stations connected, Adjudication screen, highlighting the Enable Multi-Station button."
+  pages:
+    - "vxadmin-system-setup/pre-election-adjudication-setup.md"
+  was:
+    - "multi-station-4.png"
+"vxadmin-adjudication-multi-station-network-offline.png":
+  source: unspecced
+  app: vxadmin
+  alt: "VxAdmin Adjudication screen showing a Network Offline warning in the Multi-Station Adjudication panel and header."
+  wanted_spec: "Host VxAdmin as election manager with CVRs loaded, Adjudication screen while the network connection is down."
+  pages:
+    - "vxadmin-system-setup/pre-election-adjudication-setup.md"
+  was:
+    - "multi-station-3.png"
+"vxadmin-adjudication-multi-station-off.png":
+  source: unspecced
+  app: vxadmin
+  alt: "VxAdmin host Adjudication screen with Multi-Station Adjudication off and three connected stations listed as Active."
+  wanted_spec: "Host VxAdmin as election manager with CVRs loaded and networking on, Adjudication screen with several adjudication stations connected and multi-station not yet enabled."
+  pages:
+    - "vxadmin-system-setup/pre-election-adjudication-setup.md"
+  was:
+    - "multi-station-2.png"
+"vxadmin-adjudication-multi-station-online.png":
+  source: unspecced
+  app: vxadmin
+  alt: "VxAdmin Adjudication screen with multi-station online and stations Active, Adjudicating, Locked or Disconnected."
+  wanted_spec: "Host VxAdmin as election manager after enabling multi-station, Adjudication screen with stations in a mix of statuses (active, adjudicating, locked, disconnected)."
+  pages:
+    - "vxadmin-system-setup/pre-election-adjudication-setup.md"
+  was:
+    - "multi-station-5.png"
+"vxadmin-adjudication-start-adjudicate-highlighted.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Adjudication screen showing ballots remaining with the Adjudicate button highlighted."
+  pages:
+    - "election-night-guides/adjudication.md"
+  was:
+    - "image (36).png"
+"vxadmin-adjudication-write-in-add-candidate.png":
+  source: generated
+  app: vxadmin
+  alt: "Write-in dropdown with Bill Withers typed in and a Press enter to add candidate option"
+  pages:
+    - "election-night-guides/adjudication.md"
+  was:
+    - "image (40).png"
+"vxadmin-adjudication-write-in-dropdown-open.png":
+  source: generated
+  app: vxadmin
+  alt: "Write-in adjudication dropdown open showing Invalid and the contest's candidate options"
+  pages:
+    - "election-night-guides/adjudication.md"
+  was:
+    - "image (39).png"
+"vxadmin-backup-saved.png":
+  source: generated
+  app: vxadmin
+  alt: "Backup Saved dialog listing the saved election backup and a Close button"
+  pages:
+    - "vxadmin-system-setup/backup-and-restore.md"
+  was:
+    - "backups-006-backup-saved.png"
+"vxadmin-ballot-count-report-precinct.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Precinct Ballot Count Report preview with print and export buttons above a per-precinct totals table."
+  pages:
+    - "election-night-guides/reports.md"
+  was:
+    - "image (56).png"
+"vxadmin-confirm-format-usb-drive-button.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Format USB Drive confirmation dialog with the Format USB Drive button highlighted."
+  pages:
+    - "vxadmin-system-setup/usb-formatting.md"
+  was:
+    - "image (4).png"
+"vxadmin-confirm-unconfigure-button.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Unconfigure Machine confirmation dialog with the Delete All Election Data button highlighted."
+  pages:
+    - "vxadmin-system-setup/configure-vxadmin.md"
+  was:
+    - "system-administrator-008-confirm-unconfigure-button.png"
+"vxadmin-cvrs-loaded.png":
+  source: generated
+  app: vxadmin
+  alt: "Tally screen after loading, with the CVR export marked Loaded and a Done button"
+  pages:
+    - "election-night-guides/tally-results.md"
+  was:
+    - "results-002-cvrs-loaded.png"
+"vxadmin-diagnostics-screen.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Diagnostics screen listing configuration, battery, storage, printer status and ballot styles."
+  pages:
+    - "vxadmin-system-setup/vxadmin-diagnostics.md"
+  was:
+    - "image (6).png"
+"vxadmin-election-screen-configured.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Election screen showing the configured election with Save Election Package and Unconfigure Machine buttons."
+  pages:
+    - "vxadmin-system-setup/configure-vxadmin.md"
+  was:
+    - "system-administrator-005-election-screen-configured.png"
+"vxadmin-election-screen-revert-highlighted.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Election screen as system administrator with the Revert Election Results to Unofficial button highlighted."
+  pages:
+    - "election-night-guides/mark-results-as-official.md"
+  was:
+    - "image (62).png"
+"vxadmin-election-screen-select-election-package.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Election screen listing an election package file on the USB drive to select for configuration."
+  pages:
+    - "vxadmin-system-setup/configure-vxadmin.md"
+  was:
+    - "system-administrator-004-election-screen-select-election-package.png"
+"vxadmin-election-screen-unconfigured.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin unconfigured Election screen prompting to insert a USB drive containing an election package."
+  pages:
+    - "vxadmin-system-setup/configure-vxadmin.md"
+  was:
+    - "system-administrator-003-election-screen-unconfigured.png"
+"vxadmin-em-settings-save-logs-highlighted.png":
+  source: unspecced
+  app: vxadmin
+  alt: "VxAdmin election manager Settings screen with the Save Logs button highlighted"
+  wanted_spec: "VxAdmin configured with an election, logged in as election manager, Settings page selected, with the Save Logs button highlighted."
+  pages:
+    - "after-election-night/retaining-and-removing-election-files.md"
+  was:
+    - "vxadmin-election-manager-settings-screen-logs-highlight.png"
+"vxadmin-enter-card-pin.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Enter Card PIN screen with a numeric keypad."
+  pages:
+    - "vxadmin-system-setup/unlocking-locking-hardware.md"
+  was:
+    - "enter-card-pin-16_10 (1).jpg"
+"vxadmin-enter-restore-mode-modal.png":
+  source: generated
+  app: vxadmin
+  alt: "Enter Restore Mode dialog with Cancel and Restart in Restore Mode buttons"
+  pages:
+    - "vxadmin-system-setup/backup-and-restore.md"
+  was:
+    - "backups-001-enter-restore-mode-modal.png"
+"vxadmin-format-usb-drive-button.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Settings screen with the Format USB Drive button highlighted."
+  pages:
+    - "vxadmin-system-setup/usb-formatting.md"
+  was:
+    - "image (5).png"
+"vxadmin-full-election-tally-report-actions-highlighted.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Full Election Tally Report preview with the Print and Export action buttons highlighted"
+  pages:
+    - "after-election-night/retaining-and-removing-election-files.md"
+    - "election-night-guides/reports.md"
+  was:
+    - "image (49).png"
+"vxadmin-load-cvrs.png":
+  source: generated
+  app: vxadmin
+  alt: "Load CVRs screen listing a CVR export found on the USB drive with a Load button"
+  pages:
+    - "election-night-guides/tally-results.md"
+  was:
+    - "results-001-load-cvrs.png"
+"vxadmin-lock-machine-button.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Election screen with the Lock Machine button in the top right highlighted."
+  pages:
+    - "vxadmin-system-setup/unlocking-locking-hardware.md"
+  was:
+    - "image (8).png"
+"vxadmin-machine-locked-unconfigured.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Locked screen asking to insert a system administrator card to unlock."
+  pages:
+    - "vxadmin-system-setup/unlocking-locking-hardware.md"
+  was:
+    - "machine-locked-unconfigured.png"
+"vxadmin-manual-tallies-contest.png":
+  source: generated
+  app: vxadmin
+  alt: "Edit Tallies contest screen for Governor with vote counts entered and Save and Next"
+  pages:
+    - "election-night-guides/manual-tallies.md"
+  was:
+    - "manual-tallies-contest.png"
+"vxadmin-manual-tallies-metadata-selection.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Manual Tallies tab with a ballot style chosen and the Voting Method dropdown open listing Precinct and Absentee."
+  pages:
+    - "election-night-guides/manual-tallies.md"
+  was:
+    - "image (11).png"
+"vxadmin-manual-tallies-tab-empty.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Tally screen on the Manual Tallies tab with no tallies entered and empty ballot style and method selectors."
+  pages:
+    - "election-night-guides/manual-tallies.md"
+  was:
+    - "image (10).png"
+"vxadmin-manual-tallies-total-ballots-cast.png":
+  source: generated
+  app: vxadmin
+  alt: "Edit Tallies screen with the Manual Tally Ballot Count field set to 10"
+  pages:
+    - "election-night-guides/manual-tallies.md"
+  was:
+    - "manual-tallies-total-ballots-cast.png"
+"vxadmin-qualified-write-in-add-candidate-highlighted.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Qualified Write-In Candidates screen for the Mayor contest with no candidates and Add Candidate highlighted."
+  pages:
+    - "vxadmin-system-setup/pre-election-adjudication-setup.md"
+  was:
+    - "image (30).png"
+"vxadmin-qualified-write-in-add-candidates-highlighted.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Adjudication screen before CVRs are loaded with the Add Candidates button highlighted."
+  pages:
+    - "vxadmin-system-setup/pre-election-adjudication-setup.md"
+  was:
+    - "image (27).png"
+"vxadmin-qualified-write-in-adjudication-contest.png":
+  source: generated
+  app: vxadmin
+  alt: "Contest view for Mayor with Write-In checked and a Click to adjudicate dropdown"
+  pages:
+    - "election-night-guides/adjudication.md"
+  was:
+    - "image (38).png"
+"vxadmin-qualified-write-in-adjudication-dropdown.png":
+  source: generated
+  app: vxadmin
+  alt: "Write-in dropdown open listing Invalid and the qualified write-in candidates"
+  pages:
+    - "vxadmin-system-setup/pre-election-adjudication-setup.md"
+  was:
+    - "image (35).png"
+"vxadmin-qualified-write-in-save-highlighted.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Qualified Write-In Candidates screen with three candidate names entered and the Save button highlighted."
+  pages:
+    - "vxadmin-system-setup/pre-election-adjudication-setup.md"
+  was:
+    - "image (33).png"
+"vxadmin-readiness-report.png":
+  source: generated
+  app: vxadmin
+  alt: "Printed VxAdmin Readiness Report showing configuration, battery, storage, printer and ballot style checks."
+  pages:
+    - "vxadmin-system-setup/vxadmin-diagnostics.md"
+  was:
+    - "image (7).png"
+"vxadmin-reports-ballot-count-section-highlighted.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Election Reports screen with the Unofficial Ballot Count Reports buttons highlighted."
+  pages:
+    - "election-night-guides/reports.md"
+  was:
+    - "image (55).png"
+"vxadmin-reports-full-election-tally-highlighted.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Election Reports screen with the Full Election Tally Report button highlighted."
+  pages:
+    - "after-election-night/retaining-and-removing-election-files.md"
+    - "election-night-guides/reports.md"
+    - "logic-and-accuracy-pre-election-testing/l-and-a-overview.md"
+  was:
+    - "image (48).png"
+    - "vxadmin-reports-screen-unofficial (1).png"
+"vxadmin-reports-mark-official-highlighted.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Election Reports screen with unofficial results and the Mark Election Results as Official button highlighted."
+  pages:
+    - "election-night-guides/mark-results-as-official.md"
+  was:
+    - "image (59).png"
+"vxadmin-reports-screen-official.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Election Reports screen after results are marked official, with the mark-official button disabled."
+  pages:
+    - "election-night-guides/mark-results-as-official.md"
+  was:
+    - "image (60).png"
+"vxadmin-reports-tally-report-builder-highlighted.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Election Reports screen with the Tally Report Builder button highlighted."
+  pages:
+    - "election-night-guides/reports.md"
+  was:
+    - "vxadmin-reports-screen-unofficial-tally-report-builder-highlight.png"
+"vxadmin-reports-write-in-adjudication-highlighted.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Election Reports screen with the Write-In Adjudication Report button highlighted."
+  pages:
+    - "election-night-guides/reports.md"
+  was:
+    - "image (57).png"
+"vxadmin-restore-from-backup-button.png":
+  source: generated
+  app: vxadmin
+  alt: "Unconfigured Election screen with the Restore from Backup button highlighted"
+  pages:
+    - "vxadmin-system-setup/backup-and-restore.md"
+  was:
+    - "backups-000-restore-from-backup-button.png"
+"vxadmin-sa-confirm-save-election-package-button.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Save Election Package dialog with the Save button highlighted."
+  pages:
+    - "vxadmin-system-setup/save-election-package.md"
+  was:
+    - "image (2).png"
+"vxadmin-sa-save-election-package-button.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Election screen with the Save Election Package button highlighted."
+  pages:
+    - "vxadmin-system-setup/save-election-package.md"
+  was:
+    - "image (1).png"
+"vxadmin-sa-settings-switch-to-adjudication-station-highlighted.png":
+  source: unspecced
+  app: vxadmin
+  alt: "VxAdmin Settings screen with Network Online status and the Switch to Adjudication Station Mode button highlighted."
+  wanted_spec: "VxAdmin as system administrator with networking enabled, Settings screen, highlighting the Switch to Adjudication Station Mode button under Machine Mode."
+  pages:
+    - "vxadmin-system-setup/pre-election-adjudication-setup.md"
+  was:
+    - "multi-station-1.png"
+"vxadmin-save-backup-button.png":
+  source: generated
+  app: vxadmin
+  alt: "Election screen with the Save Backup button highlighted"
+  pages:
+    - "vxadmin-system-setup/backup-and-restore.md"
+  was:
+    - "backups-002-save-backup-button.png"
+"vxadmin-save-backup-connect-backup-drive.png":
+  source: generated
+  app: vxadmin
+  alt: "Connect Backup Drive dialog asking to connect a backup drive, with Cancel"
+  pages:
+    - "vxadmin-system-setup/backup-and-restore.md"
+  was:
+    - "backups-003-save-backup-connect-backup-drive.png"
+"vxadmin-save-backup-in-progress.png":
+  source: generated
+  app: vxadmin
+  alt: "Saving Backup dialog with a progress bar and Cancel Backup button"
+  pages:
+    - "vxadmin-system-setup/backup-and-restore.md"
+  was:
+    - "backups-005-save-backup-in-progress.png"
+"vxadmin-save-backup-modal.png":
+  source: generated
+  app: vxadmin
+  alt: "Save Backup dialog showing Last Backup on Drive: None with Cancel and Save Backup"
+  pages:
+    - "vxadmin-system-setup/backup-and-restore.md"
+  was:
+    - "backups-004-save-backup-modal.png"
+"vxadmin-set-date-and-time.png":
+  source: generated
+  app: vxadmin
+  alt: "Set Date and Time dialog with date, time and time zone dropdowns and Cancel and Save buttons."
+  pages:
+    - "miscellaneous/setting-date-and-time.md"
+  was:
+    - "set-date-and-time-cropped.jpg"
+"vxadmin-smart-cards-blank-card.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Smart Cards screen with a blank card inserted and Program New Card buttons shown."
+  pages:
+    - "vxadmin-system-setup/programming-cards.md"
+  was:
+    - "image (3).png"
+"vxadmin-smart-cards-em-existing.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Smart Cards screen with an existing election manager card, Unprogram Card and Reset Card PIN buttons."
+  pages:
+    - "vxadmin-system-setup/programming-cards.md"
+  was:
+    - "system-administrator-020-smart-cards-em-existing.png"
+"vxadmin-smart-cards-em-programmed.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Smart Cards screen after programming an election manager card, showing the new PIN."
+  pages:
+    - "vxadmin-system-setup/programming-cards.md"
+  was:
+    - "system-administrator-019-smart-cards-em-programmed.png"
+"vxadmin-smart-cards-no-card.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Smart Cards screen with no card inserted, prompting to insert a smart card."
+  pages:
+    - "vxadmin-system-setup/programming-cards.md"
+  was:
+    - "system-administrator-012-smart-cards-no-card.png"
+"vxadmin-smart-cards-pw-existing.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Smart Cards screen with an existing poll worker card and the Unprogram Card button."
+  pages:
+    - "vxadmin-system-setup/programming-cards.md"
+  was:
+    - "system-administrator-023-smart-cards-pw-existing.png"
+"vxadmin-smart-cards-pw-programmed.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Smart Cards screen after programming a poll worker card, prompting to remove the card."
+  pages:
+    - "vxadmin-system-setup/programming-cards.md"
+  was:
+    - "system-administrator-022-smart-cards-pw-programmed.png"
+"vxadmin-smart-cards-sa-existing.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Smart Cards screen with an existing system administrator card and the Reset Card PIN button."
+  pages:
+    - "vxadmin-system-setup/programming-cards.md"
+  was:
+    - "system-administrator-016-smart-cards-sa-existing.png"
+"vxadmin-smart-cards-sa-programmed.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Smart Cards screen after programming a system administrator card, showing the new PIN."
+  pages:
+    - "vxadmin-system-setup/programming-cards.md"
+  was:
+    - "system-administrator-015-smart-cards-sa-programmed.png"
+"vxadmin-tally-report-builder.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Tally Report Builder with no filters added and no Report By options selected."
+  pages:
+    - "election-night-guides/reports.md"
+  was:
+    - "image (51).png"
+"vxadmin-tally-report-builder-actions-highlighted.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Tally Report Builder after generating a report with the Print, Export PDF and Export CSV buttons highlighted."
+  pages:
+    - "election-night-guides/reports.md"
+  was:
+    - "image (54).png"
+"vxadmin-tally-report-builder-filter-dropdown-open.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Tally Report Builder with a new filter's type dropdown open listing ballot style, batch, precinct and more."
+  pages:
+    - "election-night-guides/reports.md"
+  was:
+    - "image (52).png"
+"vxadmin-tally-report-builder-generate-highlighted.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Tally Report Builder with a precinct filter and ballot style grouping set and Generate Report highlighted."
+  pages:
+    - "election-night-guides/reports.md"
+  was:
+    - "image (53).png"
+"vxadmin-tally-screen-empty.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Tally screen on the Cast Vote Records tab with no CVRs loaded for any location."
+  pages:
+    - "election-night-guides/tally-results.md"
+  was:
+    - "results-000-tally-screen-empty.png"
+"vxadmin-tally-screen-location-cvrs-panel-remove-highlighted.png":
+  source: generated
+  app: vxadmin
+  alt: "Tally screen with North Lincoln selected and the CVR export's trash icon highlighted"
+  pages:
+    - "election-night-guides/tally-results.md"
+  was:
+    - "image (31).png"
+"vxadmin-tally-screen-official.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Tally screen with results marked official, CVRs loaded, and a Remove All Tallies button."
+  pages:
+    - "election-night-guides/mark-results-as-official.md"
+  was:
+    - "image (61).png"
+"vxadmin-tally-screen-with-cvrs.png":
+  source: generated
+  app: vxadmin
+  alt: "Tally screen listing polling places with CVRs loaded for North Lincoln"
+  pages:
+    - "election-night-guides/tally-results.md"
+  was:
+    - "results-003-tally-screen-with-cvrs.png"
+"vxadmin-tally-screen-with-cvrs-remove-all-highlighted.png":
+  source: unspecced
+  app: vxadmin
+  alt: "VxAdmin Tally screen with CVRs loaded and the Remove All CVRs button highlighted."
+  wanted_spec: "VxAdmin as election manager, Tally screen on the Cast Vote Records tab with at least one CVR export loaded, highlighting the Remove All button."
+  pages:
+    - "logic-and-accuracy-pre-election-testing/prepare-for-election-day.md"
+  was:
+    - "vxadmin-tally-screen-with-cvrs.png"
+"vxadmin-unconfigure-button.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Election screen as system administrator with the Unconfigure Machine button highlighted."
+  pages:
+    - "after-election-night/retaining-and-removing-election-files.md"
+    - "vxadmin-system-setup/configure-vxadmin.md"
+  was:
+    - "image (63).png"
+    - "image.png"
+"vxadmin-write-in-adjudication-report.png":
+  source: generated
+  app: vxadmin
+  alt: "VxAdmin Write-In Adjudication Report preview listing write-in totals per contest."
+  pages:
+    - "election-night-guides/reports.md"
+  was:
+    - "image (58).png"
+"vxcentralscan-adjudication-blank-ballot.png":
+  source: generated
+  app: vxcentralscan
+  alt: "Ballot Not Counted screen for a blank ballot with Confirm Ballot Removed and Tabulate Ballot"
+  pages:
+    - "vxcentralscan/scanning-ballots.md"
+  was:
+    - "screenshots-013-adjudication-blank-ballot.png"
+"vxcentralscan-adjudication-overvote.png":
+  source: generated
+  app: vxcentralscan
+  alt: "Ballot Not Counted screen for an overvote with the Mayor contest highlighted on the ballot"
+  pages:
+    - "vxcentralscan/scanning-ballots.md"
+  was:
+    - "screenshots-012-adjudication-overvote.png"
+"vxcentralscan-adjudication-unreadable.png":
+  source: generated
+  app: vxcentralscan
+  alt: "Ballot Not Counted screen for an unreadable ballot with Confirm Ballot Removed"
+  pages:
+    - "vxcentralscan/scanning-ballots.md"
+  was:
+    - "screenshots-015-adjudication-unreadable.png"
+"vxcentralscan-batch-history.png":
+  source: generated
+  app: vxcentralscan
+  alt: "Batch History screen listing scanned batches with Save CVRs and Delete buttons"
+  pages:
+    - "vxcentralscan/scanning-ballots.md"
+  was:
+    - "image (71).png"
+"vxcentralscan-configuring.png":
+  source: generated
+  app: vxcentralscan
+  alt: "Configuring VxCentralScan from USB drive loading screen"
+  pages:
+    - "vxcentralscan/configure-ballot-scanner.md"
+  was:
+    - "screenshots-002-configuring.png"
+"vxcentralscan-diagnostics-screen.png":
+  source: generated
+  app: vxcentralscan
+  alt: "Diagnostics screen with configuration, battery, storage, UPS and scanner status"
+  pages:
+    - "vxcentralscan/vxcentralscan-diagnostics.md"
+  was:
+    - "image (72).png"
+"vxcentralscan-em-insert-usb.png":
+  source: generated
+  app: vxcentralscan
+  alt: "Election manager prompt to insert a USB drive containing an election package"
+  pages:
+    - "vxcentralscan/configure-ballot-scanner.md"
+  was:
+    - "screenshots-001-em-insert-usb.png"
+"vxcentralscan-em-settings-confirm-unconfigure-button.png":
+  source: generated
+  app: vxcentralscan
+  alt: "Unconfigure Machine dialog with the Delete All Election Data button highlighted"
+  pages:
+    - "vxcentralscan/configure-ballot-scanner.md"
+    - "vxcentralscan/retaining-and-removing-files-vxcentralscan.md"
+  was:
+    - "screenshots-008-em-settings-confirm-unconfigure-button (1).png"
+    - "screenshots-008-em-settings-confirm-unconfigure-button.png"
+"vxcentralscan-em-settings-imprinting-disabled-button.png":
+  source: generated
+  app: vxcentralscan
+  alt: "VxCentralScan Settings screen with the Imprinting Disabled toggle highlighted."
+  pages:
+    - "vxcentralscan/scanning-ballots.md"
+  was:
+    - "screenshots-006-em-settings-imprinting-disabled-button.png"
+"vxcentralscan-em-settings-official-ballot-mode-button.png":
+  source: generated
+  app: vxcentralscan
+  alt: "VxCentralScan Settings screen in test ballot mode with the Official Ballot Mode toggle highlighted."
+  pages:
+    - "logic-and-accuracy-pre-election-testing/prepare-for-election-day.md"
+    - "vxcentralscan/configure-ballot-scanner.md"
+  was:
+    - "screenshots-005-em-settings-official-ballot-mode-button.png"
+    - "image (43).png"
+"vxcentralscan-em-settings-save-logs-button.png":
+  source: generated
+  app: vxcentralscan
+  alt: "VxCentralScan Settings screen with the Save Logs button highlighted."
+  pages:
+    - "vxcentralscan/retaining-and-removing-files-vxcentralscan.md"
+  was:
+    - "screenshots-009-em-settings-save-logs-button.png"
+"vxcentralscan-em-settings-unconfigure-machine-button.png":
+  source: generated
+  app: vxcentralscan
+  alt: "VxCentralScan Settings screen with the Unconfigure Machine button highlighted."
+  pages:
+    - "vxcentralscan/configure-ballot-scanner.md"
+    - "vxcentralscan/retaining-and-removing-files-vxcentralscan.md"
+  was:
+    - "screenshots-007-em-settings-unconfigure-machine-button.png"
+    - "screenshots-007-em-settings-unconfigure-machine-button (1).png"
+"vxcentralscan-readiness-report.png":
+  source: generated
+  app: vxcentralscan
+  alt: "VxCentralScan Readiness Report listing configuration, battery, storage, UPS and scanner checks"
+  pages:
+    - "vxcentralscan/vxcentralscan-diagnostics.md"
+  was:
+    - "screenshots-018-readiness-report.png"
+"vxcentralscan-scan-ballots-batch-complete.png":
+  source: generated
+  app: vxcentralscan
+  alt: "Scan Ballots screen paused with input tray empty and Save Batch, Continue Scanning, Discard Batch"
+  pages:
+    - "vxcentralscan/scanning-ballots.md"
+  was:
+    - "screenshots-014-scan-ballots-batch-complete.png"
+"vxcentralscan-scan-ballots-empty-batch-stats-highlight.png":
+  source: generated
+  app: vxcentralscan
+  alt: "Scan Ballots screen ready to scan with the Total Batches and Total Sheets counters highlighted"
+  pages:
+    - "vxcentralscan/configure-ballot-scanner.md"
+    - "vxcentralscan/scanning-ballots.md"
+  was:
+    - "screenshots-011-scan-ballots-empty-batch-stats-highlight.png"
+"vxcentralscan-scan-ballots-empty-start-scanning-button.png":
+  source: generated
+  app: vxcentralscan
+  alt: "Scan Ballots screen ready to scan with the Start Scanning button highlighted"
+  pages:
+    - "vxcentralscan/scanning-ballots.md"
+  was:
+    - "screenshots-011-scan-ballots-empty-start-scanning-button.png"
+"vxcentralscan-scan-ballots-paused.png":
+  source: generated
+  app: vxcentralscan
+  alt: "Scan Ballots screen paused because a ballot required review, with Continue Scanning and Discard Batch"
+  pages:
+    - "vxcentralscan/scanning-ballots.md"
+  was:
+    - "image (68).png"
+"vxcentralscan-scan-ballots-save-cvrs-button.png":
+  source: generated
+  app: vxcentralscan
+  alt: "VxCentralScan Batch History screen with the Save CVRs button highlighted."
+  pages:
+    - "vxcentralscan/retaining-and-removing-files-vxcentralscan.md"
+    - "vxcentralscan/scanning-ballots.md"
+  was:
+    - "screenshots-023-scan-ballots-save-cvrs-button.png"
+    - "image (69).png"
+"vxcentralscan-scan-ballots-scanning.png":
+  source: generated
+  app: vxcentralscan
+  alt: "Scan Ballots screen actively scanning a batch with a Pause Scanning button"
+  pages:
+    - "vxcentralscan/scanning-ballots.md"
+  was:
+    - "screenshots-013-scan-ballots-scanning.png"
+"vxcentralscan-scan-ballots-test-mode-election-info-highlight.png":
+  source: generated
+  app: vxcentralscan
+  alt: "VxCentralScan Scan Ballots screen in test ballot mode with the election info panel highlighted."
+  pages:
+    - "vxcentralscan/configure-ballot-scanner.md"
+  was:
+    - "image (34).png"
+"vxcentralscan-unconfigured-screen.png":
+  source: generated
+  app: vxcentralscan
+  alt: "Unconfigured screen asking to insert an election manager card to configure VxCentralScan"
+  pages:
+    - "vxcentralscan/configure-ballot-scanner.md"
+  was:
+    - "screenshots-000-unconfigured-screen.png"
+"vxmark-em-diagnostics-full.png":
+  source: generated
+  app: vxmark
+  alt: "VxMark System Diagnostics screen, full page, with test buttons for printer, controller, PAT, audio and UPS."
+  pages:
+    - "vxmark/diagnostics.md"
+  was:
+    - "VxMark-DiagnosticsMenu.png"
+"vxmark-em-insert-usb.png":
+  source: generated
+  app: vxmark
+  alt: "Prompt to insert a USB drive containing an election package"
+  pages:
+    - "vxmark/configure-vxmark.md"
+    - "vxmarkscan/configure-vxmarkscan.md"
+  was:
+    - "em-insert-usb.png"
+"vxmark-em-menu-diagnostics-highlighted.png":
+  source: generated
+  app: vxmark
+  alt: "VxMark election manager menu with the Diagnostics button highlighted"
+  pages:
+    - "vxmark/diagnostics.md"
+  was:
+    - "VxMark-Diagnostics1.png"
+"vxmark-em-menu-no-polling-place.png":
+  source: generated
+  app: vxmark
+  alt: "Election Manager Menu with no polling place selected and Test Ballot Mode active"
+  pages:
+    - "vxmark/configure-vxmark.md"
+  was:
+    - "VxMark-Configure-Fix-03.png"
+"vxmark-em-menu-official-ballot-mode-highlighted.png":
+  source: generated
+  app: vxmark
+  alt: "Election Manager Menu with the Official Ballot Mode button highlighted"
+  pages:
+    - "logic-and-accuracy-pre-election-testing/prepare-for-election-day.md"
+    - "vxmark/configure-vxmark.md"
+  was:
+    - "VxMark-SelectPollingPlace-TESTMode.jpg"
+"vxmark-em-menu-test-ballot-mode-highlighted.png":
+  source: generated
+  app: vxmark
+  alt: "Election Manager Menu with the Test Ballot Mode button highlighted"
+  pages:
+    - "vxmark/configure-vxmark.md"
+  was:
+    - "VxMark-SelectPollingPlace-OFFICIALMode.jpg"
+"vxmark-em-menu-unconfigure-highlighted.png":
+  source: generated
+  app: vxmark
+  alt: "Election Manager Menu with the Unconfigure Machine button highlighted"
+  pages:
+    - "vxmark/configure-vxmark.md"
+  was:
+    - "VxMark-UnconfigureMenuButton.jpg"
+"vxmark-em-unconfigure-modal.png":
+  source: generated
+  app: vxmark
+  alt: "VxMark election manager menu with the Unconfigure Machine confirmation dialog and Delete All Election Data button."
+  pages:
+    - "vxmark/configure-vxmark.md"
+  was:
+    - "VxMark-UnconfigureModal.jpg"
+"vxmark-pat-device-identified.png":
+  source: generated
+  app: vxmark
+  alt: "PAT device identification complete screen showing Device Inputs Chosen with Continue and Back"
+  pages:
+    - "vxmark/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "Mark _languageaccessibility_patsize-06.jpg"
+"vxmark-pat-identify-move.png":
+  source: generated
+  app: vxmark
+  alt: "PAT device identification step 2 asking to identify the Move input"
+  pages:
+    - "vxmark/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "Mark _languageaccessibility_patsize-02.jpg"
+"vxmark-pat-identify-select.png":
+  source: generated
+  app: vxmark
+  alt: "PAT device identification step 3 asking to identify the Select input"
+  pages:
+    - "vxmark/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "Mark _languageaccessibility_patsize-04.jpg"
+"vxmark-pat-intro.png":
+  source: generated
+  app: vxmark
+  alt: "PAT device identification step 1 Test Your Device intro screen with Skip Setup"
+  pages:
+    - "vxmark/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "Mark _languageaccessibility_patsize-01.jpg"
+"vxmark-pat-move-identified.png":
+  source: generated
+  app: vxmark
+  alt: "PAT device identification step 2 confirming the Move input was identified"
+  pages:
+    - "vxmark/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "Mark _languageaccessibility_patsize-03.jpg"
+"vxmark-pat-select-identified.png":
+  source: generated
+  app: vxmark
+  alt: "PAT device identification step 3 confirming the Select input was identified"
+  pages:
+    - "vxmark/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "Mark _languageaccessibility_patsize-05.jpg"
+"vxmark-print-blank-ballot-options-selected.png":
+  source: generated
+  app: vxmark
+  alt: "Blank Ballot Printing screen with ballot style and language selected and Print Ballot highlighted"
+  pages:
+    - "vxmark/printing-blank-ballots.md"
+  was:
+    - "blank-ballot-printing-003-print-blank-ballot-options-selected.png"
+"vxmark-print-blank-ballot-precinct-dropdown-open.png":
+  source: generated
+  app: vxmark
+  alt: "Blank Ballot Printing screen with the ballot style dropdown open"
+  pages:
+    - "vxmark/printing-blank-ballots.md"
+  was:
+    - "blank-ballot-printing-002-print-blank-ballot-precinct-dropdown-open.png"
+"vxmark-printed-ballot.png":
+  source: generated
+  app: vxmark
+  alt: "Printed BMD summary ballot listing each contest and the voter's selection in three columns"
+  pages:
+    - "README.md"
+  was:
+    - "bmd-ballot-600w.png"
+"vxmark-pw-close-polls-modal.png":
+  source: generated
+  app: vxmark
+  alt: "VxMark poll worker menu with the Close Polls confirmation dialog and the Close Polls button highlighted."
+  pages:
+    - "vxmark/open-and-close-polls.md"
+  was:
+    - "Mark-OpenClose-ClosePolls2.jpg"
+"vxmark-pw-menu-pause-voting-highlighted.png":
+  source: generated
+  app: vxmark
+  alt: "Poll Worker Menu with polls open and the Pause Voting button highlighted"
+  pages:
+    - "vxmark/open-and-close-polls.md"
+  was:
+    - "Mark-OpenClose-PausePolls1.jpg"
+"vxmark-pw-menu-polls-closed.png":
+  source: generated
+  app: vxmark
+  alt: "Poll Worker Menu with polls closed showing Open Polls and Power Down buttons"
+  pages:
+    - "vxmark/open-and-close-polls.md"
+    - "vxmark/packing-up-vxmark.md"
+  was:
+    - "Mark-OpenClose-OpenPolls1.jpg"
+"vxmark-pw-menu-polls-open.png":
+  source: generated
+  app: vxmark
+  alt: "Poll Worker Menu with polls open showing Close Polls and Pause Voting buttons"
+  pages:
+    - "vxmark/open-and-close-polls.md"
+  was:
+    - "Mark-OpenClose-ClosePolls1.jpg"
+    - "Mark-OpenClose-OpenPolls3.jpg"
+"vxmark-pw-menu-polls-paused.png":
+  source: generated
+  app: vxmark
+  alt: "Poll Worker Menu with voting paused showing Resume Voting and Close Polls buttons"
+  pages:
+    - "vxmark/open-and-close-polls.md"
+  was:
+    - "Mark-OpenClose-PausePolls3.jpg"
+    - "Mark-OpenClose-ResumePolls1.jpg"
+"vxmark-pw-menu-print-blank-ballot-highlighted.png":
+  source: generated
+  app: vxmark
+  alt: "Poll Worker Menu with the Print Blank Ballot button highlighted"
+  pages:
+    - "vxmark/printing-blank-ballots.md"
+  was:
+    - "blank-ballot-printing-000-pw-menu-print-blank-ballot-highlighted.png"
+"vxmark-pw-open-polls-modal.png":
+  source: generated
+  app: vxmark
+  alt: "Open Polls confirmation dialog with the Open Polls button highlighted"
+  pages:
+    - "vxmark/open-and-close-polls.md"
+  was:
+    - "Mark-OpenClose-OpenPolls2.jpg"
+"vxmark-pw-pause-voting-modal.png":
+  source: generated
+  app: vxmark
+  alt: "Pause Voting confirmation dialog with the Pause Voting button highlighted"
+  pages:
+    - "vxmark/open-and-close-polls.md"
+  was:
+    - "Mark-OpenClose-PausePolls2.jpg"
+"vxmark-pw-remove-card-to-begin.png":
+  source: generated
+  app: vxmark
+  alt: "Remove Card to Begin Voting Session screen with the ballot style and a Deactivate Voting Session button"
+  pages:
+    - "vxmark/voting-sessions.md"
+  was:
+    - "VxMark_Votingsessions_Activating3.jpg"
+"vxmark-pw-resume-voting-modal.png":
+  source: generated
+  app: vxmark
+  alt: "Resume Voting confirmation dialog with the Resume Voting button highlighted"
+  pages:
+    - "vxmark/open-and-close-polls.md"
+  was:
+    - "Mark-OpenClose-ResumePolls2.jpg"
+"vxmark-pw-start-voting-session-button.png":
+  source: generated
+  app: vxmark
+  alt: "Poll Worker Menu with the Start a New Voting Session ballot style button highlighted"
+  pages:
+    - "vxmark/voting-sessions.md"
+  was:
+    - "Mark-OpenClose-ResumePolls3.jpg"
+"vxmark-readiness-report.png":
+  source: generated
+  app: vxmark
+  alt: "Printed VxMark Readiness Report listing configuration, storage, printer and accessory status."
+  pages:
+    - "vxmark/diagnostics.md"
+  was:
+    - "VxMark-Diagnostics3.png"
+"vxmark-readiness-report-page2.png":
+  source: generated
+  app: vxmark
+  alt: "Readiness report page two showing the Uninterruptible Power Supply section with no test on record"
+  pages:
+    - "vxmark/diagnostics.md"
+  was:
+    - "VxMark-Diagnostics4.png"
+"vxmark-sa-menu-diagnostics-highlighted.png":
+  source: generated
+  app: vxmark
+  alt: "System Administrator Menu with the Diagnostics button highlighted"
+  pages:
+    - "vxmark/diagnostics.md"
+  was:
+    - "VxMark-Diagnostics5.png"
+"vxmark-unauthenticated-polls-closed.png":
+  source: generated
+  app: vxmark
+  alt: "Polls Closed screen asking to insert a poll worker card to open"
+  pages:
+    - "vxmark/open-and-close-polls.md"
+  was:
+    - "Mark-OpenClose-PollsClosedB4Open.jpg"
+"vxmark-unauthenticated-polls-opened.png":
+  source: generated
+  app: vxmark
+  alt: "Insert Card screen shown while polls are open"
+  pages:
+    - "vxmark/voting-sessions.md"
+  was:
+    - "VxMark_Votingsessions_Activating1.jpg"
+"vxmark-unconfigured-screen.png":
+  source: generated
+  app: vxmark
+  alt: "Unconfigured screen asking to insert an election manager card to configure VxMark"
+  pages:
+    - "vxmark/configure-vxmark.md"
+  was:
+    - "VxMark-Configure-Fix-01.png"
+"vxmark-voting-almost-done.png":
+  source: generated
+  app: vxmark
+  alt: "You're Almost Done screen listing verify and scan your ballot steps with a Done button"
+  pages:
+    - "vxmark/voting-sessions.md"
+  was:
+    - "VxMark_Votingsessions_Reviewing3.jpg"
+"vxmark-voting-language-and-settings-highlighted.png":
+  source: generated
+  app: vxmark
+  alt: "Contest screen with the English language and Settings buttons highlighted at the top"
+  pages:
+    - "vxmark/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "Mark _languageaccessibility_TOPImage1.jpg"
+"vxmark-voting-language-settings.png":
+  source: generated
+  app: vxmark
+  alt: "Select Your Ballot Language screen with English selected and a Done button"
+  pages:
+    - "vxmark/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "Mark _languageaccessibility_BallotLanguage1.jpg"
+"vxmark-voting-printing.png":
+  source: generated
+  app: vxmark
+  alt: "Printing Your Ballot screen"
+  pages:
+    - "vxmark/voting-sessions.md"
+  was:
+    - "VxMark_Votingsessions_Reviewing2.jpg"
+"vxmark-voting-review.png":
+  source: generated
+  app: vxmark
+  alt: "Review Your Votes screen listing selections with Change buttons and Print My Ballot"
+  pages:
+    - "vxmark/voting-sessions.md"
+    - "vxmarkscan/voting-sessions.md"
+  was:
+    - "VxMark_Votingsessions_Reviewing1.jpg"
+"vxmark-voting-settings-audio-only-mode.png":
+  source: generated
+  app: vxmark
+  alt: "Audio-Only Mode screen with an Exit Audio-Only Mode button"
+  pages:
+    - "vxmark/voting-session-language-and-accessibility-settings.md"
+    - "vxmarkscan/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "Mark _languageaccessibility_Audio2.jpg"
+"vxmark-voting-settings-color-1.png":
+  source: generated
+  app: vxmark
+  alt: "Settings Color tab with White text, black background selected"
+  pages:
+    - "vxmark/voting-session-language-and-accessibility-settings.md"
+    - "vxmarkscan/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "voter-settings-002-voting-settings-color-1.png"
+"vxmark-voting-settings-color-2.png":
+  source: generated
+  app: vxmark
+  alt: "Settings Color tab with Gray text, dark background selected"
+  pages:
+    - "vxmark/voting-session-language-and-accessibility-settings.md"
+    - "vxmarkscan/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "voter-settings-003-voting-settings-color-2.png"
+"vxmark-voting-settings-color-3.png":
+  source: generated
+  app: vxmark
+  alt: "Settings Color tab with Dark text, light background selected"
+  pages:
+    - "vxmark/voting-session-language-and-accessibility-settings.md"
+    - "vxmarkscan/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "voter-settings-004-voting-settings-color-3.png"
+"vxmark-voting-settings-color-4.png":
+  source: generated
+  app: vxmark
+  alt: "Settings Color tab with Black text, white background selected"
+  pages:
+    - "vxmark/voting-session-language-and-accessibility-settings.md"
+    - "vxmarkscan/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "voter-settings-005-voting-settings-color-4.png"
+"vxmark-voting-settings-text-size-1.png":
+  source: generated
+  app: vxmark
+  alt: "Settings Text Size tab with Small selected"
+  pages:
+    - "vxmark/voting-session-language-and-accessibility-settings.md"
+    - "vxmarkscan/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "Mark _languageaccessibility_textsize-04.jpg"
+"vxmark-voting-settings-text-size-2.png":
+  source: generated
+  app: vxmark
+  alt: "Settings Text Size tab with Medium selected"
+  pages:
+    - "vxmark/voting-session-language-and-accessibility-settings.md"
+    - "vxmarkscan/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "Mark _languageaccessibility_textsize-03.jpg"
+"vxmark-voting-settings-text-size-3.png":
+  source: generated
+  app: vxmark
+  alt: "Settings Text Size tab with Large selected"
+  pages:
+    - "vxmark/voting-session-language-and-accessibility-settings.md"
+    - "vxmarkscan/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "Mark _languageaccessibility_textsize-02.jpg"
+"vxmark-voting-settings-text-size-4.png":
+  source: generated
+  app: vxmark
+  alt: "Settings Text Size tab with Extra-Large selected"
+  pages:
+    - "vxmark/voting-session-language-and-accessibility-settings.md"
+    - "vxmarkscan/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "Mark _languageaccessibility_textsize-01 .jpg"
+"vxmark-voting-single-seat-selection.png":
+  source: generated
+  app: vxmark
+  alt: "Mayor contest screen with Thomas Edison selected and zero votes remaining"
+  pages:
+    - "vxmark/voting-sessions.md"
+  was:
+    - "VxMark_Votingsessions_Marking2(No3rdImage).jpg"
+"vxmark-voting-start-screen.png":
+  source: generated
+  app: vxmark
+  alt: "Voting start screen showing the election name, polling place and a Start Voting button"
+  pages:
+    - "vxmark/voting-sessions.md"
+    - "vxmarkscan/voting-sessions.md"
+  was:
+    - "VxMark_Votingsessions_Marking1.jpg"
+"vxmark-voting-write-in-accepted.png":
+  source: generated
+  app: vxmark
+  alt: "Controller contest screen with write-in candidate NEMO selected"
+  pages:
+    - "vxmark/voting-sessions.md"
+    - "vxmarkscan/voting-sessions.md"
+  was:
+    - "VxMark_Votingsessions_WriteIn3.jpg"
+"vxmark-voting-write-in-button.png":
+  source: generated
+  app: vxmark
+  alt: "Controller contest screen with the add write-in candidate option highlighted"
+  pages:
+    - "vxmark/voting-sessions.md"
+    - "vxmarkscan/voting-sessions.md"
+  was:
+    - "VxMark_Votingsessions_WriteIn1.jpg"
+"vxmark-voting-write-in-keyboard.png":
+  source: generated
+  app: vxmark
+  alt: "Write-In dialog for the Controller contest with the on-screen keyboard and the name NEMO entered."
+  pages:
+    - "vxmark/voting-sessions.md"
+    - "vxmarkscan/voting-sessions.md"
+  was:
+    - "VxMark_Votingsessions_WriteIn2.jpg"
+"vxmarkscan-em-diagnostics-full.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan Diagnostics screen with configuration, storage and hardware component test sections"
+  pages:
+    - "vxmarkscan/diagnostics.md"
+  was:
+    - "additional-options-004-em-diagnostics-full (1).png"
+"vxmarkscan-em-menu-diagnostics-highlighted.png":
+  source: generated
+  app: vxmarkscan
+  alt: "Election Manager Menu with the Diagnostics button highlighted"
+  pages:
+    - "vxmarkscan/diagnostics.md"
+  was:
+    - "additional-options-000-em-menu-diagnostics-highlighted (1).png"
+"vxmarkscan-em-menu-no-polling-place.png":
+  source: generated
+  app: vxmarkscan
+  alt: "Election Manager Menu with no polling place selected and Test Ballot Mode active"
+  pages:
+    - "vxmarkscan/configure-vxmarkscan.md"
+  was:
+    - "basic-election-flow-002-em-menu-no-polling-place.png"
+"vxmarkscan-em-menu-official-ballot-mode-highlighted.png":
+  source: generated
+  app: vxmarkscan
+  alt: "Election Manager Menu with the Official Ballot Mode button highlighted"
+  pages:
+    - "vxmarkscan/configure-vxmarkscan.md"
+  was:
+    - "basic-election-flow-004-em-menu-official-ballot-mode-highlighted.png"
+"vxmarkscan-em-menu-save-logs-highlighted.png":
+  source: generated
+  app: vxmarkscan
+  alt: "Election Manager Menu with the Save Logs button highlighted"
+  pages:
+    - "vxmark/retaining-and-removing-files.md"
+    - "vxmarkscan/retaining-and-removing-files.md"
+  was:
+    - "additional-options-001-em-menu-save-logs-highlighted.png"
+"vxmarkscan-em-menu-test-ballot-mode-highlighted.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan election manager menu with the Test Ballot Mode button highlighted"
+  pages:
+    - "vxmarkscan/configure-vxmarkscan.md"
+  was:
+    - "basic-election-flow-005-em-menu-test-ballot-mode-highlighted.png"
+"vxmarkscan-em-menu-unconfigure-highlighted.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan election manager menu with the Unconfigure Machine button highlighted"
+  pages:
+    - "vxmarkscan/configure-vxmarkscan.md"
+  was:
+    - "basic-election-flow-031-em-menu-unconfigure-highlighted.png"
+"vxmarkscan-em-unconfigure-modal.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan election manager menu with the Unconfigure Machine confirmation dialog and Delete All Election Data button."
+  pages:
+    - "vxmarkscan/configure-vxmarkscan.md"
+  was:
+    - "basic-election-flow-032-em-unconfigure-modal.png"
+"vxmarkscan-pw-close-polls-modal.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan Close Polls confirmation dialog with the Close Polls button highlighted."
+  pages:
+    - "vxmarkscan/open-and-close-polls.md"
+  was:
+    - "basic-election-flow-028-pw-close-polls-modal.png"
+"vxmarkscan-pw-load-ballot-sheet.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan Load Ballot Sheet prompt asking to feed one sheet into the front input tray"
+  pages:
+    - "vxmarkscan/voting-sessions.md"
+  was:
+    - "basic-election-flow-015-pw-load-ballot-sheet.png"
+"vxmarkscan-pw-loading-sheet.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan Loading Sheet screen with a spinner while the ballot sheet is pulled in"
+  pages:
+    - "vxmarkscan/voting-sessions.md"
+  was:
+    - "basic-election-flow-016-pw-loading-sheet.png"
+"vxmarkscan-pw-menu-open-polls-highlighted.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan poll worker menu with polls closed and the Open Polls button highlighted"
+  pages:
+    - "vxmarkscan/open-and-close-polls.md"
+  was:
+    - "basic-election-flow-008-pw-menu-open-polls-highlighted.png"
+"vxmarkscan-pw-menu-pause-voting-highlighted.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan poll worker menu with polls open and the Pause Voting button highlighted."
+  pages:
+    - "vxmarkscan/open-and-close-polls.md"
+  was:
+    - "additional-options-006-pw-menu-pause-voting-highlighted.png"
+"vxmarkscan-pw-menu-polls-open.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan poll worker menu with polls open, showing Start a New Voting Session and Insert Printed Ballot"
+  pages:
+    - "vxmarkscan/voting-sessions.md"
+  was:
+    - "basic-election-flow-013-pw-menu-polls-open (1).png"
+"vxmarkscan-pw-menu-polls-open-close-polls-highlighted.png":
+  source: unspecced
+  app: vxmarkscan
+  alt: "VxMarkScan poll worker menu with polls open and the Close Polls button highlighted."
+  wanted_spec: "VxMarkScan configured with polls open, poll worker card inserted, poll worker menu shown with the Close Polls button highlighted (no dialog)."
+  pages:
+    - "vxmarkscan/open-and-close-polls.md"
+  was:
+    - "basic-election-flow-027-pw-menu-close-polls-highlighted.png"
+"vxmarkscan-pw-menu-resume-voting-highlighted.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan poll worker menu with polls paused and the Resume Voting button highlighted"
+  pages:
+    - "vxmarkscan/open-and-close-polls.md"
+  was:
+    - "additional-options-010-pw-menu-resume-voting-highlighted.png"
+"vxmarkscan-pw-open-polls-modal.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan Open Polls confirmation dialog with the Open Polls button highlighted"
+  pages:
+    - "vxmarkscan/open-and-close-polls.md"
+  was:
+    - "basic-election-flow-010-pw-open-polls-modal.png"
+"vxmarkscan-pw-pause-voting-modal.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan Pause Voting confirmation dialog with the Pause Voting button highlighted."
+  pages:
+    - "vxmarkscan/open-and-close-polls.md"
+  was:
+    - "additional-options-007-pw-pause-voting-modal.png"
+"vxmarkscan-pw-remove-card-to-vote.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan Remove Card to Begin Voting Session screen showing the selected ballot style"
+  pages:
+    - "vxmarkscan/voting-sessions.md"
+  was:
+    - "basic-election-flow-015-pw-remove-card-to-vote.png"
+"vxmarkscan-pw-resume-voting-modal.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan Resume Voting confirmation dialog with the Resume Voting button highlighted"
+  pages:
+    - "vxmarkscan/open-and-close-polls.md"
+  was:
+    - "additional-options-011-pw-resume-voting-modal.png"
+"vxmarkscan-pw-start-voting-session-button.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan poll worker menu with the ballot style button under Start a New Voting Session highlighted"
+  pages:
+    - "vxmarkscan/voting-sessions.md"
+  was:
+    - "basic-election-flow-014-pw-start-voting-session-button (1).png"
+"vxmarkscan-readiness-report.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan readiness report listing configuration, storage, and hardware status"
+  pages:
+    - "vxmarkscan/diagnostics.md"
+  was:
+    - "additional-options-005-readiness-report.png"
+"vxmarkscan-sa-menu-diagnostics-highlighted.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan system administrator menu with the Diagnostics button highlighted"
+  pages:
+    - "vxmarkscan/diagnostics.md"
+  was:
+    - "additional-options-012-sa-menu-diagnostics-highlighted.png"
+"vxmarkscan-sa-menu-save-logs-highlighted.png":
+  source: generated
+  app: vxmarkscan
+  alt: "System Administrator Menu with the Save Logs button highlighted."
+  pages:
+    - "vxmark/retaining-and-removing-files.md"
+    - "vxmarkscan/retaining-and-removing-files.md"
+  was:
+    - "sa-menu-save-logs-button.png"
+"vxmarkscan-unauthenticated-polls-closed-final.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan Polls Closed screen with election name and precinct in the footer"
+  pages:
+    - "vxmarkscan/open-and-close-polls.md"
+  was:
+    - "basic-election-flow-030-unauthenticated-polls-closed-final.png"
+"vxmarkscan-unauthenticated-polls-opened.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan Insert Card screen shown while polls are open and no card is inserted"
+  pages:
+    - "vxmarkscan/voting-sessions.md"
+  was:
+    - "basic-election-flow-011-unauthenticated-polls-opened.png"
+"vxmarkscan-unconfigured-screen.png":
+  source: generated
+  app: vxmarkscan
+  alt: "Unconfigured VxMarkScan prompting to insert an election manager card"
+  pages:
+    - "vxmarkscan/configure-vxmarkscan.md"
+  was:
+    - "em-insert-card.png"
+"vxmarkscan-voting-ballot-cast.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan confirmation that the voter's ballot was cast"
+  pages:
+    - "vxmarkscan/voting-sessions.md"
+  was:
+    - "basic-election-flow-026-voting-ballot-cast.png"
+"vxmarkscan-voting-casting-ballot.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan Casting Ballot screen shown while the printed ballot is scanned and cast"
+  pages:
+    - "vxmarkscan/voting-sessions.md"
+  was:
+    - "basic-election-flow-025-voting-casting-ballot.png"
+"vxmarkscan-voting-language-and-settings-highlighted.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan contest screen with the language and Settings buttons in the header highlighted"
+  pages:
+    - "vxmarkscan/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "voter-settings-000-voting-language-and-settings-highlighted.png"
+"vxmarkscan-voting-language-settings.png":
+  source: generated
+  app: vxmarkscan
+  alt: "Select Your Ballot Language screen with English selected and a Done button."
+  pages:
+    - "vxmarkscan/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "voter-settings-001-voting-language-settings.png"
+"vxmarkscan-voting-post-print-review.png":
+  source: generated
+  app: vxmarkscan
+  alt: "Review Your Votes screen after scanning the printed ballot, with My Ballot is Incorrect and Cast My Ballot buttons."
+  pages:
+    - "vxmarkscan/voting-sessions.md"
+  was:
+    - "basic-election-flow-024-voting-post-print-review.png"
+"vxmarkscan-voting-printing.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan Printing Your Ballot screen asking the voter not to remove the ballot"
+  pages:
+    - "vxmarkscan/voting-sessions.md"
+  was:
+    - "voting-printing.png"
+"vxmarkscan-voting-settings-audio.png":
+  source: generated
+  app: vxmarkscan
+  alt: "Voter Settings screen on the Audio tab with mute, volume, rate of speech, and audio-only mode controls"
+  pages:
+    - "vxmark/voting-session-language-and-accessibility-settings.md"
+    - "vxmarkscan/voting-session-language-and-accessibility-settings.md"
+  was:
+    - "Mark _languageaccessibility_Audio1.jpg"
+"vxmarkscan-voting-single-seat-selection.png":
+  source: generated
+  app: vxmarkscan
+  alt: "VxMarkScan Mayor contest with one candidate selected and zero votes remaining"
+  pages:
+    - "vxmarkscan/voting-sessions.md"
+  was:
+    - "basic-election-flow-017-voting-single-seat-selection.png"
+"vxprint-em-configuring.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint loading screen reading Configuring VxPrint from USB drive"
+  pages:
+    - "vxprint/configure-vxprint.md"
+  was:
+    - "VxPrint-configuration-LoadElectionPackage2.png"
+"vxprint-em-diagnostics-full.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint Diagnostics page showing configuration, battery, storage, and printer status with Print Test Page"
+  pages:
+    - "vxprint/vxprint-diagnostics.md"
+  was:
+    - "image (16).png"
+"vxprint-em-election-screen.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint Election screen after loading a package, with the polling place dropdown still unselected"
+  pages:
+    - "vxprint/configure-vxprint.md"
+  was:
+    - "VxPrint-configuration-LoadElectionPackage3.png"
+"vxprint-em-election-unconfigure-highlighted.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint Election screen with the Unconfigure Machine button highlighted"
+  pages:
+    - "vxprint/configure-vxprint.md"
+  was:
+    - "VxPrint-configuration-RemoveConfigData1.png"
+"vxprint-em-insert-usb.png":
+  source: generated
+  app: vxprint
+  alt: "Unconfigured VxPrint prompting to insert a USB drive containing an election package"
+  pages:
+    - "vxprint/configure-vxprint.md"
+  was:
+    - "VxPrint-configuration-LoadElectionPackage1.png"
+"vxprint-em-polling-place-dropdown.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint Election screen with the polling place dropdown open listing precincts"
+  pages:
+    - "vxprint/configure-vxprint.md"
+  was:
+    - "VxPrint-configuration-selectapollplace.png"
+"vxprint-em-print-absentee-highlighted.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint election manager Print screen with the Ballot Type Precinct/Absentee toggle highlighted"
+  pages:
+    - "vxprint/printing-ballots.md"
+  was:
+    - "VxPrint-Printing-ElecManType1.png"
+"vxprint-em-print-all-ballot-styles-highlighted.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint election manager Print screen with the Print All Ballot Styles button highlighted"
+  pages:
+    - "vxprint/printing-ballots.md"
+  was:
+    - "VxPrint-Printing-ElecManType3-allballotstyles.png"
+"vxprint-em-print-all-ballot-styles-modal.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint Print All Ballot Styles dialog with language, ballot type, and copies options"
+  pages:
+    - "vxprint/printing-ballots.md"
+  was:
+    - "VxPrint-Printing-ElecManType3-allballotstyles-2.png"
+"vxprint-em-print-copies-highlighted.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint election manager Print screen with the Copies field highlighted"
+  pages:
+    - "vxprint/printing-ballots.md"
+  was:
+    - "VxPrint-Printing-ElecManType2-copies.png"
+"vxprint-em-settings-ballot-mode-official-highlighted.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint Settings in test ballot mode with the Official Ballot Mode toggle highlighted"
+  pages:
+    - "vxprint/configure-vxprint.md"
+  was:
+    - "VxPrint-configuration-ChangeBallotMode2.png"
+"vxprint-em-settings-ballot-mode-test-highlighted.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint Settings in official ballot mode with the Test Ballot Mode toggle highlighted"
+  pages:
+    - "vxprint/configure-vxprint.md"
+  was:
+    - "VxPrint-configuration-ChangeBallotMode1.png"
+"vxprint-em-settings-save-logs-highlighted.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint Settings screen with the Save Logs button highlighted"
+  pages:
+    - "vxprint/reportingandlogs.md"
+  was:
+    - "VxPrint-savelogs1.jpg"
+"vxprint-em-settings-save-logs-modal.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint Save Logs dialog with log format options and Cancel and Save buttons"
+  pages:
+    - "vxprint/reportingandlogs.md"
+  was:
+    - "VxPrint-savelogs2.jpg"
+"vxprint-em-unconfigure-modal.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint Unconfigure Machine dialog with the Delete All Election Data button highlighted"
+  pages:
+    - "vxprint/configure-vxprint.md"
+  was:
+    - "VxPrint-configuration-RemoveConfigData2.png"
+"vxprint-pw-ballots-printed-report.png":
+  source: generated
+  app: vxprint
+  alt: "Printed Ballots Printed Report listing print totals by precinct, party, and language"
+  pages:
+    - "vxprint/reportingandlogs.md"
+  was:
+    - "VxPrint-Reports3.png"
+"vxprint-pw-print-no-split-with-selections.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint poll worker Print screen limited to one precinct, with party and language selected"
+  pages:
+    - "vxprint/printing-ballots.md"
+  was:
+    - "VxPrint-Printing-Basics4-sep.png"
+"vxprint-pw-print-split-no-selections.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint poll worker Print screen showing precinct, split, party, and language options before selection"
+  pages:
+    - "vxprint/printing-ballots.md"
+  was:
+    - "VxPrint-Printing-Basics1.png"
+"vxprint-pw-print-split-with-selections.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint poll worker Print screen with precinct, split, party, and language selected"
+  pages:
+    - "vxprint/printing-ballots.md"
+  was:
+    - "VxPrint-Printing-Basics2.png"
+"vxprint-pw-printing.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint Printing dialog shown over the Print screen while a ballot prints"
+  pages:
+    - "vxprint/printing-ballots.md"
+  was:
+    - "VxPrint-Printing-Basics4.png"
+"vxprint-pw-report-filtered.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint poll worker Report screen filtered by the precinct name search box"
+  pages:
+    - "vxprint/reportingandlogs.md"
+  was:
+    - "VxPrint-Reports2.png"
+"vxprint-pw-report-full.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint poll worker Report screen listing print counts for every precinct, party, and language"
+  pages:
+    - "vxprint/reportingandlogs.md"
+  was:
+    - "VxPrint-Reports1.png"
+"vxprint-readiness-report.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint readiness report listing configuration, ballot styles, battery, storage, and printer status"
+  pages:
+    - "vxprint/vxprint-diagnostics.md"
+  was:
+    - "image (19).png"
+"vxprint-sa-settings.png":
+  source: generated
+  app: vxprint
+  alt: "VxPrint system administrator Settings screen with Unconfigure Machine, Save Logs, date and time, and security"
+  pages:
+    - "vxprint/configure-vxprint.md"
+  was:
+    - "VxPrint-settings.jpg"
+"vxscan-a11y-settings-audio-headphones-connected.png":
+  source: unspecced
+  app: vxscan
+  alt: "VxScan Settings Audio tab with headphones connected: Mute Audio, volume and rate of speech controls"
+  wanted_spec: "VxScan with polls open and headphones connected, voter Settings opened from the header, Audio tab selected (audio on, volume and rate of speech controls visible)."
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "vxscan-headphone-audio-settings.png"
+"vxscan-ballot-counted.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Your ballot was counted screen with the sheets scanned count at 1"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "image (14).png"
+"vxscan-blank-ballot-warning.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Review Your Ballot warning that no votes were found, with Return Ballot and Cast Ballot"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "voting-013-blank-ballot-warning.png"
+"vxscan-close-polls-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan poll worker prompt Do you want to close the polls with the Close Polls button highlighted"
+  pages:
+    - "election-day-guides/closing-polls.md"
+  was:
+    - "voting-021-close-polls-button.png"
+"vxscan-em-diagnostics.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan election manager menu with the Diagnostics button highlighted"
+  pages:
+    - "vxscan/vxscan-diagnostics.md"
+  was:
+    - "configuration-023-em-diagnostics.png"
+"vxscan-em-diagnostics-full.png":
+  source: generated
+  app: vxscan
+  alt: "Full VxScan Diagnostics page with configuration, storage, scanner, printer, speaker, and UPS sections"
+  pages:
+    - "vxscan/vxscan-diagnostics.md"
+  was:
+    - "configuration-024-em-diagnostics-full.png"
+"vxscan-em-early-voting-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan election manager Configuration tab with the Early Voting toggle highlighted"
+  pages:
+    - "vxscan/additional-vxscan-settings.md"
+  was:
+    - "image (22).png"
+"vxscan-em-election-manager-menu.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan election manager Configuration tab after loading the election package"
+  pages:
+    - "vxscan/configure-vxscan.md"
+  was:
+    - "configuration-002-em-election-manager-menu.png"
+"vxscan-em-insert-usb.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan screen prompting to insert a USB drive containing an election package"
+  pages:
+    - "vxscan/configure-vxscan.md"
+  was:
+    - "vxscan-insert-usb-drive.png"
+"vxscan-em-mute-sounds.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan election manager More tab with the Mute Sounds button highlighted"
+  pages:
+    - "vxscan/additional-vxscan-settings.md"
+  was:
+    - "image (9) (1).png"
+"vxscan-em-official-ballot-mode-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan election manager Configuration tab with the Official Ballot Mode button highlighted"
+  pages:
+    - "logic-and-accuracy-pre-election-testing/prepare-for-election-day.md"
+    - "vxscan/configure-vxscan.md"
+  was:
+    - "image (25).png"
+    - "configuration-004-em-official-ballot-mode-button.png"
+"vxscan-em-printer-load-new-roll.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan election manager Load New Paper Roll dialog with loading instructions"
+  pages:
+    - "vxscan/printer-management.md"
+  was:
+    - "configuration-010-em-printer-load-new-roll.png"
+"vxscan-em-printer-paper-detected.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan election manager Paper Detected dialog offering to print a test page"
+  pages:
+    - "vxscan/printer-management.md"
+  was:
+    - "configuration-011-em-printer-paper-detected.png"
+"vxscan-em-printer-remove-roll-holder.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Remove Paper Roll Holder dialog with instructions for opening the access door"
+  pages:
+    - "vxscan/printer-management.md"
+  was:
+    - "configuration-009-em-printer-remove-roll-holder.png"
+"vxscan-em-printer-tab.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan election manager Printer tab with Load Paper and Print Test Page buttons"
+  pages:
+    - "vxscan/printer-management.md"
+  was:
+    - "configuration-008-em-printer-tab.png"
+"vxscan-em-save-cvrs-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan election manager CVRs and Logs tab with the Save CVRs button highlighted"
+  pages:
+    - "after-election-night/retaining-and-removing-election-files.md"
+    - "vxscan/additional-vxscan-settings.md"
+  was:
+    - "configuration-016-em-save-cvrs-button.png"
+    - "image (7) (1).png"
+"vxscan-em-save-logs-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan election manager CVRs and Logs tab with the Save Logs button highlighted"
+  pages:
+    - "after-election-night/retaining-and-removing-election-files.md"
+    - "vxscan/additional-vxscan-settings.md"
+  was:
+    - "configuration-017-em-save-logs-button.png"
+"vxscan-em-save-logs-modal.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan election manager Save Logs dialog with log format options Default, Errors, and CDF"
+  pages:
+    - "vxscan/additional-vxscan-settings.md"
+  was:
+    - "configuration-018-em-save-logs-modal.png"
+"vxscan-em-scanner-tab.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan election manager Scanner tab with Calibrate and Disable Double Sheet Detection buttons"
+  pages:
+    - "vxscan/scanner-management.md"
+  was:
+    - "image (5) (1).png"
+"vxscan-em-set-date-time.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan election manager More tab with the Set Date and Time button highlighted"
+  pages:
+    - "vxscan/additional-vxscan-settings.md"
+  was:
+    - "configuration-019-em-set-date-time.png"
+"vxscan-em-set-date-time-modal.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan election manager Set Date and Time dialog with date, time, and time zone pickers"
+  pages:
+    - "vxscan/additional-vxscan-settings.md"
+  was:
+    - "configuration-020-em-set-date-time-modal (1).png"
+"vxscan-em-unconfigure-machine-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan election manager Configuration tab with the Unconfigure Machine button highlighted"
+  pages:
+    - "after-election-night/retaining-and-removing-election-files.md"
+    - "vxscan/configure-vxscan.md"
+  was:
+    - "image (64).png"
+    - "configuration-006-em-unconfigure-machine-button.png"
+"vxscan-em-unconfigure-machine-modal.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan election manager Unconfigure Machine dialog with Cancel and Delete All Election Data"
+  pages:
+    - "vxscan/configure-vxscan.md"
+  was:
+    - "configuration-007-em-unconfigure-machine-modal.png"
+"vxscan-insert-ballot.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Insert Your Ballot screen ready to accept a ballot sheet"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "image (15).png"
+"vxscan-insert-ballot-early-voting.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Insert Your Ballot screen with the Early Voting indicator in the footer"
+  pages:
+    - "vxscan/additional-vxscan-settings.md"
+  was:
+    - "early-voting-002-insert-ballot-early-voting.png"
+"vxscan-insert-ballot-election-info.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Insert Your Ballot screen with the election name and precinct in the footer highlighted"
+  pages:
+    - "election-day-guides/opening-polls.md"
+  was:
+    - "voting-008-insert-ballot-election-info.png"
+"vxscan-language-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Insert Your Ballot screen with the English language button highlighted"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "voting-009-language-button.png"
+"vxscan-language-settings.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Select Your Ballot Language screen with English selected and a Done button"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "voting-010-language-settings.png"
+"vxscan-marginal-mark-warning.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Review Your Ballot warning listing contests with faint marks that will not count"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "vxscan-marginal-mark-warning.png"
+"vxscan-mixed-overvote-undervote-warning.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Review Your Ballot summary of blank, undervoted, and overvoted contests with View Contests"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "voting-016-mixed-overvote-undervote-warning.png"
+"vxscan-open-polls-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan poll worker prompt Do you want to open the polls with the Open Polls button highlighted"
+  pages:
+    - "election-day-guides/opening-polls.md"
+  was:
+    - "voting-002-open-polls-button.png"
+"vxscan-overvote-warning.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Review Your Ballot warning that too many votes were marked in a contest"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "voting-015-overvote-warning.png"
+"vxscan-pat-device-identified.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan PAT device identification complete screen with Continue and Back buttons"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "vxscan-pat-tutortial-06.png"
+"vxscan-pat-identify-move.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan PAT identification step 2 of 3 asking the voter to activate the Move input"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "vxscan-pat-tutortial-02.png"
+"vxscan-pat-identify-select.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan PAT device tutorial step 3, identify the Select input"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "vxscan-pat-tutortial-04.png"
+"vxscan-pat-intro.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan PAT identification step 1 of 3 Test Your Device, asking to activate either input"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "vxscan-pat-tutortial-01.png"
+"vxscan-pat-move-identified.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan PAT identification step 2 of 3 confirming the Move input was identified"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "vxscan-pat-tutortial-03.png"
+"vxscan-pat-select-identified.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan PAT device tutorial, Select input identified"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "vxscan-pat-tutortial-05.png"
+"vxscan-polls-closed-final.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Polls Closed screen reading Voting is complete after the poll worker card is removed"
+  pages:
+    - "election-day-guides/closing-polls.md"
+  was:
+    - "voting-025-polls-closed.png"
+"vxscan-polls-closed-initial.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Polls Closed screen in official ballot mode with 0 sheets scanned."
+  pages:
+    - "election-day-guides/opening-polls.md"
+    - "logic-and-accuracy-pre-election-testing/prepare-for-election-day.md"
+  was:
+    - "image (10) (1).png"
+    - "polls-closed.png"
+"vxscan-polls-closed-report-multi-batch.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Polls Closed Report with contest tallies and a Batch Summary table listing three batches"
+  pages:
+    - "election-day-guides/closing-polls.md"
+  was:
+    - "voting-038-polls-closed-report-multi-batch.png"
+"vxscan-polls-closed-test-ballot-mode.png":
+  source: unspecced
+  app: vxscan
+  alt: "VxScan Polls Closed screen with the orange Test Ballot Mode banner across the top and 0 sheets scanned."
+  wanted_spec: "VxScan configured in test ballot mode, no card inserted, polls closed, before any sheets are scanned."
+  pages:
+    - "logic-and-accuracy-pre-election-testing/l-and-a-overview.md"
+  was:
+    - "vxscan-test-mode.png"
+"vxscan-polls-opened.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Polls Opened screen confirming the report printed, with Reprint Polls Opened Report"
+  pages:
+    - "election-day-guides/opening-polls.md"
+  was:
+    - "voting-003-polls-opened.png"
+"vxscan-polls-opened-report.png":
+  source: generated
+  app: vxscan
+  alt: "Printed VxScan Polls Opened Report with signature lines and all contest totals at zero"
+  pages:
+    - "election-day-guides/opening-polls.md"
+  was:
+    - "por-west-lincoln.png"
+"vxscan-pw-menu-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan poll worker close polls prompt with the Menu button highlighted"
+  pages:
+    - "vxscan/additional-poll-worker-actions.md"
+  was:
+    - "voting-034-pw-menu-button.png"
+"vxscan-pw-pause-voting-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan poll worker menu with polls open and the Pause Voting button highlighted"
+  pages:
+    - "vxscan/additional-poll-worker-actions.md"
+  was:
+    - "voting-035-pw-pause-voting-button.png"
+"vxscan-pw-pause-voting-prompt-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan poll worker pause voting prompt with the Pause Voting button highlighted"
+  pages:
+    - "vxscan/additional-vxscan-settings.md"
+  was:
+    - "image (23).png"
+"vxscan-pw-power-down.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan poll worker menu with polls closed and the Power Down button highlighted"
+  pages:
+    - "election-day-guides/packing-up-vxscan.md"
+  was:
+    - "image (18).png"
+"vxscan-pw-print-polls-closed-report-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan poll worker menu with polls closed and the Print Polls Closed Report button highlighted"
+  pages:
+    - "vxscan/additional-poll-worker-actions.md"
+  was:
+    - "voting-027-pw-print-polls-closed-report-button.png"
+"vxscan-pw-print-polls-opened-report-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan poll worker menu with polls open and the Print Polls Opened Report button highlighted"
+  pages:
+    - "vxscan/additional-poll-worker-actions.md"
+  was:
+    - "voting-006-pw-print-polls-opened-report-button.png"
+"vxscan-pw-print-write-in-image-report-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan poll worker menu with polls closed and the Print Write-In Image Report button highlighted"
+  pages:
+    - "vxscan/additional-poll-worker-actions.md"
+  was:
+    - "write-in-report-000-pw-print-write-in-image-report-button.png"
+"vxscan-pw-resume-voting-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan poll worker prompt Do you want to resume voting with the Resume Voting button highlighted"
+  pages:
+    - "vxscan/additional-poll-worker-actions.md"
+  was:
+    - "voting-031-pw-resume-voting-button.png"
+"vxscan-pw-signed-hash-validation.png":
+  source: unspecced
+  app: vxscan
+  alt: "VxScan Signed Hash Validation modal with a QR code and system hash details opened from the Poll Worker Menu."
+  wanted_spec: "VxScan with a poll worker card inserted, voting paused, open Signed Hash Validation from the poll worker menu."
+  pages:
+    - "miscellaneous/signed-hash-validation.md"
+  was:
+    - "signed-hash-validation.png"
+"vxscan-pw-voting-paused.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Voting Paused screen confirming the report printed, with Reprint Voting Paused Report"
+  pages:
+    - "vxscan/additional-poll-worker-actions.md"
+  was:
+    - "voting-036-pw-voting-paused.png"
+"vxscan-pw-voting-resumed.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Voting Resumed screen confirming the report printed, with Reprint Voting Resumed Report"
+  pages:
+    - "vxscan/additional-poll-worker-actions.md"
+  was:
+    - "voting-032-pw-voting-resumed.png"
+"vxscan-pw-write-in-image-report-printed.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Write-In Image Report Printed screen with Reprint and Done buttons"
+  pages:
+    - "vxscan/additional-poll-worker-actions.md"
+  was:
+    - "write-in-report-001-pw-write-in-image-report-printed.png"
+"vxscan-readiness-report.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan readiness report listing configuration, storage, scanner, printer, speaker, and UPS status"
+  pages:
+    - "vxscan/vxscan-diagnostics.md"
+  was:
+    - "readiness-report-1 (2).png"
+"vxscan-reprint-polls-closed-report-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Polls Closed screen with the Reprint Polls Closed Report button highlighted"
+  pages:
+    - "election-day-guides/closing-polls.md"
+  was:
+    - "voting-024-reprint-polls-closed-report-button.png"
+"vxscan-sa-calibrate-image-sensors.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan system administrator menu with the Calibrate Image Sensors button highlighted"
+  pages:
+    - "vxscan/scanner-management.md"
+  was:
+    - "image (6) (1).png"
+"vxscan-sa-diagnostics.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan system administrator menu with the Diagnostics button highlighted"
+  pages:
+    - "vxscan/vxscan-diagnostics.md"
+  was:
+    - "configuration-030-sa-diagnostics.png"
+"vxscan-sa-reset-polls-to-paused-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan system administrator menu with the Reset Polls to Paused button highlighted"
+  pages:
+    - "vxscan/additional-vxscan-settings.md"
+  was:
+    - "image (8) (1).png"
+"vxscan-sa-save-logs-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan system administrator menu with the Save Logs button highlighted"
+  pages:
+    - "vxscan/additional-vxscan-settings.md"
+  was:
+    - "configuration-031-sa-save-logs-button.png"
+"vxscan-sa-set-date-time.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan system administrator menu with the Set Date and Time button highlighted"
+  pages:
+    - "vxscan/additional-vxscan-settings.md"
+  was:
+    - "configuration-029-sa-set-date-time.png"
+"vxscan-sa-unconfigure-machine-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan System Administrator Menu with the Unconfigure Machine button highlighted"
+  pages:
+    - "vxscan/configure-vxscan.md"
+  was:
+    - "vxscan-sys-admin-unconfigure-machine.png"
+"vxscan-scanning.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Please wait screen shown while scanning the marks on a ballot"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "image (13) (1).png"
+"vxscan-settings-button.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Insert Your Ballot screen with the Settings button in the header highlighted"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "voting-017-settings-button.png"
+"vxscan-settings-color.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan voter Settings screen on the Color tab with Dark text, light background selected"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "color-mode.png"
+"vxscan-settings-text-size.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan voter Settings screen on the Text Size tab with Medium selected"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "text-size-mode.png"
+"vxscan-unauthenticated-early-voting.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Polls Closed screen with the Early Voting status shown in the footer"
+  pages:
+    - "vxscan/additional-vxscan-settings.md"
+  was:
+    - "early-voting-001-unauthenticated-early-voting.png"
+"vxscan-unconfigured-screen.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan unconfigured screen prompting to insert an election manager card to configure VxScan"
+  pages:
+    - "vxscan/configure-vxscan.md"
+  was:
+    - "vxscan-insert-card.png"
+"vxscan-undervote-warning.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Review Your Ballot warning listing blank and undervoted contests, with Cast Ballot emphasized"
+  pages:
+    - "election-day-guides/assisting-voters.md"
+  was:
+    - "image (24).png"
+"vxscan-voting-paused.png":
+  source: generated
+  app: vxscan
+  alt: "VxScan Voting Paused screen prompting to insert a poll worker card to resume voting"
+  pages:
+    - "vxscan/additional-poll-worker-actions.md"
+  was:
+    - "voting-030-voting-paused.png"
