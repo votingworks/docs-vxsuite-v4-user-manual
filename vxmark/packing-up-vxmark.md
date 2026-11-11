@@ -21,7 +21,7 @@ Then, pack up VxMark:
 * [ ] Rotate the screen counterclockwise 90°, and then tilt it back into the case
 * [ ] Close the lid of the case and latch it shut
 
-<div><figure><img src="../.gitbook/assets/photo-vxmark-case-open-screen-flat.jpg" alt="Open VxMark case with the screen tilted back flat into the case for packing."><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmark-case-closed.jpg" alt="The VxMark case closed and latched on a table."><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmark-case-open-screen-flat.jpg" alt="Open VxMark case with the screen tilted back flat into the case for packing." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmark-case-closed.jpg" alt="The VxMark case closed and latched on a table." width="375"><figcaption></figcaption></figure></div>
 
 * [ ] Unplug the printer cable from the printer
 * [ ] Tilt the case on its front to access the back compartment
