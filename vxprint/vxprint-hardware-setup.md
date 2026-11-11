@@ -13,7 +13,7 @@
    * [ ] Press the power button to turn the printer on
    * [ ] Load paper into the lower paper tray
 
-<div><figure><img src="../.gitbook/assets/photo-printer-in-case.png" alt="HP LaserJet printer and its power cord packed in the open grey soft carrying case."><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-printer-power-cord-port.png" alt="Rear of the HP LaserJet printer with the power cord socket circled."><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-printer-power-button.png" alt="Front of the HP LaserJet Pro M404n printer with the power button circled."><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-printer-in-case.png" alt="HP LaserJet printer and its power cord packed in the open grey soft carrying case." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-printer-power-cord-port.png" alt="Rear of the HP LaserJet printer with the power cord socket circled." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-printer-power-button.png" alt="Front of the HP LaserJet Pro M404n printer with the power button circled." width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 For printer troubleshooting — toner, print quality, paper type, and other issues — see the [HP Printer FAQ's](../miscellaneous/hp-printer-faqs.md "mention").

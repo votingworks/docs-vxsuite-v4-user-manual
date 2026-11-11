@@ -18,4 +18,4 @@ Then enter vote tallies for the first contest, entering undervotes and overvotes
 
 
 
-<div><figure><img src="../.gitbook/assets/vxadmin-manual-tallies-total-ballots-cast.png" alt="Edit Tallies screen with the Manual Tally Ballot Count field set to 10"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-manual-tallies-contest.png" alt="Edit Tallies contest screen for Governor with vote counts entered and Save and Next"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxadmin-manual-tallies-total-ballots-cast.png" alt="Edit Tallies screen with the Manual Tally Ballot Count field set to 10" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-manual-tallies-contest.png" alt="Edit Tallies contest screen for Governor with vote counts entered and Save and Next" width="375"><figcaption></figcaption></figure></div>

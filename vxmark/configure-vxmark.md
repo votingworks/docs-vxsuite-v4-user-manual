@@ -23,7 +23,7 @@ An unconfigured machine will prompt you to insert an election manager card to lo
 
 After the USB drive is inserted, VxMark will automatically begin loading all ballot styles for the election. After the election package is done loading, the election manager screen will appear and VxMark will be in test ballot mode.
 
-<div><figure><img src="../.gitbook/assets/vxmark-unconfigured-screen.png" alt="Unconfigured screen asking to insert an election manager card to configure VxMark"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-em-insert-usb.png" alt="Prompt to insert a USB drive containing an election package"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-em-menu-no-polling-place.png" alt="Election Manager Menu with no polling place selected and Test Ballot Mode active"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmark-unconfigured-screen.png" alt="Unconfigured screen asking to insert an election manager card to configure VxMark" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-em-insert-usb.png" alt="Prompt to insert a USB drive containing an election package" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-em-menu-no-polling-place.png" alt="Election Manager Menu with no polling place selected and Test Ballot Mode active" width="188"><figcaption></figcaption></figure></div>
 
 ## Select a Polling Place
 

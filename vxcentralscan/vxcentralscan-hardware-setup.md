@@ -41,7 +41,7 @@ Backup power for the scanner is provided by the APC UPS.
 * [ ] Remove and document seal(s) as necessary
 * [ ] Open the case by lifting the latches on front
 
-<div align="left"><figure><img src="../.gitbook/assets/photo-vxcentralscan-case-seals.png" alt="Closed tan VxCentralScan case with red tamper-evident seals on both latches circled."><figcaption><p>Remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-case-latches.png" alt="Closed tan VxCentralScan case with arrows pointing to the two front latches."><figcaption><p>Lift the latches</p></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/photo-vxcentralscan-case-seals.png" alt="Closed tan VxCentralScan case with red tamper-evident seals on both latches circled." width="375"><figcaption><p>Remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-case-latches.png" alt="Closed tan VxCentralScan case with arrows pointing to the two front latches." width="375"><figcaption><p>Lift the latches</p></figcaption></figure></div>
 
 * [ ] **Prepare the components:**
   * [ ] Remove the **laptop**
