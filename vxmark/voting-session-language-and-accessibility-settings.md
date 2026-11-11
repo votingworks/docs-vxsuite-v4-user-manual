@@ -2,13 +2,13 @@
 
 Voters have a number of options to change the VxMark interface to suit their individual needs.
 
-<figure><img src="../.gitbook/assets/Mark _languageaccessibility_TOPImage1.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxmark-voting-language-and-settings-highlighted.png" alt="Contest screen with the English language and Settings buttons highlighted at the top" width="188"><figcaption></figcaption></figure>
 
 ## Ballot Language
 
 To change the language from English to another language select `English` at the top of the screen. Additional language buttons will display, select the preferred language and then select `Done`.
 
-<figure><img src="../.gitbook/assets/Mark _languageaccessibility_BallotLanguage1.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxmark-voting-language-settings.png" alt="Select Your Ballot Language screen with English selected and a Done button" width="188"><figcaption></figcaption></figure>
 
 ## Visual Settings
 
@@ -24,13 +24,13 @@ Four different color options are available for users. While we provide a short d
 
 **Black text, white background** - used by people who need the highest contrast because of light vision or color perception disabilities or aging.
 
-<div><figure><img src="../.gitbook/assets/voter-settings-002-voting-settings-color-1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-003-voting-settings-color-2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-004-voting-settings-color-3.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/voter-settings-005-voting-settings-color-4.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmark-voting-settings-color-1.png" alt="Settings Color tab with White text, black background selected"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-color-2.png" alt="Settings Color tab with Gray text, dark background selected"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-color-3.png" alt="Settings Color tab with Dark text, light background selected"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-color-4.png" alt="Settings Color tab with Black text, white background selected"><figcaption></figcaption></figure></div>
 
 ### Text Size
 
 The default text size is `Medium`. A user can select `Small`, `Large`, or `Extra-Large` based on their preferences. Select `Done` to save the selection.
 
-<div><figure><img src="../.gitbook/assets/Mark _languageaccessibility_textsize-01 .jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_textsize-02.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_textsize-03.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_textsize-04.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmark-voting-settings-text-size-4.png" alt="Settings Text Size tab with Extra-Large selected"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-text-size-3.png" alt="Settings Text Size tab with Large selected"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-text-size-2.png" alt="Settings Text Size tab with Medium selected"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-text-size-1.png" alt="Settings Text Size tab with Small selected"><figcaption></figcaption></figure></div>
 
 ## Audio Settings
 
@@ -40,7 +40,7 @@ Select `Mute Audio` to mute all sound. Select `Enable Audio-Only Mode` to hide t
 
 Headphones should be sanitized after a voting session using the audio-tactile interface. To do so, simply discard the headphone ear covers and replace with a new set of ear covers.
 
-<div><figure><img src="../.gitbook/assets/Mark _languageaccessibility_Audio1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_Audio2.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-audio.png" alt="Voter Settings screen on the Audio tab with mute, volume, rate of speech, and audio-only mode controls"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-audio-only-mode.png" alt="Audio-Only Mode screen with an Exit Audio-Only Mode button"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 All selections above are made for a specific voting session and will reset with the next voter.
@@ -50,4 +50,4 @@ All selections above are made for a specific voting session and will reset with 
 
 VxMark has a PAT (personal assistive technology) input port into which a user can plug in a dual-switch input such as a sip-and-puff device. When a PAT input is attached during a voting session, VxMark will enter a calibration flow where the voter will map their two inputs to "move" and "select." Different voters can calibrate their sip & puff devices differently such that sip is "move" for one and "select" for another. After calibration, a voter can access all VxMark functionality throughout the voting session.
 
-<div><figure><img src="../.gitbook/assets/Mark _languageaccessibility_patsize-01.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_patsize-02.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_patsize-03.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_patsize-04.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_patsize-05.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Mark _languageaccessibility_patsize-06.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmark-pat-intro.png" alt="PAT device identification step 1 Test Your Device intro screen with Skip Setup"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pat-identify-move.png" alt="PAT device identification step 2 asking to identify the Move input"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pat-move-identified.png" alt="PAT device identification step 2 confirming the Move input was identified"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pat-identify-select.png" alt="PAT device identification step 3 asking to identify the Select input"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pat-select-identified.png" alt="PAT device identification step 3 confirming the Select input was identified"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pat-device-identified.png" alt="PAT device identification complete screen showing Device Inputs Chosen with Continue and Back"><figcaption></figcaption></figure></div>

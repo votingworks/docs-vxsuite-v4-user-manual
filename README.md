@@ -29,9 +29,9 @@ VotingWorks Precinct System consists of three portable, self-contained products:
 2. **VxMark**: a tabletop accessible ballot marking device with a printer that produces a voter-verifiable paper ballot.
 3. **VxMarkScan**: a free-standing accessible ballot marking device with a printer that produces a voter-verifiable paper ballot.
 
-<div><figure><img src=".gitbook/assets/vxscan-1200w.png" alt="" width="375"><figcaption><p>VxScan</p></figcaption></figure> <figure><img src=".gitbook/assets/vxmarkscan-1200w.png" alt="" width="375"><figcaption><p>VxMarkScan</p></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/photo-vxscan-full-setup.png" alt="VxScan case open on top of the expanded ballot box, screen off, poll worker door and ballot box door closed" width="375"><figcaption><p>VxScan</p></figcaption></figure> <figure><img src=".gitbook/assets/photo-vxmarkscan-full-setup.png" alt="VxMarkScan assembled in its privacy booth with the controller, headphones, touchscreen, and printer-scanner tray" width="375"><figcaption><p>VxMarkScan</p></figcaption></figure></div>
 
-<figure><img src=".gitbook/assets/VxMark_Image.jpg" alt=""><figcaption><p>VxMark</p></figcaption></figure>
+<figure><img src=".gitbook/assets/photo-vxmark-full-setup.jpg" alt="VxMark in its open case beside an HP LaserJet printer and headphones, screen asking for an election manager card"><figcaption><p>VxMark</p></figcaption></figure>
 
 Voters at the precinct vote on hand-marked paper ballots (bubble ballots) and cast their ballot into VxScan, with the option to instead vote and cast one's ballot on VxMarkScan if requested.
 
@@ -44,11 +44,11 @@ All votes cast using VotingWorks equipment are on paper ballots for security and
     * All absentee voters will receive a hand-marked paper ballot (bubble ballot) that is printed by either a third-party print vendor or an on-demand printer (VxPrint). Absentee ballots are scanned by election administrators using a high-speed central scanner (VxCentralScan) or the precinct scanner (VxScan).
     * Most in-precinct voters will receive a hand-marked paper ballot (bubble ballot) that is printed by either a third-party printer or an on-demand printer (VxPrint) to hand mark. Precinct ballots are scanned by voters using a precinct scanner (VxScan).
 
-    <figure><img src=".gitbook/assets/hmpb-600w.png" alt="" width="300"><figcaption><p>Example hand-marked paper ballot</p></figcaption></figure>
+    <figure><img src=".gitbook/assets/diagram-hmpb-test-ballot-page-1.png" alt="Page 1 of a hand-marked paper test ballot with fill-in ovals, timing marks, and instructions" width="300"><figcaption><p>Example hand-marked paper ballot</p></figcaption></figure>
 * **Machine-marked paper ballot (summary ballot)** (via ballot marking device)
   * In-precinct voters may request to use the tabletop accessible ballot marking device (VxMark), or the free-standing accessible ballot marking device (VxMarkScan), both of which print a voter verifiable paper ballot. The VxMarkScan also includes the capability to deposit the printed ballot into the attached ballot box. Election administrators or poll workers later scan the machine-marked paper ballot at a high-speed central scanner (VxCentralScan).
 
-<figure><img src=".gitbook/assets/bmd-ballot-600w.png" alt="" width="300"><figcaption><p>Example machine-marked paper ballot (summary ballot)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/vxmark-printed-ballot.png" alt="Printed BMD summary ballot listing each contest and the voter's selection in three columns" width="300"><figcaption><p>Example machine-marked paper ballot (summary ballot)</p></figcaption></figure>
 
 
 

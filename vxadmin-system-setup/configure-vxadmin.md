@@ -12,7 +12,7 @@ When VxAdmin is not configured, the screen will prompt you to insert a USB drive
 
 Once configured, the election screen will display the title and date of your election as well as the date and time VxAdmin was configured.
 
-<div><figure><img src="../.gitbook/assets/system-administrator-003-election-screen-unconfigured.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/system-administrator-004-election-screen-select-election-package.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/system-administrator-005-election-screen-configured.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxadmin-election-screen-unconfigured.png" alt="VxAdmin unconfigured Election screen prompting to insert a USB drive containing an election package." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-election-screen-select-election-package.png" alt="VxAdmin Election screen listing an election package file on the USB drive to select for configuration." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-election-screen-configured.png" alt="VxAdmin Election screen showing the configured election with Save Election Package and Unconfigure Machine buttons." width="375"><figcaption></figcaption></figure></div>
 
 ## Remove Election
 
@@ -20,6 +20,6 @@ If you need to change an election package or reset VxAdmin for the next election
 
 Select `Election` from the side menu and select `Unconfigure Machine`.
 
-<div><figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/system-administrator-008-confirm-unconfigure-button.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxadmin-unconfigure-button.png" alt="VxAdmin Election screen as system administrator with the Unconfigure Machine button highlighted." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-confirm-unconfigure-button.png" alt="VxAdmin Unconfigure Machine confirmation dialog with the Delete All Election Data button highlighted." width="375"><figcaption></figcaption></figure></div>
 
 After confirming by selecting `Delete All Election Data` , you will return to the initial VxAdmin `Election` screen. VxAdmin can be reconfigured by loading a new election package by repeating the steps above.

@@ -10,7 +10,7 @@ description: >-
 
 **VxCentralScan** is a commercial off-the-shelf (COTS) laptop pre-installed with VxCentralScan software that connects to a Ricoh scanner.
 
-![VxCentralScan in cases](<../.gitbook/assets/vxcentralscan-in-cases-22_10 (1).png>) ![VxCentralScan set up with fi-8170](../.gitbook/assets/centralscan.jpg)
+![VxCentralScan in cases](../.gitbook/assets/photo-vxcentralscan-in-cases.png) ![VxCentralScan set up with fi-8170](../.gitbook/assets/photo-vxcentralscan-setup.jpg)
 
 Three models of scanner are supported:
 
@@ -34,14 +34,14 @@ Backup power for the scanner is provided by the APC UPS.
    * [ ] Turn on the UPS
    * [ ] Press the power button (e) to turn the scanner on
 
-![Remove scanner and power cord from case](../.gitbook/assets/ricoh-01-4_3.jpeg) ![Attach and pull out paper trays](../.gitbook/assets/ricoh-02-4_3.jpeg) ![Plug cords in](../.gitbook/assets/PXL_20241125_223330294.jpg) ![Press the power button to turn on](../.gitbook/assets/ricoh-03-4_3.jpeg)
+![Remove scanner and power cord from case](../.gitbook/assets/photo-vxcentralscan-scanner-ricoh-fi8170.jpg) ![Attach and pull out paper trays](../.gitbook/assets/photo-vxcentralscan-scanner-trays-labeled.jpg) ![Plug cords in](../.gitbook/assets/photo-vxcentralscan-scanner-rear-ports-labeled.jpg) ![Press the power button to turn on](../.gitbook/assets/photo-vxcentralscan-scanner-power-button-labeled.jpg)
 
 2\. **Set up VxCentralScan laptop:**
 
 * [ ] Remove and document seal(s) as necessary
 * [ ] Open the case by lifting the latches on front
 
-<div align="left"><figure><img src="../.gitbook/assets/image (397).png" alt=""><figcaption><p>Remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/Vxcs case latches.png" alt=""><figcaption><p>Lift the latches</p></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/photo-vxcentralscan-case-seals.png" alt="Closed tan VxCentralScan case with red tamper-evident seals on both latches circled."><figcaption><p>Remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-case-latches.png" alt="Closed tan VxCentralScan case with arrows pointing to the two front latches."><figcaption><p>Lift the latches</p></figcaption></figure></div>
 
 * [ ] **Prepare the components:**
   * [ ] Remove the **laptop**
@@ -50,13 +50,13 @@ Backup power for the scanner is provided by the APC UPS.
   * [ ] Pull the **scanner cord** (c) out and plug into the USB hub and the scanner
   * [ ] Turn the laptop on
 
-![Remove laptop](<../.gitbook/assets/PXL_20241119_220118873 (1).jpg>) ![Remove components](../.gitbook/assets/PXL_20241119_220606004.jpg) ![Plug components in](../.gitbook/assets/centralscan.jpg)
+![Remove laptop](../.gitbook/assets/photo-vxcentralscan-laptop-in-case.jpg) ![Remove components](../.gitbook/assets/photo-vxcentralscan-peripherals-in-case.jpg) ![Plug components in](../.gitbook/assets/photo-vxcentralscan-setup.jpg)
 
 ### Packing Up VxCentralScan
 
 To pack up the VxCentralScan, simply place all of the components back into the case as displayed above and package the batch document scanner. Secure the laptop case as required by sealing the eyelets highlighted below.
 
-<div align="center"><figure><img src="../.gitbook/assets/image (397).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/photo-vxcentralscan-case-seals.png" alt="Closed tan VxCentralScan case with red tamper-evident seals on both latches circled." width="375"><figcaption></figcaption></figure></div>
 
 ## Imprinting
 
