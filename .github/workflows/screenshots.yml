@@ -1,9 +1,10 @@
 # Keeps the screenshots these pages use in step with the screenshot gallery
 # (votingworks/vxsuite-screenshots). Pages reference a screenshot by its ID,
 # as .gitbook/assets/<id>.png; the gallery's sync tool adds a referenced
-# screenshot that is missing and replaces one whose published copy changed
-# visibly (render jitter is ignored). Photos and other images the gallery
-# does not generate are never touched.
+# screenshot that is missing and replaces one that differs from the published
+# copy. The gallery republishes a screen only when it visibly changes, so the
+# copies here stay identical between real changes. Photos and other images
+# the gallery does not generate are never touched.
 #
 # - On a pull request: syncs the screenshots referenced by the pages it
 #   changes, committing to its branch.
