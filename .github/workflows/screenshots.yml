@@ -9,7 +9,9 @@
 # - On a pull request: syncs the screenshots referenced by the pages it
 #   changes, committing to its branch.
 # - On weekdays, or run by hand with no branch: syncs every page into one
-#   "Refresh screenshots" pull request.
+#   "Refresh screenshots" pull request. Its branch, screenshots/refresh, is
+#   rebuilt from main on every run, so don't push to it by hand: a screenshot
+#   that needs changing is changed in the gallery.
 # - Run by hand with a branch: syncs that branch as for a pull request (for
 #   a screenshot published after the branch's last push).
 name: screenshots
