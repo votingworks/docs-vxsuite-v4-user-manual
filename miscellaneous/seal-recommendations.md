@@ -8,7 +8,7 @@ While in storage, VxAdmin, VxCentralScan and VxPrint should be stored in their c
 
 **In Storage:** The scanner should be sealed with seals through each of the eyelets to the right and left of the carrying handle on the case.
 
-**During Voting:**&#x20;
+**During Voting:**
 
 * A seal should be placed through the hole in the security bolt to keep the poll worker door closed and the scanner latched to the ballot box.
 * A seal should be placed through the hasp in the auxiliary bin door when it is not in use.

@@ -44,7 +44,7 @@ Next select `Settings` from the side menu and `Save Logs`. Machine log files are
 
 ### VxScan CVR Files
 
-VxScan CVRs include the VxScan's CVRs and ballot images. The log file contains the logs. To save the VxScan files, [setup the VxScan](../election-day-guides/vxscan-setup.md) without the ballot box and follow the following steps:
+VxScan CVRs include the VxScan's CVRs and ballot images. The log file contains the logs. To save the VxScan files, [set up the VxScan](../election-day-guides/vxscan-setup.md) without the ballot box and follow the following steps:
 
 * [ ] Insert election manager card
 * [ ] Select `CVRs and Logs` from the side menu

@@ -16,13 +16,13 @@ To change the language from English to another language select `English` at the 
 
 Four different color options are available for users. While we provide a short description of who may benefit most from these different options, please note that the user likely knows what setting is best for their disability.
 
-**White text, black background** - used by a person that finds white backgrounds too bright due to visual disabilities. May also be easier to read when room lighting causes a glare on the screen.
+**White text, black background** - used by a person who finds white backgrounds too bright due to visual disabilities. May also be easier to read when room lighting causes a glare on the screen.
 
 **Gray text, dark background** - used by a person needing lower contrast. For example, a person with dyslexia may find the screen quieter.
 
 **Dark text, light background** - as the default this setting will be used by most people.
 
-**Black text, white background** - used by people who need the highest contrast because of light vision or color perception disabilities or aging.
+**Black text, white background** - used by people who need the highest contrast because of low vision or color perception disabilities or aging.
 
 <div><figure><img src="../.gitbook/assets/vxmark-voting-settings-color-1.png" alt="Settings Color tab with White text, black background selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-color-2.png" alt="Settings Color tab with Gray text, dark background selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-color-3.png" alt="Settings Color tab with Dark text, light background selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-color-4.png" alt="Settings Color tab with Black text, white background selected" width="188"><figcaption></figcaption></figure></div>
 

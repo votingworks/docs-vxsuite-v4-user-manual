@@ -4,11 +4,11 @@ Pack up **VxMarkScan** through the following steps:
 
 1. **Pack up the ballot marking device**:
 
-* [ ] Push the power button to turn off. VxMarkScan has shutdown properly once the screen is off and presents no content.
+* [ ] Push the power button to turn off. VxMarkScan has shut down properly once the screen is off and presents no content.
 * [ ] Unplug and store the headphones
 * [ ] Remove and store the privacy shield
 
-<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-power-button.png" alt="Blue arrow pointing to the power button on the underside of VxMarkScan, next to the plugged-in power connector." width="188"><figcaption><p>push power button to turn off</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-headphones-plugged-in.png" alt="Headphones resting beside the accessible controller with their cable plugged into the front headphone jack." width="188"><figcaption><p>unplug and store headphones</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-privacy-shield-installed.png" alt="VxMarkScan on its stand with the privacy shield installed around the screen, controller and printer." width="188"><figcaption><p>remove and store privacy shield</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-power-button.png" alt="Blue arrow pointing to the power button on the back left of VxMarkScan, next to the plugged-in power connector." width="188"><figcaption><p>push power button to turn off</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-headphones-plugged-in.png" alt="Headphones resting beside the accessible controller with their cable plugged into the front headphone jack." width="188"><figcaption><p>unplug and store headphones</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-privacy-shield-installed.png" alt="VxMarkScan on its stand with the privacy shield installed around the screen, controller and printer." width="188"><figcaption><p>remove and store privacy shield</p></figcaption></figure></div>
 
 * [ ] Push the printer-scanner release button to open the cover
 * [ ] Lift the ballot bin to remove

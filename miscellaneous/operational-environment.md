@@ -17,7 +17,7 @@ The voting equipment, when stored in cases, is resistant to light dust and small
 
 As possible, operate VxScan, VxMark, VxMarkScan, and VxCentralScan with power from a UPS battery backup in case of power outages.
 
-## Electrical Service Requirements&#x20;
+## Electrical Service Requirements
 
 * If electrical service is required, the end user should contact VotingWorks instead of attempting any electrical service.
 * Only trained technicians should perform any electrical service on systems that require opening up external panels.

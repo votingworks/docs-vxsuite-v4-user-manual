@@ -13,12 +13,12 @@ Review the warnings and cautions listed below first. Then below that, find speci
 
 1. The user should **never** try to perform complex repairs on VxMark.
 2. The bottom panel is sealed. Seals should **not** be removed by end users. Only VotingWorks should perform repairs that require removing panels.
-3. The VxMark HP4001dn printer performs best when stored at room temperature.  If ever the HP4001dn printer or its toner is stored in hot conditions above 100°F for more than 4 hours, the toner should be replaced for optimal function.  If ever the HP4001dn printer is stored in cold conditions below 60°F, avoid suddenly bringing it up to warmer temperatures and using it, and instead let it sit at room temperature as long as possible before printing with it. &#x20;
+3. The VxMark HP4001dn printer performs best when stored at room temperature.  If ever the HP4001dn printer or its toner is stored in hot conditions above 100°F for more than 4 hours, the toner should be replaced for optimal function.  If ever the HP4001dn printer is stored in cold conditions below 60°F, avoid suddenly bringing it up to warmer temperatures and using it, and instead let it sit at room temperature as long as possible before printing with it.
 
 {% hint style="info" %}
-If ever the HP4001dn printer must be operated at cold temperatures below 60°F for more than an hour, then to preserve print quality the printer settings must be configured as follows using the menu buttons in the front of the printer:&#x20;
+If ever the HP4001dn printer must be operated at cold temperatures below 60°F for more than an hour, then to preserve print quality the printer settings must be configured as follows using the menu buttons in the front of the printer:
 
-**`Main Menu → Setup → Tray Management → Default Paper Type → Mid-Weight 96-110g`**&#x20;
+**`Main Menu → Setup → Tray Management → Default Paper Type → Mid-Weight 96-110g`**
 
 No other printer menu settings should be altered.  This setting may be returned to the default settings if using the printer again at typical warmer temperatures.
 {% endhint %}

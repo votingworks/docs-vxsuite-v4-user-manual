@@ -6,7 +6,7 @@ Follow the [vxcentralscan-hardware-setup.md](vxcentralscan-hardware-setup.md "me
 
 ## Scan Ballot Batches
 
-Before scanning the first batch of ballots, confirm that VxCentralScan does not have a yellow test mode banner at the top and displays zeroes under "Total Batches" and "Total Sheets." If the test mode banner is present, go to `Settings` to switch to official ballot mode. If the counts are not zero, you may go to `Batch History` and select `Delete All Batches`.&#x20;
+Before scanning the first batch of ballots, confirm that VxCentralScan does not have a yellow test mode banner at the top and displays zeroes under "Total Batches" and "Total Sheets." If the test mode banner is present, go to `Settings` to switch to official ballot mode. If the counts are not zero, you may go to `Batch History` and select `Delete All Batches`.
 
 <figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-empty-batch-stats-highlight.png" alt="Scan Ballots screen ready to scan with the Total Batches and Total Sheets counters highlighted" width="375"><figcaption></figcaption></figure>
 
@@ -26,7 +26,7 @@ Once the input tray is empty, you will have the option to save the batch, discar
 
 * **Save Batch** - Finalizes the batch and its CVRs. This is the most common choice.
 * **Continue Scanning** - Continues scanning with any ballots added to the input tray. This is typically used when a batch is too large to fit in the input tray and must be split into multiple loads.
-* **Discard Batch** - Erases all data related to the batch. Use this if the batch needs to be rescanned or was scanned accidentally.&#x20;
+* **Discard Batch** - Erases all data related to the batch. Use this if the batch needs to be rescanned or was scanned accidentally.
 
 <figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-batch-complete.png" alt="Scan Ballots screen paused with input tray empty and Save Batch, Continue Scanning, Discard Batch" width="375"><figcaption></figcaption></figure>
 
@@ -38,13 +38,13 @@ If you find an issue with a batch after it has been saved, it can be deleted fro
 
 ## Handle Ballots Needing Attention
 
-VxCentralScan will stop scanning and present a review screen if a ballot needs attention. The review screen will display an image of the scanned ballot sheet, the reason why scanning was stopped, and confirm that this ballot sheet has not been tabulated yet. There are two reasons VxCentralScan might stop on a ballot: the ballot needs adjudication or the ballot could not be accepted.&#x20;
+VxCentralScan will stop scanning and present a review screen if a ballot needs attention. The review screen will display an image of the scanned ballot sheet, the reason why scanning was stopped, and confirm that this ballot sheet has not been tabulated yet. There are two reasons VxCentralScan might stop on a ballot: the ballot needs adjudication or the ballot could not be accepted.
 
 ### Ballots Needing Adjudication
 
 VxCentralScan may be configured to stop on ballots requiring adjudication for any combination of these reasons: overvotes, blank ballots, undervotes, or marginal marks.
 
-When the scanner stops, remove the last ballot sheet scanned from the scanner output tray and confirm it matches the ballot sheet displayed onscreen. Once removed, follow your jurisdiction's review requirements. If the ballot needs to be reviewed by someone not operating the scanner or needs to be duplicated to be tabulated properly, select `Confirm Ballot Removed`. If the ballot should be tabulated as-is, meaning that overvoted contests and marginal marks will be ignored but any other valid votes will be counted, select `Tabulate Ballot`.&#x20;
+When the scanner stops, remove the last ballot sheet scanned from the scanner output tray and confirm it matches the ballot sheet displayed onscreen. Once removed, follow your jurisdiction's review requirements. If the ballot needs to be reviewed by someone not operating the scanner or needs to be duplicated to be tabulated properly, select `Confirm Ballot Removed`. If the ballot should be tabulated as-is, meaning that overvoted contests and marginal marks will be ignored but any other valid votes will be counted, select `Tabulate Ballot`.
 
 <div><figure><img src="../.gitbook/assets/vxcentralscan-adjudication-overvote.png" alt="Ballot Not Counted screen for an overvote with the Mayor contest highlighted on the ballot" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxcentralscan-adjudication-blank-ballot.png" alt="Ballot Not Counted screen for a blank ballot with Confirm Ballot Removed and Tabulate Ballot" width="375"><figcaption></figcaption></figure></div>
 
@@ -66,7 +66,7 @@ The ballot also might be rejected because it doesn't match how the scanner is co
 
 ## Imprinting
 
-Imprinters are an optional add-on for VxCentralScan's COTS scanners - see [VxCentralScan Hardware Setup > Imprinting](vxcentralscan-hardware-setup.md#imprinting) for additional details. If an imprinter is installed, an audit ID will be printed on the edge of each ballot sheet. The audit ID is a shortened version of the batch ID plus the number of the ballot within the batch.&#x20;
+Imprinters are an optional add-on for VxCentralScan's COTS scanners - see [VxCentralScan Hardware Setup > Imprinting](vxcentralscan-hardware-setup.md#imprinting) for additional details. If an imprinter is installed, an audit ID will be printed on the edge of each ballot sheet. The audit ID is a shortened version of the batch ID plus the number of the ballot within the batch.
 
 Before scanning ballots, ideally during logic and accuracy testing, ensure the imprinter is properly aligned such that it prints on the edge of the ballot by scanning a test sheet.
 

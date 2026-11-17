@@ -10,7 +10,7 @@ Part of the Precinct System, VxMarkScan is a free-standing accessible ballot mar
 
 * [ ] With the legs facing up, raise a leg until it snaps in place
 * [ ] Continue until all legs are raised
-* [ ] Flip the stand up right
+* [ ] Flip the stand upright
 
 <div><figure><img src="../.gitbook/assets/photo-vxmarkscan-stand-raise-leg.png" alt="Hand raising one leg of the folded VxMarkScan stand until it snaps in place" width="188"><figcaption><p>Raise leg to snap in place</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-stand-one-leg-raised.png" alt="The VxMarkScan stand on the floor with one leg raised and snapped into place." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-stand-all-legs-raised.png" alt="VxMarkScan stand base with all four legs raised and snapped into place" width="188"><figcaption><p>All legs in place</p></figcaption></figure></div>
 
@@ -49,7 +49,7 @@ Part of the Precinct System, VxMarkScan is a free-standing accessible ballot mar
 * [ ] Plug the headphones into the front headphone jack
 * [ ] Push the power button to turn VxMarkScan on
 
-<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-headphones-plugged-in.png" alt="Headphones resting beside the accessible controller with their cable plugged into the front headphone jack." width="188"><figcaption><p>Plug the headphones in</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-power-button.png" alt="Blue arrow pointing to the power button on the underside of VxMarkScan, next to the plugged-in power connector." width="375"><figcaption><p>Push the power button to turn on</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-headphones-plugged-in.png" alt="Headphones resting beside the accessible controller with their cable plugged into the front headphone jack." width="188"><figcaption><p>Plug the headphones in</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-power-button.png" alt="Blue arrow pointing to the power button on the back left of VxMarkScan, next to the plugged-in power connector." width="375"><figcaption><p>Push the power button to turn on</p></figcaption></figure></div>
 
 The VxMarkScan is set up.
 

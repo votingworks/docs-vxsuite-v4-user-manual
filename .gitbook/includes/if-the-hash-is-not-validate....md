@@ -1,5 +1,5 @@
 ---
-title: If the hash is not validate...
+title: If the hash is not validated...
 ---
 
 {% hint style="warning" %}

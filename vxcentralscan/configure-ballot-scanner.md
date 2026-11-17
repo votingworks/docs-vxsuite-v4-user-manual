@@ -37,7 +37,7 @@ The `Scan Ballots` page should show zeroes for "Total Batches" and "Total Sheets
 
 #### Polling Places
 
-There's usually no need to set the polling place on VxCentralScan. For most jurisdictions, it will default to an absentee polling place like "Central Scanning" or "Absentee Voting" that covers all precincts in the jurisdictions. If VxCentralScan must be limited to certain precincts, the election manager should select a different polling place from the dropdown. If ballots outside the selected polling place are scanned, VxCentralScan will stop on those ballots and will not allow tabulating them. The polling place cannot be changed once ballots have been scanned.
+There's usually no need to set the polling place on VxCentralScan. For most jurisdictions, it will default to an absentee polling place like "Central Scanning" or "Absentee Voting" that covers all precincts in the jurisdiction. If VxCentralScan must be limited to certain precincts, the election manager should select a different polling place from the dropdown. If ballots outside the selected polling place are scanned, VxCentralScan will stop on those ballots and will not allow tabulating them. The polling place cannot be changed once ballots have been scanned.
 
 ## Remove Election
 
