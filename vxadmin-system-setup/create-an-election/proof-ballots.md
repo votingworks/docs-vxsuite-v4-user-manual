@@ -2,11 +2,28 @@
 
 Before finalizing the election, proof every ballot style: check each contest, candidate, and ballot measure against your official sources. You can view proofs on VxAdmin, print them, or save them as PDF files to share for review.
 
-## Ballot Styles
+Select `Proof Ballots` from the side menu. Its tabs are `Ballot Styles` and `Ballot Layout`. Set the ballot layout first, since it affects every ballot.
+
+## Set the Ballot Layout
+
+The ballot layout sets the paper size and density of every ballot in the election.
+
+* [ ] Select the `Ballot Layout` tab
+* [ ] Select `Edit`
+* [ ] Under "Paper Size", select the paper size of your ballot stock
+* [ ] Under "Density", select `Default` or `Compact`
+* [ ] Select `Save`
+
+<div><figure><img src="../../.gitbook/assets/vxadmin-design-ballot-layout.png" alt="Ballot Layout tab showing the paper size options and Default density selected" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/vxadmin-design-ballot-layout-editing.png" alt="Ballot Layout tab in edit mode with 8.5 x 11 inches (Letter) and Default selected and Cancel and Save buttons" width="375"><figcaption></figcaption></figure></div>
+
+The paper sizes are 8.5 x 11 inches (Letter), 8.5 x 14 inches (Legal), and 8.5 x 17, 18, 19, 20, and 22 inches. Paper specifications are in the [Supply List](../../miscellaneous/supply-list.md).
+
+`Compact` fits more on each page. Use it when contests don't fit on the paper size you need.
+
+## Review Ballot Styles
 
 VxAdmin creates a ballot style for each different set of contests, from the precincts' districts and, in a primary, the parties. The `Ballot Styles` tab lists each precinct and split with its ballot style.
 
-* [ ] Select `Proof Ballots` from the side menu
 * [ ] Select the `Ballot Styles` tab
 
 <figure><img src="../../.gitbook/assets/vxadmin-design-ballot-styles.png" alt="Ballot Styles tab listing Precinct 1, Precinct 2, and the two splits of Precinct 3, each with its ballot style and a View Ballot button" width="375"><figcaption></figcaption></figure>
@@ -23,7 +40,7 @@ A precinct or split with no contests shows "No contests assigned". Check its dis
 
 Use the zoom buttons above the ballot to look closely. Select the close button to return to the ballot styles.
 
-If a contest doesn't fit on the page, VxAdmin shows an error instead of the ballot. Choose a longer paper size or `Compact` density on the `Ballot Layout` tab.
+If a contest doesn't fit on the page, VxAdmin shows an error instead of the ballot. Choose a longer paper size or `Compact` density, as described in [Set the Ballot Layout](#set-the-ballot-layout).
 
 <figure><img src="../../.gitbook/assets/vxadmin-design-view-ballot-contest-too-long.png" alt="View Ballot screen with an error that the County Commissioners contest was too long to fit on the page" width="375"><figcaption></figcaption></figure>
 

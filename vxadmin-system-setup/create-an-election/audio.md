@@ -47,4 +47,4 @@ Every item should show audio, and the count under the language menu should read 
 
 Every language must have complete audio before you can finalize the election.
 
-Continue with [Set the Ballot Layout](ballot-layout.md).
+Continue with [Proof Ballots](proof-ballots.md).
