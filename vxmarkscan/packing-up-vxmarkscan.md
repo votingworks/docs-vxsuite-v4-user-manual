@@ -1,6 +1,10 @@
 # Pack Up VxMarkScan
 
-Pack up VxMarkScan through the following steps:
+{% hint style="info" %}
+These steps must be completed by a poll worker.
+{% endhint %}
+
+Pack up VxMarkScan after the polls are closed through the following steps:
 
 1. **Pack up the ballot-marking device (BMD):**
    * [ ] Push the power button to turn off VxMarkScan

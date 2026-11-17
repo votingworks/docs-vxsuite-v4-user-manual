@@ -39,7 +39,7 @@ Audio is always on by default when headphones are plugged in. Instructions for a
 
 Select `Mute Audio` to mute all sound. Select `Enable Audio-Only Mode` to hide the screen. Voters using only audio to navigate through the ballot may want to hide the screen for privacy. Additionally, a voter who has a T-coil neckloop may unplug the headphones and plug that device into the headphone jack.
 
-Sanitize headphones after a voting session using the audio-tactile interface. To do so, discard the headphone ear covers and replace with a new set of ear covers.
+Sanitize headphones after a voting session using the audio-tactile interface. To do so, discard the headphone ear covers and replace with a new set of ear covers. Disposable ear covers suitable for VxMark are listed in the [Supply List](../miscellaneous/supply-list.md "mention").
 
 <div><figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-audio.png" alt="Voter Settings screen on the Audio tab with mute, volume, rate of speech, and audio-only mode controls" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-audio-only-mode.png" alt="Audio-Only Mode screen with an Exit Audio-Only Mode button" width="188"><figcaption></figcaption></figure></div>
 

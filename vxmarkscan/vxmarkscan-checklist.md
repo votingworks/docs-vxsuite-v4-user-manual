@@ -32,8 +32,8 @@
 * [ ] Insert the poll worker card into the card reader beneath the accessible controller
 * [ ] Select `Open Polls`
 * [ ] Confirm by selecting `Open Polls` again
-* [ ] Remove the poll worker card
 * [ ] Verify the number of ballots printed is zero
+* [ ] Remove the poll worker card
 
 ### Activate a Voting Session
 
@@ -43,13 +43,13 @@
 
 Once the sheet is loaded, the screen shows that the voting session is active.
 
-* [ ] Review the ballot style and precinct to ensure it was selected correctly for the voter
+* [ ] Review the precinct and ballot style to ensure it was selected correctly for the voter
 * [ ] Remove the poll worker card
 
 ### Close the Polls
 
 * [ ] Remove ballot bin seal
-* [ ] Remove ballots inside (secure for central tabulation on VxCentralScan)
+* [ ] Remove ballots inside (secure for tabulation on VxCentralScan)
 * [ ] Insert the poll worker card
 * [ ] Select `Close Polls`
 * [ ] Confirm by selecting `Close Polls` again

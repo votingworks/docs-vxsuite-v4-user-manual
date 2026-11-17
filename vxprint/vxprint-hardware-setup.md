@@ -6,6 +6,8 @@ VxPrint is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWor
 
 ## Set Up VxPrint
 
+VxPrint can be set up through the following steps:
+
 1. **Unbox and set up the printer:**
    * [ ] Remove the printer and power cord from the case
    * [ ] Plug the power cord into the back of the printer
@@ -16,8 +18,8 @@ VxPrint is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWor
    <div><figure><img src="../.gitbook/assets/photo-printer-in-case.png" alt="HP LaserJet printer and its power cord packed in the open grey soft carrying case." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-printer-power-cord-port.png" alt="Rear of the HP LaserJet printer with the power cord socket circled." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-printer-power-button.png" alt="Front of the HP LaserJet Pro M404n printer with the power button circled." width="188"><figcaption></figcaption></figure></div>
 
 2. **Set up the VxPrint laptop:**
+   * [ ] Remove and document seals as necessary
    * [ ] Remove the laptop from the case
-   * [ ] Document seals as necessary
    * [ ] Pull the power cord (A) out and plug into the laptop and an outlet
    * [ ] Pull the USB hub (B) out and plug into the laptop
    * [ ] Pull the printer cord (C) out and plug into the USB hub and the printer

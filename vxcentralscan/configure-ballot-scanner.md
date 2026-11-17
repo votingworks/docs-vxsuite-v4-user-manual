@@ -21,7 +21,7 @@ Once the election package is saved to a USB drive, you can load the file to VxCe
 
 <div><figure><img src="../.gitbook/assets/vxcentralscan-unconfigured-screen.png" alt="Unconfigured screen asking to insert an election manager card to configure VxCentralScan" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-laptop-insert-smart-card.png" alt="Hand inserting a System Administrator smart card, chip first, into the laptop card reader." width="375"><figcaption></figcaption></figure></div>
 
-* [ ] Insert the USB drive with the election package
+* [ ] Insert a USB drive with the election package saved from VxAdmin
 
 The election package loads automatically.
 
@@ -33,6 +33,12 @@ VxCentralScan is now configured and in test ballot mode. The election summary in
 
 <figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-test-mode-election-info-highlight.png" alt="VxCentralScan Scan Ballots screen in test ballot mode with the election info panel highlighted." width="375"><figcaption></figcaption></figure>
 
+## Select a Polling Place
+
+There's usually no need to set the polling place on VxCentralScan. For most jurisdictions, it defaults to an absentee polling place like "Central Scanning" or "Absentee Voting" that covers all precincts in the jurisdiction. If VxCentralScan must be limited to certain precincts, select a different polling place from the dropdown. If ballots outside the selected polling place are scanned, VxCentralScan stops on those ballots and doesn't allow tabulating them. The polling place cannot be changed once ballots have been scanned.
+
+## Set the Ballot Mode
+
 When testing is complete, switch VxCentralScan to official ballot mode on the `Settings` screen:
 
 <figure><img src="../.gitbook/assets/vxcentralscan-em-settings-official-ballot-mode-button.png" alt="VxCentralScan Settings screen in test ballot mode with the Official Ballot Mode toggle highlighted." width="375"><figcaption></figcaption></figure>
@@ -41,13 +47,9 @@ The `Scan Ballots` page should show zeroes for "Total Batches" and "Total Sheets
 
 <figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-empty-batch-stats-highlight.png" alt="Scan Ballots screen ready to scan with the Total Batches and Total Sheets counters highlighted" width="375"><figcaption></figcaption></figure>
 
-### Polling Places
+## Remove Configuration and Election Data
 
-There's usually no need to set the polling place on VxCentralScan. For most jurisdictions, it defaults to an absentee polling place like "Central Scanning" or "Absentee Voting" that covers all precincts in the jurisdiction. If VxCentralScan must be limited to certain precincts, select a different polling place from the dropdown. If ballots outside the selected polling place are scanned, VxCentralScan stops on those ballots and doesn't allow tabulating them. The polling place cannot be changed once ballots have been scanned.
-
-## Remove Election
-
-To remove an election package and reset VxCentralScan:
+To remove the election configuration and all election data from VxCentralScan:
 
 * [ ] Insert an election manager card
 * [ ] Select `Settings` from the side menu
@@ -56,8 +58,8 @@ To remove an election package and reset VxCentralScan:
 
 <div><figure><img src="../.gitbook/assets/vxcentralscan-em-settings-unconfigure-machine-button.png" alt="VxCentralScan Settings screen with the Unconfigure Machine button highlighted." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxcentralscan-em-settings-confirm-unconfigure-button.png" alt="Unconfigure Machine dialog with the Delete All Election Data button highlighted" width="375"><figcaption></figcaption></figure></div>
 
-You can now reconfigure VxCentralScan with a different election package.
+You can now configure VxCentralScan with a different election package.
 
 {% hint style="info" %}
-VxCentralScan may also be unconfigured with a system administrator card.
+The system administrator card can also be used to unconfigure the machine, which may be useful if the election manager card for a previous election is no longer available.
 {% endhint %}

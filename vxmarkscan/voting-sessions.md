@@ -8,7 +8,7 @@ A voter may bring their own personal assistive technology (PAT) device (e.g., je
 
 {% include "../.gitbook/includes/sanitizing-headphones-instructions.md" %}
 
-If a voter chooses to use VxMarkScan:
+To start a new voting session on VxMarkScan:
 
 * [ ] Insert a poll worker card into the card reader beneath the accessible controller
 * [ ] Select the voter's ballot style

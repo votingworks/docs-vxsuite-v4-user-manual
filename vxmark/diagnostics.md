@@ -14,6 +14,8 @@ The diagnostics screen shows information about how the machine is configured, ho
 
 ## Readiness Report
 
-The readiness report can be used as a record of system diagnostic verification. Select `Save Readiness Report` to save a copy to a USB drive.
+The readiness report can be used as a record of system diagnostic verification.
+
+* [ ] Select `Save Readiness Report` to save a copy to a USB drive
 
 <div><figure><img src="../.gitbook/assets/vxmark-readiness-report.png" alt="Printed VxMark Readiness Report listing configuration, storage, printer and accessory status." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-readiness-report-page2.png" alt="Readiness report page two showing the Uninterruptible Power Supply section with no test on record" width="375"><figcaption></figcaption></figure></div>

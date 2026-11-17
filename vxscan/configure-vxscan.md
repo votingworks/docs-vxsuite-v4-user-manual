@@ -4,12 +4,12 @@
 These steps must be completed by an election manager.
 {% endhint %}
 
-Before you configure VxScan, set up the machine with the [Set Up VxScan](../election-day-guides/vxscan-setup.md "mention") guide.
+Before you configure VxScan, you must set up the machine. Follow the steps in [Set Up VxScan](../election-day-guides/vxscan-setup.md "mention").
 
 To configure VxScan, you must do two things in VxAdmin:
 
-* [ ] Save the election package to a USB drive ([Save the Election Package](../vxadmin-system-setup/save-election-package.md "mention"))
-* [ ] Create an election manager card ([Smart Cards and User Roles](../vxadmin-system-setup/programming-cards.md "mention"))
+* [ ] Save the election package to a USB drive (see [Save the Election Package](../vxadmin-system-setup/save-election-package.md "mention"))
+* [ ] Create an election manager card (see [Smart Cards and User Roles](../vxadmin-system-setup/programming-cards.md "mention"))
 
 ## Load the Election Package
 
@@ -24,33 +24,33 @@ An unconfigured machine prompts you to insert an election manager card to log in
 Only one USB drive should be plugged into VxScan at a time. The other USB port is designed as a backup in the event of a failure.
 {% endhint %}
 
-After you insert the USB drive, VxScan automatically begins loading all ballot styles for the election. After the election package is done loading, the election manager menu is displayed and VxScan is in test ballot mode.
+After the USB drive is inserted, VxScan automatically begins loading all ballot styles for the election. After the election package is done loading, the election manager menu appears and VxScan is in test ballot mode.
 
 <figure><img src="../.gitbook/assets/vxscan-em-election-manager-menu.png" alt="VxScan election manager Configuration tab after loading the election package" width="375"><figcaption></figcaption></figure>
 
-To finish configuring VxScan:
+## Select a Polling Place
 
-* [ ] Select a polling place
+Use the `Select a polling place...` dropdown to choose a polling place.
 
-Jurisdictions with only one polling place skip this step.
+{% hint style="info" %}
+If your election package defines only one polling place, there is no need to select one and the `Select a polling place...` dropdown isn't visible.
+{% endhint %}
 
 ## Set the Ballot Mode
 
-The machine must be in official ballot mode on election day. Review the [L\&A Overview](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md "mention") instructions to understand which mode to use during logic and accuracy (L&A) testing.
-
-* [ ] Use the toggle button to switch between `Test Ballot Mode` and `Official Ballot Mode`
+Use the toggle button to switch between `Test Ballot Mode` and `Official Ballot Mode`. The machine must be in official ballot mode on election day. Review the [L\&A Overview](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md "mention") instructions to understand which mode to use during logic and accuracy (L&A) testing.
 
 <figure><img src="../.gitbook/assets/vxscan-em-official-ballot-mode-button.png" alt="VxScan election manager Configuration tab with the Official Ballot Mode button highlighted" width="375"><figcaption></figcaption></figure>
 
-## Remove the Election Configuration
+## Remove Configuration and Election Data
 
-There are two ways to remove the election configuration and all scanned ballot data.
+There are two ways to remove the election configuration and all election data from VxScan.
 
 ### Remove as an Election Manager
 
 * [ ] Insert an election manager card
 * [ ] Select `Unconfigure Machine`
-* [ ] Select `Delete All Election Data` to confirm
+* [ ] Confirm by selecting `Delete All Election Data`
 
 <div><figure><img src="../.gitbook/assets/vxscan-em-unconfigure-machine-button.png" alt="VxScan election manager Configuration tab with the Unconfigure Machine button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-em-unconfigure-machine-modal.png" alt="VxScan election manager Unconfigure Machine dialog with Cancel and Delete All Election Data" width="375"><figcaption></figcaption></figure></div>
 
@@ -60,7 +60,7 @@ You can now configure VxScan with a different election package.
 
 * [ ] Insert a system administrator card
 * [ ] Select `Unconfigure Machine`
-* [ ] Select `Delete All Election Data` to confirm
+* [ ] Confirm by selecting `Delete All Election Data`
 
 <figure><img src="../.gitbook/assets/vxscan-sa-unconfigure-machine-button.png" alt="VxScan System Administrator Menu with the Unconfigure Machine button highlighted" width="375"><figcaption></figcaption></figure>
 

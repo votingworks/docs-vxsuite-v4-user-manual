@@ -21,7 +21,10 @@ The picture above shows someone inserting a system administrator card into the l
 
 ## Load the Election Package
 
-After you log in with an election manager card, VxPrint prompts you to insert a USB drive with the election package saved from VxAdmin.
+An unconfigured machine prompts you to insert an election manager card to log in and then insert a USB drive with the election package saved from VxAdmin.
+
+* [ ] Insert an election manager card
+* [ ] Insert a USB drive with the election package saved from VxAdmin
 
 After the USB drive is inserted, VxPrint automatically begins loading all ballot styles for the election. After the election package is done loading, the election information appears.
 
@@ -29,14 +32,14 @@ After the USB drive is inserted, VxPrint automatically begins loading all ballot
 
 ## Select a Polling Place
 
-If the election has more than one polling place, an election manager must select one before VxPrint can print ballots. Until a polling place is selected, VxPrint prompts you to insert an election manager card to select a polling place. From the `Election` screen, use the `Select a Polling Place...` dropdown to choose the polling place for the device.
+If the election has more than one polling place, an election manager must select one before VxPrint can print ballots. Until a polling place is selected, VxPrint prompts you to insert an election manager card to select a polling place. From the `Election` screen, use the `Select a polling place...` dropdown to choose the polling place for the device.
 
 The selected polling place limits which ballot styles poll workers can print. Election managers can always print any ballot style.
 
 <figure><img src="../.gitbook/assets/vxprint-em-polling-place-dropdown.png" alt="VxPrint Election screen with the polling place dropdown open listing precincts" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If your election package defines only one polling place, it is selected automatically and the `Select a Polling Place...` dropdown isn't visible.
+If your election package defines only one polling place, it is selected automatically and the `Select a polling place...` dropdown isn't visible.
 {% endhint %}
 
 ## Set the Ballot Mode
@@ -53,18 +56,18 @@ Remember to switch VxPrint back to official ballot mode after logic and accuracy
 
 ## Remove Configuration and Election Data
 
-To remove election configuration (and all data) from VxPrint:
+To remove the election configuration and all election data from VxPrint:
 
-* [ ] Log in with an election manager card
+* [ ] Insert an election manager card
 * [ ] Select `Unconfigure Machine`
 * [ ] Confirm by selecting `Delete All Election Data`
 
 <div><figure><img src="../.gitbook/assets/vxprint-em-election-unconfigure-highlighted.png" alt="VxPrint Election screen with the Unconfigure Machine button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxprint-em-unconfigure-modal.png" alt="VxPrint Unconfigure Machine dialog with the Delete All Election Data button highlighted" width="375"><figcaption></figcaption></figure></div>
 
-You can now re-configure VxPrint with a different election package.
+You can now configure VxPrint with a different election package.
 
 {% hint style="info" %}
-The system administrator card also can be used to unconfigure a machine, which may be useful if the election manager card for a previous election is no longer available.
+The system administrator card can also be used to unconfigure the machine, which may be useful if the election manager card for a previous election is no longer available.
 {% endhint %}
 
 ## System Administrator Settings <a href="#system-administrator-settings" id="system-administrator-settings"></a>

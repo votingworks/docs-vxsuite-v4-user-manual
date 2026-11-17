@@ -6,7 +6,7 @@ These steps must be completed by a poll worker.
 
 Close the polls on VxScan at the end of voting to print the polls closed report.
 
-* [ ] Insert the poll worker card
+* [ ] Insert the poll worker card into the card reader
 * [ ] Select `Close Polls`
 
 The polls closed report prints.

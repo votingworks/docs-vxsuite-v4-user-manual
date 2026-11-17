@@ -8,7 +8,7 @@ Poll workers can pause and resume voting on VxScan and print additional copies o
 
 ## Pause or Resume Voting
 
-The `Pause Voting` action in the poll worker screen is generally used by jurisdictions conducting early voting over multiple days or during an emergency situation. To pause voting and prevent ballots from being cast at VxScan:
+The `Pause Voting` action is generally used by jurisdictions conducting early voting over multiple days or during an emergency situation. To pause voting and prevent ballots from being cast at VxScan:
 
 * [ ] Insert a poll worker card and select `Menu`
 * [ ] Select `Pause Voting`
@@ -29,7 +29,7 @@ Voting is now paused. To resume voting:
 * [ ] Select `Reprint Voting Resumed Report` to print more reports as necessary
 * [ ] Remove the poll worker card
 
-The polls are now open.
+Voting can now continue.
 
 ## Print Previous Reports
 

@@ -8,7 +8,7 @@ A voter may bring their own personal assistive technology (PAT) device (e.g., je
 
 {% include "../.gitbook/includes/sanitizing-headphones-instructions.md" %}
 
-In order to start a new voting session on VxMark:
+To start a new voting session on VxMark:
 
 * [ ] Insert a poll worker card into the card reader in the back right
 * [ ] Select the voter's ballot style
@@ -24,7 +24,7 @@ If the wrong ballot style or precinct was selected, insert the poll worker card 
 
 Let the voter know they can begin voting by selecting `Start Voting`.
 
-One contest will display at a time. The voter selects the candidate(s) of their choice. The voter moves to the next contest by selecting `Next`. The voter can skip a contest by selecting `Next` without making a selection. To return to a previous contest, select `Back`. A `More` button displays if there are more candidates or text than fit on a single screen.
+One contest will display at a time. The voter selects the candidate(s) of their choice. The voter moves to the next contest by selecting `Next`. The voter can skip a contest by selecting `Next` without making a selection. To return to a previous contest, select `Back`. A `More` button displays if there are more candidates or text than fit on a single screen. The `View All` button can be used to jump to a review screen summarizing all contest selections, described in greater detail below.
 
 <div><figure><img src="../.gitbook/assets/vxmark-voting-start-screen.png" alt="Voting start screen showing the election name, polling place and a Start Voting button" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-single-seat-selection.png" alt="Mayor contest screen with Thomas Edison selected and zero votes remaining" width="188"><figcaption></figcaption></figure></div>
 

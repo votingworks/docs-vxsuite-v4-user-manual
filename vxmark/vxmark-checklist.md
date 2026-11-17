@@ -21,7 +21,7 @@
 
 ## Open Polls, Activate Voting Session, and Close Polls
 
-### To Open the Polls
+### Open the Polls
 
 * [ ] Insert the poll worker card into the card reader in the back right
 * [ ] Select `Open Polls`
@@ -29,13 +29,13 @@
 * [ ] Verify the number of ballots printed is zero
 * [ ] Remove the poll worker card
 
-### To Activate a Voting Session
+### Activate a Voting Session
 
 * [ ] Insert a poll worker card into the card reader in the back right
 * [ ] Select the voter's ballot style
 * [ ] Remove the poll worker card to begin the voting session
 
-### To Close the Polls
+### Close the Polls
 
 * [ ] Insert the poll worker card into the card reader in the back right
 * [ ] Select `Close Polls`
@@ -44,14 +44,14 @@
 
 ## Pause Voting and Resume Voting
 
-### To Pause Voting
+### Pause Voting
 
 * [ ] Insert the poll worker card into the card reader in the back right
 * [ ] Select `Pause Voting`
 * [ ] Confirm by selecting `Pause Voting` again
 * [ ] Remove the poll worker card
 
-### To Resume Voting
+### Resume Voting
 
 * [ ] Insert the poll worker card into the card reader in the back right
 * [ ] Select `Resume Voting`
@@ -60,7 +60,7 @@
 
 ## Hardware Tear Down
 
-### Pack Up the VxMark
+### Pack Up VxMark
 
 * [ ] First, power down VxMark with the `Power Down` button in the poll worker menu
 * [ ] Unplug the VxMark power cable from the outlet

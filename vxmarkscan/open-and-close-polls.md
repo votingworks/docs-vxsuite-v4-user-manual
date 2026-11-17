@@ -12,7 +12,7 @@ After VxMarkScan is turned on, the screen shows "Polls Closed":
 
 <figure><img src="../.gitbook/assets/vxmarkscan-unauthenticated-polls-closed-final.png" alt="VxMarkScan Polls Closed screen with election name and precinct in the footer" width="188"><figcaption></figcaption></figure>
 
-Verify the election name, election date, and precinct are correct in the bottom left corner.
+Verify the election name, election date, and polling place are correct in the bottom left corner.
 
 {% hint style="warning" %}
 If there is an orange callout that says "Test Ballot Mode" on the screen, contact your election administrator immediately to prepare the machine for the election.
@@ -23,12 +23,12 @@ To open the polls:
 * [ ] Insert the poll worker card into the card reader beneath the accessible controller
 * [ ] Select `Open Polls`
 * [ ] Confirm by selecting `Open Polls` again
-* [ ] Remove the poll worker card
 * [ ] Verify the number of ballots printed is zero
+* [ ] Remove the poll worker card
 
 <div><figure><img src="../.gitbook/assets/photo-vxmarkscan-smart-card-reader.jpg" alt="Smart card reader slot (yellow) in the recess beside the headphones on VxMarkScan." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-open-polls-highlighted.png" alt="VxMarkScan poll worker menu with polls closed and the Open Polls button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-open-polls-modal.png" alt="VxMarkScan Open Polls confirmation dialog with the Open Polls button highlighted" width="188"><figcaption></figcaption></figure></div>
 
-The polls are now open and VxMarkScan is ready for voters.
+The polls are now open and voting can begin.
 
 ## Close Polls on VxMarkScan
 
@@ -41,7 +41,7 @@ The polls are now open and VxMarkScan is ready for voters.
 
 <div><figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-polls-open-close-polls-highlighted.png" alt="VxMarkScan poll worker menu with polls open and the Close Polls button highlighted." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-close-polls-modal.png" alt="VxMarkScan Close Polls confirmation dialog with the Close Polls button highlighted." width="188"><figcaption></figcaption></figure></div>
 
-The polls are now closed.
+The polls are now closed and voting is complete.
 
 ## Pause or Resume Voting
 

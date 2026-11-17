@@ -1,11 +1,21 @@
 # VxPrint Diagnostics
 
-The VxPrint diagnostics interface displays information about the currently configured election, if any, the current battery level and charging status, and the disk space available to the application. For large elections, monitor the disk space to ensure that you don't exceed system storage limits.
+{% hint style="info" %}
+These steps must be completed by a system administrator or an election manager.
+{% endhint %}
+
+In preparation for an election or in response to issues, the diagnostics interface can help verify VxPrint is functioning as expected or pinpoint problems that do arise.
+
+The VxPrint diagnostics screen shows information about the currently configured election, if any, the current battery level and charging status, and the disk space available to the application. For large elections, monitor the disk space to ensure that you don't exceed system storage limits.
 
 The printer status indicates whether the printer is ready to print, in sleep mode, or jammed, in addition to the toner level. You can print a test page with `Print Test Page` to verify the printer is working as expected. After printing the test page, you'll be asked to indicate whether the print was successful or failed. The results of the most recent test are displayed on the diagnostics page. You can repeat the test as many times as needed.
 
 <figure><img src="../.gitbook/assets/vxprint-em-diagnostics-full.png" alt="VxPrint Diagnostics page showing configuration, battery, storage, and printer status with Print Test Page" width="375"><figcaption></figcaption></figure>
 
-The readiness report can be used as a record of system diagnostic verification. Select `Save Readiness Report` to save a copy to a USB drive.
+## Readiness Report
+
+The readiness report can be used as a record of system diagnostic verification.
+
+* [ ] Select `Save Readiness Report` to save a copy to a USB drive
 
 <figure><img src="../.gitbook/assets/vxprint-readiness-report.png" alt="VxPrint readiness report listing configuration, ballot styles, battery, storage, and printer status" width="375"><figcaption></figcaption></figure>

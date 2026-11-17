@@ -4,14 +4,14 @@
 These steps must be completed by a system administrator or an election manager.
 {% endhint %}
 
-The diagnostics interface is used to test hardware before or between elections and monitor the status of the machine. It is accessible from both the election manager and system administrator menus.
+In preparation for an election or in response to issues, the diagnostics interface can help verify VxScan is functioning as expected or pinpoint problems that do arise. It is accessible from both the election manager and system administrator menus.
 
 <div><figure><img src="../.gitbook/assets/vxscan-em-diagnostics.png" alt="VxScan election manager menu with the Diagnostics button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-sa-diagnostics.png" alt="VxScan system administrator menu with the Diagnostics button highlighted" width="375"><figcaption></figcaption></figure></div>
 
 The VxScan diagnostics screen shows information about how the machine is configured, how much storage is left on the device, and the current status of the scanner and printer. Prior to each election, walk through each test to verify each component is in working order. During normal operations, if one of the components fails, VxScan displays an error message on screen.
 
 * [ ] Select `Perform Test Scan`
-* [ ] Insert a blank sheet of paper when prompted
+* [ ] When prompted, insert a blank sheet of paper
 
 This test verifies the scanner is clean and ballot images are clear. If the test fails, you'll be prompted to clean the scanner. The test also fails if the sheet is not blank.
 
@@ -27,6 +27,8 @@ The test page checks that the paper roll is installed properly. If the paper rol
 The most recent test result for each piece of hardware is shown on the diagnostics screen and included in the readiness report.
 
 <figure><img src="../.gitbook/assets/vxscan-em-diagnostics-full.png" alt="Full VxScan Diagnostics page with configuration, storage, scanner, printer, speaker, and UPS sections" width="375"><figcaption></figcaption></figure>
+
+## Readiness Report
 
 The readiness report can be used as a record of system diagnostic verification.
 

@@ -1,6 +1,12 @@
 # VxCentralScan Diagnostics
 
-The VxCentralScan diagnostics interface displays information about the currently configured election, if any, the current battery level and charging status, and the disk space available to the application. For large elections, monitor the disk space to ensure that you don't exceed system storage limits. The uninterruptible power supply test asks you to confirm that the scanner's uninterruptible power supply is connected and fully charged.
+{% hint style="info" %}
+These steps must be completed by a system administrator or an election manager.
+{% endhint %}
+
+In preparation for an election or in response to issues, the diagnostics interface can help verify VxCentralScan is functioning as expected or pinpoint problems that do arise.
+
+The VxCentralScan diagnostics screen shows information about the currently configured election, if any, the current battery level and charging status, and the disk space available to the application. For large elections, monitor the disk space to ensure that you don't exceed system storage limits. The uninterruptible power supply test asks you to confirm that the scanner's uninterruptible power supply is connected and fully charged.
 
 The scanner status indicates whether the scanner is connected or not. To test the scanner:
 
@@ -11,6 +17,10 @@ This test verifies the scanner is clean and ballot images are clear. If the test
 
 <figure><img src="../.gitbook/assets/vxcentralscan-diagnostics-screen.png" alt="Diagnostics screen with configuration, battery, storage, UPS and scanner status" width="375"><figcaption></figcaption></figure>
 
-The readiness report can be used as a record of system diagnostic verification. Select `Save Readiness Report` to save a copy to a USB drive.
+## Readiness Report
+
+The readiness report can be used as a record of system diagnostic verification.
+
+* [ ] Select `Save Readiness Report` to save a copy to a USB drive
 
 <figure><img src="../.gitbook/assets/vxcentralscan-readiness-report.png" alt="VxCentralScan Readiness Report listing configuration, battery, storage, UPS and scanner checks" width="375"><figcaption></figcaption></figure>

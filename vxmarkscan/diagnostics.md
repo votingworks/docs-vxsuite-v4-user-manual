@@ -20,6 +20,8 @@ If the headphone or PAT test fails, try to unplug and replug the device and try 
 
 ## Readiness Report
 
-The readiness report can be used as a record of system diagnostic verification. Select `Save Readiness Report` to save a copy to a USB drive.
+The readiness report can be used as a record of system diagnostic verification.
+
+* [ ] Select `Save Readiness Report` to save a copy to a USB drive
 
 <figure><img src="../.gitbook/assets/vxmarkscan-readiness-report.png" alt="VxMarkScan readiness report listing configuration, storage, and hardware status" width="375"><figcaption></figcaption></figure>
