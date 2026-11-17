@@ -8,8 +8,8 @@ Before you configure VxMark, you must set up the machine. Follow the [VxMark Har
 
 To configure **VxMark**, you must do two things in **VxAdmin**:
 
-1. [save-election-package.md](../vxadmin-system-setup/save-election-package.md "mention") to a USB drive.
-2. [programming-cards.md](../vxadmin-system-setup/programming-cards.md "mention").
+* [ ] Save the election package to a USB drive (see [save-election-package.md](../vxadmin-system-setup/save-election-package.md "mention"))
+* [ ] Create an election manager card (see [programming-cards.md](../vxadmin-system-setup/programming-cards.md "mention"))
 
 ## Insert Smart Cards and USB Drives
 

@@ -16,7 +16,7 @@ To prepare for an election, complete these steps after you download or receive t
 
 ### VxAdmin
 
-* [ ] Log in with election manager card
+* [ ] Log in with an election manager card
 * [ ] Select `Reports` from the side menu
 * [ ] Select `Full Election Tally Report`
 * [ ] Select `Export Report PDF`
@@ -26,8 +26,8 @@ To prepare for an election, complete these steps after you download or receive t
 
 ### VxScan
 
-* [ ] Set up the VxScan, without the ballot box
-* [ ] Log in with election manager card
+* [ ] Set up VxScan, without the ballot box
+* [ ] Log in with an election manager card
 * [ ] Select `CVRs and Logs` from the side menu
 * [ ] Insert a USB drive
 * [ ] Select `Save CVRs`
@@ -37,56 +37,58 @@ To prepare for an election, complete these steps after you download or receive t
 
 ### VxAdmin
 
-* [ ] Log in with system administrator card
+* [ ] Log in with a system administrator card
 * [ ] Select `Election` from the side menu
 * [ ] Select `Unconfigure Machine`
 
 ### VxScan
 
-* [ ] Log in with election manager card
+* [ ] Log in with an election manager card
 * [ ] Select `Unconfigure Machine`
 
 ## Configure VxAdmin
 
 * [ ] Set up VxAdmin
-* [ ] Log in with system administrator card
+* [ ] Log in with a system administrator card
 * [ ] Insert USB drive containing the election package
 * [ ] Select the file name of the correct election package
 * [ ] Verify the title and date of election are correct
-* [ ] Select `Settings` from the side menu and verify the current time and date are correct
-* [ ] Lock VxAdmin (skip if continuing to the next section)
+* [ ] Select `Settings` from the side menu
+* [ ] Verify the current time and date are correct
+* [ ] If you're not continuing to the next section, lock VxAdmin
 
 ## Create Election Manager & Poll Worker Cards
 
-* [ ] Log in with system administrator card
+* [ ] Log in with a system administrator card
 * [ ] Select `Smart Cards` from the side menu
 * [ ] Insert card to program into the card reader
 * [ ] Select the correct button for the card you are programming
-* [ ] For election manager cards, record the PIN and keep it secure
-* [ ] Lock VxAdmin (skip if continuing to the next section)
+* [ ] If you're programming an election manager card, record the PIN and keep it secure
+* [ ] If you're not continuing to the next section, lock VxAdmin
 * [ ] Securely store all cards
 
 ## Format USB Drives
 
-* [ ] Log in with system administrator card
-* [ ] Select `Settings` from the side menu and select `Format USB Drive`
+* [ ] Log in with a system administrator card
+* [ ] Select `Settings` from the side menu
+* [ ] Select `Format USB Drive`
 * [ ] Confirm you want to format the USB drive by selecting `Format USB Drive`
 * [ ] Repeat for all USB drives you need to format
-* [ ] Lock VxAdmin (skip if continuing to the next section)
+* [ ] If you're not continuing to the next section, lock VxAdmin
 
 ## Save Election Package
 
-* [ ] Log in with system administrator card
+* [ ] Log in with a system administrator card
 * [ ] Select `Election` from the side menu in VxAdmin
 * [ ] Select `Save Election Package`
-* [ ] Insert USB drive when prompted
+* [ ] When prompted, insert a USB drive
 * [ ] Select `Save`
 * [ ] Select `Eject USB`
-* [ ] After VxAdmin confirms USB ejection, it is safe to remove the USB drive
+* [ ] After VxAdmin confirms the USB drive is ejected, remove the USB drive
 
 ## Configure VxScan
 
-* [ ] Log in with election manager card
+* [ ] Log in with an election manager card
 * [ ] Insert USB drive with the election package from VxAdmin
-* [ ] Select the polling place the VxScan will be assigned to (if applicable)
+* [ ] If applicable, select the polling place VxScan is assigned to
 * [ ] Verify the title and date of election are correct

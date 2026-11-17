@@ -46,9 +46,9 @@ VotingWorks recommends cleaning the screen and USB ports as needed. Clean the sc
 
 To keep a VxScan machine functioning smoothly over many years, VotingWorks recommends servicing it periodically after every 100,000 scans or every 3 years, whichever comes first. At these intervals, the following preventative maintenance tasks can be done:
 
-1. [Clean the scanner glass and rollers](vxscan-maintenance-manual.md#scanner-cleaning). (Can be done by customer)
-2. [Recalibrate the image sensors](../vxscan/scanner-management.md#image-sensor-calibration). (Can be done by customer)
-3. Test the scanner speed. Recalibrate its speed if needed. (Should be done by VotingWorks technician)
+* [ ] [Clean the scanner glass and rollers](vxscan-maintenance-manual.md#scanner-cleaning) (you can do this yourself)
+* [ ] [Recalibrate the image sensors](../vxscan/scanner-management.md#image-sensor-calibration) (you can do this yourself)
+* [ ] Test the scanner speed and recalibrate it if needed (a VotingWorks technician should do this)
 
 Contact VotingWorks support to schedule help with long-term maintenance tasks.
 

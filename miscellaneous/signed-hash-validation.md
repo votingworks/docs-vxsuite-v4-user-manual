@@ -1,6 +1,10 @@
 # Signed Hash Validation
 
-VotingWorks applications provide additional system security by allowing you to confirm the software is the same as the certified version. The feature is available on all machines for every role. On VxAdmin, VxCentralScan, and VxPrint, the `Signed Hash Validation` button is in the "Settings" menu. On VxScan, VxMark, and VxMarkScan, the `Signed Hash Validation` button is on the main menu for each role. Within the VxScan election manager menu, navigate to the "More" tab. After selecting the button, the machine generates the hash and displays it in the form of a QR code.
+VotingWorks applications provide additional system security by allowing you to confirm the software is the same as the certified version. The feature is available on all machines for every role. On VxAdmin, VxCentralScan, and VxPrint, the `Signed Hash Validation` button is in the "Settings" menu. On VxScan, VxMark, and VxMarkScan, the `Signed Hash Validation` button is on the main menu for each role. Within the VxScan election manager menu, navigate to the "More" tab.
+
+* [ ] Select `Signed Hash Validation`
+
+The machine generates the hash and displays it in the form of a QR code.
 
 <figure><img src="../.gitbook/assets/vxscan-pw-signed-hash-validation.png" alt="VxScan Signed Hash Validation modal with a QR code and system hash details opened from the Poll Worker Menu." width="375"><figcaption></figcaption></figure>
 
@@ -8,7 +12,10 @@ VotingWorks applications provide additional system security by allowing you to c
 The image above is taken from a development unit, so it does not have a full system hash.
 {% endhint %}
 
-Navigate to[ https://check.voting.works](https://check.voting.works) on your phone and scan the QR code. The site validates the QR code data and verifies the software is the same as the certified version.
+* [ ] On your phone, navigate to [https://check.voting.works](https://check.voting.works)
+* [ ] Scan the QR code
+
+The site validates the QR code data and verifies the software is the same as the certified version.
 
 <figure><img src="../.gitbook/assets/diagram-signed-hash-validation-check-site-verified.png" alt="The check.voting.works Hash Validation page on a phone showing a green check with machine ID, timestamp and election ID." width="237"><figcaption></figcaption></figure>
 

@@ -8,22 +8,28 @@ Before you configure VxCentralScan, you must set up the machine. Follow the step
 
 To configure **VxCentralScan**, you must do two things in **VxAdmin**:
 
-1. [save-election-package.md](../vxadmin-system-setup/save-election-package.md "mention") to a USB drive.
-2. [programming-cards.md](../vxadmin-system-setup/programming-cards.md "mention").
+* [ ] Save the election package to a USB drive (see [save-election-package.md](../vxadmin-system-setup/save-election-package.md "mention"))
+* [ ] Create an election manager card (see [programming-cards.md](../vxadmin-system-setup/programming-cards.md "mention"))
 
 ## Load the Election Package
 
 Once the election package is saved to a USB drive, you can load the file to VxCentralScan.
 
-[Set up the VxCentralScan hardware](vxcentralscan-hardware-setup.md) and turn on the VxCentralScan laptop.
+* [ ] [Set up the VxCentralScan hardware](vxcentralscan-hardware-setup.md)
+* [ ] Turn on the VxCentralScan laptop
+* [ ] Insert an election manager card to unlock the machine
 
 <div><figure><img src="../.gitbook/assets/vxcentralscan-unconfigured-screen.png" alt="Unconfigured screen asking to insert an election manager card to configure VxCentralScan" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-laptop-insert-smart-card.png" alt="Hand inserting a System Administrator smart card, chip first, into the laptop card reader." width="375"><figcaption></figcaption></figure></div>
 
-Use an election manager card to unlock the machine. Insert the USB drive with the election package. The election package loads automatically.
+* [ ] Insert the USB drive with the election package
+
+The election package loads automatically.
 
 <div><figure><img src="../.gitbook/assets/vxcentralscan-em-insert-usb.png" alt="Election manager prompt to insert a USB drive containing an election package" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxcentralscan-configuring.png" alt="Configuring VxCentralScan from USB drive loading screen" width="375"><figcaption></figcaption></figure></div>
 
-VxCentralScan is now configured and in test ballot mode. The election summary information (name, date, jurisdiction, etc.) is shown in the bottom left corner of the screen. Confirm that it's correct.
+VxCentralScan is now configured and in test ballot mode. The election summary information (name, date, jurisdiction, etc.) is shown in the bottom left corner of the screen.
+
+* [ ] Confirm that the election summary information is correct
 
 <figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-test-mode-election-info-highlight.png" alt="VxCentralScan Scan Ballots screen in test ballot mode with the election info panel highlighted." width="375"><figcaption></figcaption></figure>
 

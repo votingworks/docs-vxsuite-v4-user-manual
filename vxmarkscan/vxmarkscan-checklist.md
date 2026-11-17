@@ -40,7 +40,9 @@
 * [ ] Insert the poll worker card
 * [ ] Select the voter's ballot style
 * [ ] When prompted, feed one sheet of paper into the front input tray
-* [ ] Once loaded, the screen shows that the voting session is active
+
+Once the sheet is loaded, the screen shows that the voting session is active.
+
 * [ ] Review the ballot style and precinct to ensure it was selected correctly for the voter
 * [ ] Remove the poll worker card
 

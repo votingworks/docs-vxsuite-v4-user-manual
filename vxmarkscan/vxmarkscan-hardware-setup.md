@@ -51,7 +51,7 @@ Part of the Precinct System, VxMarkScan is a free-standing accessible ballot-mar
 
 <div><figure><img src="../.gitbook/assets/photo-vxmarkscan-headphones-plugged-in.png" alt="Headphones resting beside the accessible controller with their cable plugged into the front headphone jack." width="188"><figcaption><p>Plug the headphones in</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-power-button.png" alt="Blue arrow pointing to the power button on the back left of VxMarkScan, next to the plugged-in power connector." width="375"><figcaption><p>Push the power button to turn on</p></figcaption></figure></div>
 
-The VxMarkScan is set up.
+VxMarkScan is now set up.
 
 {% include "../.gitbook/includes/sanitizing-headphones-instructions.md" %}
 
@@ -61,7 +61,8 @@ Clean the scanner for every election with scanner cleaning solution (see [supply
 
 * [ ] Press printer cover button to open printer cover
 * [ ] Open scanner by lifting the metal piece above the green sticker
-* [ ] Apply cleaning solution to cloth and wipe the inside of the scanner with moderate force
+* [ ] Apply cleaning solution to the cloth
+* [ ] Wipe the inside of the scanner with moderate force
   * [ ] Clean scanner glass
   * [ ] Clean rollers
 * [ ] Close scanner by pressing down on the green sticker until the scanner clicks into place

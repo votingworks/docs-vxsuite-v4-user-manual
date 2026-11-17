@@ -24,7 +24,7 @@ Backup power for the scanner is provided by the APC uninterruptible power supply
 
 **VxCentralScan** can be set up through the following steps:
 
-1. **Unbox and set up scanner (Ricoh fi-8170)**:
+1. **Unbox and set up the scanner (Ricoh fi-8170):**
    * [ ] Remove the scanner and power cord from the case
    * [ ] Attach and pull out the paper feed guide tray (a)
    * [ ] Pull out the paper holder tray (b)
@@ -34,27 +34,29 @@ Backup power for the scanner is provided by the APC uninterruptible power supply
    * [ ] Turn on the UPS
    * [ ] Press the power button (e) to turn the scanner on
 
-![Remove scanner and power cord from case](../.gitbook/assets/photo-vxcentralscan-scanner-ricoh-fi8170.jpg) ![Attach and pull out paper trays](../.gitbook/assets/photo-vxcentralscan-scanner-trays-labeled.jpg) ![Plug cords in](../.gitbook/assets/photo-vxcentralscan-scanner-rear-ports-labeled.jpg) ![Press the power button to turn on](../.gitbook/assets/photo-vxcentralscan-scanner-power-button-labeled.jpg)
+   ![Remove scanner and power cord from case](../.gitbook/assets/photo-vxcentralscan-scanner-ricoh-fi8170.jpg) ![Attach and pull out paper trays](../.gitbook/assets/photo-vxcentralscan-scanner-trays-labeled.jpg) ![Plug cords in](../.gitbook/assets/photo-vxcentralscan-scanner-rear-ports-labeled.jpg) ![Press the power button to turn on](../.gitbook/assets/photo-vxcentralscan-scanner-power-button-labeled.jpg)
 
-2\. **Set up VxCentralScan laptop:**
+2. **Set up the VxCentralScan laptop:**
+   * [ ] Remove and document seals as necessary
+   * [ ] Open the case by lifting the latches on the front
 
-* [ ] Remove and document seal(s) as necessary
-* [ ] Open the case by lifting the latches on front
+   <div align="left"><figure><img src="../.gitbook/assets/photo-vxcentralscan-case-seals.png" alt="Closed tan VxCentralScan case with red tamper-evident seals on both latches circled." width="375"><figcaption><p>Remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-case-latches.png" alt="Closed tan VxCentralScan case with arrows pointing to the two front latches." width="375"><figcaption><p>Lift the latches</p></figcaption></figure></div>
 
-<div align="left"><figure><img src="../.gitbook/assets/photo-vxcentralscan-case-seals.png" alt="Closed tan VxCentralScan case with red tamper-evident seals on both latches circled." width="375"><figcaption><p>Remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-case-latches.png" alt="Closed tan VxCentralScan case with arrows pointing to the two front latches." width="375"><figcaption><p>Lift the latches</p></figcaption></figure></div>
+   * [ ] Remove the **laptop**
+   * [ ] Pull the **power cord** (a) out and plug into the laptop and an outlet
+   * [ ] Pull the **USB hub** (b) out and plug into the laptop
+   * [ ] Pull the **scanner cord** (c) out and plug into the USB hub and the scanner
+   * [ ] Turn the laptop on
 
-* [ ] **Prepare the components:**
-  * [ ] Remove the **laptop**
-  * [ ] Pull the **power cord** (a) out and plug into the laptop and an outlet
-  * [ ] Pull the **USB hub** (b) out and plug into the laptop
-  * [ ] Pull the **scanner cord** (c) out and plug into the USB hub and the scanner
-  * [ ] Turn the laptop on
-
-![Remove laptop](../.gitbook/assets/photo-vxcentralscan-laptop-in-case.jpg) ![Remove components](../.gitbook/assets/photo-vxcentralscan-peripherals-in-case.jpg) ![Plug components in](../.gitbook/assets/photo-vxcentralscan-setup.jpg)
+   ![Remove laptop](../.gitbook/assets/photo-vxcentralscan-laptop-in-case.jpg) ![Remove components](../.gitbook/assets/photo-vxcentralscan-peripherals-in-case.jpg) ![Plug components in](../.gitbook/assets/photo-vxcentralscan-setup.jpg)
 
 ## Pack Up VxCentralScan
 
-To pack up VxCentralScan, place all of the components back into the case as displayed above and package the batch document scanner. Secure the laptop case as required by sealing the eyelets highlighted below.
+To pack up VxCentralScan:
+
+* [ ] Place all of the components back into the case as displayed above
+* [ ] Package the batch document scanner
+* [ ] Secure the laptop case as required by sealing the eyelets highlighted below
 
 <div align="center"><figure><img src="../.gitbook/assets/photo-vxcentralscan-case-seals.png" alt="Closed tan VxCentralScan case with red tamper-evident seals on both latches circled." width="375"><figcaption></figcaption></figure></div>
 

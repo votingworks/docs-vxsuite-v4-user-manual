@@ -8,11 +8,19 @@ The system settings may also be configured to count VxCentralScan ballots only a
 
 ## Add Qualified Write-In Candidates
 
-If only qualified (also known as "certified") write-ins are allowed in your jurisdiction, then you must input the names of those qualified write-in candidates prior to starting adjudication. Navigate to the `Adjudication` page in VxAdmin and select `Add Candidates`.
+If only qualified (also known as "certified") write-ins are allowed in your jurisdiction, then you must input the names of those qualified write-in candidates prior to starting adjudication.
+
+* [ ] Select `Adjudication` from the side menu
+* [ ] Select `Add Candidates`
 
 <figure><img src="../.gitbook/assets/vxadmin-qualified-write-in-add-candidates-highlighted.png" alt="VxAdmin Adjudication screen before CVRs are loaded with the Add Candidates button highlighted." width="375"><figcaption></figcaption></figure>
 
-For each contest with qualified write-in candidates, for each candidate, select `Add Candidate` and type in the candidate name. When you're done adding candidates in a contest, select `Save`.
+For each contest with qualified write-in candidates:
+
+* [ ] Select `Add Candidate`
+* [ ] Type the candidate name
+* [ ] Repeat for each qualified write-in candidate in the contest
+* [ ] Select `Save`
 
 <figure><img src="../.gitbook/assets/vxadmin-qualified-write-in-add-candidate-highlighted.png" alt="VxAdmin Qualified Write-In Candidates screen for the Mayor contest with no candidates and Add Candidate highlighted." width="375"><figcaption></figcaption></figure>
 
@@ -36,9 +44,20 @@ The pieces of equipment needed for multi-station adjudication:
 
 All networking equipment should have been sold to you by VotingWorks. If you need new or additional networking equipment, please reach out to VotingWorks.
 
-To physically set up the network, start by connecting the network switch to power. Then connect each VxAdmin to one of the Ethernet switch ports via the USB-C to Ethernet adapter and the Ethernet cable. No network configuration is required.
+To physically set up the network:
 
-You must choose one VxAdmin to act as the "host VxAdmin." The host VxAdmin is where all data is stored and where all VxAdmin features are available. All other VxAdmins must be configured as adjudication stations. Adjudication stations are only for adjudication. To switch a VxAdmin to adjudication station mode, log in as a system administrator, go to `Settings`, and select `Switch to Adjudication Station Mode`. VxAdmin prompts you to reboot the computer. If you don't see the option to `Switch to Adjudication Station Mode`, your VxAdmin may not have networking enabled and you should contact VotingWorks.
+* [ ] Connect the network switch to power
+* [ ] Connect each VxAdmin to one of the Ethernet switch ports via the USB-C to Ethernet adapter and the Ethernet cable
+
+No network configuration is required.
+
+You must choose one VxAdmin to act as the "host VxAdmin." The host VxAdmin is where all data is stored and where all VxAdmin features are available. All other VxAdmins must be configured as adjudication stations. Adjudication stations are only for adjudication. To switch a VxAdmin to adjudication station mode:
+
+* [ ] Log in as a system administrator
+* [ ] Select `Settings` from the side menu
+* [ ] Select `Switch to Adjudication Station Mode`
+
+VxAdmin prompts you to reboot the computer. If you don't see the option to `Switch to Adjudication Station Mode`, your VxAdmin may not have networking enabled and you should contact VotingWorks.
 
 <figure><img src="../.gitbook/assets/vxadmin-sa-settings-switch-to-adjudication-station-highlighted.png" alt="VxAdmin Settings screen with Network Online status and the Switch to Adjudication Station Mode button highlighted." width="375"><figcaption></figcaption></figure>
 
@@ -52,7 +71,10 @@ If there is a problem with your network, a status indicator appears on the host'
 
 ### Run Multi-Station Adjudication
 
-The adjudication stations can only adjudicate if the host has turned on multi-station adjudication. To do so, log in as an election manager at the host VxAdmin and select `Enable Multi-Station`.
+The adjudication stations can only adjudicate if the host has turned on multi-station adjudication. To turn it on:
+
+* [ ] Log in as an election manager at the host VxAdmin
+* [ ] Select `Enable Multi-Station`
 
 <figure><img src="../.gitbook/assets/vxadmin-adjudication-multi-station-enable-highlighted.png" alt="VxAdmin Adjudication screen with the Enable Multi-Station button highlighted and connected stations listed." width="375"><figcaption></figcaption></figure>
 
@@ -62,7 +84,9 @@ You can monitor the progress of adjudication from the `Adjudication` screen at t
 
 <figure><img src="../.gitbook/assets/vxadmin-adjudication-multi-station-online.png" alt="VxAdmin Adjudication screen with multi-station online and stations Active, Adjudicating, Locked or Disconnected." width="375"><figcaption></figcaption></figure>
 
-When adjudication is done for the day, turn off multi-station adjudication by selecting `Disable`.
+When adjudication is done for the day, turn off multi-station adjudication:
+
+* [ ] Select `Disable`
 
 <figure><img src="../.gitbook/assets/vxadmin-adjudication-multi-station-disable-highlighted.png" alt="VxAdmin Adjudication screen with all ballots adjudicated and the multi-station Disable button highlighted." width="375"><figcaption></figcaption></figure>
 

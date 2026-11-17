@@ -6,11 +6,17 @@ Follow the [vxcentralscan-hardware-setup.md](vxcentralscan-hardware-setup.md "me
 
 ## Scan Ballot Batches
 
-Before scanning the first batch of ballots, confirm that VxCentralScan does not have a yellow test ballot mode banner at the top and displays zeroes under "Total Batches" and "Total Sheets." If the test ballot mode banner is present, go to `Settings` to switch to official ballot mode. If the counts are not zero, you may go to `Batch History` and select `Delete All Batches`.
+Before scanning the first batch of ballots:
+
+* [ ] Confirm that VxCentralScan does not have a yellow test ballot mode banner at the top and displays zeroes under "Total Batches" and "Total Sheets"
+* [ ] If the test ballot mode banner is present, go to `Settings` to switch to official ballot mode
+* [ ] If the counts are not zero, you may go to `Batch History` and select `Delete All Batches`
 
 <figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-empty-batch-stats-highlight.png" alt="Scan Ballots screen ready to scan with the Total Batches and Total Sheets counters highlighted" width="375"><figcaption></figcaption></figure>
 
-Load a stack of ballots into the feeder tray of the scanner. VotingWorks recommends the following batch sizes for typical, thick ballot paper:
+* [ ] Load a stack of ballots into the feeder tray of the scanner
+
+VotingWorks recommends the following batch sizes for typical, thick ballot paper:
 
 * Ricoh fi-8170 - maximum 30 ballot sheets at a time
 * Ricoh fi-7600 - maximum 100 ballot sheets at a time
@@ -18,7 +24,9 @@ Load a stack of ballots into the feeder tray of the scanner. VotingWorks recomme
 
 The ballots need to be in a neat stack, unfolded and lying flat, but ballots can be in any orientation (e.g., upside down or backwards is fine).
 
-Select `Start Scanning`. The "Sheets" count goes up as the scanner processes each ballot.
+* [ ] Select `Start Scanning`
+
+The "Sheets" count goes up as the scanner processes each ballot.
 
 <div><figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-empty-start-scanning-button.png" alt="Scan Ballots screen ready to scan with the Start Scanning button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-scanning.png" alt="Scan Ballots screen actively scanning a batch with a Pause Scanning button" width="375"><figcaption></figcaption></figure></div>
 
@@ -30,7 +38,11 @@ Once the input tray is empty, you have the option to save the batch, discard the
 
 <figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-batch-complete.png" alt="Scan Ballots screen paused with input tray empty and Save Batch, Continue Scanning, Discard Batch" width="375"><figcaption></figcaption></figure>
 
-After saving a batch, remove it from the output tray on the scanner and place the next stack of ballots in the input tray. Repeat the scanning process until all ballots are scanned.
+After saving a batch:
+
+* [ ] Remove the batch from the output tray on the scanner
+* [ ] Place the next stack of ballots in the input tray
+* [ ] Repeat the scanning process until all ballots are scanned
 
 {% hint style="warning" %}
 If you find an issue with a batch after it has been saved, it can be deleted from the `Batch History` page by an election manager.
@@ -44,7 +56,13 @@ VxCentralScan stops scanning and presents a review screen if a ballot needs atte
 
 VxCentralScan may be configured to stop on ballots requiring adjudication for any combination of these reasons: overvotes, blank ballots, undervotes, or marginal marks.
 
-When the scanner stops, remove the last ballot sheet scanned from the scanner output tray and confirm it matches the ballot sheet displayed onscreen. Once removed, follow your jurisdiction's review requirements. If the ballot needs to be reviewed by someone not operating the scanner or needs to be duplicated to be tabulated properly, select `Confirm Ballot Removed`. If the ballot should be tabulated as-is, meaning that overvoted contests and marginal marks are ignored but any other valid votes are counted, select `Tabulate Ballot`.
+When the scanner stops:
+
+* [ ] Remove the last ballot sheet scanned from the scanner output tray
+* [ ] Confirm it matches the ballot sheet displayed on screen
+* [ ] Follow your jurisdiction's review requirements
+* [ ] If the ballot needs to be reviewed by someone not operating the scanner or needs to be duplicated to be tabulated properly, select `Confirm Ballot Removed`
+* [ ] If the ballot should be tabulated as-is, meaning that overvoted contests and marginal marks are ignored but any other valid votes are counted, select `Tabulate Ballot`
 
 <div><figure><img src="../.gitbook/assets/vxcentralscan-adjudication-overvote.png" alt="Ballot Not Counted screen for an overvote with the Mayor contest highlighted on the ballot" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxcentralscan-adjudication-blank-ballot.png" alt="Ballot Not Counted screen for a blank ballot with Confirm Ballot Removed and Tabulate Ballot" width="375"><figcaption></figcaption></figure></div>
 
@@ -82,13 +100,17 @@ Navigate to the `Batch History` page to see the list of scanned batches. For eac
 
 If a batch was scanned incorrectly or accidentally, an election manager may use the `Delete` or `Delete All Batches` button.
 
-To export CVRs for loading into VxAdmin for further adjudication and reporting, select the `Save CVRs` button in the top right.
+To export CVRs for loading into VxAdmin for further adjudication and reporting:
+
+* [ ] Select the `Save CVRs` button in the top right
 
 <figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-save-cvrs-button.png" alt="VxCentralScan Batch History screen with the Save CVRs button highlighted." width="375"><figcaption></figcaption></figure>
 
-You'll be prompted to insert a USB drive. Once recognized, select `Save` and then `Eject USB`. Once the USB drive is ejected, remove the USB drive.
-
-If using multiple VxCentralScan stations, repeat saving CVRs for each one.
+* [ ] When prompted, insert a USB drive
+* [ ] Once the USB drive is recognized, select `Save`
+* [ ] Select `Eject USB`
+* [ ] Once the USB drive is ejected, remove it
+* [ ] If using multiple VxCentralScan stations, repeat saving CVRs for each one
 
 {% hint style="warning" %}
 Seal tabulated ballots into a secure container after tabulation and record the seal number as required. Follow state guidelines to ensure proper retention.

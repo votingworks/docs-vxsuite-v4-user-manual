@@ -8,8 +8,8 @@ Before you configure VxMarkScan, you must set up the machine. Follow [VxMarkScan
 
 To configure **VxMarkScan**, you must do two things in **VxAdmin**:
 
-1. [Save the election package](../vxadmin-system-setup/save-election-package.md "mention") to a USB drive.
-2. [Create an election manager card](../vxadmin-system-setup/programming-cards.md "mention").
+* [ ] Save the election package to a USB drive (see [save-election-package.md](../vxadmin-system-setup/save-election-package.md "mention"))
+* [ ] Create an election manager card (see [programming-cards.md](../vxadmin-system-setup/programming-cards.md "mention"))
 
 ## Insert Smart Cards and USB Drives
 

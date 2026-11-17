@@ -16,7 +16,9 @@ If a voter chooses to use VxMarkScan:
 <div><figure><img src="../.gitbook/assets/vxmarkscan-unauthenticated-polls-opened.png" alt="VxMarkScan Insert Card screen shown while polls are open and no card is inserted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-polls-open.png" alt="VxMarkScan poll worker menu with polls open, showing Start a New Voting Session and Insert Printed Ballot" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-start-voting-session-button.png" alt="VxMarkScan poll worker menu with the ballot style button under Start a New Voting Session highlighted" width="375"><figcaption></figcaption></figure></div>
 
 * [ ] When prompted, feed one sheet of paper into the front input tray
-* [ ] Once loaded, the screen shows that the voting session is active
+
+Once the sheet is loaded, the screen shows that the voting session is active.
+
 * [ ] Review the precinct and ballot style to ensure it was selected correctly for the voter
 * [ ] Remove the poll worker card
 
@@ -40,7 +42,11 @@ If a voter would like to change a selection, they must first deselect a candidat
 
 ## Enter a Write-In
 
-To enter a write-in candidate, select `add write-in candidate` and use the keyboard to type in the candidate's name. Select `Accept` when finished.
+To enter a write-in candidate:
+
+* [ ] Select `add write-in candidate`
+* [ ] Use the keyboard to type in the candidate's name
+* [ ] Select `Accept`
 
 <div><figure><img src="../.gitbook/assets/vxmark-voting-write-in-button.png" alt="Controller contest screen with the add write-in candidate option highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-write-in-keyboard.png" alt="Write-In dialog for the Controller contest with the on-screen keyboard and the name NEMO entered." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-write-in-accepted.png" alt="Controller contest screen with write-in candidate NEMO selected" width="375"><figcaption></figcaption></figure></div>
 

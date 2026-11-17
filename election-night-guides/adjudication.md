@@ -8,27 +8,41 @@ Once cast vote records (CVRs) have been loaded, the adjudication process can beg
 
 ## Adjudicate Ballots
 
-Log in with an election manager card and select `Adjudication` from the side menu. If you are using an adjudication station connected to VxAdmin, you may also log in with a poll worker card.
+* [ ] Log in with an election manager card
+* [ ] Select `Adjudication` from the side menu
+* [ ] Select the `Adjudicate` button to begin adjudication
 
-Select the `Adjudicate` button to begin adjudication.
+If you are using an adjudication station connected to VxAdmin, you may also log in with a poll worker card.
 
 <figure><img src="../.gitbook/assets/vxadmin-adjudication-start-adjudicate-highlighted.png" alt="VxAdmin Adjudication screen showing ballots remaining with the Adjudicate button highlighted." width="375"><figcaption></figcaption></figure>
 
-The ballot adjudication flow shows you one ballot at a time. On the left is an image of the ballot. On the right is the list of contests on the ballot. Contests that need attention are highlighted in orange and annotated with the adjudication reason. The same contests are also highlighted on the ballot image. Select the contest you want to adjudicate.
+The ballot adjudication flow shows you one ballot at a time. On the left is an image of the ballot. On the right is the list of contests on the ballot. Contests that need attention are highlighted in orange and annotated with the adjudication reason. The same contests are also highlighted on the ballot image.
+
+* [ ] Select the contest you want to adjudicate
 
 <figure><img src="../.gitbook/assets/vxadmin-adjudication-ballot-view.png" alt="Adjudication ballot view with the Mayor contest highlighted as having one write-in to adjudicate" width="375"><figcaption></figcaption></figure>
 
-Selecting a contest brings you into the contest view. On the left side is an enlarged image of the contest and on the right is the list of contest options. You may toggle each contest option from a vote to a non-vote by clicking it. Adjudicate marks, overvotes, and undervotes according to your jurisdiction's rules.
+Selecting a contest brings you into the contest view. On the left side is an enlarged image of the contest and on the right is the list of contest options. You may toggle each contest option from a vote to a non-vote by clicking it.
+
+* [ ] Adjudicate marks, overvotes, and undervotes according to your jurisdiction's rules
 
 <figure><img src="../.gitbook/assets/vxadmin-qualified-write-in-adjudication-contest.png" alt="Contest view for Mayor with Write-In checked and a Click to adjudicate dropdown" width="375"><figcaption></figcaption></figure>
 
-To adjudicate a write-in, click the `Click to adjudicate` dropdown below the write-in option. Select an existing option or type in the name and select `Press enter to add: [Name]`. If your jurisdiction requires write-in candidates to be pre-qualified, you won't have the option to add new write-in candidates. If the write-in is not valid, select `Invalid` and it's treated as an undervote.
+To adjudicate a write-in:
+
+* [ ] Click the `Click to adjudicate` dropdown below the write-in option
+* [ ] Select an existing option, or type in the name and select `Press enter to add: [Name]`
+* [ ] If the write-in is not valid, select `Invalid`
+
+An invalid write-in is treated as an undervote. If your jurisdiction requires write-in candidates to be pre-qualified, you won't have the option to add new write-in candidates.
 
 <div><figure><img src="../.gitbook/assets/vxadmin-adjudication-write-in-dropdown-open.png" alt="Write-in adjudication dropdown open showing Invalid and the contest's candidate options" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-adjudication-write-in-add-candidate.png" alt="Write-in dropdown with Bill Withers typed in and a Press enter to add candidate option" width="375"><figcaption></figcaption></figure></div>
 
-When you're done adjudicating a contest, select `Confirm` to return to the ballot view.
+* [ ] When you're done adjudicating a contest, select `Confirm` to return to the ballot view
 
-On the ballot view, you can navigate to the next contest needing adjudication or review your adjudications. Once you've adjudicated all contests needing attention, select `Accept` to save your changes and move on to the next ballot.
+On the ballot view, you can navigate to the next contest needing adjudication or review your adjudications.
+
+* [ ] Once you've adjudicated all contests needing attention, select `Accept` to save your changes and move on to the next ballot
 
 <div><figure><img src="../.gitbook/assets/vxadmin-adjudication-contest-view-after-selection.png" alt="Contest view for Mayor with Write-In checked and Bill Withers selected in the write-in dropdown" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-adjudication-ballot-view-after-changes.png" alt="Adjudication ballot view with the Mayor write-in adjudicated for Bill Withers and Accept enabled" width="375"><figcaption></figcaption></figure></div>
 
@@ -38,12 +52,17 @@ The `Adjudication` screen shows your progress as you work through the ballots.
 
 ## Adjudicate Marginal Marks
 
-If your jurisdiction adjudicates marginal marks, the text "Review Marginal Mark" appears over any marginally marked contest option. Select the contest option to adjudicate as a valid mark or select `Dismiss` to adjudicate it as a stray or invalid mark.
+If your jurisdiction adjudicates marginal marks, the text "Review Marginal Mark" appears over any marginally marked contest option. 
+
+* [ ] Select the contest option to adjudicate it as a valid mark, or select `Dismiss` to adjudicate it as a stray or invalid mark
 
 <div><figure><img src="../.gitbook/assets/vxadmin-adjudication-marginal-contest-view.png" alt="Contest view for Controller showing a Review marginal mark warning with a Dismiss option" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-adjudication-marginal-dismissed.png" alt="Contest view for Controller after the marginal mark was dismissed and marked adjudicated as invalid" width="375"><figcaption></figcaption></figure></div>
 
 ## Adjudicate Blank Ballots
 
-If your jurisdiction adjudicates blank ballots, no specific contests are flagged for adjudication. Instead, a "Blank Ballot Detected" banner appears with the option to flip to the back. If the ballot is indeed blank, select `Accept`. If the ballot is not actually blank, adjudicate individual contests according to your jurisdiction's rules.
+If your jurisdiction adjudicates blank ballots, no specific contests are flagged for adjudication. Instead, a "Blank Ballot Detected" banner appears with the option to flip to the back. 
+
+* [ ] If the ballot is indeed blank, select `Accept`
+* [ ] If the ballot is not actually blank, adjudicate individual contests according to your jurisdiction's rules
 
 <figure><img src="../.gitbook/assets/vxadmin-adjudication-blank-ballot-view.png" alt="Adjudication ballot view with a Blank Ballot Detected warning, View Back and Accept buttons" width="375"><figcaption></figcaption></figure>

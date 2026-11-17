@@ -20,7 +20,10 @@ The default action for poll workers in early voting mode is `Pause Voting` rathe
 
 ## Save CVRs
 
-The cast vote records (CVRs) contain the images and the interpretation for each ballot cast and are used to tally votes in VxAdmin. The cast vote record saves continuously to the USB drive throughout the day and again at the close of polls. If another copy is needed, however, it can also be saved by selecting `CVRs and Logs` from the side menu and selecting `Save CVRs`.
+The cast vote records (CVRs) contain the images and the interpretation for each ballot cast and are used to tally votes in VxAdmin. The cast vote record saves continuously to the USB drive throughout the day and again at the close of polls. If another copy is needed, you can also save it:
+
+* [ ] Select `CVRs and Logs` from the side menu
+* [ ] Select `Save CVRs`
 
 <figure><img src="../.gitbook/assets/vxscan-em-save-cvrs-button.png" alt="VxScan election manager CVRs and Logs tab with the Save CVRs button highlighted" width="375"><figcaption></figcaption></figure>
 
@@ -28,13 +31,17 @@ The `Pause Continuous CVR Export` feature is used to disable continuous cast vot
 
 ## Save Logs
 
-The logs contain information about the regular operation of the hardware and software and also any error messages. Both election managers and system administrators can export logs by selecting `Save Logs`.
+The logs contain information about the regular operation of the hardware and software and also any error messages. Both election managers and system administrators can export logs:
+
+* [ ] Select `Save Logs`
 
 <div><figure><img src="../.gitbook/assets/vxscan-em-save-logs-button.png" alt="VxScan election manager CVRs and Logs tab with the Save Logs button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-sa-save-logs-button.png" alt="VxScan system administrator menu with the Save Logs button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-em-save-logs-modal.png" alt="VxScan election manager Save Logs dialog with log format options Default, Errors, and CDF" width="375"><figcaption></figcaption></figure></div>
 
 ## Set the Date and Time
 
-The time on VxScan should stay mostly accurate, including automatically adjusting for daylight saving time, but can drift slightly over time. Both election managers and system administrators can update the time by selecting `Set Date and Time`.
+The time on VxScan should stay mostly accurate, including automatically adjusting for daylight saving time, but can drift slightly over time. Both election managers and system administrators can update the time:
+
+* [ ] Select `Set Date and Time`
 
 <div><figure><img src="../.gitbook/assets/vxscan-em-set-date-time.png" alt="VxScan election manager More tab with the Set Date and Time button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-sa-set-date-time.png" alt="VxScan system administrator menu with the Set Date and Time button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-em-set-date-time-modal.png" alt="VxScan election manager Set Date and Time dialog with date, time, and time zone pickers" width="375"><figcaption></figcaption></figure></div>
 

@@ -6,7 +6,11 @@ Voters have a number of options to change the VxMarkScan interface to suit their
 
 ## Ballot Language
 
-To change the language from English to another language, select `English` at the top of the screen. Additional language buttons appear. Select the preferred language and then select `Done`.
+To change the language from English to another language:
+
+* [ ] Select `English` at the top of the screen
+* [ ] Select the preferred language from the language buttons that appear
+* [ ] Select `Done`
 
 <figure><img src="../.gitbook/assets/vxmarkscan-voting-language-settings.png" alt="Select Your Ballot Language screen with English selected and a Done button." width="375"><figcaption></figcaption></figure>
 

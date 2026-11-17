@@ -34,7 +34,11 @@ If a voter would like to change a selection, they must first deselect a candidat
 
 ## Enter a Write-In
 
-To enter a write-in candidate, select `add write-in candidate` and use the keyboard to type in the candidate's name. Select `Accept` when finished.
+To enter a write-in candidate:
+
+* [ ] Select `add write-in candidate`
+* [ ] Use the keyboard to type in the candidate's name
+* [ ] Select `Accept`
 
 <div><figure><img src="../.gitbook/assets/vxmark-voting-write-in-button.png" alt="Controller contest screen with the add write-in candidate option highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-write-in-keyboard.png" alt="Write-In dialog for the Controller contest with the on-screen keyboard and the name NEMO entered." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-write-in-accepted.png" alt="Controller contest screen with write-in candidate NEMO selected" width="188"><figcaption></figcaption></figure></div>
 

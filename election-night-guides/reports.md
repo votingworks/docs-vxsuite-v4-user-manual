@@ -8,7 +8,16 @@ Use the VxAdmin `Reports` screen to review, print, and export election results a
 
 ## Full Election Tally Report
 
-To review results, select `Reports` from the side menu and select `Full Election Tally Report`. A preview appears. Select `Print Report` to print the report, `Export Report PDF` to save the election tally report to a USB drive as a .pdf file, or `Export Report CSV` to save the election tally report to a USB drive as a .csv file. Files are saved to a `reports/` folder on the USB drive.
+To review results:
+
+* [ ] Select `Reports` from the side menu
+* [ ] Select `Full Election Tally Report`
+
+A preview appears.
+
+* [ ] Select `Print Report` to print the report, `Export Report PDF` to save the election tally report to a USB drive as a .pdf file, or `Export Report CSV` to save the election tally report to a USB drive as a .csv file
+
+Files are saved to a `reports/` folder on the USB drive.
 
 <div><figure><img src="../.gitbook/assets/vxadmin-reports-full-election-tally-highlighted.png" alt="VxAdmin Election Reports screen with the Full Election Tally Report button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-full-election-tally-report-actions-highlighted.png" alt="VxAdmin Full Election Tally Report preview with the Print and Export action buttons highlighted" width="375"><figcaption></figcaption></figure></div>
 
@@ -24,18 +33,16 @@ The tally report builder allows you to create custom reports. These reports can 
 
 To create a filtered and/or grouped report:
 
-1. Select `Add Filter`
-2. Select a filter type e.g., ballot style, voting method, or precinct
+* [ ] Select `Add Filter`
+* [ ] Select a filter type, e.g., ballot style, voting method, or precinct
 
 <div><figure><img src="../.gitbook/assets/vxadmin-tally-report-builder.png" alt="VxAdmin Tally Report Builder with no filters added and no Report By options selected." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-tally-report-builder-filter-dropdown-open.png" alt="VxAdmin Tally Report Builder with a new filter's type dropdown open listing ballot style, batch, precinct and more." width="375"><figcaption></figcaption></figure></div>
 
-
-
-3. Specify any specific ballot style(s), voting method(s), or precinct(s)
-4. Select `Add Filter` to add an additional filter as needed
-5. Select how you'd like the report grouped under "Report By"
-6. Select `Generate Report`
-7. If desired, print or export the report as a .pdf or .csv file
+* [ ] Specify any specific ballot style(s), voting method(s), or precinct(s)
+* [ ] If needed, select `Add Filter` to add an additional filter
+* [ ] Select how you'd like the report grouped under "Report By"
+* [ ] Select `Generate Report`
+* [ ] If desired, print or export the report as a .pdf or .csv file
 
 <div><figure><img src="../.gitbook/assets/vxadmin-tally-report-builder-generate-highlighted.png" alt="VxAdmin Tally Report Builder with a precinct filter and ballot style grouping set and Generate Report highlighted." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-tally-report-builder-actions-highlighted.png" alt="VxAdmin Tally Report Builder after generating a report with the Print, Export PDF and Export CSV buttons highlighted." width="375"><figcaption></figcaption></figure></div>
 

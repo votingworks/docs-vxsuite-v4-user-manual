@@ -27,11 +27,11 @@ Once the scanner is open, you can use cleaning fluid and a microfiber or lint-fr
 The primary and most effective method of cleaning the scanner is the direct method above, requiring opening the scanner. However, a good secondary option is to leave the scanner closed and gently blow compressed air through the infeed to force out dry dust and debris. This may help during an election when unsealing the scanner is not reasonable. Options for cleaning with air are powered compressed air devices and small cans of compressed air, such as ULINE S-6771 or equivalent. If using a can of air, be sure to leave the can upright to never spray liquid into the scanner.
 {% endhint %}
 
-After cleaning, close the following:
+After cleaning:
 
-* [ ] Close scanner
-* [ ] Close access door
-* [ ] Close poll worker door
+* [ ] Close the scanner
+* [ ] Close the access door
+* [ ] Close the poll worker door
 
 To confirm the scanner is clean and producing clear images, you may either run the [scanner diagnostic](vxscan-diagnostics.md) or start scanning—if streaks are detected in the images, VxScan alerts you.
 
@@ -41,11 +41,15 @@ To confirm the scanner is clean and producing clear images, you may either run t
 These steps must be completed by an election manager.
 {% endhint %}
 
-In order to prevent voters attempting to scan two ballots at once, VxScan has a double sheet detection feature. To manage double sheet detection, navigate to the `Scanner` tab of the election manager menu.
+In order to prevent voters attempting to scan two ballots at once, VxScan has a double sheet detection feature.
 
 <figure><img src="../.gitbook/assets/vxscan-em-scanner-tab.png" alt="VxScan election manager Scanner tab with Calibrate and Disable Double Sheet Detection buttons" width="375"><figcaption></figcaption></figure>
 
-Select `Calibrate Double Sheet Detection` to begin calibration. Follow the instructions on screen. You need two sheets of blank paper that have the same paper weight as the ballots for the election.
+You need two sheets of blank paper that have the same paper weight as the ballots for the election.
+
+* [ ] Select the `Scanner` tab of the election manager menu
+* [ ] Select `Calibrate Double Sheet Detection`
+* [ ] Follow the instructions on screen
 
 The `Disable Double Sheet Detection` feature is used to disable the ultrasonic sensor in the event that it fails and improperly rejects single sheets as multiple sheets. If VxScan stops taking ballots or repeatedly displays the "Ballot Not Counted - Multiple sheets detected" error message, contact VotingWorks support. This setting should only be used if advised by VotingWorks support.
 

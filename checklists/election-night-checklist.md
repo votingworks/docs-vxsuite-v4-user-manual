@@ -15,19 +15,28 @@ On election night, you need [VxAdmin](../vxadmin-system-setup/vxadmin-hardware-s
 ## Tally and Save Results
 
 * [ ] Set up VxAdmin
-* [ ] Log in with election manager card
+* [ ] Log in with an election manager card
 * [ ] Select `Tally` from the side menu and verify there are no CVRs on VxAdmin
-* [ ] Select `Reports` from the side menu, print an `Unofficial Full Election Tally Report` as the zero report
-* [ ] Select `Tally` from the side menu, load cast vote records (CVRs) from USB drive(s)—verify counts
-* [ ] Adjudicate write-ins and marginal marks, if applicable, by selecting `Adjudication` from the side menu
-* [ ] Add manual tallies (select `Tally` from the side menu and then `Manual Tallies`) (when applicable)
-* [ ] Select `Reports` from the side menu and review, print, or save an `Unofficial Full Election Tally Report` for the results
-* [ ] Select `Reports` from the side menu, review, print, or save a `Write-in Adjudication Report`
+* [ ] Select `Reports` from the side menu
+* [ ] Print an `Unofficial Full Election Tally Report` as the zero report
+* [ ] Select `Tally` from the side menu
+* [ ] Load cast vote records (CVRs) from USB drive(s)
+* [ ] Verify the CVR counts
+* [ ] If applicable, adjudicate write-ins and marginal marks by selecting `Adjudication` from the side menu
+* [ ] If applicable, add manual tallies by selecting `Tally` from the side menu and then `Manual Tallies`
+* [ ] Select `Reports` from the side menu
+* [ ] Review, print, or save an `Unofficial Full Election Tally Report` for the results
+* [ ] Review, print, or save a `Write-in Adjudication Report`
 * [ ] Verify all steps above are fully completed and reports reflect all ballots and adjudication
-* [ ] `Mark Election Results as Official` in VxAdmin
-* [ ] Select `Reports` from the side menu, print or save an `Official Full Election Tally Report` for the results
-* [ ] Select `Reports` from the side menu, print or save an official `Write-in Adjudication Report`
+* [ ] On the `Reports` screen, select `Mark Election Results as Official`
+* [ ] Print or save an `Official Full Election Tally Report` for the results
+* [ ] Print or save an official `Write-in Adjudication Report`
 * [ ] Save other official results exports as required
-* [ ] Power down VxAdmin using the keyboard power button. VxAdmin has shut down correctly when the screen is off and presents no content.
-* [ ] Pack up VxAdmin, seal and document as required, and store in a secure climate-controlled environment
+* [ ] Power down VxAdmin using the keyboard power button
+
+VxAdmin has shut down correctly when the screen is off and presents no content.
+
+* [ ] Pack up VxAdmin
+* [ ] Seal and document VxAdmin as required
+* [ ] Store VxAdmin in a secure climate-controlled environment
 * [ ] Secure USB drive(s) as required

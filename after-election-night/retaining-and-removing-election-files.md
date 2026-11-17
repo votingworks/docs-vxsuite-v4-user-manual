@@ -37,20 +37,25 @@ All VotingWorks paper records and USB drives are specified to last at least 22 m
 
 To save the recommended VxAdmin files, follow these steps when logged in as an election manager:
 
-* [ ] Select `Reports` from the side menu, select `Full Election Tally Report`, select `Export Report PDF`
-* [ ] Then select `Export Report CSV`
+* [ ] Select `Reports` from the side menu
+* [ ] Select `Full Election Tally Report`
+* [ ] Select `Export Report PDF`
+* [ ] Select `Export Report CSV`
 
 <div><figure><img src="../.gitbook/assets/vxadmin-reports-full-election-tally-highlighted.png" alt="VxAdmin Election Reports screen with the Full Election Tally Report button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-full-election-tally-report-actions-highlighted.png" alt="VxAdmin Full Election Tally Report preview with the Print and Export action buttons highlighted" width="375"><figcaption></figcaption></figure></div>
 
-Next select `Settings` from the side menu and `Save Logs`. Machine log files are saved in the `/logs` folder on the USB drive.
+* [ ] Select `Settings` from the side menu
+* [ ] Select `Save Logs`
+
+Machine log files are saved in the `/logs` folder on the USB drive.
 
 <figure><img src="../.gitbook/assets/vxadmin-em-settings-save-logs-highlighted.png" alt="VxAdmin election manager Settings screen with the Save Logs button highlighted" width="375"><figcaption></figcaption></figure>
 
 ### VxScan CVR Files
 
-VxScan CVRs include the VxScan's CVRs and ballot images. The log file contains the logs. To save the VxScan files, [set up the VxScan](../election-day-guides/vxscan-setup.md) without the ballot box and follow the following steps:
+VxScan CVRs include the VxScan's CVRs and ballot images. The log file contains the logs. To save the VxScan files, [set up the VxScan](../election-day-guides/vxscan-setup.md) without the ballot box and follow these steps:
 
-* [ ] Insert election manager card
+* [ ] Insert the election manager card
 * [ ] Select `CVRs and Logs` from the side menu
 * [ ] Insert a USB drive
 * [ ] Select `Save CVRs`
@@ -64,10 +69,17 @@ VxScan CVRs include the VxScan's CVRs and ballot images. The log file contains t
 
 ## Remove Election Files
 
-In VxAdmin, log in with a system administrator card, select `Election` from the side menu and select `Unconfigure Machine`.
+In VxAdmin:
+
+* [ ] Log in with a system administrator card
+* [ ] Select `Election` from the side menu
+* [ ] Select `Unconfigure Machine`
 
 <figure><img src="../.gitbook/assets/vxadmin-unconfigure-button.png" alt="VxAdmin system administrator Election screen with the Unconfigure Machine button highlighted" width="375"><figcaption></figcaption></figure>
 
-In VxScan, log in with an election manager card and select `Unconfigure Machine`.
+In VxScan:
+
+* [ ] Log in with an election manager card
+* [ ] Select `Unconfigure Machine`
 
 <figure><img src="../.gitbook/assets/vxscan-em-unconfigure-machine-button.png" alt="VxScan election manager Configuration tab with the Unconfigure Machine button highlighted" width="375"><figcaption></figcaption></figure>

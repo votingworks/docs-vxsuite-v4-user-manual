@@ -8,7 +8,15 @@ For each election, you configure VxAdmin by loading an election package provided
 
 ## Load the Election Package
 
-When VxAdmin is not configured, the screen prompts you to insert a USB drive containing an election package. After inserting the USB drive, VxAdmin automatically lists the election package(s) available. Select the file name of the correct election package to configure VxAdmin. If the file is not automatically listed, select `Select Other File...` and manually select the file from the USB drive.
+When VxAdmin is not configured, the screen prompts you to insert a USB drive containing an election package.
+
+* [ ] Insert a USB drive containing the election package
+
+VxAdmin automatically lists the election package(s) available on the USB drive.
+
+* [ ] Select the file name of the correct election package
+* [ ] If the file is not automatically listed, select `Select Other File...`
+* [ ] If you selected `Select Other File...`, select the file from the USB drive
 
 Once configured, the election screen displays the title and date of your election as well as the date and time VxAdmin was configured.
 
@@ -18,8 +26,10 @@ Once configured, the election screen displays the title and date of your electio
 
 If you need to change an election package or reset VxAdmin for the next election, you must unconfigure the machine.
 
-Select `Election` from the side menu and select `Unconfigure Machine`.
+* [ ] Select `Election` from the side menu
+* [ ] Select `Unconfigure Machine`
+* [ ] Select `Delete All Election Data` to confirm
 
 <div><figure><img src="../.gitbook/assets/vxadmin-unconfigure-button.png" alt="VxAdmin Election screen as system administrator with the Unconfigure Machine button highlighted." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-confirm-unconfigure-button.png" alt="VxAdmin Unconfigure Machine confirmation dialog with the Delete All Election Data button highlighted." width="375"><figcaption></figcaption></figure></div>
 
-After confirming by selecting `Delete All Election Data`, you return to the initial VxAdmin `Election` screen. VxAdmin can be reconfigured by loading a new election package by repeating the steps above.
+VxAdmin returns to the initial `Election` screen. VxAdmin can be reconfigured by loading a new election package by repeating the steps above.

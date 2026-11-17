@@ -14,17 +14,26 @@ A backup drive holds one backup per election. Saving a new backup of the same el
 
 ## Save a Backup
 
-Select `Election` from the side menu and select `Save Backup`. If no backup drive is connected, VxAdmin prompts you to connect one.
+* [ ] Select `Election` from the side menu
+* [ ] Select `Save Backup`
+* [ ] If prompted, connect a backup drive
+
+If no backup drive is connected, VxAdmin prompts you to connect one.
 
 <div><figure><img src="../.gitbook/assets/vxadmin-save-backup-button.png" alt="Election screen with the Save Backup button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-save-backup-connect-backup-drive.png" alt="Connect Backup Drive dialog asking to connect a backup drive, with Cancel" width="375"><figcaption></figcaption></figure></div>
 
-VxAdmin shows the last backup of the current election saved on the drive, if there is one. Select `Save Backup` to begin.
+VxAdmin shows the last backup of the current election saved on the drive, if there is one.
+
+* [ ] Select `Save Backup` to begin
 
 <figure><img src="../.gitbook/assets/vxadmin-save-backup-modal.png" alt="Save Backup dialog showing Last Backup on Drive: None with Cancel and Save Backup" width="375"><figcaption></figcaption></figure>
 
 While the backup is in progress, VxAdmin cannot be used for other tasks. You may lock the machine and the backup continues; its progress is shown again when the machine is unlocked. Select `Cancel Backup` to stop the backup and keep the previous backup on the drive.
 
-When the backup is complete, VxAdmin shows the details of the saved backup. Select `Close` and disconnect the backup drive.
+When the backup is complete, VxAdmin shows the details of the saved backup.
+
+* [ ] Select `Close`
+* [ ] Disconnect the backup drive
 
 <div><figure><img src="../.gitbook/assets/vxadmin-save-backup-in-progress.png" alt="Saving Backup dialog with a progress bar and Cancel Backup button" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-backup-saved.png" alt="Backup Saved dialog listing the saved election backup and a Close button" width="375"><figcaption></figcaption></figure></div>
 
@@ -37,7 +46,8 @@ When to save a backup is up to your jurisdiction's policies. One common approach
 Restoring from a backup must be done by a system administrator. A backup can only be restored onto an unconfigured VxAdmin, and restoring requires restarting the machine in Restore Mode. A backup can be restored onto a different VxAdmin from the one that saved it, such as a replacement laptop, as long as it belongs to the same jurisdiction.
 
 * [ ] Log in as a system administrator
-* [ ] Select `Election` from the side menu and select `Restore from Backup...`
+* [ ] Select `Election` from the side menu
+* [ ] Select `Restore from Backup...`
 * [ ] Select `Restart in Restore Mode`
 
 <div><figure><img src="../.gitbook/assets/vxadmin-restore-from-backup-button.png" alt="Unconfigured Election screen with the Restore from Backup button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-enter-restore-mode-modal.png" alt="Enter Restore Mode dialog with Cancel and Restart in Restore Mode buttons" width="375"><figcaption></figcaption></figure></div>
@@ -46,7 +56,9 @@ VxAdmin restarts in Restore Mode, which is marked by a banner at the top of ever
 
 * [ ] Log in as a system administrator
 * [ ] Connect the backup drive
-* [ ] Select the backup you want to restore and confirm by selecting `Restore`
-* [ ] When the restore is complete, disconnect the backup drive and select `Restart`
+* [ ] Select the backup you want to restore
+* [ ] Select `Restore` to confirm
+* [ ] When the restore is complete, disconnect the backup drive
+* [ ] Select `Restart`
 
 VxAdmin restarts configured with the restored election. If a restore is canceled or fails, VxAdmin is left unconfigured and the restore can be attempted again.

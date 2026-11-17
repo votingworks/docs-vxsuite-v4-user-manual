@@ -61,13 +61,15 @@ A poll worker (also known as an election worker) should be designated by the ele
 
 ## Program Cards
 
-For each election, you will create election manager and poll worker cards specifically for that election. You can create smart cards with VxAdmin by logging in with a system administrator card and selecting `Smart Cards` from the side menu.
+For each election, you will create election manager and poll worker cards specifically for that election. Use the smart card reader in the lower lefthand side of your VxAdmin laptop to program a card.
 
-Use the smart card reader in the lower lefthand side of your VxAdmin laptop to program a card.
+* [ ] Log in with a system administrator card
+* [ ] Select `Smart Cards` from the side menu
 
 <div><figure><img src="../.gitbook/assets/vxadmin-smart-cards-no-card.png" alt="VxAdmin Smart Cards screen with no card inserted, prompting to insert a smart card." width="375"><figcaption><p>Smart cards screen without card inserted</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-laptop-insert-smart-card.png" alt="Hand inserting a System Administrator smart card, chip first, into the laptop card reader." width="375"><figcaption><p>Insert smart card</p></figcaption></figure></div>
 
-Insert the card of your choice and select the correct button for the card.
+* [ ] Insert the card you want to program
+* [ ] Select the button for the type of card you want to program
 
 <figure><img src="../.gitbook/assets/vxadmin-smart-cards-blank-card.png" alt="VxAdmin Smart Cards screen with a blank card inserted and Program New Card buttons shown." width="375"><figcaption></figcaption></figure>
 

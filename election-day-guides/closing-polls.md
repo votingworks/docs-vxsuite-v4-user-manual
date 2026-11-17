@@ -8,7 +8,9 @@ Close the polls on VxScan at the end of voting to print the polls closed report.
 
 * [ ] Insert the poll worker card
 * [ ] Select `Close Polls`
-* [ ] The polls closed report will print
+
+The polls closed report prints.
+
 * [ ] Tear to remove the report
 
 <div><figure><img src="../.gitbook/assets/photo-vxscan-insert-poll-worker-card.png" alt="Hand inserting a Poll Worker smart card into the VxScan card reader slot" width="375"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-close-polls-button.png" alt="VxScan poll worker prompt Do you want to close the polls with the Close Polls button highlighted" width="563"><figcaption><p>Select <code>Close Polls</code></p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-report-printing.png" alt="VxScan printing a report from the slot below the screen while the screen shows a progress indicator" width="375"><figcaption></figcaption></figure></div>
@@ -20,7 +22,8 @@ Close the polls on VxScan at the end of voting to print the polls closed report.
 
 * [ ] Unseal and document the poll worker door seal as required
 * [ ] Open the poll worker door
-* [ ] Remove the USB drive from the poll worker door and secure as required
+* [ ] Remove the USB drive from the poll worker door
+* [ ] Secure the USB drive as required
 
 <div><figure><img src="../.gitbook/assets/photo-vxscan-poll-worker-door-seal.png" alt="Numbered green plastic security seal threaded through the VxScan poll worker door latch" width="375"><figcaption><p>Unseal and document the poll worker door</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-usb-drive-inserted.png" alt="USB drive inserted into the port behind the VxScan poll worker door, circled in blue" width="188"><figcaption><p>Remove the USB drive</p></figcaption></figure></div>
 

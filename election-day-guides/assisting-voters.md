@@ -72,7 +72,11 @@ If the voter would like to change their ballot, they should select `Return Ballo
 
 ### Adjust Color and Size
 
-Simple changes to the screen's color and size can be very helpful for voters with low vision and other cognitive disabilities. Selecting `Settings` in the upper left hand corner of the screen provides the voter with different options. Select `Color` to change the text and background color and select `Text Size` to change the text size.
+Simple changes to the screen's color and size can be very helpful for voters with low vision and other cognitive disabilities. The `Settings` button provides the voter with different options:
+
+* [ ] Select `Settings` in the upper left hand corner of the screen
+* [ ] Select `Color` to change the text and background color
+* [ ] Select `Text Size` to change the text size
 
 <div><figure><img src="../.gitbook/assets/vxscan-settings-button.png" alt="VxScan Insert Your Ballot screen with the Settings button in the header highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-settings-color.png" alt="VxScan voter Settings screen on the Color tab with Dark text, light background selected" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-settings-text-size.png" alt="VxScan voter Settings screen on the Text Size tab with Medium selected" width="375"><figcaption></figcaption></figure></div>
 
@@ -94,7 +98,11 @@ The default text size is `Medium`. A voter can select `Small`, `Large`, or `Extr
 
 ### Language
 
-If a jurisdiction provides language options to voters, a voter may select that language by selecting `English`. Next, they'll select the language of their choice and select `Done`.
+If a jurisdiction provides language options to voters, a voter may select a language:
+
+* [ ] Select `English`
+* [ ] Select the language of their choice
+* [ ] Select `Done`
 
 <div><figure><img src="../.gitbook/assets/vxscan-language-button.png" alt="VxScan Insert Your Ballot screen with the English language button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-language-settings.png" alt="VxScan Select Your Ballot Language screen with English selected and a Done button" width="375"><figcaption></figcaption></figure></div>
 
@@ -106,8 +114,8 @@ All selections above are made for a specific voting session and reset with the n
 
 VxScan also supports ballot casting over an audio-tactile interface via an accessible controller and headphones. A poll worker does the following to enable the audio-tactile interface:
 
-* Plug in the personal assistive technology (PAT) device into the PAT jack in front in the top-left.
-* Plug in the headphones into the headphone jack in front in the bottom-left.
+* [ ] Plug the personal assistive technology (PAT) device into the PAT jack in front in the top-left
+* [ ] Plug the headphones into the headphone jack in front in the bottom-left
 
 {% hint style="warning" %}
 Accessibility devices must be connected to VxScan before scanning a ballot, for a voter using the audio-tactile interface.

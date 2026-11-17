@@ -12,6 +12,10 @@ See [Central Scanning](scanning-ballots.md "mention") for details on each step.
 * [ ] Adjudicate ballots
 * [ ] Scan adjudicated ballots
 * [ ] Write down the number of ballots scanned by the scanner (displayed on `Scan Ballots` page)
-* [ ] Go to the `Batch History` page and select `Save CVRs` to save the cast vote records (CVRs) to the USB drive
-* [ ] Power down VxCentralScan using the keyboard power button. VxCentralScan has shut down correctly when the screen is off and presents no content.
+* [ ] Go to the `Batch History` page
+* [ ] Select `Save CVRs` to save the cast vote records (CVRs) to the USB drive
+* [ ] Power down VxCentralScan using the keyboard power button
+
+VxCentralScan has shut down correctly when the screen is off and presents no content.
+
 * [ ] Store system in a secure climate-controlled environment
