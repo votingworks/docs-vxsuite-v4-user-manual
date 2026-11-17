@@ -28,7 +28,7 @@ VxCentralScan can be set up through the following steps:
    * [ ] Remove the scanner and power cord from the case
    * [ ] Attach and pull out the paper feed guide tray (A)
    * [ ] Pull out the paper holder tray (B)
-   * [ ] Plug the USB cord (C) into the back of the scanner and into the laptop
+   * [ ] Plug the USB cord (C) into the back of the scanner and into the USB hub
    * [ ] Plug the power cord (D) into the back of the scanner and into the APC UPS
    * [ ] Plug the UPS into a power outlet
    * [ ] Turn on the UPS
@@ -68,7 +68,7 @@ All three scanners can be used with an optional imprinter:
 * Ricoh fi-7600 - Uses the fi-760PRB. See the [fi-760PRB user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-760prb-user-guide.pdf) for assembly instructions.
 * Ricoh fi-8950 - Uses the fi-890PRB. See the [fi-890PRB user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-8950/ricoh-fi-890prb-user-guide.pdf). The one-time installation must be performed by a Ricoh support technician.
 
-For the detachable imprinters, the scanner must be off when attaching the imprinter. After the imprinter is attached, adjust the paper guides on the imprinter to match the paper width of each batch, which is 8.5 in. for hand-marked paper ballots or 8 in. for machine-marked paper ballots.
+For the detachable imprinters, the scanner must be off when attaching the imprinter. After the imprinter is attached, adjust the paper guides on the imprinter to match the paper width of each batch, which is 8.5 in. for hand-marked paper ballots and ballots printed by VxMark, or 8 in. for ballots printed by VxMarkScan.
 
 For all imprinters, adjust the position of the imprinter to ensure that imprinting is done outside of the ballot marking area on each ballot. Test imprinting on blank paper or test ballots before using it on official ballots.
 
