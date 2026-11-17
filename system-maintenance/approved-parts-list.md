@@ -18,12 +18,12 @@
 
 ## USB Drive Specifications
 
-| Attribute  | Requirement                              |
-| ---------- | ---------------------------------------- |
-| Protocol   | 3.0 minimum                              |
-| Capacity   | 64GB minimum                             |
-| Length     | 55mm maximum, measured from inserted tip |
-| Read Speed | 60 Mbps minimum                          |
+| Attribute  | Requirement                               |
+| ---------- | ----------------------------------------- |
+| Protocol   | 3.0 minimum                               |
+| Capacity   | 64 GB minimum                             |
+| Length     | 55 mm maximum, measured from inserted tip |
+| Read Speed | 60 Mbps minimum                           |
 
 ## Backup Drive Specifications
 

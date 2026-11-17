@@ -1,8 +1,8 @@
 # VxMarkScan Checklist
 
-### Hardware Setup
+## Hardware Setup
 
-**Set up the stand**:
+### Set Up the Stand
 
 * [ ] With the legs facing up, raise a leg until it snaps in place
 * [ ] Continue until all legs are raised
@@ -11,80 +11,82 @@
 * [ ] Add power block holder to the back center on the top of the stand
 * [ ] Insert power block into the holder so cords lay out each side
 
-**Set up the ballot marking device:**
+### Set Up the Ballot-Marking Device (BMD)
 
-* [ ] Using two people, place the ballot marking device on the stand, aligning the stand bars with the bottom
-* [ ] Plug in the power cord connector to the back of the ballot marking device
-* [ ] Plug the power cord into the APC UPS battery backup
+* [ ] Using two people, place the BMD on the stand, aligning the stand bars with the bottom
+* [ ] Plug in the power cord connector to the back of the BMD
+* [ ] Plug the power cord into the APC uninterruptible power supply (UPS)
 * [ ] Push the printer-scanner cover release button in
 * [ ] Open the printer-scanner cover
 * [ ] Slide the ballot bin into place
 * [ ] Close the printer-scanner cover
 * [ ] Document and seal the ballot bin (loop on right side) as required
-* [ ] Place the privacy shield pegs in the holes on each side of the ballot marking device
+* [ ] Place the privacy shield pegs in the holes on each side of the BMD
 * [ ] Plug the headphones into the front headphone jack
 * [ ] Push the power button to turn VxMarkScan on
 
-### Open Polls, Activate Voting Session, and Close Polls
+## Open Polls, Activate Voting Session, and Close Polls
 
-**To open the polls:**
+### Open the Polls
 
 * [ ] Insert the poll worker card into the card reader beneath the accessible controller
 * [ ] Select `Open Polls`
 * [ ] Confirm by selecting `Open Polls` again
-* [ ] Remove the poll worker card
 * [ ] Verify the number of ballots printed is zero
+* [ ] Remove the poll worker card
 
-**To activate a voting session:**
+### Activate a Voting Session
 
 * [ ] Insert the poll worker card
 * [ ] Select the voter's ballot style
 * [ ] When prompted, feed one sheet of paper into the front input tray
-* [ ] Once loaded, the screen will show that the voting session is active
-* [ ] Review the ballot style and precinct to ensure it was selected correctly for the voter
+
+Once the sheet is loaded, the screen shows that the voting session is active.
+
+* [ ] Review the precinct and ballot style to ensure it was selected correctly for the voter
 * [ ] Remove the poll worker card
 
-**To close the polls:**
+### Close the Polls
 
 * [ ] Remove ballot bin seal
-* [ ] Remove ballots inside (secure for central tabulation on VxCentralScan)
+* [ ] Remove ballots inside (secure for tabulation on VxCentralScan)
 * [ ] Insert the poll worker card
 * [ ] Select `Close Polls`
 * [ ] Confirm by selecting `Close Polls` again
 * [ ] Remove the poll worker card
 
-### Pause Voting and Resume Voting
+## Pause Voting and Resume Voting
 
-**To pause voting:**
+### Pause Voting
 
 * [ ] Insert the poll worker card into the card reader beneath the accessible controller
 * [ ] Select `Pause Voting`
 * [ ] Confirm by selecting `Pause Voting` again
 * [ ] Remove the poll worker card
 
-**To resume voting:**
+### Resume Voting
 
 * [ ] Insert the poll worker card into the card reader beneath the accessible controller
 * [ ] Select `Resume Voting`
 * [ ] Confirm by selecting `Resume Voting` again
 * [ ] Remove the poll worker card
 
-### Hardware Tear Down
+## Hardware Tear Down
 
-**Pack up the ballot marking device**:
+### Pack Up the BMD
 
 * [ ] Push the power button to turn off
 * [ ] Unplug and store the headphones
 * [ ] Remove and store the privacy shield
 * [ ] Push the printer-scanner release button to open the cover
 * [ ] Lift the ballot bin to remove
-* [ ] Unplug the power cord from the APC UPS battery backup
-* [ ] Unplug the power cord connector from the back of the ballot marking device
-* [ ] Remove and store the ballot marking device from the stand
+* [ ] Unplug the power cord from the APC UPS
+* [ ] Unplug the power cord connector from the back of the BMD
+* [ ] Remove the BMD from the stand and store it
 * [ ] Remove and store the power block from the holder
 * [ ] Remove and store the power block holder
 
-**Pack up the stand:**
+### Pack Up the Stand
 
 * [ ] Remove the support bar
 * [ ] Flip the stand over

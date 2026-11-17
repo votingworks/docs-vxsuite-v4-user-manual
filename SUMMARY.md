@@ -4,15 +4,15 @@
 
 ## VxAdmin System Setup
 
-* [VxAdmin Hardware Setup](vxadmin-system-setup/vxadmin-hardware-setup.md)
+* [Set Up VxAdmin](vxadmin-system-setup/vxadmin-hardware-setup.md)
 * [Configure VxAdmin](vxadmin-system-setup/configure-vxadmin.md)
-* [Save Election Package](vxadmin-system-setup/save-election-package.md)
+* [Save the Election Package](vxadmin-system-setup/save-election-package.md)
 * [Smart Cards and User Roles](vxadmin-system-setup/programming-cards.md)
-* [Pre-Election Adjudication Setup](vxadmin-system-setup/pre-election-adjudication-setup.md)
-* [Backup and Restore](vxadmin-system-setup/backup-and-restore.md)
-* [USB Formatting](vxadmin-system-setup/usb-formatting.md)
+* [Set Up Pre-Election Adjudication](vxadmin-system-setup/pre-election-adjudication-setup.md)
+* [Back Up and Restore](vxadmin-system-setup/backup-and-restore.md)
+* [Format USB Drives](vxadmin-system-setup/usb-formatting.md)
 * [VxAdmin Diagnostics](vxadmin-system-setup/vxadmin-diagnostics.md)
-* [Unlocking & Locking](vxadmin-system-setup/unlocking-locking-hardware.md)
+* [Unlock and Lock](vxadmin-system-setup/unlocking-locking-hardware.md)
 * [VxAdmin Error Messages](vxadmin-system-setup/vxadmin-error-messages.md)
 
 ## VxScan
@@ -28,28 +28,28 @@
 ## Logic & Accuracy Pre-Election Testing
 
 * [L\&A Overview](logic-and-accuracy-pre-election-testing/l-and-a-overview.md)
-* [L\&A Cleanup](logic-and-accuracy-pre-election-testing/prepare-for-election-day.md)
+* [Clean Up After L\&A](logic-and-accuracy-pre-election-testing/prepare-for-election-day.md)
 * [Setup Inspection](logic-and-accuracy-pre-election-testing/setup-inspection.md)
 
 ## Election Day Guides
 
-* [VxScan Setup](election-day-guides/vxscan-setup.md)
-* [Opening Polls](election-day-guides/opening-polls.md)
-* [Assisting Voters](election-day-guides/assisting-voters.md)
-* [Closing Polls](election-day-guides/closing-polls.md)
-* [Packing Up VxScan](election-day-guides/packing-up-vxscan.md)
+* [Set Up VxScan](election-day-guides/vxscan-setup.md)
+* [Open Polls](election-day-guides/opening-polls.md)
+* [Assist Voters](election-day-guides/assisting-voters.md)
+* [Close Polls](election-day-guides/closing-polls.md)
+* [Pack Up VxScan](election-day-guides/packing-up-vxscan.md)
 
 ## Election Night Guides
 
 * [Tally Results](election-night-guides/tally-results.md)
 * [Adjudication](election-night-guides/adjudication.md)
-* [Manual Tallies](election-night-guides/manual-tallies.md)
+* [Enter Manual Tallies](election-night-guides/manual-tallies.md)
 * [Reports](election-night-guides/reports.md)
 * [Mark Results as Official](election-night-guides/mark-results-as-official.md)
 
 ## After Election Night
 
-* [Retaining & Removing Election Files](after-election-night/retaining-and-removing-election-files.md)
+* [Retain and Remove Election Files](after-election-night/retaining-and-removing-election-files.md)
 * [Post-Election Audit Resources](after-election-night/post-election-audit-resources.md)
 
 ## Checklists
@@ -64,7 +64,7 @@
 ## Miscellaneous
 
 * [Signed Hash Validation](miscellaneous/signed-hash-validation.md)
-* [Setting Date & Time](miscellaneous/setting-date-and-time.md)
+* [Set the Date and Time](miscellaneous/setting-date-and-time.md)
 * [HP Printer FAQs](miscellaneous/hp-printer-faqs.md)
 * [Operational Environment](miscellaneous/operational-environment.md)
 * [Seal Recommendations](miscellaneous/seal-recommendations.md)
@@ -84,7 +84,7 @@
 
 * [VxPrint Hardware Setup](vxprint/vxprint-hardware-setup.md)
 * [Configure VxPrint](vxprint/configure-vxprint.md)
-* [Printing Ballots](vxprint/printing-ballots.md)
+* [Print Ballots](vxprint/printing-ballots.md)
 * [Reporting & Logs](vxprint/reportingandlogs.md)
 * [VxPrint Diagnostics](vxprint/vxprint-diagnostics.md)
 * [VxPrint Error Messages](vxprint/vxprint-error-messages.md)
@@ -95,9 +95,9 @@
 * [Configure VxMark](vxmark/configure-vxmark.md)
 * [Open and Close Polls](vxmark/open-and-close-polls.md)
 * [Voting Sessions](vxmark/voting-sessions.md)
-* [Printing Blank Ballots](vxmark/printing-blank-ballots.md)
+* [Print Blank Ballots](vxmark/printing-blank-ballots.md)
 * [Voting Session Language & Accessibility Settings](vxmark/voting-session-language-and-accessibility-settings.md)
-* [Packing Up VxMark](vxmark/packing-up-vxmark.md)
+* [Pack Up VxMark](vxmark/packing-up-vxmark.md)
 * [VxMark Error Messages](vxmark/vxmark-error-messages.md)
 * [VxMark Diagnostics](vxmark/diagnostics.md)
 * [Retaining and Removing Files - VxMark](vxmark/retaining-and-removing-files.md)
@@ -110,7 +110,7 @@
 * [Open and Close Polls](vxmarkscan/open-and-close-polls.md)
 * [Voting Sessions](vxmarkscan/voting-sessions.md)
 * [Voting Session Language & Accessibility Settings](vxmarkscan/voting-session-language-and-accessibility-settings.md)
-* [Packing Up VxMarkScan](vxmarkscan/packing-up-vxmarkscan.md)
+* [Pack Up VxMarkScan](vxmarkscan/packing-up-vxmarkscan.md)
 * [VxMarkScan Error Messages](vxmarkscan/vxmarkscan-error-messages.md)
 * [VxMarkScan Diagnostics](vxmarkscan/diagnostics.md)
 * [Retaining and Removing Files - VxMarkScan](vxmarkscan/retaining-and-removing-files.md)

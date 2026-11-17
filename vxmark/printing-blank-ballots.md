@@ -1,4 +1,4 @@
-# Printing Blank Ballots
+# Print Blank Ballots
 
 If your jurisdiction has enabled blank ballot printing, poll workers can print an unmarked ballot from VxMark for a voter to mark by hand. Blank ballots can only be printed while polls are open.
 
@@ -13,7 +13,8 @@ To print a blank ballot:
 * [ ] Select the voter's ballot style
 * [ ] If prompted, select the ballot language
 * [ ] Select `Print Ballot`
-* [ ] Remove the printed ballot from the printer and select `Done`
+* [ ] Remove the printed ballot from the printer
+* [ ] Select `Done`
 * [ ] Select `Back` to return to the poll worker menu, or remove the poll worker card
 
 <div><figure><img src="../.gitbook/assets/vxmark-pw-menu-print-blank-ballot-highlighted.png" alt="Poll Worker Menu with the Print Blank Ballot button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-print-blank-ballot-precinct-dropdown-open.png" alt="Blank Ballot Printing screen with the ballot style dropdown open" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-print-blank-ballot-options-selected.png" alt="Blank Ballot Printing screen with ballot style and language selected and Print Ballot highlighted" width="188"><figcaption></figcaption></figure></div>

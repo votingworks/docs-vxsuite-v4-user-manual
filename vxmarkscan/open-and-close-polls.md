@@ -1,28 +1,30 @@
 # Open and Close Polls
 
+Poll workers open the polls on VxMarkScan before voting begins and close them when voting is complete. They can also pause and resume voting in between.
+
 ## Open Polls on VxMarkScan
 
-After VxMarkScan is turned on, the screen will show "Polls Closed":
+After VxMarkScan is turned on, the screen shows "Polls Closed":
 
 <figure><img src="../.gitbook/assets/vxmarkscan-unauthenticated-polls-closed-final.png" alt="VxMarkScan Polls Closed screen with election name and precinct in the footer" width="188"><figcaption></figcaption></figure>
 
-Verify the election name, election date, and precinct are correct in the bottom left corner.
+Verify the election name, election date, and polling place are correct in the bottom left corner.
 
 {% hint style="warning" %}
 If there is an orange callout that says "Test Ballot Mode" on the screen, contact your election administrator immediately to prepare the machine for the election.
 {% endhint %}
 
-**To open the polls:**
+To open the polls:
 
 * [ ] Insert the poll worker card into the card reader beneath the accessible controller
 * [ ] Select `Open Polls`
 * [ ] Confirm by selecting `Open Polls` again
-* [ ] Remove the poll worker card
 * [ ] Verify the number of ballots printed is zero
+* [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-smart-card-reader.jpg" alt="Smart card reader slot (yellow) in the recess beside the headphones on VxMarkScan." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-open-polls-highlighted.png" alt="VxMarkScan poll worker menu with polls closed and the Open Polls button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-open-polls-modal.png" alt="VxMarkScan Open Polls confirmation dialog with the Open Polls button highlighted" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-smart-card-reader.jpg" alt="Smart card reader slot (yellow) in the recess beside the headphones on VxMarkScan." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-open-polls-highlighted.png" alt="VxMarkScan poll worker menu with polls closed and the Open Polls button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-open-polls-modal.png" alt="VxMarkScan Open Polls confirmation dialog with the Open Polls button highlighted" width="188"><figcaption></figcaption></figure></div>
 
-The polls are now open and VxMarkScan is ready for voters.
+The polls are now open and voting can begin.
 
 ## Close Polls on VxMarkScan
 
@@ -33,9 +35,9 @@ The polls are now open and VxMarkScan is ready for voters.
 * [ ] Confirm by selecting `Close Polls` again
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-polls-open-close-polls-highlighted.png" alt="VxMarkScan poll worker menu with polls open and the Close Polls button highlighted." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-close-polls-modal.png" alt="VxMarkScan Close Polls confirmation dialog with the Close Polls button highlighted." width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-polls-open-close-polls-highlighted.png" alt="VxMarkScan poll worker menu with polls open and the Close Polls button highlighted." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-close-polls-modal.png" alt="VxMarkScan Close Polls confirmation dialog with the Close Polls button highlighted." width="188"><figcaption></figcaption></figure></div>
 
-The polls are now closed.
+The polls are now closed and voting is complete.
 
 ## Pause or Resume Voting
 
@@ -46,7 +48,7 @@ The `Pause Voting` action is generally used by jurisdictions conducting early vo
 * [ ] Confirm by selecting `Pause Voting` again
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-pause-voting-highlighted.png" alt="VxMarkScan poll worker menu with polls open and the Pause Voting button highlighted." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-pause-voting-modal.png" alt="VxMarkScan Pause Voting confirmation dialog with the Pause Voting button highlighted." width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-pause-voting-highlighted.png" alt="VxMarkScan poll worker menu with polls open and the Pause Voting button highlighted." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-pause-voting-modal.png" alt="VxMarkScan Pause Voting confirmation dialog with the Pause Voting button highlighted." width="188"><figcaption></figcaption></figure></div>
 
 Voting is now paused. When you want to resume voting:
 
@@ -55,6 +57,6 @@ Voting is now paused. When you want to resume voting:
 * [ ] Confirm by selecting `Resume Voting` again
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-resume-voting-highlighted.png" alt="VxMarkScan poll worker menu with polls paused and the Resume Voting button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-resume-voting-modal.png" alt="VxMarkScan Resume Voting confirmation dialog with the Resume Voting button highlighted" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-resume-voting-highlighted.png" alt="VxMarkScan poll worker menu with polls paused and the Resume Voting button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-resume-voting-modal.png" alt="VxMarkScan Resume Voting confirmation dialog with the Resume Voting button highlighted" width="188"><figcaption></figcaption></figure></div>
 
 Voting can now continue.
