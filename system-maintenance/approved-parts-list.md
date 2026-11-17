@@ -37,11 +37,11 @@ No minimum capacity is specified. Backup drives must be prepared by VotingWorks 
 
 ## Marking Devices
 
-Marking devices for hand-marked paper ballots should be black ink pens that dry quickly, but nothing more specific is recommended. Do not use markers. Some examples of commercially available pens that meet this requirement are:
+Marking devices for hand-marked paper ballots should be black or blue ink pens that dry quickly, but nothing more specific is recommended. Do not use markers. Some examples of commercially available pens that meet this requirement are:
 
 | Manufacturer | Product Name           | Part Number  |
 | ------------ | ---------------------- | ------------ |
-| BIC          | Round Stic Xtra Life   | ‎GSM36WM-BLK |
+| BIC          | Round Stic Xtra Life   | GSM36WM-BLK |
 | BIC          | Clic Stic Retractable  | CSM60-BLK    |
 | Zebra        | Pen Z-Grip Retractable | 22148        |
 | Paper Mate   | Profile Retractable    | 1921067      |

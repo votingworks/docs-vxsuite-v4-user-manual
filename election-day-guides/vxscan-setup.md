@@ -24,11 +24,11 @@ description: >-
 
 * [ ] Pull the box open and gently push the purple hooks down with your foot
 
-<div><figure><img src="../.gitbook/assets/photo-vxscan-ballot-box-expanded-lid-open.jpg" alt="Expanded VxScan ballot box seen from the side with the lid lifted open" width="375"><figcaption><p>Box fully expanded</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-ballot-box-expanded-lid-closed.jpg" alt="Expanded VxScan ballot box from the side with the lid closed on top" width="375"><figcaption><p>Box interior when expanded</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxscan-ballot-box-expanded-lid-open.jpg" alt="Expanded VxScan ballot box seen from the side with the lid lifted open" width="375"><figcaption><p>Box fully expanded</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-ballot-box-expanded-lid-closed.jpg" alt="Looking down into the open, expanded VxScan ballot box with the lid folded aside" width="375"><figcaption><p>Box interior when expanded</p></figcaption></figure></div>
 
 * [ ] Close the lid, pushing until you hear a click
 
-<div><figure><img src="../.gitbook/assets/photo-vxscan-ballot-box-expanded-top-view.jpg" alt="Looking down into the open, expanded VxScan ballot box with the lid folded aside" width="375"><figcaption><p>Lifting the lid</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-ballot-box-lifting-lid.jpg" alt="Hand lifting the VxScan ballot box lid, showing the underside with its strap hooks" width="375"><figcaption><p>Lid clicked into place</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxscan-ballot-box-expanded-top-view.jpg" alt="Hand lifting the VxScan ballot box lid, showing the underside with its strap hooks" width="375"><figcaption><p>Lifting the lid</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-ballot-box-lifting-lid.jpg" alt="Expanded VxScan ballot box from the side with the lid closed on top" width="375"><figcaption><p>Lid clicked into place</p></figcaption></figure></div>
 
 * [ ] Seal the ballot box as required
 

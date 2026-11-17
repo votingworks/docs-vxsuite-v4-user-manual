@@ -35,7 +35,7 @@ To create a filtered and/or grouped report:
 
 ### Ballot Count Reports
 
-Ballot count reports show the number of ballots cast. The ballot count report builder enables you to generate custom reports by precinct, district, ballot style, and more. An example of the Voting Method Ballot Count Report is on the right.
+Ballot count reports show the number of ballots cast. The ballot count report builder enables you to generate custom reports by precinct, district, ballot style, and more. An example of the Precinct Ballot Count Report is on the right.
 
 <div><figure><img src="../.gitbook/assets/vxadmin-reports-ballot-count-section-highlighted.png" alt="VxAdmin Election Reports screen with the Unofficial Ballot Count Reports buttons highlighted." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-ballot-count-report-precinct.png" alt="VxAdmin Precinct Ballot Count Report preview with print and export buttons above a per-precinct totals table." width="375"><figcaption></figcaption></figure></div>
 

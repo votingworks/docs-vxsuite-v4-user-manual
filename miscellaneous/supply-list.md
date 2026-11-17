@@ -23,7 +23,7 @@ VotingWorks recommends the 64GB SanDisk Ultra Flair USB 3.0 drive (SDCZ73-064G-G
 
 A faster drive may be necessary when exporting large volumes of ballots from VxCentralScan, for which the 128GB SanDisk Extreme PRO USB 3.2 drive (SDCZ880-128G-G46) is recommended.
 
-VotingWorks recommends using a new USB drive for each election and each voting device as well as separate USBs for L\&A testing.
+VotingWorks recommends using a new USB drive for each election and each voting device as well as separate USBs for L&A testing.
 
 ## Backup Drives
 

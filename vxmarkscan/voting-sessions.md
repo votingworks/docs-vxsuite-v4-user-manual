@@ -65,5 +65,5 @@ The screen will show the ballot being cast and verify it was cast and dropped in
 <div><figure><img src="../.gitbook/assets/vxmarkscan-voting-casting-ballot.png" alt="VxMarkScan Casting Ballot screen shown while the printed ballot is scanned and cast" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-ballot-cast.png" alt="VxMarkScan confirmation that the voter's ballot was cast" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-If headphones are used, it's recommended to use earpad covers and replace then after each use. See the [Supply List](../miscellaneous/supply-list.md) for more information.
+If headphones are used, it's recommended to use earpad covers and replace them after each use. See the [Supply List](../miscellaneous/supply-list.md) for more information.
 {% endhint %}
