@@ -7,7 +7,7 @@ The following steps must be completed by an election manager.
 When you are ready to certify election results, you can mark VxAdmin results as official to print official reports.
 
 {% hint style="warning" %}
-Make sure that you've imported all CVR files, completed all adjudication, and added all manual tallies before proceeding.
+Make sure that you've imported all cast vote record (CVR) files, completed all adjudication, and added all manual tallies before proceeding.
 {% endhint %}
 
 To mark results as official, select `Reports` from the side menu and select `Mark Election Results as Official`.

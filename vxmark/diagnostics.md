@@ -4,7 +4,7 @@ In preparation for an election or in response to issues, the diagnostics interfa
 
 <div><figure><img src="../.gitbook/assets/vxmark-em-menu-diagnostics-highlighted.png" alt="VxMark election manager menu with the Diagnostics button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-sa-menu-diagnostics-highlighted.png" alt="System Administrator Menu with the Diagnostics button highlighted" width="188"><figcaption></figcaption></figure></div>
 
-The diagnostics screen shows information about how the machine is configured, how much storage is left on the device, and the current status of the hardware. There are tests for the accessible controller, PAT Device input, printer, barcode reader, headphone input, system audio, and uninterruptible power supply.
+The diagnostics screen shows information about how the machine is configured, how much storage is left on the device, and the current status of the hardware. There are tests for the accessible controller, personal assistive technology (PAT) device input, printer, barcode reader, headphone input, system audio, and uninterruptible power supply.
 
 <figure><img src="../.gitbook/assets/vxmark-em-diagnostics-full.png" alt="VxMark System Diagnostics screen, full page, with test buttons for printer, controller, PAT, audio and UPS." width="375"><figcaption></figcaption></figure>
 

@@ -2,7 +2,7 @@
 
 ## Laptop Maintenance
 
-VxAdmin, VxCentralScan, and VxPrint are simply COTS laptops that are sealed and installed with VotingWorks software. For additional reference information, see the following links:
+VxAdmin, VxCentralScan, and VxPrint are simply commercial off-the-shelf (COTS) laptops that are sealed and installed with VotingWorks software. For additional reference information, see the following links:
 
 * **Hardware Overview -** [VxAdmin, VxPrint, & VxCentralScan Hardware](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxadmin-and-vxcentralscan-hardware "mention")
 * **Software Functionality -** [VxAdmin Function](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxadmin-function "mention") & [VxCentralScan Function](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/vxcentralscan-function "mention")
@@ -27,7 +27,7 @@ The free disk space available on VxAdmin and VxCentralScan is visible to system 
 
 When the machine is unconfigured or ballot data is cleared, disk space will be recovered. The free disk space may not appear to return to 100% but old files will eventually be replaced by new files and the disk space will be re-used.
 
-VotingWorks recommends that all scanned ballot data is backed up from VxCentralScan to a USB drive before being cleared from the application. The application forces the user to perform the backup. VotingWorks recommends a 64GB SanDisk Ultra Flair USB 3.0 Drive (PN: SDCZ73-064G-G46) for most operations and the faster 128GB SanDisk Extreme PRO USB 3.2 Drive (PN: SDCZ880-128G-G46) for very large backups. See [retaining-and-removing-files-vxcentralscan.md](../vxcentralscan/retaining-and-removing-files-vxcentralscan.md "mention") for details.
+VotingWorks recommends that all scanned ballot data is backed up from VxCentralScan to a USB drive before being cleared from the application. The application forces the user to perform the backup. VotingWorks recommends a 64 GB SanDisk Ultra Flair USB 3.0 Drive (PN: SDCZ73-064G-G46) for most operations and the faster 128 GB SanDisk Extreme PRO USB 3.2 Drive (PN: SDCZ880-128G-G46) for very large backups. See [retaining-and-removing-files-vxcentralscan.md](../vxcentralscan/retaining-and-removing-files-vxcentralscan.md "mention") for details.
 
 ## Printer Maintenance
 
@@ -35,7 +35,7 @@ VxAdmin & VxPrint use the HP LaserJet Pro 4001dn printer. The [manufacturer spec
 
 ### Paper Specifications
 
-VotingWorks recommends using only the printer's Tray 2, which is the bottom, higher capacity tray. The [manufacturer specifications](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-datasheet.pdf) allow for paper between 60 and 120 GSM, which roughly corresponds to between 16lb and 32lb bond paper. For the highest quality ballots and reports, VotingWorks recommends paper at the maximum supported paper weight, such as HP Premium 32lb paper (PN: HPU1132) or equivalent. All report paper should be letter-sized. All ballot paper should match the length of the election's ballots. Using paper outside of the manufacturer specified weight range may result in jams and incorrect operation.
+VotingWorks recommends using only the printer's Tray 2, which is the bottom, higher capacity tray. The [manufacturer specifications](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-datasheet.pdf) allow for paper between 60 and 120 GSM, which roughly corresponds to between 16 lb and 32 lb bond paper. For the highest quality ballots and reports, VotingWorks recommends paper at the maximum supported paper weight, such as HP Premium 32 lb paper (PN: HPU1132) or equivalent. All report paper should be letter-sized. All ballot paper should match the length of the election's ballots. Using paper outside of the manufacturer specified weight range may result in jams and incorrect operation.
 
 ### Toner Specifications
 

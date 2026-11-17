@@ -13,10 +13,10 @@ Review the warnings and cautions listed below first. Then below that, find speci
 
 1. The user should **never** try to perform complex repairs on VxMark.
 2. The bottom panel is sealed. Seals should **not** be removed by end users. Only VotingWorks should perform repairs that require removing panels.
-3. The VxMark HP4001dn printer performs best when stored at room temperature.  If ever the HP4001dn printer or its toner is stored in hot conditions above 100°F for more than 4 hours, the toner should be replaced for optimal function.  If ever the HP4001dn printer is stored in cold conditions below 60°F, avoid suddenly bringing it up to warmer temperatures and using it, and instead let it sit at room temperature as long as possible before printing with it.
+3. The VxMark HP4001dn printer performs best when stored at room temperature.  If ever the HP4001dn printer or its toner is stored in hot conditions above 100 °F for more than 4 hours, the toner should be replaced for optimal function.  If ever the HP4001dn printer is stored in cold conditions below 60 °F, avoid suddenly bringing it up to warmer temperatures and using it, and instead let it sit at room temperature as long as possible before printing with it.
 
 {% hint style="info" %}
-If ever the HP4001dn printer must be operated at cold temperatures below 60°F for more than an hour, then to preserve print quality the printer settings must be configured as follows using the menu buttons in the front of the printer:
+If ever the HP4001dn printer must be operated at cold temperatures below 60 °F for more than an hour, then to preserve print quality the printer settings must be configured as follows using the menu buttons in the front of the printer:
 
 **`Main Menu → Setup → Tray Management → Default Paper Type → Mid-Weight 96-110g`**
 
@@ -33,7 +33,7 @@ VxMark uses a HP LaserJet Pro 4001dn printer to print ballots. The [manufacturer
 
 #### Paper Specifications <a href="#paper-specifications" id="paper-specifications"></a>
 
-VotingWorks recommends using only the printer's Tray 2, which is the bottom, higher capacity tray. When using this printer with VxMark, paper should be between 28lb to 32lb bond weight, to account for both printer [manufacturer specifications](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-datasheet.pdf) and to ensure printed ballots are scannable by VxScan. Using paper outside of the manufacturer specified weight range may result in jams and incorrect operation. All paper should be letter-sized.
+VotingWorks recommends using only the printer's Tray 2, which is the bottom, higher capacity tray. When using this printer with VxMark, paper should be between 28 lb and 32 lb bond weight, to account for both printer [manufacturer specifications](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-datasheet.pdf) and to ensure printed ballots are scannable by VxScan. Using paper outside of the manufacturer specified weight range may result in jams and incorrect operation. All paper should be letter-sized.
 
 #### Toner Specifications <a href="#toner-specifications" id="toner-specifications"></a>
 

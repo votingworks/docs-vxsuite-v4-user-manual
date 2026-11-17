@@ -8,7 +8,7 @@ First, power down VxMark with the `Power Down` button in the poll worker menu:
 
 Then, pack up VxMark:
 
-* [ ] Unplug the VxMark power cable from the Goldenmate 1500VA/1000W UPS.
+* [ ] Unplug the VxMark power cable from the Goldenmate 1500VA/1000W uninterruptible power supply (UPS).
 * [ ] Unplug the UPS from the power outlet
 * [ ] Turn off the UPS
 * [ ] Unplug the headphones from the accessible controller

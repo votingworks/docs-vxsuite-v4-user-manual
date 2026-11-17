@@ -1,8 +1,8 @@
 ---
 description: >-
   Part of the Precinct System, the VxScan scans, stores, and tabulates paper
-  ballots hand marked by voters or ballots printed by voters via a ballot
-  marking device.
+  ballots hand marked by voters or ballots printed by voters via a
+  ballot-marking device.
 ---
 
 # VxScan Setup

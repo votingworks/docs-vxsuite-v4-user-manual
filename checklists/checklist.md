@@ -27,7 +27,7 @@ description: >-
 * [ ] Close the poll worker door and seal and document as required
 * [ ] Remove the power cord from its storage place
 * [ ] Plug the power cord into the case
-* [ ] Plug the power cord into the Goldenmate UPS
+* [ ] Plug the power cord into the Goldenmate uninterruptible power supply (UPS)
 * [ ] Plug the Goldenmate UPS into an outlet
 * [ ] Turn the Goldenmate UPS on
 

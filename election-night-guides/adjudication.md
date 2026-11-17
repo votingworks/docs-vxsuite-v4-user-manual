@@ -2,7 +2,7 @@
 
 ## The Adjudication Workflow
 
-Once CVRs have been loaded, the adjudication process can begin. Log in with an election manager card and select `Adjudication` from the side menu. If you are using an adjudication station connected to VxAdmin, you may also log in with a poll worker card.
+Once cast vote records (CVRs) have been loaded, the adjudication process can begin. Log in with an election manager card and select `Adjudication` from the side menu. If you are using an adjudication station connected to VxAdmin, you may also log in with a poll worker card.
 
 Select the `Adjudicate` button to begin adjudication.
 

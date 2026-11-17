@@ -22,7 +22,7 @@ If the ballot was not counted because of an issue, the scanner will hold the bal
 
 ### Overvoted Ballots
 
-A ballot is considered overvoted if the scanner recognizes more than the allowed number of votes for a particular race. For example, a voter marked two candidates in a race where they must make a single choice. If the voter would like to correct their ballot, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot`. All votes will be counted in correctly voted contests but the overvoted contest will be ignored.
+A ballot is considered overvoted if the scanner recognizes more than the allowed number of votes for a particular contest. For example, a voter marked two candidates in a contest where they must make a single choice. If the voter would like to correct their ballot, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot`. All votes will be counted in correctly voted contests but the overvoted contest will be ignored.
 
 <figure><img src="../.gitbook/assets/vxscan-overvote-warning.png" alt="VxScan Review Your Ballot warning that too many votes were marked in a contest" width="375"><figcaption></figcaption></figure>
 
@@ -100,7 +100,7 @@ All selections above are made for a specific voting session and will reset with 
 
 VxScan also supports ballot casting over an audio-tactile interface via an accessible controller and headphones. A poll worker does the following to enable the audio-tactile interface:
 
-* Plug in the Personal Assistive Technology (PAT) device into the PAT jack in front in the top-left.
+* Plug in the personal assistive technology (PAT) device into the PAT jack in front in the top-left.
 * Plug in the headphones into the headphone jack in front in the bottom-left.
 
 {% hint style="warning" %}

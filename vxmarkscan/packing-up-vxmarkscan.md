@@ -2,7 +2,7 @@
 
 Pack up **VxMarkScan** through the following steps:
 
-1. **Pack up the ballot marking device**:
+1. **Pack up the ballot-marking device (BMD)**:
 
 * [ ] Push the power button to turn off. VxMarkScan has shut down properly once the screen is off and presents no content.
 * [ ] Unplug and store the headphones
@@ -15,12 +15,12 @@ Pack up **VxMarkScan** through the following steps:
 
 <div><figure><img src="../.gitbook/assets/photo-vxmarkscan-push-ballot-bin-release.png" alt="Hand pressing the ballot bin release on VxMarkScan with the printer-scanner cover open." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-remove-ballot-bin.png" alt="Hand lifting the ballot bin out of VxMarkScan with the printer-scanner cover open." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-ballot-bin.png" alt="The VxMarkScan ballot bin standing on its own with its lid closed." width="188"><figcaption></figcaption></figure></div>
 
-* [ ] Unplug the power cord from the APC UPS battery backup
-* [ ] Unplug the power cord connector from the back of the ballot marking device
+* [ ] Unplug the power cord from the APC uninterruptible power supply (UPS)
+* [ ] Unplug the power cord connector from the back of the BMD
 
 <div><figure><img src="../.gitbook/assets/photo-vxmarkscan-power-cord-plugged-into-ups.png" alt="VxMarkScan power cord plugged into an outlet on the APC Back-UPS 850 battery backup." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-power-plug.png" alt="Hand holding the three-prong AC plug of the VxMarkScan power cord beneath the unit." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-power-cord-connector-plugged-in.png" alt="Power cord connector plugged into the underside of VxMarkScan beside the power button and headphone jack." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-power-cord-connector.png" alt="Hand holding the round power cord connector, marked TOP, beneath the VxMarkScan unit." width="188"><figcaption></figcaption></figure></div>
 
-* [ ] Remove and store the ballot marking device from the stand
+* [ ] Remove the BMD from the stand and store it
 * [ ] Remove and store the power block from the holder
 * [ ] Remove and store the power block holder
 

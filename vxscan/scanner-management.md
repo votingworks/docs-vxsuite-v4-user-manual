@@ -47,7 +47,7 @@ In order to prevent voters attempting to scan two ballots at once, VxScan has a 
 
 Select `Calibrate Double Sheet Detection` to begin calibration. Follow the instructions on screen. You will need two sheets of blank paper that have the same paper weight as the ballots for the election.
 
-The `Disable Double Sheet Detection` feature is used to disable the ultrasonic sensor in the event that it fails and improperly rejects single sheets as multiple sheets. If VxScan stops taking ballots or repeatedly displays the "Ballot Not Counted - Multiple sheets detected" error message, contact customer support. This setting should only be used if advised by the VotingWorks support team.
+The `Disable Double Sheet Detection` feature is used to disable the ultrasonic sensor in the event that it fails and improperly rejects single sheets as multiple sheets. If VxScan stops taking ballots or repeatedly displays the "Ballot Not Counted - Multiple sheets detected" error message, contact VotingWorks support. This setting should only be used if advised by VotingWorks support.
 
 ## Image Sensor Calibration
 
@@ -55,8 +55,8 @@ The `Disable Double Sheet Detection` feature is used to disable the ultrasonic s
 The following step can only be completed by a system administrator.
 {% endhint %}
 
-Image sensor calibration is recommended as part of [regular long-term maintenance](../system-maintenance/vxscan-maintenance-manual.md#long-term-hardware-maintenance) every 100k scans or every 3 years. Under exceedingly rare circumstances, one may need to calibrate the scanner image sensors more often. In this calibration, the scanner reads a blank white sheet of paper to ensure proper conversion from physical paper to digital image.
+Image sensor calibration is recommended as part of [regular long-term maintenance](../system-maintenance/vxscan-maintenance-manual.md#long-term-hardware-maintenance) every 100,000 scans or every 3 years. Under exceedingly rare circumstances, one may need to calibrate the scanner image sensors more often. In this calibration, the scanner reads a blank white sheet of paper to ensure proper conversion from physical paper to digital image.
 
 <figure><img src="../.gitbook/assets/vxscan-sa-calibrate-image-sensors.png" alt="VxScan system administrator menu with the Calibrate Image Sensors button highlighted" width="375"><figcaption></figcaption></figure>
 
-Machines are shipped with this calibration having already been completed by the part manufacturer, and it may never have to be performed outside the regular long-term maintenance. It should only be performed during L&A if ballots _consistently_ fail to scan with generic errors unrelated to election configuration (e.g., "Ballot Scan Failed - There was a problem scanning your ballot. Please scan it again."), all other reasons for failure (e.g., ballots not printed to spec) have been ruled out, and VotingWorks support has suggested this as a course of action.
+Machines are shipped with this calibration having already been completed by the part manufacturer, and it may never have to be performed outside the regular long-term maintenance. It should only be performed during logic and accuracy (L&A) testing if ballots _consistently_ fail to scan with generic errors unrelated to election configuration (e.g., "Ballot Scan Failed - There was a problem scanning your ballot. Please scan it again."), all other reasons for failure (e.g., ballots not printed to spec) have been ruled out, and VotingWorks support has suggested this as a course of action.

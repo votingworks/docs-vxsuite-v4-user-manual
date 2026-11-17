@@ -7,7 +7,7 @@ To review results, select `Reports` from the side menu and select `Full Election
 <div><figure><img src="../.gitbook/assets/vxadmin-reports-full-election-tally-highlighted.png" alt="VxAdmin Election Reports screen with the Full Election Tally Report button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-full-election-tally-report-actions-highlighted.png" alt="VxAdmin Full Election Tally Report preview with the Print and Export action buttons highlighted" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
-The tally report will include any total write-in count of one or more in a contest. If a specific write-in candidate has enough votes to be considered in the outcome of a contest, the report will list that candidate and their vote total. The tally report will not list every write-in adjudicated - the write-in adjudication report will have the full list.
+The tally report will include any total write-in count of one or more in a contest. If a specific write-in candidate has enough votes to be considered in the outcome of a contest, the report will list that candidate and their vote total. The tally report will not list every write-in adjudicated—the write-in adjudication report will have the full list.
 {% endhint %}
 
 ### Tally Report Builder
@@ -19,7 +19,7 @@ The tally report builder allows you to create custom reports. These reports can 
 To create a filtered and/or grouped report:
 
 1. Select `Add Filter`
-2. Select a filter type e.g. ballot style, voting method, or precinct
+2. Select a filter type e.g., ballot style, voting method, or precinct
 
 <div><figure><img src="../.gitbook/assets/vxadmin-tally-report-builder.png" alt="VxAdmin Tally Report Builder with no filters added and no Report By options selected." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-tally-report-builder-filter-dropdown-open.png" alt="VxAdmin Tally Report Builder with a new filter's type dropdown open listing ballot style, batch, precinct and more." width="375"><figcaption></figcaption></figure></div>
 

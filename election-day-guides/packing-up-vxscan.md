@@ -9,7 +9,7 @@ Pack up **VxScan** through the following steps:
 <figure><img src="../.gitbook/assets/vxscan-pw-power-down.png" alt="VxScan poll worker menu with polls closed and the Power Down button highlighted" width="375"><figcaption></figcaption></figure>
 
 * [ ] Once the screen is off, remove the power cord from VxScan
-* [ ] Disconnect the power cord from the Goldenmate 1000VA/600W UPS
+* [ ] Disconnect the power cord from the Goldenmate 1000VA/600W uninterruptible power supply (UPS)
 * [ ] Unplug the UPS from the power outlet
 * [ ] Turn off the UPS
 * [ ] Pack up the UPS

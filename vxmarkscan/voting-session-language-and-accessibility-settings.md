@@ -48,4 +48,4 @@ All selections above are made for a specific voting session and will reset with 
 
 ## PAT Settings
 
-VxMarkScan has a PAT (personal assistive technology) input port into which a user can plug in a dual-switch input such as a sip-and-puff device. When a PAT input is attached during a voting session, VxMarkScan will enter a calibration flow where the voter will map their two inputs to "move" and "select." After calibration, a voter can access all VxMarkScan functionality throughout the voting session.
+VxMarkScan has a personal assistive technology (PAT) input port into which a user can plug in a dual-switch input such as a sip-and-puff device. When a PAT input is attached during a voting session, VxMarkScan will enter a calibration flow where the voter will map their two inputs to "move" and "select." After calibration, a voter can access all VxMarkScan functionality throughout the voting session.

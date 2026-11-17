@@ -11,17 +11,17 @@
 * [ ] Add power block holder to the back center on the top of the stand
 * [ ] Insert power block into the holder so cords lay out each side
 
-**Set up the ballot marking device:**
+**Set up the ballot-marking device (BMD):**
 
-* [ ] Using two people, place the ballot marking device on the stand, aligning the stand bars with the bottom
-* [ ] Plug in the power cord connector to the back of the ballot marking device
-* [ ] Plug the power cord into the APC UPS battery backup
+* [ ] Using two people, place the BMD on the stand, aligning the stand bars with the bottom
+* [ ] Plug in the power cord connector to the back of the BMD
+* [ ] Plug the power cord into the APC uninterruptible power supply (UPS)
 * [ ] Push the printer-scanner cover release button in
 * [ ] Open the printer-scanner cover
 * [ ] Slide the ballot bin into place
 * [ ] Close the printer-scanner cover
 * [ ] Document and seal the ballot bin (loop on right side) as required
-* [ ] Place the privacy shield pegs in the holes on each side of the ballot marking device
+* [ ] Place the privacy shield pegs in the holes on each side of the BMD
 * [ ] Plug the headphones into the front headphone jack
 * [ ] Push the power button to turn VxMarkScan on
 
@@ -71,16 +71,16 @@
 
 ### Hardware Tear Down
 
-**Pack up the ballot marking device**:
+**Pack up the BMD**:
 
 * [ ] Push the power button to turn off
 * [ ] Unplug and store the headphones
 * [ ] Remove and store the privacy shield
 * [ ] Push the printer-scanner release button to open the cover
 * [ ] Lift the ballot bin to remove
-* [ ] Unplug the power cord from the APC UPS battery backup
-* [ ] Unplug the power cord connector from the back of the ballot marking device
-* [ ] Remove and store the ballot marking device from the stand
+* [ ] Unplug the power cord from the APC UPS
+* [ ] Unplug the power cord connector from the back of the BMD
+* [ ] Remove the BMD from the stand and store it
 * [ ] Remove and store the power block from the holder
 * [ ] Remove and store the power block holder
 

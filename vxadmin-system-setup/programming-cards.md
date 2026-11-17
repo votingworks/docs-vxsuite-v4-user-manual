@@ -56,7 +56,7 @@ Poll worker cards allow poll workers to manage election day precinct tasks, incl
 Every precinct will need at least one poll worker card in order to operate the polls.
 
 {% hint style="info" %}
-A poll worker (aka election worker) should be designated by the election administrator to operate the voting equipment during open voting periods. The technical skill level required for this role is a 1-hour training session provided by the election official.
+A poll worker (also known as an election worker) should be designated by the election administrator to operate the voting equipment during open voting periods. The technical skill level required for this role is a 1-hour training session provided by the election official.
 {% endhint %}
 
 ## Programming Cards

@@ -6,7 +6,7 @@ Follow the [vxcentralscan-hardware-setup.md](vxcentralscan-hardware-setup.md "me
 
 ## Scan Ballot Batches
 
-Before scanning the first batch of ballots, confirm that VxCentralScan does not have a yellow test mode banner at the top and displays zeroes under "Total Batches" and "Total Sheets." If the test mode banner is present, go to `Settings` to switch to official ballot mode. If the counts are not zero, you may go to `Batch History` and select `Delete All Batches`.
+Before scanning the first batch of ballots, confirm that VxCentralScan does not have a yellow test ballot mode banner at the top and displays zeroes under "Total Batches" and "Total Sheets." If the test ballot mode banner is present, go to `Settings` to switch to official ballot mode. If the counts are not zero, you may go to `Batch History` and select `Delete All Batches`.
 
 <figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-empty-batch-stats-highlight.png" alt="Scan Ballots screen ready to scan with the Total Batches and Total Sheets counters highlighted" width="375"><figcaption></figcaption></figure>
 
@@ -16,7 +16,7 @@ Load a stack of ballots into the feeder tray of the scanner. VotingWorks recomme
 * Ricoh fi-7600 - maximum 100 ballot sheets at a time
 * Ricoh fi-8950 - maximum 250 ballot sheets at a time
 
-The ballots need to be in a neat stack, unfolded and lying flat, but ballots can be in any orientation (e.g. upside down or backwards is fine).
+The ballots need to be in a neat stack, unfolded and lying flat, but ballots can be in any orientation (e.g., upside down or backwards is fine).
 
 Select `Start Scanning`. The "Sheets" count will start going up as the scanner processes each ballot.
 
@@ -24,7 +24,7 @@ Select `Start Scanning`. The "Sheets" count will start going up as the scanner p
 
 Once the input tray is empty, you will have the option to save the batch, discard the batch, or continue scanning:
 
-* **Save Batch** - Finalizes the batch and its CVRs. This is the most common choice.
+* **Save Batch** - Finalizes the batch and its cast vote records (CVRs). This is the most common choice.
 * **Continue Scanning** - Continues scanning with any ballots added to the input tray. This is typically used when a batch is too large to fit in the input tray and must be split into multiple loads.
 * **Discard Batch** - Erases all data related to the batch. Use this if the batch needs to be rescanned or was scanned accidentally.
 
@@ -66,7 +66,7 @@ The ballot also might be rejected because it doesn't match how the scanner is co
 
 ## Imprinting
 
-Imprinters are an optional add-on for VxCentralScan's COTS scanners - see [VxCentralScan Hardware Setup > Imprinting](vxcentralscan-hardware-setup.md#imprinting) for additional details. If an imprinter is installed, an audit ID will be printed on the edge of each ballot sheet. The audit ID is a shortened version of the batch ID plus the number of the ballot within the batch.
+Imprinters are an optional add-on for VxCentralScan's commercial off-the-shelf (COTS) scanners - see [VxCentralScan Hardware Setup > Imprinting](vxcentralscan-hardware-setup.md#imprinting) for additional details. If an imprinter is installed, an audit ID will be printed on the edge of each ballot sheet. The audit ID is a shortened version of the batch ID plus the number of the ballot within the batch.
 
 Before scanning ballots, ideally during logic and accuracy testing, ensure the imprinter is properly aligned such that it prints on the edge of the ballot by scanning a test sheet.
 
@@ -76,7 +76,7 @@ If an imprinter is installed, imprinting is enabled by default. In order to skip
 
 ## Batch History and Cast Vote Records (CVRs)
 
-Navigate to the `Batch History` page to see the list of scanned batches. For each batch, the list shows the batch name (e.g. "Batch 4"), the number of ballot sheets in that batch, and the time at which the batch was saved.
+Navigate to the `Batch History` page to see the list of scanned batches. For each batch, the list shows the batch name (e.g., "Batch 4"), the number of ballot sheets in that batch, and the time at which the batch was saved.
 
 <figure><img src="../.gitbook/assets/vxcentralscan-batch-history.png" alt="Batch History screen listing scanned batches with Save CVRs and Delete buttons" width="375"><figcaption></figcaption></figure>
 

@@ -4,7 +4,7 @@
 A backup can be saved by a system administrator or an election manager. Restoring from a backup must be done by a system administrator.
 {% endhint %}
 
-VxAdmin can save a backup of its election data to a backup drive. A backup includes the election, all loaded CVRs and ballot images, adjudications, and manual tallies. If a VxAdmin laptop fails or must be replaced, the backup can be restored onto an unconfigured VxAdmin so that work does not need to be repeated.
+VxAdmin can save a backup of its election data to a backup drive. A backup includes the election, all loaded cast vote records (CVRs) and ballot images, adjudications, and manual tallies. If a VxAdmin laptop fails or must be replaced, the backup can be restored onto an unconfigured VxAdmin so that work does not need to be repeated.
 
 ## Backup Drives
 

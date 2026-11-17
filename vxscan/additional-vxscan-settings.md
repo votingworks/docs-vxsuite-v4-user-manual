@@ -16,11 +16,11 @@ The default action for poll workers in early voting mode is `Pause Voting` rathe
 
 ## Saving CVRs
 
-The cast vote records contain the images and the interpretation for each ballot cast and are used to tally votes in VxAdmin. The cast vote record saves continuously to the USB drive throughout the day and again at the close of polls. If another copy is needed, however, it can also be saved by selecting `CVRs and Logs` from the side menu and selecting `Save CVRs`.
+The cast vote records (CVRs) contain the images and the interpretation for each ballot cast and are used to tally votes in VxAdmin. The cast vote record saves continuously to the USB drive throughout the day and again at the close of polls. If another copy is needed, however, it can also be saved by selecting `CVRs and Logs` from the side menu and selecting `Save CVRs`.
 
 <figure><img src="../.gitbook/assets/vxscan-em-save-cvrs-button.png" alt="VxScan election manager CVRs and Logs tab with the Save CVRs button highlighted" width="375"><figcaption></figcaption></figure>
 
-The `Pause Continuous CVR Export` feature is used to disable continuous cast vote record export in the case that a USB drive fails or is unavailable. When continuous export is paused, VxScan can be used without an inserted USB drive and CVRs must be manually exported from the election manager menu after polls are closed. If you experience USB drive issues, contact customer support. This setting should only be used if advised by the VotingWorks support team.
+The `Pause Continuous CVR Export` feature is used to disable continuous cast vote record export in the case that a USB drive fails or is unavailable. When continuous export is paused, VxScan can be used without an inserted USB drive and CVRs must be manually exported from the election manager menu after polls are closed. If you experience USB drive issues, contact VotingWorks support. This setting should only be used if advised by VotingWorks support.
 
 ## Saving Logs
 

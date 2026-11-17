@@ -10,7 +10,7 @@ description: >-
 
 * [ ] Set up VxAdmin
 * [ ] Log in with election manager card
-* [ ] Select `Tally` from the side menu and verify there are no CVRs
+* [ ] Select `Tally` from the side menu and verify there are no cast vote records (CVRs)
 * [ ] Select `Reports` from the side menu, print a `Full Election Tally Report` as the Zero Report
 
 #### VxScan
@@ -36,7 +36,7 @@ description: >-
 * [ ] Verify results match expected test ballot results
 * [ ] Remove the poll worker card
 * [ ] Log in with the election manager card
-* [ ] If you were testing in official mode, select `Test Ballot Mode`
+* [ ] If you were testing in official ballot mode, select `Test Ballot Mode`
 * [ ] Select `Official Ballot Mode`
 * [ ] Verify "Sheets Scanned" count is 0
 * [ ] Remove the USB drive

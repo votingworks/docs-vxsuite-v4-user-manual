@@ -9,14 +9,14 @@ VotingWorks recommends retaining the following files after each election:
 * [ ] VxAdmin results file
 * [ ] VxAdmin tally reports
 * [ ] VxAdmin log file
-* [ ] VxScan CVRs
+* [ ] VxScan cast vote records (CVRs)
 * [ ] VxScan log file
-* [ ] VxCentralScan CVRs (if applicable - see [Retaining and Removing files - VxCentralScan](../vxcentralscan/retaining-and-removing-files-vxcentralscan.md))
-* [ ] VxCentralScan log file (if applicable - see [Retaining and Removing files - VxCentralScan](../vxcentralscan/retaining-and-removing-files-vxcentralscan.md))
-* [ ] VxMarkScan log file (if applicable - see [Retaining and Removing Files - VxMarkScan](../vxmarkscan/retaining-and-removing-files.md))
-* [ ] VxMark log file (if applicable - see [Retaining and Removing Files - VxMark](../vxmark/retaining-and-removing-files.md))
-* [ ] VxPrint log file (if applicable - see [Reporting & Logs](../vxprint/reportingandlogs.md#saving-logs))
-* [ ] VxPrint ballots printed report, exported as a PDF (if applicable - see [Reporting & Logs](../vxprint/reportingandlogs.md#reporting))
+* [ ] VxCentralScan CVRs (if applicable—see [Retaining and Removing files - VxCentralScan](../vxcentralscan/retaining-and-removing-files-vxcentralscan.md))
+* [ ] VxCentralScan log file (if applicable—see [Retaining and Removing files - VxCentralScan](../vxcentralscan/retaining-and-removing-files-vxcentralscan.md))
+* [ ] VxMarkScan log file (if applicable—see [Retaining and Removing Files - VxMarkScan](../vxmarkscan/retaining-and-removing-files.md))
+* [ ] VxMark log file (if applicable—see [Retaining and Removing Files - VxMark](../vxmark/retaining-and-removing-files.md))
+* [ ] VxPrint log file (if applicable—see [Reporting & Logs](../vxprint/reportingandlogs.md#saving-logs))
+* [ ] VxPrint ballots printed report, exported as a PDF (if applicable—see [Reporting & Logs](../vxprint/reportingandlogs.md#reporting))
 
 {% hint style="warning" %}
 Ballots should have been secured post-tabulation. Follow state guidelines to ensure proper retention.
@@ -24,8 +24,8 @@ Ballots should have been secured post-tabulation. Follow state guidelines to ens
 
 All election data should be retained for at least 22 months in the following storage conditions:
 
-* Temperature: 5C-40C (41F-104F)
-* Relative humidity: 5% to 85%, non-condensing
+* Temperature: 5–40 °C (41–104 °F)
+* Relative humidity: 5–85%, non-condensing
 
 All VotingWorks paper records and USB drives are specified to last at least 22 months when stored in these conditions.
 
@@ -55,7 +55,7 @@ VxScan CVRs include the VxScan's CVRs and ballot images. The log file contains t
 <div><figure><img src="../.gitbook/assets/vxscan-em-save-cvrs-button.png" alt="VxScan election manager CVRs and Logs tab with the Save CVRs button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-em-save-logs-button.png" alt="VxScan election manager CVRs and Logs tab with the Save Logs button highlighted" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-**Log files** contain records of user interactions with the machine (e.g., election officials and poll workers unlocking the machine, voters casting ballots, etc.) as well as internal system information (e.g., the status of paper running through the scanner, errors, etc.). [A detailed description for each event in the log can be found in Github](https://github.com/votingworks/vxsuite/blob/main/libs/logging/VotingWorksLoggingDocumentation.md).
+**Log files** contain records of user interactions with the machine (e.g., election officials and poll workers unlocking the machine, voters casting ballots, etc.) as well as internal system information (e.g., the status of paper running through the scanner, errors, etc.). [A detailed description for each event in the log can be found in GitHub](https://github.com/votingworks/vxsuite/blob/main/libs/logging/VotingWorksLoggingDocumentation.md).
 {% endhint %}
 
 ### Removing Election Files

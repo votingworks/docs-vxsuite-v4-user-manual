@@ -2,7 +2,7 @@
 
 ### Remove CVRs from VxAdmin
 
-When L&A is complete, select `Tally` from the side menu, then select `Remove All` to clear VxAdmin of CVRs to prepare for election day. Confirm by selecting `Remove All CVRs` in the popup confirmation screen.
+When logic and accuracy (L&A) testing is complete, select `Tally` from the side menu, then select `Remove All` to clear VxAdmin of cast vote records (CVRs) to prepare for election day. Confirm by selecting `Remove All CVRs` in the popup confirmation screen.
 
 <figure><img src="../.gitbook/assets/vxadmin-tally-screen-with-cvrs-remove-all-highlighted.png" alt="VxAdmin Tally screen with CVRs loaded and the Remove All button highlighted." width="375"><figcaption></figcaption></figure>
 
@@ -28,4 +28,4 @@ If you used test ballot mode to conduct your L&A be sure to put all devices into
 
 <div><figure><img src="../.gitbook/assets/vxmark-em-menu-official-ballot-mode-highlighted.png" alt="Election Manager Menu with the Official Ballot Mode button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxcentralscan-em-settings-official-ballot-mode-button.png" alt="VxCentralScan Settings screen in test ballot mode with the Official Ballot Mode button highlighted." width="375"><figcaption></figcaption></figure></div>
 
-If you used official ballot mode to conduct your L&A, simply toggle to test ballot mode and back to official ballot to reset counters.
+If you used official ballot mode to conduct your L&A, simply toggle to test ballot mode and back to official ballot mode to reset counters.

@@ -18,7 +18,7 @@ Review the warnings and cautions listed below first. Then below that, find speci
 
 <figure><img src="../.gitbook/assets/photo-vxscan-scanner-internal-cables.jpg" alt="Photo of cables seen after opening scanner access door.  From left to right on the scanner metal: ribbon cable, twisted pair of wires, and a single wire. On the far right: another single wire connected to the scanner access door." width="342"><figcaption><p>Do not disconnect, cut, unplug, or remove these cables or wires.</p></figcaption></figure>
 
-5. The VxBox unit used with VxScan should be stored in a climate-controlled environment when possible, and never in conditions hotter than 90°F.  Extended periods of heat can weaken the hinges.
+5. The VxBox unit used with VxScan should be stored in a climate-controlled environment when possible, and never in conditions hotter than 90 °F.  Extended periods of heat can weaken the hinges.
 
 ### Scanner Cleaning
 
@@ -32,7 +32,7 @@ If the scanner is not used for an election, then the scanner should still be cle
 
 VxScan features a full letter-width report printer. In order for VxScan to print reports, it must be properly loaded with a thermal paper roll. Polls cannot be opened or closed without the paper installed. The thermal paper rolls are provided by VotingWorks. While it is possible to use thermal rolls from another vendor that meet the requirements specified in the [approved-parts-list.md](approved-parts-list.md "mention"), it is not recommended.
 
-The thermal paper rolls are 78' in length. The amount of paper used will depend on the number of reports printed and the number of contests appearing on the report. 78' is enough for an entire election, including pre-election testing, in almost all cases. VotingWorks recommends replacing the thermal paper roll once for each election. Customers may choose to re-use rolls between elections but, in doing so, greatly increase the risk of running out of paper in the middle of an election. In those situations, an unprepared poll worker may have to replace paper or wait for an election administrator.
+The thermal paper rolls are 78 ft in length. The amount of paper used will depend on the number of reports printed and the number of contests appearing on the report. 78 ft is enough for an entire election, including pre-election testing, in almost all cases. VotingWorks recommends replacing the thermal paper roll once for each election. Customers may choose to re-use rolls between elections but, in doing so, greatly increase the risk of running out of paper in the middle of an election. In those situations, an unprepared poll worker may have to replace paper or wait for an election administrator.
 
 Replacing the paper roll is generally performed by an election manager, but may also be performed by a system administrator, a technician, or in rare cases a poll worker. The application guides the user through the paper loading flow. For additional instructions, see the [printer-management.md](../vxscan/printer-management.md "mention") article in the user manual.
 
@@ -50,7 +50,7 @@ To keep a VxScan machine functioning smoothly over many years, it is recommended
 2. [Recalibrate the image sensors](../vxscan/scanner-management.md#image-sensor-calibration). (Can be done by customer)
 3. Test the scanner speed. Recalibrate its speed if needed. (Should be done by VotingWorks technician)
 
-Contact VotingWorks support staff to schedule help with long-term maintenance tasks.
+Contact VotingWorks support to schedule help with long-term maintenance tasks.
 
 ## Ballot Box (VxBox) Maintenance
 

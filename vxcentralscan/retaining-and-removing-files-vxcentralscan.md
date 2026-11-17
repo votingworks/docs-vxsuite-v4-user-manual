@@ -2,7 +2,7 @@
 
 ## Retaining Election Files
 
-VotingWorks recommends retaining a backup of the CVRs and the logs on VxCentralScan. If the CVRs were not saved on election night, select `Save CVRs` from the `Batch History` page. To save logs, navigate to the `Settings` page and select `Save Logs`.
+VotingWorks recommends retaining a backup of the cast vote records (CVRs) and the logs on VxCentralScan. If the CVRs were not saved on election night, select `Save CVRs` from the `Batch History` page. To save logs, navigate to the `Settings` page and select `Save Logs`.
 
 <div><figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-save-cvrs-button.png" alt="VxCentralScan Batch History screen with the Save CVRs button highlighted." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxcentralscan-em-settings-save-logs-button.png" alt="VxCentralScan Settings screen with the Save Logs button highlighted." width="375"><figcaption></figcaption></figure></div>
 

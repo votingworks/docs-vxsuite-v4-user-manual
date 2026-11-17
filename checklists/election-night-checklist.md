@@ -6,15 +6,15 @@ description: >-
 
 # Election Night Checklist
 
-On election night, you will need [VxAdmin](../vxadmin-system-setup/vxadmin-hardware-setup.md) (laptop, printer, and APC UPS). If scanning ballots centrally, you'll also need the [VxCentralScan](../vxcentralscan/vxcentralscan-hardware-setup.md) (laptop, scanner, and APC UPS) and the [Election Night Checklist - VxCS](../vxcentralscan/election-night-checklist-vxcentralscan.md).
+On election night, you will need [VxAdmin](../vxadmin-system-setup/vxadmin-hardware-setup.md) (laptop, printer, and APC uninterruptible power supply (UPS)). If scanning ballots centrally, you'll also need the [VxCentralScan](../vxcentralscan/vxcentralscan-hardware-setup.md) (laptop, scanner, and APC UPS) and the [Election Night Checklist - VxCentralScan](../vxcentralscan/election-night-checklist-vxcentralscan.md).
 
 ## Tallying and Saving Results
 
 * [ ] Set up VxAdmin
 * [ ] Log in with election manager card
 * [ ] Select `Tally` from the side menu and verify there are no CVRs on VxAdmin
-* [ ] Select `Reports` from the side menu, print an `Unofficial Full Election Tally Report` as the Zero Report
-* [ ] Select `Tally` from the side menu, load CVRs from USB drive(s) - verify counts
+* [ ] Select `Reports` from the side menu, print an `Unofficial Full Election Tally Report` as the zero report
+* [ ] Select `Tally` from the side menu, load cast vote records (CVRs) from USB drive(s)—verify counts
 * [ ] Adjudicate write-ins and marginal marks, if applicable, by selecting `Adjudication` from the side menu
 * [ ] Add manual tallies (select `Tally` from the side menu and then `Manual Tallies`) (when applicable)
 * [ ] Select `Reports` from the side menu and review, print, or save an `Unofficial Full Election Tally Report` for the results

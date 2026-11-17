@@ -12,7 +12,7 @@ Select `Print Test Page` to ensure the paper roll is installed properly. If the 
 
 Select `Test Sound` to verify the speaker is working properly.
 
-Select `Test Uninterruptible Power Supply` to confirm that the UPS is connected and fully charged.
+Select `Test Uninterruptible Power Supply` to confirm that the uninterruptible power supply (UPS) is connected and fully charged.
 
 The most recent test result for each piece of hardware is shown on the diagnostics screen and included in the readiness report.
 
