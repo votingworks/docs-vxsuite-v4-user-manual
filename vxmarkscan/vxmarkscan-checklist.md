@@ -6,14 +6,14 @@
 
 * [ ] With the legs facing up, raise a leg until it snaps in place
 * [ ] Continue until all legs are raised
-* [ ] Flip the stand up right
+* [ ] Flip the stand upright
 * [ ] Snap the support bar in place on the back two legs
 * [ ] Add power block holder to the back center on the top of the stand
 * [ ] Insert power block into the holder so cords lay out each side
 
 **Set up the ballot marking device:**
 
-* [ ] Place the ballot marking device on the stand, aligning the stand bars with the bottom
+* [ ] Using two people, place the ballot marking device on the stand, aligning the stand bars with the bottom
 * [ ] Plug in the power cord connector to the back of the ballot marking device
 * [ ] Plug the power cord into the APC UPS battery backup
 * [ ] Push the printer-scanner cover release button in
@@ -33,6 +33,7 @@
 * [ ] Select `Open Polls`
 * [ ] Confirm by selecting `Open Polls` again
 * [ ] Remove the poll worker card
+* [ ] Verify the number of ballots printed is zero
 
 **To activate a voting session:**
 
@@ -50,6 +51,22 @@
 * [ ] Insert the poll worker card
 * [ ] Select `Close Polls`
 * [ ] Confirm by selecting `Close Polls` again
+* [ ] Remove the poll worker card
+
+### Pause Voting and Resume Voting
+
+**To pause voting:**
+
+* [ ] Insert the poll worker card into the card reader beneath the accessible controller
+* [ ] Select `Pause Voting`
+* [ ] Confirm by selecting `Pause Voting` again
+* [ ] Remove the poll worker card
+
+**To resume voting:**
+
+* [ ] Insert the poll worker card into the card reader beneath the accessible controller
+* [ ] Select `Resume Voting`
+* [ ] Confirm by selecting `Resume Voting` again
 * [ ] Remove the poll worker card
 
 ### Hardware Tear Down

@@ -46,7 +46,7 @@ If your network is properly set up, you should see the list of the connected adj
 
 <figure><img src="../.gitbook/assets/vxadmin-adjudication-multi-station-off.png" alt="VxAdmin host Adjudication screen with Multi-Station Adjudication off and three connected stations listed as Active." width="375"><figcaption></figcaption></figure>
 
-If there is a problem with your network, you will see a status indicator on the hosts `Adjudication` page or on the adjudication station.
+If there is a problem with your network, you will see a status indicator on the host's `Adjudication` page or on the adjudication station.
 
 <figure><img src="../.gitbook/assets/vxadmin-adjudication-multi-station-network-offline.png" alt="VxAdmin Adjudication screen showing a Network Offline warning in the Multi-Station Adjudication panel and header." width="375"><figcaption></figcaption></figure>
 

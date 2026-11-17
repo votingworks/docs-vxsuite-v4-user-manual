@@ -22,7 +22,7 @@ If the ballot was not counted because of an issue, the scanner will hold the bal
 
 ### Overvoted Ballots
 
-A ballot is considered overvoted if the scanner recognizes more than the allowed number of votes for a particular race. For example, a voter marked two candidates in a race where they must make a single choice. If the voter would like to correct their ballot, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot` . All votes will be counted in correctly voted contests but the overvoted contest will be ignored.
+A ballot is considered overvoted if the scanner recognizes more than the allowed number of votes for a particular race. For example, a voter marked two candidates in a race where they must make a single choice. If the voter would like to correct their ballot, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot`. All votes will be counted in correctly voted contests but the overvoted contest will be ignored.
 
 <figure><img src="../.gitbook/assets/vxscan-overvote-warning.png" alt="VxScan Review Your Ballot warning that too many votes were marked in a contest" width="375"><figcaption></figcaption></figure>
 
@@ -46,7 +46,7 @@ If a state requires notification to the voter that a specific contest has fewer 
 
 <figure><img src="../.gitbook/assets/vxscan-undervote-warning.png" alt="VxScan Review Your Ballot warning listing blank and undervoted contests, with Cast Ballot emphasized" width="375"><figcaption></figcaption></figure>
 
-If the voter would like to make additional selections in those contests, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot` . All votes will be counted.
+If the voter would like to make additional selections in those contests, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot`. All votes will be counted.
 
 ### Marginal Marks
 
@@ -62,7 +62,7 @@ If a voter has multiple issues on their ballot and a state requires review of al
 
 <figure><img src="../.gitbook/assets/vxscan-mixed-overvote-undervote-warning.png" alt="VxScan Review Your Ballot summary of blank, undervoted, and overvoted contests with View Contests" width="375"><figcaption></figcaption></figure>
 
-If the voter would like to change their ballot, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot` .
+If the voter would like to change their ballot, they should select `Return Ballot` and VxScan will return the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot`.
 
 ### Adjusting Color and Size
 
@@ -74,13 +74,13 @@ Simple changes to the screen's color and size can be very helpful for voters wit
 
 Four different color options are available for users. While we provide a short description of who may benefit most from these different options, please note that the user likely knows what setting is best for them.
 
-**White text, black background** - used by a person that finds white backgrounds too bright due to visual disabilities.
+**White text, black background** - used by a person who finds white backgrounds too bright due to visual disabilities.
 
 **Gray text, dark background** - used by a person needing lower contrast. For example, a person with dyslexia may find the screen quieter.
 
 **Dark text, light background** - as the default this setting will be used by most people.
 
-**Black text, white background** - used by a person who needs the highest contrast because of light vision or color perception disabilities or aging.
+**Black text, white background** - used by a person who needs the highest contrast because of low vision or color perception disabilities or aging.
 
 #### Text Size
 

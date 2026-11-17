@@ -45,7 +45,7 @@ To remove election configuration (and all data) from VxMarkScan:
 
 * [ ] Log in with an election manager card
 * [ ] Select `Unconfigure Machine`
-* [ ] Confirm by selecting `Delete All Election Data`&#x20;
+* [ ] Confirm by selecting `Delete All Election Data`
 
 <div><figure><img src="../.gitbook/assets/vxmarkscan-em-menu-unconfigure-highlighted.png" alt="VxMarkScan election manager menu with the Unconfigure Machine button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-em-unconfigure-modal.png" alt="VxMarkScan election manager menu with the Unconfigure Machine confirmation dialog and Delete All Election Data button." width="375"><figcaption></figcaption></figure></div>
 

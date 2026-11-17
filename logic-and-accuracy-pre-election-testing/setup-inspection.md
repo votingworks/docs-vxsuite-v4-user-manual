@@ -12,10 +12,10 @@ All devices with a scanner (VxScan, VxCentralScan, and VxMarkScan) should be cle
 
 ## Equipment Readiness Inspection
 
-Election managers can use each device's diagnostic interface to confirm the machine is ready for an election. The diagnostic interfaces and the exportable readiness reports are documented for each device in [vxadmin-diagnostics.md](../vxadmin-system-setup/vxadmin-diagnostics.md "mention"), [vxscan-diagnostics.md](../vxscan/vxscan-diagnostics.md "mention"), [diagnostics.md](../vxmarkscan/diagnostics.md "mention"), and [vxcentralscan-diagnostics.md](../vxcentralscan/vxcentralscan-diagnostics.md "mention"). For each device:
+Election managers can use each device's diagnostic interface to confirm the machine is ready for an election. The diagnostic interfaces and the exportable readiness reports are documented for each device in [vxadmin-diagnostics.md](../vxadmin-system-setup/vxadmin-diagnostics.md "mention"), [vxscan-diagnostics.md](../vxscan/vxscan-diagnostics.md "mention"), [diagnostics.md](../vxmark/diagnostics.md "mention"), [diagnostics.md](../vxmarkscan/diagnostics.md "mention"), [vxcentralscan-diagnostics.md](../vxcentralscan/vxcentralscan-diagnostics.md "mention"), and [vxprint-diagnostics.md](../vxprint/vxprint-diagnostics.md "mention"). For each device:
 
 * [ ] Verify configuration information matches election
-* [ ] Verify storage capacity is greater than 90%
+* [ ] Verify "Free Disk Space" is greater than 90%
 * [ ] On the central system only, verify battery level is greater than 90%
 * [ ] On the central system only, verify device is charging when connected to power
 * [ ] Perform all available hardware diagnostic tests
@@ -70,7 +70,7 @@ To confirm that the charge is full before an election, check the LED display. On
 
 While most seals are applied during the course of an election, some seals are applied when the device is first manufactured. These factory seals are intended to be permanent except in cases where VotingWorks performs a repair. The presence of each factory seal should be confirmed before each election as a check against hardware tampering.
 
-* VxAdmin, VxCentralScan, and VxPrint have one factory seal that wraps around the right side of the laptop.&#x20;
+* VxAdmin, VxCentralScan, and VxPrint have one factory seal that wraps around the right side of the laptop.
 * VxScan has three factory seals - bottom left panel, bottom right panel, and top panel.
 * VxMarkScan has one factory seal behind the touchscreen.
 * VxMark has two factory seals - one in the headphone bin and one under the accessible controller.

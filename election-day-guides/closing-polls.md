@@ -16,7 +16,7 @@
 * [ ] Open the poll worker door
 * [ ] Remove the USB drive from the poll worker door and secure as required
 
-<div><figure><img src="../.gitbook/assets/photo-vxscan-poll-worker-door-seal.png" alt="Numbered green plastic security seal threaded through the VxScan poll worker door latch" width="375"><figcaption><p>Unseal and document interior panel</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-usb-drive-inserted.png" alt="USB drive inserted into the port behind the VxScan poll worker door, circled in blue" width="188"><figcaption><p>Remove the USB drive</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxscan-poll-worker-door-seal.png" alt="Numbered green plastic security seal threaded through the VxScan poll worker door latch" width="375"><figcaption><p>Unseal and document the poll worker door</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-usb-drive-inserted.png" alt="USB drive inserted into the port behind the VxScan poll worker door, circled in blue" width="188"><figcaption><p>Remove the USB drive</p></figcaption></figure></div>
 
 The polls are now closed. Below is an example of the polls closed report.
 

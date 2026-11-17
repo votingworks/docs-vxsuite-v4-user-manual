@@ -16,7 +16,7 @@
 <div><figure><img src="../.gitbook/assets/photo-printer-in-case.png" alt="HP LaserJet printer and its power cord packed in the open grey soft carrying case." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-printer-power-cord-port.png" alt="Rear of the HP LaserJet printer with the power cord socket circled." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-printer-power-button.png" alt="Front of the HP LaserJet Pro M404n printer with the power button circled." width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-For printer troubleshooting — toner, print quality, paper type, and other issues — see the [HP Printer FAQ's](../miscellaneous/hp-printer-faqs.md "mention").
+For printer troubleshooting — toner, print quality, paper type, and other issues — see the [HP Printer FAQs](../miscellaneous/hp-printer-faqs.md "mention").
 {% endhint %}
 
 2. **Set Up VxPrint Laptop:**
@@ -28,7 +28,7 @@ For printer troubleshooting — toner, print quality, paper type, and other issu
 * [ ] Turn the laptop on
 
 {% hint style="info" %}
-An optional mouse is included. Plug it in to the USB hub to use.
+An optional mouse is included. Plug it into the USB hub to use.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/photo-vxadmin-setup-labeled.jpg" alt="VxAdmin laptop, mouse, USB hub and HP printer connected, with power cord, hub and printer cable labeled A, B, C." width="563"><figcaption></figcaption></figure>

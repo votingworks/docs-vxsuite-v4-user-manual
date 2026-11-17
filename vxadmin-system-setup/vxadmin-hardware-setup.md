@@ -37,7 +37,7 @@ description: >-
 * [ ] Turn the laptop on
 
 {% hint style="info" %}
-An optional mouse is included. Plug it in to the USB hub to use.
+An optional mouse is included. Plug it into the USB hub to use.
 {% endhint %}
 
 <div><figure><img src="../.gitbook/assets/photo-vxadmin-laptop-in-case.jpg" alt="Open orange VxAdmin case with the HP laptop seated in the foam insert." width="188"><figcaption><p>Remove laptop</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxadmin-peripherals-in-case.jpg" alt="Open orange VxAdmin case with the laptop removed, showing the power adapter, cables and mouse." width="188"><figcaption><p>Remove peripherals</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxadmin-setup-labeled.jpg" alt="VxAdmin laptop, mouse, USB hub and HP printer connected, with power cord, hub and printer cable labeled A, B, C." width="563"><figcaption><p>Connect peripherals</p></figcaption></figure></div>

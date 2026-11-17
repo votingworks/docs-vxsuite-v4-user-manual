@@ -1,4 +1,4 @@
-# HP Printer FAQ's
+# HP Printer FAQs
 
 **This FAQ document applies to VxAdmin, VxPrint, and VxMark.**
 

@@ -4,23 +4,23 @@ description: >-
   https://docs.voting.works/nh-checklists
 ---
 
-# L\&A Testing Checklist
+# L&A Testing Checklist
 
 #### VxAdmin - Part 1
 
 * [ ] Set up VxAdmin
 * [ ] Log in with election manager card
-* [ ] Select `Tally` from the side menu and verify there are no CVRs&#x20;
-* [ ] Select `Reports` from the side menu, print an `Unofficial Full Election Tally Report` as the Zero Report
+* [ ] Select `Tally` from the side menu and verify there are no CVRs
+* [ ] Select `Reports` from the side menu, print a `Full Election Tally Report` as the Zero Report
 
 #### VxScan
 
 * [ ] Set up VxScan
 * [ ] Log in with election manager card
 * [ ] If your jurisdiction requires testing with official ballots, toggle mode to `Official Ballot Mode`
-* [ ] Select `More` from the side menu and verify the date and time by selecting `Set Date and Time`
-* [ ] Select `Printer` from the side menu and follow instructions to load a new roll of thermal paper and print a test report&#x20;
-* [ ] Select `Scanner` from the side menu, select `Calibrate Double Sheet Detection` and follow instructions to calibrate the scanner
+* [ ] Select the `More` tab and verify the date and time by selecting `Set Date and Time`
+* [ ] Select the `Printer` tab and follow instructions to load a new roll of thermal paper and print a test report
+* [ ] Select the `Scanner` tab, select `Calibrate Double Sheet Detection` and follow instructions to calibrate the scanner
 * [ ] Remove the election manager card
 * [ ] Insert the poll worker card
 * [ ] Select `Open Polls`
@@ -41,7 +41,7 @@ description: >-
 * [ ] Verify "Sheets Scanned" count is 0
 * [ ] Remove the USB drive
 * [ ] Insert a new USB drive
-* [ ] Select `More` and select `Power Down`
+* [ ] Select the `More` tab and select `Power Down`
 * [ ] Unplug the power cord from VxScan and the outlet
 * [ ] Insert the power cord into its storage location
 * [ ] Clean the scanning unit
@@ -52,7 +52,7 @@ description: >-
 * [ ] Log in with the election manager card
 * [ ] Select `Tally` from the side menu and load CVRs from the USB drive(s)
 * [ ] Verify counts match expected test ballot results
-* [ ] Select `Remove CVRs`
+* [ ] Select `Remove All` and confirm by selecting `Remove All CVRs`
 * [ ] Confirm there are no CVRs on VxAdmin
 * [ ] Pack up VxAdmin
 * [ ] Close, seal, and document the VxAdmin case as required

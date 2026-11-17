@@ -45,7 +45,7 @@ The printer is provided to customers with toner installed, which should last for
 
 ### Diagnostics & Troubleshooting
 
-VxAdmin and VxPrint features diagnostics for troubleshooting the printer. After authenticating and navigating to the `Diagnostics` menu, you can select `Print Test Page` to print a mock report. The diagnostics interface will also provide the printer status, including if paper is jammed or toner is low. For the most common issues, refer to the [printer-faqs.md](../reference/printer-faqs.md "mention"). For other issues, refer directly to the [manufacturer user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-user-guide.pdf).
+VxAdmin and VxPrint features diagnostics for troubleshooting the printer. After authenticating and navigating to the `Diagnostics` menu, you can select `Print Test Page` to print a mock report. The diagnostics interface will also provide the printer status, including if paper is jammed or toner is low. For the most common issues, refer to the [hp-printer-faqs.md](../miscellaneous/hp-printer-faqs.md "mention"). For other issues, refer directly to the [manufacturer user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-user-guide.pdf).
 
 ## VxCentralScan Scanner Maintenance
 

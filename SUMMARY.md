@@ -13,7 +13,6 @@
 * [USB Formatting](vxadmin-system-setup/usb-formatting.md)
 * [VxAdmin Diagnostics](vxadmin-system-setup/vxadmin-diagnostics.md)
 * [Unlocking & Locking](vxadmin-system-setup/unlocking-locking-hardware.md)
-* [VxAdmin Printer FAQs](reference/printer-faqs.md)
 * [VxAdmin Error Messages](vxadmin-system-setup/vxadmin-error-messages.md)
 
 ## VxScan
@@ -66,7 +65,7 @@
 
 * [Signed Hash Validation](miscellaneous/signed-hash-validation.md)
 * [Setting Date & Time](miscellaneous/setting-date-and-time.md)
-* [HP Printer FAQ's](miscellaneous/hp-printer-faqs.md)
+* [HP Printer FAQs](miscellaneous/hp-printer-faqs.md)
 * [Operational Environment](miscellaneous/operational-environment.md)
 * [Seal Recommendations](miscellaneous/seal-recommendations.md)
 * [Supply List](miscellaneous/supply-list.md)
