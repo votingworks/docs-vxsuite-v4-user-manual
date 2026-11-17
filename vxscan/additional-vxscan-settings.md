@@ -6,7 +6,7 @@ These steps must be completed by a system administrator or an election manager.
 
 ## Turn On Early Voting Mode
 
-Before using VxScan for early voting, an election official should put it into Early Voting mode.
+Before using VxScan for early voting, an election official should put it into early voting mode.
 
 <figure><img src="../.gitbook/assets/vxscan-em-early-voting-button.png" alt="VxScan election manager Configuration tab with the Early Voting toggle highlighted" width="375"><figcaption></figcaption></figure>
 
@@ -14,7 +14,7 @@ While in early voting mode, an "Early Voting" status is always displayed on the 
 
 <div><figure><img src="../.gitbook/assets/vxscan-unauthenticated-early-voting.png" alt="VxScan Polls Closed screen with the Early Voting status shown in the footer" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-insert-ballot-early-voting.png" alt="VxScan Insert Your Ballot screen with the Early Voting indicator in the footer" width="375"><figcaption></figcaption></figure></div>
 
-The default action for poll workers in early voting mode is `Pause Voting` rather than `Close Polls`. Poll workers should `Pause Voting` at the end of each voting day and `Resume Voting` at the beginning of each voting day.
+The default action for poll workers in early voting mode is `Pause Voting` rather than `Close Polls`. Poll workers should select `Pause Voting` at the end of each voting day and select `Resume Voting` at the beginning of each voting day.
 
 <figure><img src="../.gitbook/assets/vxscan-pw-pause-voting-prompt-button.png" alt="VxScan poll worker pause voting prompt with the Pause Voting button highlighted" width="375"><figcaption></figcaption></figure>
 

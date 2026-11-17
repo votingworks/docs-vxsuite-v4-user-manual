@@ -22,7 +22,7 @@ The ballot adjudication flow shows you one ballot at a time. On the left is an i
 
 <figure><img src="../.gitbook/assets/vxadmin-adjudication-ballot-view.png" alt="Adjudication ballot view with the Mayor contest highlighted as having one write-in to adjudicate" width="375"><figcaption></figcaption></figure>
 
-Selecting a contest brings you into the contest view. On the left side is an enlarged image of the contest and on the right is the list of contest options. You may toggle each contest option from a vote to a non-vote by clicking it.
+Selecting a contest brings you into the contest view. On the left side is an enlarged image of the contest and on the right is the list of contest options. You may toggle each contest option from a vote to a non-vote by selecting it.
 
 * [ ] Adjudicate marks, overvotes, and undervotes according to your jurisdiction's rules
 
@@ -30,7 +30,7 @@ Selecting a contest brings you into the contest view. On the left side is an enl
 
 To adjudicate a write-in:
 
-* [ ] Click the `Click to adjudicate` dropdown below the write-in option
+* [ ] Select the `Click to adjudicate` dropdown below the write-in option
 * [ ] Select an existing option, or type in the name and select `Press enter to add: [Name]`
 * [ ] If the write-in is not valid, select `Invalid`
 
@@ -52,7 +52,7 @@ The `Adjudication` screen shows your progress as you work through the ballots.
 
 ## Adjudicate Marginal Marks
 
-If your jurisdiction adjudicates marginal marks, the text "Review Marginal Mark" appears over any marginally marked contest option. 
+If your jurisdiction adjudicates marginal marks, the text "Review Marginal Mark" appears over any marginally marked contest option.
 
 * [ ] Select the contest option to adjudicate it as a valid mark, or select `Dismiss` to adjudicate it as a stray or invalid mark
 
@@ -60,7 +60,7 @@ If your jurisdiction adjudicates marginal marks, the text "Review Marginal Mark"
 
 ## Adjudicate Blank Ballots
 
-If your jurisdiction adjudicates blank ballots, no specific contests are flagged for adjudication. Instead, a "Blank Ballot Detected" banner appears with the option to flip to the back. 
+If your jurisdiction adjudicates blank ballots, no specific contests are flagged for adjudication. Instead, a "Blank Ballot Detected" banner appears with the option to flip to the back.
 
 * [ ] If the ballot is indeed blank, select `Accept`
 * [ ] If the ballot is not actually blank, adjudicate individual contests according to your jurisdiction's rules

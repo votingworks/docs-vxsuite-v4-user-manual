@@ -18,7 +18,7 @@ Review the warnings and cautions listed below first. Then below that, find speci
 {% hint style="info" %}
 If the HP4001dn printer must ever be operated at cold temperatures below 60 °F for more than an hour, then to preserve print quality you must configure the printer settings as follows using the menu buttons in the front of the printer:
 
-**`Main Menu → Setup → Tray Management → Default Paper Type → Mid-Weight 96-110g`**
+`Main Menu` > `Setup` > `Tray Management` > `Default Paper Type` > `Mid-Weight 96-110g`
 
 Don't change any other printer menu settings. You can return this setting to the default when using the printer again at typical warmer temperatures.
 {% endhint %}

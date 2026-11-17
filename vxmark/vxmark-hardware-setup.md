@@ -1,6 +1,6 @@
 # VxMark Hardware Setup
 
-**VxMark** has three primary components: the ballot-marking device (BMD) in a hard case, the printer, and a Goldenmate 1500VA/1000W uninterruptible power supply (UPS).
+VxMark has three primary components: the ballot-marking device (BMD) in a hard case, the printer, and a Goldenmate 1500VA/1000W uninterruptible power supply (UPS).
 
 ## Set Up VxMark
 

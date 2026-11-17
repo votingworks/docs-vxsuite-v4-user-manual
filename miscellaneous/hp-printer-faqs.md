@@ -8,13 +8,13 @@ New printers come with toner pre-installed, see the [Supply List](supply-list.md
 
 ## The Printer Displays "Select Language" and Won't Print. What Do I Do?
 
-Your printer is not fully configured. Configure the printer by responding to the on-screen prompts. You can press the "OK" button repeatedly, selecting all the defaults, until it says "Ready."
+Your printer is not fully configured. Configure the printer by responding to the on-screen prompts. You can press the OK button repeatedly, selecting all the defaults, until it says "Ready".
 
 ## How Do I Fix Streaks, Lines, or Otherwise Poor Print Quality?
 
 Print a cleaning page:
 
-* [ ] On the printer LCD screen, navigate to Setup > Printer Maintenance > Print Quality Tools > Cleaning Page
+* [ ] On the printer LCD screen, select `Setup` > `Printer Maintenance` > `Print Quality Tools` > `Cleaning Page`
 
 Printing the cleaning page usually clears the printer's rollers of stray ink that is causing print issues.
 
@@ -24,7 +24,7 @@ It's possible the paper you are using is not compatible with the printer. When t
 
 You may also try adjusting the default paper type:
 
-* [ ] On the printer LCD screen, navigate to Setup > Tray Management > Default Paper Type > Mid-Weight 96-110g
+* [ ] On the printer LCD screen, select `Setup` > `Tray Management` > `Default Paper Type` > `Mid-Weight 96-110g`
 
 Although printing is slower with this setting, it often fixes print quality issues.
 

@@ -26,7 +26,7 @@ All references to unofficial results in VxAdmin change to official.
 If you become aware of a mistake after marking results as official (say, you forgot to import one machine's CVRs), you can revert the results to unofficial as a system administrator:
 
 * [ ] Log in as a system administrator
-* [ ] Use the `Revert Election Results to Unofficial` button
+* [ ] Select `Revert Election Results to Unofficial`
 
 <figure><img src="../.gitbook/assets/vxadmin-election-screen-revert-highlighted.png" alt="VxAdmin Election screen as system administrator with the Revert Election Results to Unofficial button highlighted." width="375"><figcaption></figcaption></figure>
 

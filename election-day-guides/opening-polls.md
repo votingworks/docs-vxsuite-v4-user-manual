@@ -41,6 +41,6 @@ Below is an example of the polls opened report. All totals should be zero.
 
 <figure><img src="../.gitbook/assets/vxscan-polls-opened-report.png" alt="Printed VxScan Polls Opened Report with signature lines and all contest totals at zero" width="375"><figcaption></figcaption></figure>
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 The poll worker door should remain sealed and secure at all times unless a poll worker requires access. Any unauthorized access should be reported to an election administrator immediately.
 {% endhint %}

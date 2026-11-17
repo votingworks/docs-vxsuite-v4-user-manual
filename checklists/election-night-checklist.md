@@ -18,19 +18,19 @@ On election night, you need [VxAdmin](../vxadmin-system-setup/vxadmin-hardware-s
 * [ ] Log in with an election manager card
 * [ ] Select `Tally` from the side menu and verify there are no CVRs on VxAdmin
 * [ ] Select `Reports` from the side menu
-* [ ] Print an `Unofficial Full Election Tally Report` as the zero report
+* [ ] Print an unofficial `Full Election Tally Report` as the zero report
 * [ ] Select `Tally` from the side menu
 * [ ] Load cast vote records (CVRs) from USB drive(s)
 * [ ] Verify the CVR counts
 * [ ] If applicable, adjudicate write-ins and marginal marks by selecting `Adjudication` from the side menu
 * [ ] If applicable, add manual tallies by selecting `Tally` from the side menu and then `Manual Tallies`
 * [ ] Select `Reports` from the side menu
-* [ ] Review, print, or save an `Unofficial Full Election Tally Report` for the results
-* [ ] Review, print, or save a `Write-in Adjudication Report`
+* [ ] Review, print, or save an unofficial `Full Election Tally Report` for the results
+* [ ] Review, print, or save a `Write-In Adjudication Report`
 * [ ] Verify all steps above are fully completed and reports reflect all ballots and adjudication
 * [ ] On the `Reports` screen, select `Mark Election Results as Official`
-* [ ] Print or save an `Official Full Election Tally Report` for the results
-* [ ] Print or save an official `Write-in Adjudication Report`
+* [ ] Print or save an official `Full Election Tally Report` for the results
+* [ ] Print or save an official `Write-In Adjudication Report`
 * [ ] Save other official results exports as required
 * [ ] Power down VxAdmin using the keyboard power button
 

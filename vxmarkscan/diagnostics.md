@@ -14,7 +14,7 @@ The diagnostics screen shows information about how the machine is configured, ho
 
 For each component test, select `Test [Component]` and follow the instructions on the screen. The results of the most recent test are displayed on the diagnostics screen.
 
-{% hint style="warning" %}
+{% hint style="info" %}
 If the headphone or PAT test fails, try to unplug and replug the device and try again. If any test continues to fail, restart VxMarkScan and try again.
 {% endhint %}
 

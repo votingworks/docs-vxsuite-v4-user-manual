@@ -16,7 +16,7 @@ You see the list of polling places in your election. After loading all CVRs, the
 The screen displays the list of all CVR exports on the USB drive. Often there is only one export.
 
 * [ ] If there are multiple exports, identify the correct export(s) by polling place, timestamp, or CVR count
-* [ ] Click the CVR export(s) you want to load
+* [ ] Select the CVR export(s) you want to load
 
 <div><figure><img src="../.gitbook/assets/vxadmin-tally-screen-empty.png" alt="VxAdmin Tally screen on the Cast Vote Records tab with no CVRs loaded for any location." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-load-cvrs.png" alt="Load CVRs screen listing a CVR export found on the USB drive with a Load button" width="375"><figcaption></figcaption></figure></div>
 
@@ -32,10 +32,10 @@ You may search the list of polling places by typing in the "Search Locations" ba
 
 To review or remove CVR exports:
 
-* [ ] Click on a polling place to view all of its associated CVR exports
+* [ ] Select a polling place to view all of its associated CVR exports
 
 For each CVR export, the list shows the number of CVRs, the loading time, and the ID of the scanner.
 
-* [ ] To remove an export from VxAdmin, click the trash can icon next to it
+* [ ] To remove an export from VxAdmin, select the trash can icon next to it
 
 <figure><img src="../.gitbook/assets/vxadmin-tally-screen-location-cvrs-panel-remove-highlighted.png" alt="Tally screen with North Lincoln selected and the CVR export's trash icon highlighted" width="375"><figcaption></figcaption></figure>

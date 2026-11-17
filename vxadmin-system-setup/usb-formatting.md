@@ -13,7 +13,9 @@ VxAdmin formats USB drives with the exFAT filesystem, which can be read on Windo
 
 <figure><img src="../.gitbook/assets/vxadmin-format-usb-drive-button.png" alt="VxAdmin Settings screen with the Format USB Drive button highlighted." width="375"><figcaption></figcaption></figure>
 
-**Formatting the USB drive deletes all files on the USB drive.**
+{% hint style="warning" %}
+Formatting the USB drive deletes all files on the USB drive.
+{% endhint %}
 
 * [ ] Select `Format USB Drive` to confirm
 

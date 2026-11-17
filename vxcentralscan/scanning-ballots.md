@@ -32,9 +32,9 @@ The "Sheets" count goes up as the scanner processes each ballot.
 
 Once the input tray is empty, you have the option to save the batch, discard the batch, or continue scanning:
 
-* **Save Batch** - Finalizes the batch and its cast vote records (CVRs). This is the most common choice.
-* **Continue Scanning** - Continues scanning with any ballots added to the input tray. This is typically used when a batch is too large to fit in the input tray and must be split into multiple loads.
-* **Discard Batch** - Erases all data related to the batch. Use this if the batch needs to be rescanned or was scanned accidentally.
+* `Save Batch` - Finalizes the batch and its cast vote records (CVRs). This is the most common choice.
+* `Continue Scanning` - Continues scanning with any ballots added to the input tray. This is typically used when a batch is too large to fit in the input tray and must be split into multiple loads.
+* `Discard Batch` - Erases all data related to the batch. Use this if the batch needs to be rescanned or was scanned accidentally.
 
 <figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-batch-complete.png" alt="Scan Ballots screen paused with input tray empty and Save Batch, Continue Scanning, Discard Batch" width="375"><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@ After saving a batch:
 * [ ] Place the next stack of ballots in the input tray
 * [ ] Repeat the scanning process until all ballots are scanned
 
-{% hint style="warning" %}
+{% hint style="info" %}
 If you find an issue with a batch after it has been saved, it can be deleted from the `Batch History` page by an election manager.
 {% endhint %}
 

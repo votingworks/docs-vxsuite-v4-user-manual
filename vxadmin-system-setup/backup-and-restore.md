@@ -43,7 +43,7 @@ When to save a backup is up to your jurisdiction's policies. One common approach
 
 ## Restore from a Backup
 
-Restoring from a backup must be done by a system administrator. A backup can only be restored onto an unconfigured VxAdmin, and restoring requires restarting the machine in Restore Mode. A backup can be restored onto a different VxAdmin from the one that saved it, such as a replacement laptop, as long as it belongs to the same jurisdiction.
+Restoring from a backup must be done by a system administrator. A backup can only be restored onto an unconfigured VxAdmin, and restoring requires restarting the machine in restore mode. A backup can be restored onto a different VxAdmin from the one that saved it, such as a replacement laptop, as long as it belongs to the same jurisdiction.
 
 * [ ] Log in as a system administrator
 * [ ] Select `Election` from the side menu
@@ -52,7 +52,7 @@ Restoring from a backup must be done by a system administrator. A backup can onl
 
 <div><figure><img src="../.gitbook/assets/vxadmin-restore-from-backup-button.png" alt="Unconfigured Election screen with the Restore from Backup button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-enter-restore-mode-modal.png" alt="Enter Restore Mode dialog with Cancel and Restart in Restore Mode buttons" width="375"><figcaption></figcaption></figure></div>
 
-VxAdmin restarts in Restore Mode, which is marked by a banner at the top of every screen. Restore Mode only allows restoring from a backup. To leave Restore Mode without restoring, select `Exit Restore Mode` and confirm by selecting `Restart`; VxAdmin restarts normally.
+VxAdmin restarts in restore mode, which is marked by a banner at the top of every screen. Restore mode only allows restoring from a backup. To leave restore mode without restoring, select `Exit Restore Mode` and confirm by selecting `Restart`; VxAdmin restarts normally.
 
 * [ ] Log in as a system administrator
 * [ ] Connect the backup drive

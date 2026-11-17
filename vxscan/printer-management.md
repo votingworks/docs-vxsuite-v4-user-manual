@@ -26,7 +26,7 @@ To replace or add a printer paper roll:
 
 <div><figure><img src="../.gitbook/assets/photo-vxscan-printer-open-panels.png" alt="VxScan with the lid open and numbered arrows showing the two panels to open to reach the printer roll" width="375"><figcaption><p>Open panels</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-printer-push-release-lever.png" alt="Finger pressing the green release lever on the end of the VxScan printer roll holder" width="375"><figcaption><p>Push the release lever</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-printer-roll-holder-remove.png" alt="Hand lifting the paper roll holder out of the VxScan printer" width="375"><figcaption><p>Remove the paper roll holder</p></figcaption></figure></div>
 
-{% hint style="warning" %}
+{% hint style="info" %}
 The paper roll must be installed in the correct orientation or it doesn't print. The correct orientation is indicated on the side of the paper roll holder.
 {% endhint %}
 

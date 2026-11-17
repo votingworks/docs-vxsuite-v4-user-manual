@@ -8,7 +8,7 @@ description: >-
 
 ## Hardware Overview
 
-**VxCentralScan** is a commercial off-the-shelf (COTS) laptop pre-installed with VxCentralScan software that connects to a Ricoh scanner.
+VxCentralScan is a commercial off-the-shelf (COTS) laptop pre-installed with VxCentralScan software that connects to a Ricoh scanner.
 
 ![VxCentralScan in cases](../.gitbook/assets/photo-vxcentralscan-in-cases.png) ![VxCentralScan set up with fi-8170](../.gitbook/assets/photo-vxcentralscan-setup.jpg)
 
@@ -22,17 +22,17 @@ Backup power for the scanner is provided by the APC uninterruptible power supply
 
 ## Set Up VxCentralScan
 
-**VxCentralScan** can be set up through the following steps:
+VxCentralScan can be set up through the following steps:
 
 1. **Unbox and set up the scanner (Ricoh fi-8170):**
    * [ ] Remove the scanner and power cord from the case
-   * [ ] Attach and pull out the paper feed guide tray (a)
-   * [ ] Pull out the paper holder tray (b)
-   * [ ] Plug the USB cord (c) into the back of the scanner and into the laptop
-   * [ ] Plug the power cord (d) into the back of the scanner and into the APC UPS
+   * [ ] Attach and pull out the paper feed guide tray (A)
+   * [ ] Pull out the paper holder tray (B)
+   * [ ] Plug the USB cord (C) into the back of the scanner and into the laptop
+   * [ ] Plug the power cord (D) into the back of the scanner and into the APC UPS
    * [ ] Plug the UPS into a power outlet
    * [ ] Turn on the UPS
-   * [ ] Press the power button (e) to turn the scanner on
+   * [ ] Press the power button (E) to turn the scanner on
 
    ![Remove scanner and power cord from case](../.gitbook/assets/photo-vxcentralscan-scanner-ricoh-fi8170.jpg) ![Attach and pull out paper trays](../.gitbook/assets/photo-vxcentralscan-scanner-trays-labeled.jpg) ![Plug cords in](../.gitbook/assets/photo-vxcentralscan-scanner-rear-ports-labeled.jpg) ![Press the power button to turn on](../.gitbook/assets/photo-vxcentralscan-scanner-power-button-labeled.jpg)
 
@@ -42,10 +42,10 @@ Backup power for the scanner is provided by the APC uninterruptible power supply
 
    <div align="left"><figure><img src="../.gitbook/assets/photo-vxcentralscan-case-seals.png" alt="Closed tan VxCentralScan case with red tamper-evident seals on both latches circled." width="375"><figcaption><p>Remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-case-latches.png" alt="Closed tan VxCentralScan case with arrows pointing to the two front latches." width="375"><figcaption><p>Lift the latches</p></figcaption></figure></div>
 
-   * [ ] Remove the **laptop**
-   * [ ] Pull the **power cord** (a) out and plug into the laptop and an outlet
-   * [ ] Pull the **USB hub** (b) out and plug into the laptop
-   * [ ] Pull the **scanner cord** (c) out and plug into the USB hub and the scanner
+   * [ ] Remove the laptop
+   * [ ] Pull the power cord (A) out and plug into the laptop and an outlet
+   * [ ] Pull the USB hub (B) out and plug into the laptop
+   * [ ] Pull the scanner cord (C) out and plug into the USB hub and the scanner
    * [ ] Turn the laptop on
 
    ![Remove laptop](../.gitbook/assets/photo-vxcentralscan-laptop-in-case.jpg) ![Remove components](../.gitbook/assets/photo-vxcentralscan-peripherals-in-case.jpg) ![Plug components in](../.gitbook/assets/photo-vxcentralscan-setup.jpg)

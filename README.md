@@ -17,17 +17,17 @@ VxSuite consists of two subsystems:
 
 VotingWorks Central System includes three components:
 
-1. **VxAdmin**: the main tool for local election administrators, which programs elections, tabulates and reports results on election night.
-2. **VxCentralScan** (optional): a central scanner used for rapidly scanning absentee or vote by mail ballots.
-3. **VxPrint** (optional): an on-demand ballot printer, which lets election workers print unfilled or blank ballots.
+1. VxAdmin: the main tool for local election administrators, which programs elections, tabulates and reports results on election night.
+2. VxCentralScan (optional): a central scanner used for rapidly scanning absentee or vote by mail ballots.
+3. VxPrint (optional): an on-demand ballot printer, which lets election workers print unfilled or blank ballots.
 
 ### Precinct System
 
 VotingWorks Precinct System consists of three portable, self-contained products:
 
-1. **VxScan**: a voter-facing precinct scanner that scans paper ballots and notifies voters of ballot issues for second-chance voting.
-2. **VxMark**: a tabletop accessible ballot-marking device with a printer that produces a voter-verifiable paper ballot.
-3. **VxMarkScan**: a free-standing accessible ballot-marking device with a printer that produces a voter-verifiable paper ballot.
+1. VxScan: a voter-facing precinct scanner that scans paper ballots and notifies voters of ballot issues for second-chance voting.
+2. VxMark: a tabletop accessible ballot-marking device with a printer that produces a voter-verifiable paper ballot.
+3. VxMarkScan: a free-standing accessible ballot-marking device with a printer that produces a voter-verifiable paper ballot.
 
 <div><figure><img src=".gitbook/assets/photo-vxscan-full-setup.png" alt="VxScan case open on top of the expanded ballot box, screen off, poll worker door and ballot box door closed" width="375"><figcaption><p>VxScan</p></figcaption></figure> <figure><img src=".gitbook/assets/photo-vxmarkscan-full-setup.png" alt="VxMarkScan assembled in its privacy booth with the controller, headphones, touchscreen, and printer-scanner tray" width="375"><figcaption><p>VxMarkScan</p></figcaption></figure></div>
 

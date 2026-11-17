@@ -6,7 +6,7 @@ These steps must be completed by an election manager.
 
 Before you configure VxScan, set up the machine with the [vxscan-setup.md](../election-day-guides/vxscan-setup.md "mention") guide.
 
-To configure **VxScan**, you must do two things in **VxAdmin**:
+To configure VxScan, you must do two things in VxAdmin:
 
 * [ ] [Save the election package](../vxadmin-system-setup/save-election-package.md "mention") to a USB drive
 * [ ] [Create an election manager card](../vxadmin-system-setup/programming-cards.md "mention")
@@ -20,7 +20,7 @@ An unconfigured machine prompts you to insert an election manager card to log in
 
 <div><figure><img src="../.gitbook/assets/vxscan-unconfigured-screen.png" alt="VxScan unconfigured screen prompting to insert an election manager card to configure VxScan" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-em-insert-usb.png" alt="VxScan screen prompting to insert a USB drive containing an election package" width="375"><figcaption></figcaption></figure></div>
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Only one USB drive should be plugged into VxScan at a time. The other USB port is designed as a backup in the event of a failure.
 {% endhint %}
 

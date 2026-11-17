@@ -8,7 +8,7 @@ VxMark does not retain any type of ballot or voter data, so the only files to re
 
 ## Retain Log Files
 
-Logs are saved in the /logs folder on the USB drive. To save logs:
+Logs are saved in the `/logs` folder on the USB drive. To save logs:
 
 * [ ] Insert a USB drive
 * [ ] Insert an election manager or system administrator card

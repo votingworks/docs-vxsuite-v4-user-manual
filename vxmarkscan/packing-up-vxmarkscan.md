@@ -1,6 +1,6 @@
 # Packing Up VxMarkScan
 
-Pack up **VxMarkScan** through the following steps:
+Pack up VxMarkScan through the following steps:
 
 1. **Pack up the ballot-marking device (BMD):**
    * [ ] Push the power button to turn off VxMarkScan

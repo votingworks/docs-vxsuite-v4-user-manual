@@ -10,7 +10,7 @@ Because VotingWorks machines do not connect to an external network, the internal
 The time is automatically updated for daylight saving time.
 {% endhint %}
 
-The `Set Date and Time` button is in the settings menu on VxAdmin, VxCentralScan, and VxPrint. On VxScan, VxMark, and VxMarkScan, it's on the election manager and system administrator menus. Within the VxScan election manager menu, the button is in the "More" tab.
+The `Set Date and Time` button is in the `Settings` menu on VxAdmin, VxCentralScan, and VxPrint. On VxScan, VxMark, and VxMarkScan, it's on the election manager and system administrator menus. Within the VxScan election manager menu, the button is in the `More` tab.
 
 * [ ] Select `Set Date and Time`
 * [ ] Update the date and time

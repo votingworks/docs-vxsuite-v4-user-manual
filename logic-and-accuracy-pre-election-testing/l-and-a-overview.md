@@ -9,7 +9,7 @@ Before starting the testing process:
 * [ ] Log in with an election manager card
 * [ ] Confirm VxAdmin does not have cast vote records (CVRs) loaded
 * [ ] Select `Reports` from the side menu
-* [ ] Select `Full Election Tally Report` to print a "zero report."
+* [ ] Select `Full Election Tally Report` to print a zero report
 
 <figure><img src="../.gitbook/assets/vxadmin-reports-full-election-tally-highlighted.png" alt="VxAdmin Election Reports screen with the Full Election Tally Report button highlighted." width="375"><figcaption></figcaption></figure>
 

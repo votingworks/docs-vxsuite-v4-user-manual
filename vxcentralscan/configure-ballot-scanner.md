@@ -6,7 +6,7 @@ These steps must be completed by an election manager.
 
 Before you configure VxCentralScan, you must set up the machine. Follow the steps in the [vxcentralscan-hardware-setup.md](vxcentralscan-hardware-setup.md "mention").
 
-To configure **VxCentralScan**, you must do two things in **VxAdmin**:
+To configure VxCentralScan, you must do two things in VxAdmin:
 
 * [ ] Save the election package to a USB drive (see [save-election-package.md](../vxadmin-system-setup/save-election-package.md "mention"))
 * [ ] Create an election manager card (see [programming-cards.md](../vxadmin-system-setup/programming-cards.md "mention"))
@@ -33,7 +33,7 @@ VxCentralScan is now configured and in test ballot mode. The election summary in
 
 <figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-test-mode-election-info-highlight.png" alt="VxCentralScan Scan Ballots screen in test ballot mode with the election info panel highlighted." width="375"><figcaption></figcaption></figure>
 
-When testing is complete, switch VxCentralScan to official ballot mode on the settings screen:
+When testing is complete, switch VxCentralScan to official ballot mode on the `Settings` screen:
 
 <figure><img src="../.gitbook/assets/vxcentralscan-em-settings-official-ballot-mode-button.png" alt="VxCentralScan Settings screen in test ballot mode with the Official Ballot Mode toggle highlighted." width="375"><figcaption></figcaption></figure>
 

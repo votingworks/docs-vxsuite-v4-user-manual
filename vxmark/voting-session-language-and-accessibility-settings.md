@@ -20,13 +20,10 @@ To change the language from English to another language:
 
 Four different color options are available to voters. The descriptions below say who may benefit most from each option, but the voter likely knows what setting is best for their disability.
 
-**White text, black background** - used by a person who finds white backgrounds too bright due to visual disabilities. May also be easier to read when room lighting causes a glare on the screen.
-
-**Gray text, dark background** - used by a person needing lower contrast. For example, a person with dyslexia may find the screen quieter.
-
-**Dark text, light background** - the default setting, used by most people.
-
-**Black text, white background** - used by people who need the highest contrast because of low vision or color perception disabilities or aging.
+* `White text, black background` - used by a person who finds white backgrounds too bright due to visual disabilities. May also be easier to read when room lighting causes a glare on the screen.
+* `Gray text, dark background` - used by a person needing lower contrast. For example, a person with dyslexia may find the screen quieter.
+* `Dark text, light background` - the default setting, used by most people.
+* `Black text, white background` - used by people who need the highest contrast because of low vision or color perception disabilities or aging.
 
 <div><figure><img src="../.gitbook/assets/vxmark-voting-settings-color-1.png" alt="Settings Color tab with White text, black background selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-color-2.png" alt="Settings Color tab with Gray text, dark background selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-color-3.png" alt="Settings Color tab with Dark text, light background selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-color-4.png" alt="Settings Color tab with Black text, white background selected" width="188"><figcaption></figcaption></figure></div>
 
@@ -46,7 +43,7 @@ Sanitize headphones after a voting session using the audio-tactile interface. To
 
 <div><figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-audio.png" alt="Voter Settings screen on the Audio tab with mute, volume, rate of speech, and audio-only mode controls" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-audio-only-mode.png" alt="Audio-Only Mode screen with an Exit Audio-Only Mode button" width="188"><figcaption></figcaption></figure></div>
 
-{% hint style="warning" %}
+{% hint style="info" %}
 All selections above are made for a specific voting session and reset with the next voter.
 {% endhint %}
 

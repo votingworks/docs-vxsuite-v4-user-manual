@@ -6,7 +6,7 @@ These steps must be completed by an election manager.
 
 Before you configure VxMarkScan, you must set up the machine. Follow [VxMarkScan Hardware Setup](vxmarkscan-hardware-setup.md) steps.
 
-To configure **VxMarkScan**, you must do two things in **VxAdmin**:
+To configure VxMarkScan, you must do two things in VxAdmin:
 
 * [ ] Save the election package to a USB drive (see [save-election-package.md](../vxadmin-system-setup/save-election-package.md "mention"))
 * [ ] Create an election manager card (see [programming-cards.md](../vxadmin-system-setup/programming-cards.md "mention"))

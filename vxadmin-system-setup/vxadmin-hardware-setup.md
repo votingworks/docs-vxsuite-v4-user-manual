@@ -8,7 +8,7 @@ description: >-
 
 ## Hardware Overview
 
-**VxAdmin** is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software and an optional printer. All USB drives, cords, adapters, and programmable smart cards needed to operate the system are included and stored in an orange case. An APC uninterruptible power supply (UPS) provides backup power to the VxAdmin printer.
+VxAdmin is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software and an optional printer. All USB drives, cords, adapters, and programmable smart cards needed to operate the system are included and stored in an orange case. An APC uninterruptible power supply (UPS) provides backup power to the VxAdmin printer.
 
 <div><figure><img src="../.gitbook/assets/photo-vxadmin-case-closed.png" alt="Closed orange VxAdmin carrying case with VotingWorks label on a table." width="188"><figcaption><p>VxAdmin stored in case</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxadmin-setup.jpg" alt="VxAdmin laptop showing the locked screen, connected to a mouse, USB hub and HP LaserJet printer." width="375"><figcaption><p>VxAdmin fully set up</p></figcaption></figure></div>
 
@@ -31,12 +31,12 @@ description: >-
 
    <div><figure><img src="../.gitbook/assets/photo-vxadmin-case-seals.png" alt="Closed orange VxAdmin case with red tamper-evident seals on both latches circled." width="375"><figcaption><p>Remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxadmin-case-latches.png" alt="Closed orange VxAdmin case with arrows pointing to the two front latches." width="375"><figcaption><p>Open the case by lifting the latches</p></figcaption></figure></div>
 
-   * [ ] Remove the **laptop**
-   * [ ] Pull the **power cord** (A) out
+   * [ ] Remove the laptop
+   * [ ] Pull the power cord (A) out
    * [ ] Plug the power cord into the laptop and an outlet
-   * [ ] Pull the **USB hub** (B) out
+   * [ ] Pull the USB hub (B) out
    * [ ] Plug the USB hub into the laptop
-   * [ ] Pull the **printer cord** (C) out
+   * [ ] Pull the printer cord (C) out
    * [ ] Plug the printer cord into the USB hub and the printer
    * [ ] Turn the laptop on
 

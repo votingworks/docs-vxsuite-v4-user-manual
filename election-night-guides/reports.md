@@ -21,13 +21,13 @@ Files are saved to a `reports/` folder on the USB drive.
 
 <div><figure><img src="../.gitbook/assets/vxadmin-reports-full-election-tally-highlighted.png" alt="VxAdmin Election Reports screen with the Full Election Tally Report button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-full-election-tally-report-actions-highlighted.png" alt="VxAdmin Full Election Tally Report preview with the Print and Export action buttons highlighted" width="375"><figcaption></figcaption></figure></div>
 
-{% hint style="warning" %}
+{% hint style="info" %}
 The tally report includes any total write-in count of one or more in a contest. If a specific write-in candidate has enough votes to be considered in the outcome of a contest, the report lists that candidate and their vote total. The tally report doesn't list every write-in adjudicated—the write-in adjudication report has the full list.
 {% endhint %}
 
 ## Tally Report Builder
 
-The tally report builder allows you to create custom reports. These reports can be filtered or reported by precinct, district, ballot style, and more. To navigate to the tally report builder, select `Tally Report Builder` from the Reports screen.
+The tally report builder allows you to create custom reports. These reports can be filtered or reported by precinct, district, ballot style, and more. To navigate to the tally report builder, select `Tally Report Builder` from the "Election Reports" screen.
 
 <figure><img src="../.gitbook/assets/vxadmin-reports-tally-report-builder-highlighted.png" alt="VxAdmin Election Reports screen with the Tally Report Builder button highlighted." width="375"><figcaption></figcaption></figure>
 
@@ -48,7 +48,7 @@ To create a filtered and/or grouped report:
 
 ## Ballot Count Reports
 
-Ballot count reports show the number of ballots cast. The ballot count report builder enables you to generate custom reports by precinct, district, ballot style, and more. An example of the Precinct Ballot Count Report is on the right.
+Ballot count reports show the number of ballots cast. The ballot count report builder enables you to generate custom reports by precinct, district, ballot style, and more. An example of the precinct ballot count report is on the right.
 
 <div><figure><img src="../.gitbook/assets/vxadmin-reports-ballot-count-section-highlighted.png" alt="VxAdmin Election Reports screen with the Unofficial Ballot Count Reports buttons highlighted." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-ballot-count-report-precinct.png" alt="VxAdmin Precinct Ballot Count Report preview with print and export buttons above a per-precinct totals table." width="375"><figcaption></figcaption></figure></div>
 

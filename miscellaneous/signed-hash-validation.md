@@ -1,6 +1,6 @@
 # Signed Hash Validation
 
-VotingWorks applications provide additional system security by allowing you to confirm the software is the same as the certified version. The feature is available on all machines for every role. On VxAdmin, VxCentralScan, and VxPrint, the `Signed Hash Validation` button is in the "Settings" menu. On VxScan, VxMark, and VxMarkScan, the `Signed Hash Validation` button is on the main menu for each role. Within the VxScan election manager menu, navigate to the "More" tab.
+VotingWorks applications provide additional system security by allowing you to confirm the software is the same as the certified version. The feature is available on all machines for every role. On VxAdmin, VxCentralScan, and VxPrint, the `Signed Hash Validation` button is in the `Settings` menu. On VxScan, VxMark, and VxMarkScan, the `Signed Hash Validation` button is on the main menu for each role. Within the VxScan election manager menu, select the `More` tab.
 
 * [ ] Select `Signed Hash Validation`
 

@@ -4,7 +4,7 @@
 
 Part of the Precinct System, VxMarkScan is a free-standing accessible ballot-marking device (BMD) that gives voters the ability to mark their choices and print their ballot from a touchscreen.
 
-**VxMarkScan** can be set up through the following steps:
+VxMarkScan can be set up through the following steps:
 
 ### Set Up the Stand
 

@@ -2,7 +2,7 @@
 
 ## Activate a Voting Session
 
-{% hint style="warning" %}
+{% hint style="info" %}
 A voter may bring their own personal assistive technology (PAT) device (e.g., jelly bean switch or sip-and-puff device) or headphones. It must have a 3.5 mm plug or connector. Once plugged in, a test screen pops up to assist in configuration. See [VxMarkScan Diagnostics](diagnostics.md) for instructions.
 {% endhint %}
 

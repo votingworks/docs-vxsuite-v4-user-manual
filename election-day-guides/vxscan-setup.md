@@ -7,13 +7,13 @@ description: >-
 
 # VxScan Setup
 
-**VxScan** has three primary components: the scanner in a hard case, the collapsible ballot box, and a Goldenmate 1000VA/600W uninterruptible power supply (UPS).
+VxScan has three primary components: the scanner in a hard case, the collapsible ballot box, and a Goldenmate 1000VA/600W uninterruptible power supply (UPS).
 
 <figure><img src="../.gitbook/assets/photo-vxscan-components-packed.jpg" alt="Closed VxScan case next to the collapsed ballot box with its telescoping handle raised" width="375"><figcaption></figcaption></figure>
 
 ## Set Up VxScan
 
-**VxScan** can be set up through the following steps:
+VxScan can be set up through the following steps:
 
 1. **Set up the ballot box:**
    * [ ] Release the straps on each side
