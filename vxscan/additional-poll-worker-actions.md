@@ -39,6 +39,6 @@ Additional reports can only be printed as long as no ballots have been scanned s
 
 ## Printing Write-In Image Reports
 
-If your jurisdiction enables write-in image reports on VxScan, you will see the option to `Print Write-In Image Report` after polls are closed. Select `Print Write-In Image Report` and print additional copies as needed.
+If your jurisdiction enables write-in image reports on VxScan, the `Print Write-In Image Report` option appears after polls are closed. Select `Print Write-In Image Report` and print additional copies as needed.
 
 <div><figure><img src="../.gitbook/assets/vxscan-pw-print-write-in-image-report-button.png" alt="VxScan poll worker menu with polls closed and the Print Write-In Image Report button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pw-write-in-image-report-printed.png" alt="VxScan Write-In Image Report Printed screen with Reprint and Done buttons" width="375"><figcaption></figcaption></figure></div>

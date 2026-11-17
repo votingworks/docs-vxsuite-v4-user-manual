@@ -23,5 +23,5 @@ The polls are now closed. Below is an example of the polls closed report.
 <figure><img src="../.gitbook/assets/vxscan-polls-closed-report-multi-batch.png" alt="VxScan Polls Closed Report with contest tallies and a Batch Summary table listing three batches" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Jurisdictions may configure VxScan to prevent closing the polls until the official polls close time on election day. If this is the case in your jurisdiction, logging in with a poll worker card before the polls close time will land you directly on the poll worker menu and `Close Polls` will be disabled. After the polls close time, you will be able to close polls as shown above.
+Jurisdictions may configure VxScan to prevent closing the polls until the official polls close time on election day. If this is the case in your jurisdiction, logging in with a poll worker card before the polls close time takes you directly to the poll worker menu and `Close Polls` is disabled. After the polls close time, you can close polls as shown above.
 {% endhint %}

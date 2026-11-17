@@ -4,11 +4,11 @@ The diagnostics interface is used to test hardware before or between elections a
 
 <div><figure><img src="../.gitbook/assets/vxscan-em-diagnostics.png" alt="VxScan election manager menu with the Diagnostics button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-sa-diagnostics.png" alt="VxScan system administrator menu with the Diagnostics button highlighted" width="375"><figcaption></figcaption></figure></div>
 
-The VxScan diagnostics screen shows information about how the machine is configured, how much storage is left on the device, and the current status of the scanner and printer. Prior to each election, walk through each test to verify each component is in working order. During normal operations, if one of the components fails, VxScan will display an error message on screen.
+The VxScan diagnostics screen shows information about how the machine is configured, how much storage is left on the device, and the current status of the scanner and printer. Prior to each election, walk through each test to verify each component is in working order. During normal operations, if one of the components fails, VxScan displays an error message on screen.
 
-Select `Perform Test Scan` and insert a blank sheet of paper as prompted. This test verifies the scanner is clean and ballot images are clear. If the test fails, you'll be prompted to clean the scanner. The test will also fail if the sheet is not blank.
+Select `Perform Test Scan` and insert a blank sheet of paper as prompted. This test verifies the scanner is clean and ballot images are clear. If the test fails, you'll be prompted to clean the scanner. The test also fails if the sheet is not blank.
 
-Select `Print Test Page` to ensure the paper roll is installed properly. If the paper roll was installed backwards, nothing will print. After the test print completes, you must indicate whether the print was successful or not.
+Select `Print Test Page` to ensure the paper roll is installed properly. If the paper roll was installed backwards, nothing prints. After the test print completes, you must indicate whether the print was successful or not.
 
 Select `Test Sound` to verify the speaker is working properly.
 

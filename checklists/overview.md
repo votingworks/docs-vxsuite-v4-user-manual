@@ -1,6 +1,6 @@
 # Overview
 
-Checklists are provided to help users walk through all of the steps to prepare, conduct, and complete an election.
+These checklists help you walk through all of the steps to prepare, conduct, and complete an election.
 
 New Hampshire specific checklists can be found here: [New Hampshire Checklists](https://docs.voting.works/nh-checklists)
 

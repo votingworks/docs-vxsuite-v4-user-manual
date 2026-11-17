@@ -12,6 +12,6 @@ The report can be printed with the `Print Report` button or exported to a USB dr
 
 ### Saving Logs <a href="#saving-logs" id="saving-logs"></a>
 
-In order to save logs, navigate to the `Settings` page and select `Save Logs`. Insert a USB drive. VotingWorks recommends the `Default` format unless instructed otherwise. Select `Save` and the logs will be exported to the USB drive.
+To save logs, navigate to the `Settings` page and select `Save Logs`. Insert a USB drive. VotingWorks recommends the `Default` format unless instructed otherwise. Select `Save` and VxPrint saves the logs to the USB drive.
 
 <div><figure><img src="../.gitbook/assets/vxprint-em-settings-save-logs-highlighted.png" alt="VxPrint Settings screen with the Save Logs button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxprint-em-settings-save-logs-modal.png" alt="VxPrint Save Logs dialog with log format options and Cancel and Save buttons" width="375"><figcaption></figcaption></figure></div>

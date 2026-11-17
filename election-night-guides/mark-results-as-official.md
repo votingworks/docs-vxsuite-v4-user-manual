@@ -14,7 +14,7 @@ To mark results as official, select `Reports` from the side menu and select `Mar
 
 <figure><img src="../.gitbook/assets/vxadmin-reports-mark-official-highlighted.png" alt="VxAdmin Election Reports screen with unofficial results and the Mark Election Results as Official button highlighted." width="375"><figcaption></figcaption></figure>
 
-Confirm by selecting `Mark Election Results as Official`. All references to unofficial results in VxAdmin will be changed to official.
+Confirm by selecting `Mark Election Results as Official`. All references to unofficial results in VxAdmin change to official.
 
 <div><figure><img src="../.gitbook/assets/vxadmin-reports-screen-official.png" alt="VxAdmin Election Reports screen after results are marked official, with the mark-official button disabled." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-tally-screen-official.png" alt="VxAdmin Tally screen with results marked official, CVRs loaded, and a Remove All Tallies button." width="375"><figcaption></figcaption></figure></div>
 

@@ -44,6 +44,6 @@ An optional mouse is included. Plug it into the USB hub to use.
 
 ### Packing Up VxAdmin
 
-To pack up the VxAdmin, simply place all of the components back into the case as displayed above. Secure the case as required by sealing the eyelets highlighted below. Disconnect the printer power cord from the APC UPS. Pack up the printer and its power cord and the APC UPS.
+To pack up VxAdmin, place all of the components back into the case as displayed above. Secure the case as required by sealing the eyelets highlighted below. Disconnect the printer power cord from the APC UPS. Pack up the printer and its power cord and the APC UPS.
 
 <figure><img src="../.gitbook/assets/photo-vxadmin-case-seals.png" alt="Closed orange VxAdmin case with red tamper-evident seals on both latches circled." width="375"><figcaption></figcaption></figure>

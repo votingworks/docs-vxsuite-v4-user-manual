@@ -1,8 +1,8 @@
 # VxCentralScan Diagnostics
 
-The VxCentralScan diagnostics interface displays information about the currently configured election, if any, the current battery level and charging status, and the disk space available to the application. For large elections, the disk space should be monitored to ensure that you are not exceeding system storage limits. The uninterruptible power supply test asks the user to confirm that the scanner's uninterruptible power supply is connected and fully charged.
+The VxCentralScan diagnostics interface displays information about the currently configured election, if any, the current battery level and charging status, and the disk space available to the application. For large elections, monitor the disk space to ensure that you don't exceed system storage limits. The uninterruptible power supply test asks you to confirm that the scanner's uninterruptible power supply is connected and fully charged.
 
-The scanner status indicates whether the scanner is connected or not. Select `Perform Test Scan` and insert a blank sheet of paper as prompted. This test verifies the scanner is clean and ballot images are clear. If the test fails, you'll be prompted to clean the scanner. The test will also fail if the sheet is not blank.
+The scanner status indicates whether the scanner is connected or not. Select `Perform Test Scan` and insert a blank sheet of paper as prompted. This test verifies the scanner is clean and ballot images are clear. If the test fails, you'll be prompted to clean the scanner. The test also fails if the sheet is not blank.
 
 <figure><img src="../.gitbook/assets/vxcentralscan-diagnostics-screen.png" alt="Diagnostics screen with configuration, battery, storage, UPS and scanner status" width="563"><figcaption></figcaption></figure>
 

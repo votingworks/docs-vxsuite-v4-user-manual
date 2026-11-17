@@ -19,11 +19,11 @@ Once the election package is saved to a USB drive, you can load the file to VxCe
 
 <div><figure><img src="../.gitbook/assets/vxcentralscan-unconfigured-screen.png" alt="Unconfigured screen asking to insert an election manager card to configure VxCentralScan" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-laptop-insert-smart-card.png" alt="Hand inserting a System Administrator smart card, chip first, into the laptop card reader." width="375"><figcaption></figcaption></figure></div>
 
-Use an election manager card to unlock the machine. Insert the USB drive with the election package. The election package will automatically load.
+Use an election manager card to unlock the machine. Insert the USB drive with the election package. The election package loads automatically.
 
 <div><figure><img src="../.gitbook/assets/vxcentralscan-em-insert-usb.png" alt="Election manager prompt to insert a USB drive containing an election package" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxcentralscan-configuring.png" alt="Configuring VxCentralScan from USB drive loading screen" width="375"><figcaption></figcaption></figure></div>
 
-VxCentralScan is now configured and in test ballot mode. The election summary information (name, date, jurisdiction, etc.) will be shown in the bottom left corner of the screen - confirm that it is correct.
+VxCentralScan is now configured and in test ballot mode. The election summary information (name, date, jurisdiction, etc.) is shown in the bottom left corner of the screen. Confirm that it's correct.
 
 <figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-test-mode-election-info-highlight.png" alt="VxCentralScan Scan Ballots screen in test ballot mode with the election info panel highlighted." width="375"><figcaption></figcaption></figure>
 
@@ -37,7 +37,7 @@ The `Scan Ballots` page should show zeroes for "Total Batches" and "Total Sheets
 
 #### Polling Places
 
-There's usually no need to set the polling place on VxCentralScan. For most jurisdictions, it will default to an absentee polling place like "Central Scanning" or "Absentee Voting" that covers all precincts in the jurisdiction. If VxCentralScan must be limited to certain precincts, the election manager should select a different polling place from the dropdown. If ballots outside the selected polling place are scanned, VxCentralScan will stop on those ballots and will not allow tabulating them. The polling place cannot be changed once ballots have been scanned.
+There's usually no need to set the polling place on VxCentralScan. For most jurisdictions, it defaults to an absentee polling place like "Central Scanning" or "Absentee Voting" that covers all precincts in the jurisdiction. If VxCentralScan must be limited to certain precincts, select a different polling place from the dropdown. If ballots outside the selected polling place are scanned, VxCentralScan stops on those ballots and doesn't allow tabulating them. The polling place cannot be changed once ballots have been scanned.
 
 ## Remove Election
 

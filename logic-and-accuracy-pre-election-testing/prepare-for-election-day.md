@@ -12,14 +12,14 @@ If you used test ballot mode to conduct your L&A be sure to put VxScan into offi
 
 <figure><img src="../.gitbook/assets/vxscan-em-official-ballot-mode-button.png" alt="VxScan Election Manager Menu configuration tab with the Official Ballot Mode button highlighted." width="375"><figcaption></figcaption></figure>
 
-If you used official ballot mode to conduct your L&A, simply toggle to test ballot mode and back to official ballot mode to reset VxScan for election day.
+If you used official ballot mode to conduct your L&A, toggle to test ballot mode and back to official ballot mode to reset VxScan for election day.
 
 Remove the election manager card and confirm that the VxScan is in official ballot mode by checking that there is no orange "Test Ballot Mode" banner, that "Polls Closed" is displayed, and that the "Sheets Scanned" count is 0.
 
 <figure><img src="../.gitbook/assets/vxscan-polls-closed-initial.png" alt="VxScan Polls Closed screen in official ballot mode with 0 sheets scanned." width="375"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-A USB drive is required to use VxScan on election day. After testing, you may re-insert the USB drive used during testing or a new USB drive into the USB port and seal the machine until a poll worker accesses it on election day. If official ballot mode was used, we strongly recommend using a new USB drive for election day.
+A USB drive is required to use VxScan on election day. After testing, you may re-insert the USB drive used during testing or a new USB drive into the USB port and seal the machine until a poll worker accesses it on election day. If official ballot mode was used, VotingWorks strongly recommends using a new USB drive for election day.
 {% endhint %}
 
 ### Toggle All Devices to Official Ballot Mode
@@ -28,4 +28,4 @@ If you used test ballot mode to conduct your L&A be sure to put all devices into
 
 <div><figure><img src="../.gitbook/assets/vxmark-em-menu-official-ballot-mode-highlighted.png" alt="Election Manager Menu with the Official Ballot Mode button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxcentralscan-em-settings-official-ballot-mode-button.png" alt="VxCentralScan Settings screen in test ballot mode with the Official Ballot Mode button highlighted." width="375"><figcaption></figcaption></figure></div>
 
-If you used official ballot mode to conduct your L&A, simply toggle to test ballot mode and back to official ballot mode to reset counters.
+If you used official ballot mode to conduct your L&A, toggle to test ballot mode and back to official ballot mode to reset counters.

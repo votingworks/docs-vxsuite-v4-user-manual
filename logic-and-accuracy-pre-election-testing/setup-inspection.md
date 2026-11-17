@@ -4,7 +4,7 @@ VotingWorks recommends completing the following setup inspection procedures befo
 
 ## Software Inspection
 
-All users can use [signed-hash-validation.md](../miscellaneous/signed-hash-validation.md "mention") on each device to verify that the software is certified VotingWorks software and has not been tampered with. The software on each device should not change between elections except in cases of VotingWorks-managed upgrades.
+Any election official can use [signed-hash-validation.md](../miscellaneous/signed-hash-validation.md "mention") on each device to verify that the software is certified VotingWorks software and has not been tampered with. The software on each device should not change between elections except in cases of VotingWorks-managed upgrades.
 
 ## Equipment Cleaning & Calibration
 
@@ -35,7 +35,7 @@ Election managers should confirm that the VxScan and VxMarkScan ballot boxes are
 
 ## USB Drive Inspection
 
-USB drives should be properly formatted and free of data from previous elections before pre-election testing. While it is possible to inspect the USB drives manually on most computers, VotingWorks recommends simply using the [usb-formatting.md](../vxadmin-system-setup/usb-formatting.md "mention") feature on VxAdmin to ensure all drives are formatted and clear.
+USB drives should be properly formatted and free of data from previous elections before pre-election testing. While it is possible to inspect the USB drives manually on most computers, VotingWorks recommends using the [usb-formatting.md](../vxadmin-system-setup/usb-formatting.md "mention") feature on VxAdmin to ensure all drives are formatted and clear.
 
 USB drives and the device's internal hard disk are the only voting device storage locations that hold election information that can change during the election. USB drive inspection and the aforementioned storage capacity check as part of [#equipment-readiness-inspection](setup-inspection.md#equipment-readiness-inspection "mention") ensure all storage locations are inspected pre-election.
 
@@ -62,7 +62,7 @@ All required consumable levels should be checked:
 
 ## Backup Power Inspection
 
-All backup power supplies (uninterruptible power supplies, or UPSs) must be fully charged. When fully charged, backup power supplies will allow powering devices for approximately four hours without power. Even when fully charged, however, backup power supplies should be connected to a standard 120 V wall outlet to avoid draining the battery unnecessarily.
+All backup power supplies (uninterruptible power supplies, or UPSs) must be fully charged. When fully charged, backup power supplies allow powering devices for approximately four hours without power. Even when fully charged, however, backup power supplies should be connected to a standard 120 V wall outlet to avoid draining the battery unnecessarily.
 
 To confirm that the charge is full before an election, check the LED display. On the Goldenmate 1000VA/600W and Goldenmate 1500VA/1000W, tap the power button to illuminate (or hide) the display. On the APC BN1500M2, press any button to illuminate the display. Refer to the user manual provided with your UPS for more information if needed.
 

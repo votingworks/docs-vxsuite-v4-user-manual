@@ -8,7 +8,7 @@ To enter tallies manually, select `Tally` from the side menu and then select the
 
 <figure><img src="../.gitbook/assets/vxadmin-manual-tallies-tab-empty.png" alt="VxAdmin Tally screen on the Manual Tallies tab with no tallies entered and empty ballot style and method selectors." width="375"><figcaption></figcaption></figure>
 
-Enter the Ballot Style, Precinct, and Voting Method of the ballots being added and select `Enter Tallies`. This step will be repeated for any additional ballot styles, precincts, and voting methods.
+Enter the Ballot Style, Precinct, and Voting Method of the ballots being added and select `Enter Tallies`. Repeat this step for any additional ballot styles, precincts, and voting methods.
 
 <figure><img src="../.gitbook/assets/vxadmin-manual-tallies-metadata-selection.png" alt="VxAdmin Manual Tallies tab with a ballot style chosen and the Voting Method dropdown open listing Precinct and Absentee." width="375"><figcaption></figcaption></figure>
 

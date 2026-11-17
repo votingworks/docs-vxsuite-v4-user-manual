@@ -4,7 +4,7 @@ To replace a paper roll or print a test page, navigate to the `Printer` tab in t
 
 <figure><img src="../.gitbook/assets/vxscan-em-printer-tab.png" alt="VxScan election manager Printer tab with Load Paper and Print Test Page buttons" width="375"><figcaption></figcaption></figure>
 
-If loading a new paper roll, the screen will walk you through removing the paper roll holder and loading a new paper roll. Select `Print Test Page` to print a test page and confirm the paper was loaded properly.
+If loading a new paper roll, the screen walks you through removing the paper roll holder and loading a new paper roll. Select `Print Test Page` to print a test page and confirm the paper was loaded properly.
 
 <div><figure><img src="../.gitbook/assets/vxscan-em-printer-remove-roll-holder.png" alt="VxScan Remove Paper Roll Holder dialog with instructions for opening the access door" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-em-printer-load-new-roll.png" alt="VxScan election manager Load New Paper Roll dialog with loading instructions" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-em-printer-paper-detected.png" alt="VxScan election manager Paper Detected dialog offering to print a test page" width="375"><figcaption></figcaption></figure></div>
 
@@ -22,7 +22,7 @@ To replace or add a printer paper roll:
 <div><figure><img src="../.gitbook/assets/photo-vxscan-printer-open-panels.png" alt="VxScan with the lid open and numbered arrows showing the two panels to open to reach the printer roll" width="375"><figcaption><p>Open panels</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-printer-push-release-lever.png" alt="Finger pressing the green release lever on the end of the VxScan printer roll holder" width="375"><figcaption><p>Push the release lever</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-printer-roll-holder-remove.png" alt="Hand lifting the paper roll holder out of the VxScan printer" width="375"><figcaption><p>Remove the paper roll holder</p></figcaption></figure></div>
 
 {% hint style="warning" %}
-The paper roll must be installed in the correct orientation or it will not print. The correct orientation is indicated on the side of the paper roll holder.
+The paper roll must be installed in the correct orientation or it doesn't print. The correct orientation is indicated on the side of the paper roll holder.
 {% endhint %}
 
 * [ ] Place one end of the paper roll on the paper roll holder

@@ -12,11 +12,11 @@ In VxAdmin, select `Settings` from the side menu and select `Format USB Drive`.
 
 <figure><img src="../.gitbook/assets/vxadmin-format-usb-drive-button.png" alt="VxAdmin Settings screen with the Format USB Drive button highlighted." width="375"><figcaption></figcaption></figure>
 
-Confirm you want to format the USB drive by selecting `Format USB Drive`. **Formatting the USB drive will delete all files on the USB drive.**
+Confirm you want to format the USB drive by selecting `Format USB Drive`. **Formatting the USB drive deletes all files on the USB drive.**
 
 <figure><img src="../.gitbook/assets/vxadmin-confirm-format-usb-drive-button.png" alt="VxAdmin Format USB Drive confirmation dialog with the Format USB Drive button highlighted." width="375"><figcaption></figcaption></figure>
 
-VxAdmin will then confirm your USB drive is ready for use. Repeat this step for all other USB drives.
+VxAdmin then confirms your USB drive is ready for use. Repeat this step for all other USB drives.
 
 {% hint style="info" %}
 Backup drives are not formatted at VxAdmin. See [backup-and-restore.md](backup-and-restore.md "mention").

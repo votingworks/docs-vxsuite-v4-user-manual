@@ -4,9 +4,9 @@
 The following steps must be completed by the election manager.
 {% endhint %}
 
-Navigate to the tally screen by selecting `Tally` from the side menu. You will see the list of polling places in your election. After loading all cast vote records (CVRs), there should typically be results loaded for every single polling place. You may use the progress bar under "Locations" and the summary statistics next to "Scanners" and "CVRs" to monitor your progress.
+Navigate to the tally screen by selecting `Tally` from the side menu. You see the list of polling places in your election. After loading all cast vote records (CVRs), there should typically be results loaded for every single polling place. You may use the progress bar under "Locations" and the summary statistics next to "Scanners" and "CVRs" to monitor your progress.
 
-Select `Load` to begin loading cast vote records. One at a time, insert each USB drive containing CVR exports from VxScan or VxCentralScan. The screen will display the list of all CVR exports on the USB drive. Often there will be only one export. If there are multiple, identify the correct export(s) by polling place, timestamp, or CVR count. Click the CVR export(s) you want to load.
+Select `Load` to begin loading cast vote records. One at a time, insert each USB drive containing CVR exports from VxScan or VxCentralScan. The screen displays the list of all CVR exports on the USB drive. Often there is only one export. If there are multiple, identify the correct export(s) by polling place, timestamp, or CVR count. Click the CVR export(s) you want to load.
 
 <div><figure><img src="../.gitbook/assets/vxadmin-tally-screen-empty.png" alt="VxAdmin Tally screen on the Cast Vote Records tab with no CVRs loaded for any location." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-load-cvrs.png" alt="Load CVRs screen listing a CVR export found on the USB drive with a Load button" width="375"><figcaption></figcaption></figure></div>
 

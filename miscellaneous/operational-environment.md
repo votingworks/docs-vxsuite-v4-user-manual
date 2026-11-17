@@ -15,16 +15,16 @@ The voting equipment, when stored in cases, is resistant to light dust and small
 
 ## Auxiliary Power Requirements
 
-As possible, operate VxScan, VxMark, VxMarkScan, and VxCentralScan with power from an uninterruptible power supply (UPS) battery backup in case of power outages.
+When possible, operate VxScan, VxMark, VxMarkScan, and VxCentralScan with power from an uninterruptible power supply (UPS) battery backup in case of power outages.
 
 ## Electrical Service Requirements
 
-* If electrical service is required, the end user should contact VotingWorks instead of attempting any electrical service.
+* If electrical service is required, contact VotingWorks instead of attempting any electrical service yourself.
 * Only trained technicians should perform any electrical service on systems that require opening up external panels.
 * Disconnect all power and wait at least 30 seconds before any electrical servicing.
 
 ## Equipment Transportation
 
-When transporting equipment make sure all latches and straps are secured. And secure the containers in a manner where they will not move in transport. \
+When transporting equipment, make sure all latches and straps are secured, and secure the containers so they don't move in transport. \
 \
 Do not stack the units.

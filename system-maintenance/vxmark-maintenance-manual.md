@@ -11,21 +11,21 @@ Review the warnings and cautions listed below first. Then below that, find speci
 
 ### Warnings
 
-1. The user should **never** try to perform complex repairs on VxMark.
-2. The bottom panel is sealed. Seals should **not** be removed by end users. Only VotingWorks should perform repairs that require removing panels.
-3. The VxMark HP4001dn printer performs best when stored at room temperature.  If ever the HP4001dn printer or its toner is stored in hot conditions above 100 °F for more than 4 hours, the toner should be replaced for optimal function.  If ever the HP4001dn printer is stored in cold conditions below 60 °F, avoid suddenly bringing it up to warmer temperatures and using it, and instead let it sit at room temperature as long as possible before printing with it.
+1. **Never** try to perform complex repairs on VxMark.
+2. The bottom panel is sealed. Do **not** remove the seals. Only VotingWorks should perform repairs that require removing panels.
+3. The VxMark HP4001dn printer performs best when stored at room temperature.  If the HP4001dn printer or its toner is ever stored in hot conditions above 100 °F for more than 4 hours, replace the toner for optimal function. If the HP4001dn printer is ever stored in cold conditions below 60 °F, avoid suddenly bringing it up to warmer temperatures and using it, and instead let it sit at room temperature as long as possible before printing with it.
 
 {% hint style="info" %}
-If ever the HP4001dn printer must be operated at cold temperatures below 60 °F for more than an hour, then to preserve print quality the printer settings must be configured as follows using the menu buttons in the front of the printer:
+If the HP4001dn printer must ever be operated at cold temperatures below 60 °F for more than an hour, then to preserve print quality you must configure the printer settings as follows using the menu buttons in the front of the printer:
 
 **`Main Menu → Setup → Tray Management → Default Paper Type → Mid-Weight 96-110g`**
 
-No other printer menu settings should be altered.  This setting may be returned to the default settings if using the printer again at typical warmer temperatures.
+Don't change any other printer menu settings. You can return this setting to the default when using the printer again at typical warmer temperatures.
 {% endhint %}
 
 ### VxMark Cleaning
 
-VotingWorks recommends cleaning the screen, accessible controller, and USB port as needed. The screen and controller can be cleaned by gently wiping with cleaning wipes such as ULINE S-12236 or equivalent. The USB port can be cleaned by blowing it with air in a can, such as ULINE S-6771 or equivalent, from a distance of at least one foot. Read all manufacturer safety instructions before using air in a can.
+VotingWorks recommends cleaning the screen, accessible controller, and USB port as needed. Clean the screen and controller by gently wiping them with cleaning wipes, such as ULINE S-12236 or equivalent. Clean the USB port by blowing it out with air in a can, such as ULINE S-6771 or equivalent, from a distance of at least one foot. Read all manufacturer safety instructions before using air in a can.
 
 ### VxMark Printer Maintenance <a href="#vxmark-printer-maintenance" id="vxmark-printer-maintenance"></a>
 
@@ -39,5 +39,5 @@ VotingWorks recommends using only the printer's Tray 2, which is the bottom, hig
 
 The HP LaserJet Pro 4001dn requires genuine HP toner cartridges. Both the HP 148A Black Original LaserJet Toner Cartridge and the HP 148X High Yield Black Original LaserJet Toner Cartridge are acceptable.
 
-The printer is provided to customers with toner installed. When replacing the toner, refer to the [manufacturer's instructions](https://support.hp.com/us-en/document/ish_5455373-5578919-16).
+The printer comes with toner installed. When replacing the toner, refer to the [manufacturer's instructions](https://support.hp.com/us-en/document/ish_5455373-5578919-16).
 

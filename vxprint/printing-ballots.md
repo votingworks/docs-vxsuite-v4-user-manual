@@ -2,7 +2,7 @@
 
 ## Printing Ballots: The Basics
 
-For both poll workers and election managers, ballots are printed from the `Print` page. The user selects the attributes of the ballot they want to print and then select `Print Ballot`:
+For both poll workers and election managers, ballots are printed from the `Print` page. Select the attributes of the ballot you want to print and then select `Print Ballot`:
 
 1. Select the precinct
 2. Select the precinct split (applicable only to precincts with splits)
@@ -12,7 +12,7 @@ For both poll workers and election managers, ballots are printed from the `Print
 
 <div><figure><img src="../.gitbook/assets/vxprint-pw-print-split-no-selections.png" alt="VxPrint poll worker Print screen showing precinct, split, party, and language options before selection" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxprint-pw-print-split-with-selections.png" alt="VxPrint poll worker Print screen with precinct, split, party, and language selected" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxprint-pw-printing.png" alt="VxPrint Printing dialog shown over the Print screen while a ballot prints" width="375"><figcaption></figcaption></figure></div>
 
-The options will vary depending on the jurisdiction, election, and configuration. If the election manager has configured VxPrint for a specific precinct, the poll worker's options will be limited to ballot styles for that precinct:
+The options vary depending on the jurisdiction, election, and configuration. If the election manager has configured VxPrint for a specific precinct, the poll worker's options are limited to ballot styles for that precinct:
 
 <figure><img src="../.gitbook/assets/vxprint-pw-print-no-split-with-selections.png" alt="VxPrint poll worker Print screen limited to one precinct, with party and language selected" width="375"><figcaption></figcaption></figure>
 

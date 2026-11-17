@@ -6,7 +6,7 @@ Before using VxScan for early voting, an election official should put it into Ea
 
 <figure><img src="../.gitbook/assets/vxscan-em-early-voting-button.png" alt="VxScan election manager Configuration tab with the Early Voting toggle highlighted" width="375"><figcaption></figcaption></figure>
 
-While in early voting mode, an "Early Voting" status will always be displayed on the bottom of the screen.
+While in early voting mode, an "Early Voting" status is always displayed on the bottom of the screen.
 
 <div><figure><img src="../.gitbook/assets/vxscan-unauthenticated-early-voting.png" alt="VxScan Polls Closed screen with the Early Voting status shown in the footer" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-insert-ballot-early-voting.png" alt="VxScan Insert Your Ballot screen with the Early Voting indicator in the footer" width="375"><figcaption></figcaption></figure></div>
 

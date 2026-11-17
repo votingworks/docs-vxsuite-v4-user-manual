@@ -13,7 +13,7 @@ To configure **VxScan**, you must do two things in **VxAdmin**:
 
 ## Loading The Election Package
 
-An unconfigured machine will prompt you to insert an election manager card to log in and then insert a USB drive with the election package saved from VxAdmin.
+An unconfigured machine prompts you to insert an election manager card to log in and then insert a USB drive with the election package saved from VxAdmin.
 
 <div><figure><img src="../.gitbook/assets/vxscan-unconfigured-screen.png" alt="VxScan unconfigured screen prompting to insert an election manager card to configure VxScan" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-em-insert-usb.png" alt="VxScan screen prompting to insert a USB drive containing an election package" width="375"><figcaption></figcaption></figure></div>
 
@@ -21,11 +21,11 @@ An unconfigured machine will prompt you to insert an election manager card to lo
 Only one USB drive should be plugged into VxScan at a time. The other USB port is designed as a backup in the event of a failure.
 {% endhint %}
 
-After you insert the USB drive, VxScan will automatically begin loading all ballot styles for the election. After the election package is done loading, the election manager menu will be displayed and VxScan will be in test ballot mode.
+After you insert the USB drive, VxScan automatically begins loading all ballot styles for the election. After the election package is done loading, the election manager menu is displayed and VxScan is in test ballot mode.
 
 <figure><img src="../.gitbook/assets/vxscan-em-election-manager-menu.png" alt="VxScan election manager Configuration tab after loading the election package" width="563"><figcaption></figcaption></figure>
 
-To finish configuring VxScan, you must select a polling place. Jurisdictions with only one polling place will skip this step.
+To finish configuring VxScan, you must select a polling place. Jurisdictions with only one polling place skip this step.
 
 ## Setting Ballot Mode
 

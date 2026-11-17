@@ -35,7 +35,7 @@ description: >-
 
 * [ ] Insert the poll worker card
 * [ ] Select `Open Polls`
-* [ ] The polls opened report will print
+* [ ] The polls opened report prints
 * [ ] Tear to remove the report
 * [ ] Select `Reprint Polls Opened Report` to print more, if needed
 * [ ] Verify polling place name, election date, and totals are zero
@@ -54,7 +54,7 @@ description: >-
 
 * [ ] Insert the poll worker card
 * [ ] Select `Close Polls`
-* [ ] The polls closed report will print
+* [ ] The polls closed report prints
 * [ ] Tear to remove the report
 * [ ] Select `Reprint Polls Closed Report` to print more
 * [ ] Retain and/or display the polls closed report as instructed by your election administrator

@@ -53,7 +53,7 @@ Poll worker cards allow poll workers to manage election day precinct tasks, incl
 * closing the polls
 * printing precinct tally reports
 
-Every precinct will need at least one poll worker card in order to operate the polls.
+Every precinct needs at least one poll worker card in order to operate the polls.
 
 {% hint style="info" %}
 A poll worker (also known as an election worker) should be designated by the election administrator to operate the voting equipment during open voting periods. The technical skill level required for this role is a 1-hour training session provided by the election official.
@@ -61,30 +61,30 @@ A poll worker (also known as an election worker) should be designated by the ele
 
 ## Programming Cards
 
-For each election, you will create election manager and poll worker cards specifically for that election. Smart cards can be created quickly and easily with VxAdmin by logging in with a system administrator card and selecting `Smart Cards` from the side menu.
+For each election, you will create election manager and poll worker cards specifically for that election. You can create smart cards with VxAdmin by logging in with a system administrator card and selecting `Smart Cards` from the side menu.
 
-You will use the smart card reader in the lower lefthand side of your VxAdmin laptop to program a card.
+Use the smart card reader in the lower lefthand side of your VxAdmin laptop to program a card.
 
 <div><figure><img src="../.gitbook/assets/vxadmin-smart-cards-no-card.png" alt="VxAdmin Smart Cards screen with no card inserted, prompting to insert a smart card." width="375"><figcaption><p>Smart cards screen without card inserted</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-laptop-insert-smart-card.png" alt="Hand inserting a System Administrator smart card, chip first, into the laptop card reader." width="375"><figcaption><p>Insert smart card</p></figcaption></figure></div>
 
-Simply insert the card of your choice and select the correct button for the card.
+Insert the card of your choice and select the correct button for the card.
 
 <figure><img src="../.gitbook/assets/vxadmin-smart-cards-blank-card.png" alt="VxAdmin Smart Cards screen with a blank card inserted and Program New Card buttons shown." width="375"><figcaption></figcaption></figure>
 
-When creating an election manager or system administrator card, the screen will show you a unique PIN for that card. Keep the PIN secure. When creating a poll worker card, the screen will simply confirm the card is created.
+When creating an election manager or system administrator card, the screen shows you a unique PIN for that card. Keep the PIN secure. When creating a poll worker card, the screen confirms the card is created.
 
 <div><figure><img src="../.gitbook/assets/vxadmin-smart-cards-sa-programmed.png" alt="VxAdmin Smart Cards screen after programming a system administrator card, showing the new PIN." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-smart-cards-em-programmed.png" alt="VxAdmin Smart Cards screen after programming an election manager card, showing the new PIN." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-smart-cards-pw-programmed.png" alt="VxAdmin Smart Cards screen after programming a poll worker card, prompting to remove the card." width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-If VxAdmin is not configured with an election, you will only be able to program system administrator cards because election manager and poll worker cards are election-specific.
+If VxAdmin is not configured with an election, you can only program system administrator cards because election manager and poll worker cards are election-specific.
 {% endhint %}
 
 ## Modifying and Unprogramming Cards
 
-If you insert an already programmed card, you will be presented with options to modify the card.
+If you insert an already programmed card, you are presented with options to modify the card.
 
 <div><figure><img src="../.gitbook/assets/vxadmin-smart-cards-sa-existing.png" alt="VxAdmin Smart Cards screen with an existing system administrator card and the Reset Card PIN button." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-smart-cards-pw-existing.png" alt="VxAdmin Smart Cards screen with an existing poll worker card and the Unprogram Card button." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-smart-cards-em-existing.png" alt="VxAdmin Smart Cards screen with an existing election manager card, Unprogram Card and Reset Card PIN buttons." width="375"><figcaption></figcaption></figure></div>
 
-`Unprogram Card` will remove the election configuration from the card, after which it can be programmed for a new election. System administrator cards cannot be unprogrammed.
+`Unprogram Card` removes the election configuration from the card, after which it can be programmed for a new election. System administrator cards cannot be unprogrammed.
 
-`Reset Card PIN` will reset the card PIN. The old PIN will no longer be valid. Note the new PIN and keep it secure. The PIN can only be reset on cards that match the current election.
+`Reset Card PIN` resets the card PIN. The old PIN is no longer valid. Note the new PIN and keep it secure. The PIN can only be reset on cards that match the current election.

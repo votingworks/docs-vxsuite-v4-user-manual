@@ -19,20 +19,20 @@ The smart card reader is to the right in the back of the case. Insert smart card
 
 ## Loading The Election Package
 
-An unconfigured machine will prompt you to insert an election manager card to log in and then insert a USB drive with the election package saved from VxAdmin.
+An unconfigured machine prompts you to insert an election manager card to log in and then insert a USB drive with the election package saved from VxAdmin.
 
-After the USB drive is inserted, VxMark will automatically begin loading all ballot styles for the election. After the election package is done loading, the election manager screen will appear and VxMark will be in test ballot mode.
+After the USB drive is inserted, VxMark automatically begins loading all ballot styles for the election. After the election package is done loading, the election manager screen appears and VxMark is in test ballot mode.
 
 <div><figure><img src="../.gitbook/assets/vxmark-unconfigured-screen.png" alt="Unconfigured screen asking to insert an election manager card to configure VxMark" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-em-insert-usb.png" alt="Prompt to insert a USB drive containing an election package" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-em-menu-no-polling-place.png" alt="Election Manager Menu with no polling place selected and Test Ballot Mode active" width="188"><figcaption></figcaption></figure></div>
 
 ## Select a Polling Place
 
-Use the `Select a polling place...` dropdown to choose a polling place. Only ballot styles for the selected polling place will be options for voting.
+Use the `Select a polling place...` dropdown to choose a polling place. Only ballot styles for the selected polling place are options for voting.
 
 <figure><img src="../.gitbook/assets/vxmark-em-menu-polling-place-selected.png" alt="Election Manager Menu with a polling place selected in the polling place dropdown" width="188"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If your election package defines only one polling place, there is no need to select one and the `Select a polling place...` dropdown will not be visible.
+If your election package defines only one polling place, there is no need to select one and the `Select a polling place...` dropdown isn't visible.
 {% endhint %}
 
 ## Setting Ballot Mode

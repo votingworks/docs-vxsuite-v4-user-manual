@@ -14,7 +14,7 @@ A backup drive holds one backup per election. Saving a new backup of the same el
 
 ## Saving a Backup
 
-Select `Election` from the side menu and select `Save Backup`. If no backup drive is connected, VxAdmin will prompt you to connect one.
+Select `Election` from the side menu and select `Save Backup`. If no backup drive is connected, VxAdmin prompts you to connect one.
 
 <div><figure><img src="../.gitbook/assets/vxadmin-save-backup-button.png" alt="Election screen with the Save Backup button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-save-backup-connect-backup-drive.png" alt="Connect Backup Drive dialog asking to connect a backup drive, with Cancel" width="375"><figcaption></figcaption></figure></div>
 
@@ -22,7 +22,7 @@ VxAdmin shows the last backup of the current election saved on the drive, if the
 
 <figure><img src="../.gitbook/assets/vxadmin-save-backup-modal.png" alt="Save Backup dialog showing Last Backup on Drive: None with Cancel and Save Backup" width="375"><figcaption></figcaption></figure>
 
-While the backup is in progress, VxAdmin cannot be used for other tasks. You may lock the machine and the backup will continue; its progress is shown again when the machine is unlocked. Select `Cancel Backup` to stop the backup and keep the previous backup on the drive.
+While the backup is in progress, VxAdmin cannot be used for other tasks. You may lock the machine and the backup continues; its progress is shown again when the machine is unlocked. Select `Cancel Backup` to stop the backup and keep the previous backup on the drive.
 
 When the backup is complete, VxAdmin shows the details of the saved backup. Select `Close` and disconnect the backup drive.
 
@@ -42,7 +42,7 @@ A backup can only be restored onto an unconfigured VxAdmin, and restoring requir
 
 <div><figure><img src="../.gitbook/assets/vxadmin-restore-from-backup-button.png" alt="Unconfigured Election screen with the Restore from Backup button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-enter-restore-mode-modal.png" alt="Enter Restore Mode dialog with Cancel and Restart in Restore Mode buttons" width="375"><figcaption></figcaption></figure></div>
 
-VxAdmin restarts in Restore Mode, which is marked by a banner at the top of every screen. Restore Mode only allows restoring from a backup. To leave Restore Mode without restoring, select `Exit Restore Mode` and confirm by selecting `Restart`; VxAdmin will restart normally.
+VxAdmin restarts in Restore Mode, which is marked by a banner at the top of every screen. Restore Mode only allows restoring from a backup. To leave Restore Mode without restoring, select `Exit Restore Mode` and confirm by selecting `Restart`; VxAdmin restarts normally.
 
 * [ ] Log in as a system administrator
 * [ ] Connect the backup drive

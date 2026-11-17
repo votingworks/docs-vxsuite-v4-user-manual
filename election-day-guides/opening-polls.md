@@ -1,6 +1,6 @@
 # Opening Polls
 
-After VxScan is plugged in, the screen will show that polls are closed:
+After VxScan is plugged in, the screen shows that polls are closed:
 
 <figure><img src="../.gitbook/assets/vxscan-polls-closed-initial.png" alt="VxScan Polls Closed screen prompting to insert a poll worker card to open polls" width="375"><figcaption></figcaption></figure>
 

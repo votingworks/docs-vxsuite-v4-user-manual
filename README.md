@@ -41,8 +41,8 @@ All votes cast using VotingWorks equipment are on paper ballots for security and
 
 *   **Hand-marked paper ballot (bubble ballot)**
 
-    * All absentee voters will receive a hand-marked paper ballot (bubble ballot) that is printed by either a third-party print vendor or an on-demand printer (VxPrint). Absentee ballots are scanned by election administrators using a high-speed central scanner (VxCentralScan) or the precinct scanner (VxScan).
-    * Most in-precinct voters will receive a hand-marked paper ballot (bubble ballot) that is printed by either a third-party printer or an on-demand printer (VxPrint) to hand mark. Precinct ballots are scanned by voters using a precinct scanner (VxScan).
+    * All absentee voters receive a hand-marked paper ballot (bubble ballot) that is printed by either a third-party print vendor or an on-demand printer (VxPrint). Absentee ballots are scanned by election administrators using a high-speed central scanner (VxCentralScan) or the precinct scanner (VxScan).
+    * Most in-precinct voters receive a hand-marked paper ballot (bubble ballot) that is printed by either a third-party printer or an on-demand printer (VxPrint) to hand mark. Precinct ballots are scanned by voters using a precinct scanner (VxScan).
 
     <figure><img src=".gitbook/assets/diagram-hmpb-test-ballot-page-1.png" alt="Page 1 of a hand-marked paper test ballot with fill-in ovals, timing marks, and instructions" width="300"><figcaption><p>Example hand-marked paper ballot</p></figcaption></figure>
 * **Machine-marked paper ballot (summary ballot)** (via ballot-marking device)

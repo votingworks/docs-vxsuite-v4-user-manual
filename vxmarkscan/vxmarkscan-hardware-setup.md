@@ -57,7 +57,7 @@ The VxMarkScan is set up.
 
 ## Cleaning VxMarkScan
 
-The scanner should be cleaned for every election with scanner cleaning solution (see [supply-list.md](../miscellaneous/supply-list.md "mention")) and a lint-free or microfiber cloth.
+Clean the scanner for every election with scanner cleaning solution (see [supply-list.md](../miscellaneous/supply-list.md "mention")) and a lint-free or microfiber cloth.
 
 * [ ] Press printer cover button to open printer cover
 * [ ] Open scanner by lifting the metal piece above the green sticker

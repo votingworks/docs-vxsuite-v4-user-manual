@@ -15,13 +15,13 @@ The smart card reader is located on the side of the laptop to the left of the tr
 
 <figure><img src="../.gitbook/assets/photo-vxprint-insert-smart-card.jpg" alt="Hand inserting a system administrator smart card chip-up into the laptop card reader, with arrows" width="375"><figcaption></figcaption></figure>
 
-The picture above shows someone inserting a system administrator card into the laptop. To configure VxPrint, you will need to insert an election manager card.
+The picture above shows someone inserting a system administrator card into the laptop. To configure VxPrint, you need to insert an election manager card.
 
 ## Loading The Election Package
 
-After logging in with an election manager card, VxPrint will prompt you to insert a USB drive with the election package saved from VxAdmin.
+After you log in with an election manager card, VxPrint prompts you to insert a USB drive with the election package saved from VxAdmin.
 
-After the USB drive is inserted, VxPrint will automatically begin loading all ballot styles for the election. After the election package is done loading, the election information will appear.
+After the USB drive is inserted, VxPrint automatically begins loading all ballot styles for the election. After the election package is done loading, the election information appears.
 
 <div><figure><img src="../.gitbook/assets/vxprint-em-insert-usb.png" alt="Unconfigured VxPrint prompting to insert a USB drive containing an election package" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxprint-em-configuring.png" alt="VxPrint loading screen reading Configuring VxPrint from USB drive" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxprint-em-election-screen.png" alt="VxPrint Election screen after loading a package, with the polling place dropdown still unselected" width="375"><figcaption></figcaption></figure></div>
 
@@ -34,19 +34,19 @@ The selected polling place limits which ballot styles poll workers can print. El
 <figure><img src="../.gitbook/assets/vxprint-em-polling-place-dropdown.png" alt="VxPrint Election screen with the polling place dropdown open listing precincts" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If your election package defines only one polling place, it is selected automatically and the `Select a Polling Place...` dropdown will not be visible.
+If your election package defines only one polling place, it is selected automatically and the `Select a Polling Place...` dropdown isn't visible.
 {% endhint %}
 
 ## Changing Ballot Mode
 
-By default, VxPrint is in `Official Ballot Mode` and all ballots printed will be official ballots. If you intend to use VxPrint for testing with the rest of the voting system, navigate to the `Settings` page and use the toggle button to switch to `Test Ballot Mode`. In `Test Ballot Mode`, all ballots printed will be test ballots and a `Test Ballot Mode` banner will display in the top bar at all times.
+By default, VxPrint is in `Official Ballot Mode` and all ballots printed are official ballots. If you intend to use VxPrint for testing with the rest of the voting system, navigate to the `Settings` page and use the toggle button to switch to `Test Ballot Mode`. In `Test Ballot Mode`, all ballots printed are test ballots and a `Test Ballot Mode` banner displays in the top bar at all times.
 
 <div><figure><img src="../.gitbook/assets/vxprint-em-settings-ballot-mode-test-highlighted.png" alt="VxPrint Settings in official ballot mode with the Test Ballot Mode toggle highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxprint-em-settings-ballot-mode-official-highlighted.png" alt="VxPrint Settings in test ballot mode with the Official Ballot Mode toggle highlighted" width="375"><figcaption></figcaption></figure></div>
 
-Switching ballot modes will clear the ballot printed counts.
+Switching ballot modes clears the ballot printed counts.
 
 {% hint style="warning" %}
-Remember to switch VxPrint back to `Official Ballot Mode` after logic and accuracy testing is complete!
+Remember to switch VxPrint back to `Official Ballot Mode` after logic and accuracy testing is complete.
 {% endhint %}
 
 ## Removing Configuration & Election Data

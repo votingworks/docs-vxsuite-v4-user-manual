@@ -54,7 +54,7 @@ Backup power for the scanner is provided by the APC uninterruptible power supply
 
 ### Packing Up VxCentralScan
 
-To pack up the VxCentralScan, simply place all of the components back into the case as displayed above and package the batch document scanner. Secure the laptop case as required by sealing the eyelets highlighted below.
+To pack up VxCentralScan, place all of the components back into the case as displayed above and package the batch document scanner. Secure the laptop case as required by sealing the eyelets highlighted below.
 
 <div align="center"><figure><img src="../.gitbook/assets/photo-vxcentralscan-case-seals.png" alt="Closed tan VxCentralScan case with red tamper-evident seals on both latches circled." width="375"><figcaption></figcaption></figure></div>
 
@@ -72,4 +72,4 @@ For all imprinters, adjust the position of the imprinter to ensure that imprinti
 
 ## Scanner Maintenance
 
-Clean the scanner before every election. The rollers should be replaced occasionally depending on scanning volume. Consult [vxadmin-and-vxcentralscan-maintenance-manual.md](../system-maintenance/vxadmin-and-vxcentralscan-maintenance-manual.md "mention") for instructions on cleaning and maintaining the Ricoh scanners.
+Clean the scanner before every election. Replace the rollers occasionally depending on scanning volume. Consult [vxadmin-and-vxcentralscan-maintenance-manual.md](../system-maintenance/vxadmin-and-vxcentralscan-maintenance-manual.md "mention") for instructions on cleaning and maintaining the Ricoh scanners.

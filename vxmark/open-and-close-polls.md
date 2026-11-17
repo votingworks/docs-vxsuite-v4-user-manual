@@ -2,7 +2,7 @@
 
 ## Open Polls on VxMark
 
-After VxMark is turned on, the screen will show "Polls Closed":
+After VxMark is turned on, the screen shows "Polls Closed":
 
 <figure><img src="../.gitbook/assets/vxmark-unauthenticated-polls-closed.png" alt="Polls Closed screen asking to insert a poll worker card to open" width="188"><figcaption></figcaption></figure>
 
