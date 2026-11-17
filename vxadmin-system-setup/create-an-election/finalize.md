@@ -9,8 +9,8 @@ Finalizing the election locks it and generates its ballots. Finalize only after 
 VxAdmin shows what remains before the election can be finalized:
 
 * "Ballots Incomplete": no ballot styles exist yet. Add districts, precincts, and contests.
-* Registered voter counts are entered for some precincts but not all. See [Add Precincts](precincts.md).
-* Some precincts aren't served by an absentee polling place. See [Add Polling Places](polling-places.md).
+* Registered voter counts are entered for some precincts but not all. See [Add Precincts](define-the-election.md#add-precincts).
+* Some precincts aren't served by an absentee polling place. See [Add Polling Places](define-the-election.md#add-polling-places).
 * "Translations Incomplete": a ballot language is missing translations. See [Load Translations](translations.md).
 * "Audio Incomplete": a ballot language is missing audio. See [Load Audio](audio.md).
 

@@ -12,7 +12,7 @@ VxAdmin holds one election at a time. You can create an election only when VxAdm
 
 <figure><img src="../../.gitbook/assets/vxadmin-design-create-new-election-highlighted.png" alt="Unconfigured VxAdmin Election screen with the Create New Election button highlighted next to Restore from Backup" width="375"><figcaption></figcaption></figure>
 
-VxAdmin opens the new election's `Election Info` tab, ready to edit. Continue with [Enter Election Information](election-information.md).
+VxAdmin opens the new election's `Election Info` tab, ready to edit. Continue with [Define the Election](define-the-election.md).
 
 ## Work on the Election
 
