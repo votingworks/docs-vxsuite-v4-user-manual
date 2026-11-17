@@ -163,7 +163,10 @@ the Oxford comma.
 
 - Pages by GitBook mention link with the page title as link text; sections by
   relative link with an anchor. TDP pages by GitBook space mention. GitHub
-  links pinned to a release tag.
+  links to VotingWorks source repositories pinned to the latest official
+  release tag (currently `v4.1.1`), never `main`. Links into
+  `docs-vxsuite-v4` (datasheets, guides, reports) stay on `main`: that
+  repository has no release tags.
 - Error message pages: pipe tables. Columns `Error Message | Election
   Official Action | Log File Entry`, or `Error Message | Voter Action | Poll
   Worker Action | Log File Entry` on voter-facing devices. Bold category rows
