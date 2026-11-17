@@ -1,10 +1,6 @@
 # Setup Inspection
 
-{% hint style="info" %}
-These steps must be completed by an election manager.
-{% endhint %}
-
-VotingWorks recommends completing the following setup inspection procedures before, during, or after logic and accuracy testing for each election.
+VotingWorks recommends completing the following setup inspection procedures before, during, or after logic and accuracy testing for each election. All readiness inspection tasks can be completed by an election manager.
 
 ## Software Inspection
 

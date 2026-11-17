@@ -1,9 +1,5 @@
 # Retain and Remove Election Files
 
-{% hint style="info" %}
-These steps must be completed by an election manager, except removing election files from VxAdmin, which must be completed by a system administrator.
-{% endhint %}
-
 After certification of an election and before configuring a new election, save all election files and data and remove the previous election's election package.
 
 ## Retain Election Files

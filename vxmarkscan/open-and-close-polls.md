@@ -1,9 +1,5 @@
 # Open and Close Polls
 
-{% hint style="info" %}
-These steps must be completed by a poll worker.
-{% endhint %}
-
 Poll workers open the polls on VxMarkScan before voting begins and close them when voting is complete. They can also pause and resume voting in between.
 
 ## Open Polls on VxMarkScan

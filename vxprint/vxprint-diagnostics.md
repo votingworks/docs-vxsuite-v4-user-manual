@@ -1,9 +1,5 @@
 # VxPrint Diagnostics
 
-{% hint style="info" %}
-These steps must be completed by a system administrator or an election manager.
-{% endhint %}
-
 In preparation for an election or in response to issues, the diagnostics interface can help verify VxPrint is functioning as expected or pinpoint problems that do arise.
 
 The VxPrint diagnostics screen shows information about the currently configured election, if any, the current battery level and charging status, and the disk space available to the application. For large elections, monitor the disk space to ensure that you don't exceed system storage limits.

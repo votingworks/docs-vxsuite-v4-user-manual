@@ -42,7 +42,9 @@ part of the technical data package.
   "VxScan Error Messages"). Title Case, with short words lowercase ("the",
   "a", "and", "to", "on"). No skipped heading levels, no bold in headings, no
   bold paragraphs standing in for headings.
-- A task page opens with exactly one info hint naming the role:
+- Role hints exist only where a page must state who performs it (a
+  documentation requirement); don't add new ones, and don't use them for poll
+  worker tasks. Where one exists, it opens the page in this wording:
 
   ```
   {% hint style="info" %}
@@ -51,8 +53,9 @@ part of the technical data package.
   ```
 
   (or the role that applies; "…by a system administrator or an election
-  manager" when either can). Then one or two sentences on what the task does
-  and when to do it, then the steps.
+  manager" when either can).
+- A task page opens with one or two sentences on what the task does and when
+  to do it, then the steps.
 - Parallel device sections (VxScan, VxCentralScan, VxPrint, VxMark,
   VxMarkScan) use the same page types, section order and headings, and the
   same wording where the behavior is the same: configure, hardware setup,
@@ -62,14 +65,17 @@ part of the technical data package.
 
 ## Procedures
 
-- Every procedure is a checkbox list, one action per item, no closing
-  period:
+- A procedure (steps done in order to finish a task) is a checkbox list, one
+  action per item, no closing period:
 
   ```
   * [ ] Insert the poll worker card
   * [ ] Select `Open Polls`
   ```
 
+- Options and alternatives (settings a voter can choose, ways to do
+  something) are not procedures: describe them in prose or a bulleted list,
+  not checkboxes.
 - Results are not checkbox items. State them in a plain sentence after the
   step they follow: "The polls opened report prints."
 - A procedure with phases is a numbered list of bold phase labels with the

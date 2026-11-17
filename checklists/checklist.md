@@ -6,10 +6,6 @@ description: >-
 
 # Poll Worker Checklist
 
-{% hint style="info" %}
-These steps must be completed by a poll worker.
-{% endhint %}
-
 Complete these tasks during early voting and/or on election day.
 
 ## Set Up VxScan

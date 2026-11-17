@@ -1,9 +1,5 @@
 # Clean Up After L&A
 
-{% hint style="info" %}
-These steps must be completed by an election manager.
-{% endhint %}
-
 After logic and accuracy (L&A) testing, clear the test results from VxAdmin and put every device into official ballot mode for election day.
 
 ## Remove CVRs from VxAdmin

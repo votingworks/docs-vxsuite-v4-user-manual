@@ -1,9 +1,5 @@
 # Retaining and Removing Files - VxMarkScan
 
-{% hint style="info" %}
-These steps must be completed by a system administrator or an election manager.
-{% endhint %}
-
 VxMarkScan does not retain any type of ballot or voter data, so the only files to retain after an election are the logs.
 
 ## Retain Election Files

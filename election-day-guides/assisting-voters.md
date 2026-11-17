@@ -1,9 +1,5 @@
 # Assist Voters
 
-{% hint style="info" %}
-These steps must be completed by a poll worker.
-{% endhint %}
-
 Poll workers help voters cast their ballots on VxScan, respond to ballot review warnings, and use the accessibility settings.
 
 ## Cast Ballots

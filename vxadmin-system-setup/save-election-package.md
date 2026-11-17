@@ -1,9 +1,5 @@
 # Save the Election Package
 
-{% hint style="info" %}
-These steps must be completed by a system administrator or an election manager.
-{% endhint %}
-
 To configure VxScan, VxCentralScan, VxMark, VxMarkScan, or VxPrint, you must first save the election package from VxAdmin to a USB drive.
 
 * [ ] Select `Election` from the side menu

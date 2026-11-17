@@ -1,9 +1,5 @@
 # Reports
 
-{% hint style="info" %}
-These steps must be completed by an election manager.
-{% endhint %}
-
 Use the VxAdmin `Reports` screen to review, print, and export election results and ballot counts.
 
 ## Full Election Tally Report

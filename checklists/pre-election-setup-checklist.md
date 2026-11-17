@@ -6,10 +6,6 @@ description: >-
 
 # Pre-Election Setup Checklist
 
-{% hint style="info" %}
-These steps must be completed by a system administrator and an election manager, as noted in each section.
-{% endhint %}
-
 To prepare for an election, complete these steps after you download or receive the election package from VotingWorks and before logic and accuracy (L&A) testing.
 
 ## Retain Previous Election Files

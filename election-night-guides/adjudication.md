@@ -1,9 +1,5 @@
 # Adjudication
 
-{% hint style="info" %}
-These steps must be completed by an election manager, or by a poll worker at an adjudication station connected to VxAdmin.
-{% endhint %}
-
 Once cast vote records (CVRs) have been loaded, the adjudication process can begin. Adjudicate the contests that need attention according to your jurisdiction's rules.
 
 ## Adjudicate Ballots

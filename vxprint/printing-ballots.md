@@ -1,9 +1,5 @@
 # Print Ballots
 
-{% hint style="info" %}
-These steps must be completed by a poll worker or an election manager.
-{% endhint %}
-
 Poll workers and election managers print ballots from the `Print` page, one ballot style at a time or, for election managers, several at once.
 
 ## Print a Ballot

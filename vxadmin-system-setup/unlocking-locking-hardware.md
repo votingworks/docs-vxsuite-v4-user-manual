@@ -1,9 +1,5 @@
 # Unlock and Lock
 
-{% hint style="info" %}
-These steps must be completed by a system administrator or an election manager.
-{% endhint %}
-
 VxAdmin, VxCentralScan, and VxPrint require you to use a smart card and a PIN to log in. Each laptop has a smart card reader on the lower left hand side of the laptop.
 
 ## Unlock the Machine

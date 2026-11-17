@@ -1,9 +1,5 @@
 # Retaining and Removing Files - VxCentralScan
 
-{% hint style="info" %}
-These steps must be completed by an election manager.
-{% endhint %}
-
 After the election, save a backup of the VxCentralScan files and then remove them from the machine.
 
 ## Retain Election Files

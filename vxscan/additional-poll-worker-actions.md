@@ -1,9 +1,5 @@
 # Additional Poll Worker Actions
 
-{% hint style="info" %}
-These steps must be completed by a poll worker.
-{% endhint %}
-
 Poll workers can pause and resume voting on VxScan and print additional copies of reports.
 
 ## Pause or Resume Voting

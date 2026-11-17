@@ -1,9 +1,5 @@
 # Open Polls
 
-{% hint style="info" %}
-These steps must be completed by a poll worker.
-{% endhint %}
-
 After VxScan is plugged in, the screen shows that polls are closed:
 
 <figure><img src="../.gitbook/assets/vxscan-polls-closed-initial.png" alt="VxScan Polls Closed screen prompting to insert a poll worker card to open polls" width="375"><figcaption></figcaption></figure>

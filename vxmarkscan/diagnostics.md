@@ -1,9 +1,5 @@
 # VxMarkScan Diagnostics
 
-{% hint style="info" %}
-These steps must be completed by a system administrator or an election manager.
-{% endhint %}
-
 In preparation for an election or in response to issues, the diagnostics interface can help verify VxMarkScan is functioning as expected or pinpoint problems that do arise.
 
 <div><figure><img src="../.gitbook/assets/vxmarkscan-em-menu-diagnostics-highlighted.png" alt="Election Manager Menu with the Diagnostics button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-sa-menu-diagnostics-highlighted.png" alt="VxMarkScan system administrator menu with the Diagnostics button highlighted" width="188"><figcaption></figcaption></figure></div>
