@@ -78,7 +78,7 @@ The adjudication stations can only adjudicate if the host has turned on multi-st
 
 <figure><img src="../.gitbook/assets/vxadmin-adjudication-multi-station-enable-highlighted.png" alt="VxAdmin Adjudication screen with the Enable Multi-Station button highlighted and connected stations listed." width="375"><figcaption></figcaption></figure>
 
-The adjudication stations can now adjudicate ballots. Adjudicators can log in with either an election manager card or a poll worker card. The adjudication process is exactly the same at adjudication stations as it is at the host except that adjudicators are not able to view previous ballots or skip ballots. Refer to the [adjudication.md](../election-night-guides/adjudication.md "mention") guide for a walkthrough of the adjudication process.
+The adjudication stations can now adjudicate ballots. Adjudicators can log in with either an election manager card or a poll worker card. The adjudication process is exactly the same at adjudication stations as it is at the host except that adjudicators are not able to view previous ballots or skip ballots. Refer to the [Adjudication](../election-night-guides/adjudication.md "mention") guide for a walkthrough of the adjudication process.
 
 You can monitor the progress of adjudication from the `Adjudication` screen at the host. You can also see the status of each station, e.g., "Locked" or "Adjudicating".
 

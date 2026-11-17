@@ -10,7 +10,7 @@ description: >-
 
 VxCentralScan is a commercial off-the-shelf (COTS) laptop pre-installed with VxCentralScan software that connects to a Ricoh scanner.
 
-![VxCentralScan in cases](../.gitbook/assets/photo-vxcentralscan-in-cases.png) ![VxCentralScan set up with fi-8170](../.gitbook/assets/photo-vxcentralscan-setup.jpg)
+<div><figure><img src="../.gitbook/assets/photo-vxcentralscan-in-cases.png" alt="VxCentralScan in cases" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-setup.jpg" alt="VxCentralScan set up with fi-8170" width="375"><figcaption></figcaption></figure></div>
 
 Three models of scanner are supported:
 
@@ -34,7 +34,7 @@ VxCentralScan can be set up through the following steps:
    * [ ] Turn on the UPS
    * [ ] Press the power button (E) to turn the scanner on
 
-   ![Remove scanner and power cord from case](../.gitbook/assets/photo-vxcentralscan-scanner-ricoh-fi8170.jpg) ![Attach and pull out paper trays](../.gitbook/assets/photo-vxcentralscan-scanner-trays-labeled.jpg) ![Plug cords in](../.gitbook/assets/photo-vxcentralscan-scanner-rear-ports-labeled.jpg) ![Press the power button to turn on](../.gitbook/assets/photo-vxcentralscan-scanner-power-button-labeled.jpg)
+   <div><figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-ricoh-fi8170.jpg" alt="Remove scanner and power cord from case" width="188"><figcaption><p>Remove the scanner and power cord from the case</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-trays-labeled.jpg" alt="Attach and pull out paper trays" width="188"><figcaption><p>Attach and pull out the paper trays</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-rear-ports-labeled.jpg" alt="Plug cords in" width="188"><figcaption><p>Plug in the cords</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-power-button-labeled.jpg" alt="Press the power button to turn on" width="188"><figcaption><p>Press the power button to turn on</p></figcaption></figure></div>
 
 2. **Set up the VxCentralScan laptop:**
    * [ ] Remove and document seals as necessary
@@ -48,7 +48,7 @@ VxCentralScan can be set up through the following steps:
    * [ ] Pull the scanner cord (C) out and plug into the USB hub and the scanner
    * [ ] Turn the laptop on
 
-   ![Remove laptop](../.gitbook/assets/photo-vxcentralscan-laptop-in-case.jpg) ![Remove components](../.gitbook/assets/photo-vxcentralscan-peripherals-in-case.jpg) ![Plug components in](../.gitbook/assets/photo-vxcentralscan-setup.jpg)
+   <div><figure><img src="../.gitbook/assets/photo-vxcentralscan-laptop-in-case.jpg" alt="Remove laptop" width="188"><figcaption><p>Remove the laptop</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-peripherals-in-case.jpg" alt="Remove components" width="188"><figcaption><p>Remove the components</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-setup.jpg" alt="Plug components in" width="188"><figcaption><p>Plug in the components</p></figcaption></figure></div>
 
 ## Pack Up VxCentralScan
 
@@ -74,4 +74,4 @@ For all imprinters, adjust the position of the imprinter to ensure that imprinti
 
 ## Scanner Maintenance
 
-Clean the scanner before every election. Replace the rollers occasionally depending on scanning volume. Consult [vxadmin-and-vxcentralscan-maintenance-manual.md](../system-maintenance/vxadmin-and-vxcentralscan-maintenance-manual.md "mention") for instructions on cleaning and maintaining the Ricoh scanners.
+Clean the scanner before every election. Replace the rollers occasionally depending on scanning volume. Consult [VxAdmin, VxCentralScan, & VxPrint Maintenance Manual](../system-maintenance/vxadmin-and-vxcentralscan-maintenance-manual.md "mention") for instructions on cleaning and maintaining the Ricoh scanners.

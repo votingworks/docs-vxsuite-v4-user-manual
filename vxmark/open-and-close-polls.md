@@ -59,6 +59,6 @@ Voting is now paused. When you want to resume voting:
 * [ ] Confirm by selecting `Resume Voting` again
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/vxmark-pw-menu-resume-voting-highlighted.png" alt="VxMark poll worker menu with voting paused and the Resume Voting button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pw-resume-voting-modal.png" alt="Resume Voting confirmation dialog with the Resume Voting button highlighted" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmark-pw-menu-resume-voting-highlighted.png" alt="VxMark poll worker menu with voting paused and the Resume Voting button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pw-resume-voting-modal.png" alt="Resume Voting confirmation dialog with the Resume Voting button highlighted" width="188"><figcaption></figcaption></figure></div>
 
 Voting can now continue.

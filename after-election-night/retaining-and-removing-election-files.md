@@ -15,10 +15,10 @@ VotingWorks recommends retaining the following files after each election:
 * [ ] VxAdmin log file
 * [ ] VxScan cast vote records (CVRs)
 * [ ] VxScan log file
-* [ ] VxCentralScan CVRs (if applicable—see [Retaining and Removing files - VxCentralScan](../vxcentralscan/retaining-and-removing-files-vxcentralscan.md))
-* [ ] VxCentralScan log file (if applicable—see [Retaining and Removing files - VxCentralScan](../vxcentralscan/retaining-and-removing-files-vxcentralscan.md))
-* [ ] VxMarkScan log file (if applicable—see [Retaining and Removing Files - VxMarkScan](../vxmarkscan/retaining-and-removing-files.md))
-* [ ] VxMark log file (if applicable—see [Retaining and Removing Files - VxMark](../vxmark/retaining-and-removing-files.md))
+* [ ] VxCentralScan CVRs (if applicable—see [Retaining and Removing Files - VxCentralScan](../vxcentralscan/retaining-and-removing-files-vxcentralscan.md "mention"))
+* [ ] VxCentralScan log file (if applicable—see [Retaining and Removing Files - VxCentralScan](../vxcentralscan/retaining-and-removing-files-vxcentralscan.md "mention"))
+* [ ] VxMarkScan log file (if applicable—see [Retaining and Removing Files - VxMarkScan](../vxmarkscan/retaining-and-removing-files.md "mention"))
+* [ ] VxMark log file (if applicable—see [Retaining and Removing Files - VxMark](../vxmark/retaining-and-removing-files.md "mention"))
 * [ ] VxPrint log file (if applicable—see [Reporting & Logs](../vxprint/reportingandlogs.md#saving-logs))
 * [ ] VxPrint ballots printed report, exported as a PDF (if applicable—see [Reporting & Logs](../vxprint/reportingandlogs.md#reporting))
 
@@ -53,7 +53,7 @@ Machine log files are saved in the `/logs` folder on the USB drive.
 
 ### VxScan CVR Files
 
-VxScan CVRs include the VxScan's CVRs and ballot images. The log file contains the logs. To save the VxScan files, [set up the VxScan](../election-day-guides/vxscan-setup.md) without the ballot box and follow these steps:
+VxScan CVRs include the VxScan's CVRs and ballot images. The log file contains the logs. To save the VxScan files, set up VxScan without the ballot box (see [VxScan Setup](../election-day-guides/vxscan-setup.md "mention")) and follow these steps:
 
 * [ ] Insert the election manager card
 * [ ] Select `CVRs and Logs` from the side menu

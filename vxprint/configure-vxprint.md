@@ -8,8 +8,8 @@ You can configure VxPrint without the printer unpacked and set up.
 
 To configure VxPrint, you must do two things in VxAdmin:
 
-* [ ] Save the election package to a USB drive (see [save-election-package.md](../vxadmin-system-setup/save-election-package.md "mention"))
-* [ ] Create an election manager card (see [programming-cards.md](../vxadmin-system-setup/programming-cards.md "mention"))
+* [ ] Save the election package to a USB drive (see [Save Election Package](../vxadmin-system-setup/save-election-package.md "mention"))
+* [ ] Create an election manager card (see [Smart Cards and User Roles](../vxadmin-system-setup/programming-cards.md "mention"))
 
 ## Insert Smart Cards
 

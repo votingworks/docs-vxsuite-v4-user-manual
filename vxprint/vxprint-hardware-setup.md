@@ -13,7 +13,7 @@ VxPrint is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWor
    * [ ] Press the power button to turn the printer on
    * [ ] Load paper into the lower paper tray
 
-   <div><figure><img src="../.gitbook/assets/photo-printer-in-case.png" alt="HP LaserJet printer and its power cord packed in the open grey soft carrying case." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-printer-power-cord-port.png" alt="Rear of the HP LaserJet printer with the power cord socket circled." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-printer-power-button.png" alt="Front of the HP LaserJet Pro M404n printer with the power button circled." width="375"><figcaption></figcaption></figure></div>
+   <div><figure><img src="../.gitbook/assets/photo-printer-in-case.png" alt="HP LaserJet printer and its power cord packed in the open grey soft carrying case." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-printer-power-cord-port.png" alt="Rear of the HP LaserJet printer with the power cord socket circled." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-printer-power-button.png" alt="Front of the HP LaserJet Pro M404n printer with the power button circled." width="188"><figcaption></figcaption></figure></div>
 
 2. **Set up the VxPrint laptop:**
    * [ ] Remove the laptop from the case
@@ -23,7 +23,7 @@ VxPrint is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWor
    * [ ] Pull the printer cord (C) out and plug into the USB hub and the printer
    * [ ] Turn the laptop on
 
-   <figure><img src="../.gitbook/assets/photo-vxadmin-setup-labeled.jpg" alt="VxAdmin laptop, mouse, USB hub and HP printer connected, with power cord, hub and printer cable labeled A, B, C." width="563"><figcaption></figcaption></figure>
+   <figure><img src="../.gitbook/assets/photo-vxadmin-setup-labeled.jpg" alt="VxAdmin laptop, mouse, USB hub and HP printer connected, with power cord, hub and printer cable labeled A, B, C." width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 An optional mouse is included. Plug it into the USB hub to use.

@@ -9,8 +9,8 @@ The scanner status indicates whether the scanner is connected or not. To test th
 
 This test verifies the scanner is clean and ballot images are clear. If the test fails, you'll be prompted to clean the scanner. The test also fails if the sheet is not blank.
 
-<figure><img src="../.gitbook/assets/vxcentralscan-diagnostics-screen.png" alt="Diagnostics screen with configuration, battery, storage, UPS and scanner status" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxcentralscan-diagnostics-screen.png" alt="Diagnostics screen with configuration, battery, storage, UPS and scanner status" width="375"><figcaption></figcaption></figure>
 
 The readiness report can be used as a record of system diagnostic verification. Select `Save Readiness Report` to save a copy to a USB drive.
 
-<figure><img src="../.gitbook/assets/vxcentralscan-readiness-report.png" alt="VxCentralScan Readiness Report listing configuration, battery, storage, UPS and scanner checks" width="375"><figcaption><p>Example VxCentralScan Readiness Report</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxcentralscan-readiness-report.png" alt="VxCentralScan Readiness Report listing configuration, battery, storage, UPS and scanner checks" width="375"><figcaption></figcaption></figure>

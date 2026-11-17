@@ -44,11 +44,11 @@ All votes cast using VotingWorks equipment are on paper ballots for security and
     * All absentee voters receive a hand-marked paper ballot (bubble ballot) that is printed by either a third-party print vendor or an on-demand printer (VxPrint). Absentee ballots are scanned by election administrators using a high-speed central scanner (VxCentralScan) or the precinct scanner (VxScan).
     * Most in-precinct voters receive a hand-marked paper ballot (bubble ballot) that is printed by either a third-party printer or an on-demand printer (VxPrint) to hand mark. Precinct ballots are scanned by voters using a precinct scanner (VxScan).
 
-    <figure><img src=".gitbook/assets/diagram-hmpb-test-ballot-page-1.png" alt="Page 1 of a hand-marked paper test ballot with fill-in ovals, timing marks, and instructions" width="300"><figcaption><p>Example hand-marked paper ballot</p></figcaption></figure>
+    <figure><img src=".gitbook/assets/diagram-hmpb-test-ballot-page-1.png" alt="Page 1 of a hand-marked paper test ballot with fill-in ovals, timing marks, and instructions" width="375"><figcaption><p>Example hand-marked paper ballot</p></figcaption></figure>
 * **Machine-marked paper ballot (summary ballot)** (via ballot-marking device)
   * In-precinct voters may request to use the tabletop accessible ballot-marking device (VxMark), or the free-standing accessible ballot-marking device (VxMarkScan), both of which print a voter verifiable paper ballot. A ballot printed by VxMark is then cast by the voter, either in the precinct scanner (VxScan) or by being scanned later at a high-speed central scanner (VxCentralScan). VxMarkScan prints the ballot, lets the voter verify it, and casts it into its attached ballot box.
 
-<figure><img src=".gitbook/assets/vxmark-printed-ballot.png" alt="Printed BMD summary ballot listing each contest and the voter's selection in three columns" width="300"><figcaption><p>Example machine-marked paper ballot (summary ballot)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/vxmark-printed-ballot.png" alt="Printed BMD summary ballot listing each contest and the voter's selection in three columns" width="375"><figcaption><p>Example machine-marked paper ballot (summary ballot)</p></figcaption></figure>
 
 
 

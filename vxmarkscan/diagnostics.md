@@ -6,7 +6,7 @@ These steps must be completed by a system administrator or an election manager.
 
 In preparation for an election or in response to issues, the diagnostics interface can help verify VxMarkScan is functioning as expected or pinpoint problems that do arise.
 
-<div><figure><img src="../.gitbook/assets/vxmarkscan-em-menu-diagnostics-highlighted.png" alt="Election Manager Menu with the Diagnostics button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-sa-menu-diagnostics-highlighted.png" alt="VxMarkScan system administrator menu with the Diagnostics button highlighted" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-em-menu-diagnostics-highlighted.png" alt="Election Manager Menu with the Diagnostics button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-sa-menu-diagnostics-highlighted.png" alt="VxMarkScan system administrator menu with the Diagnostics button highlighted" width="188"><figcaption></figcaption></figure></div>
 
 The diagnostics screen shows information about how the machine is configured, how much storage is left on the device, and the current status of the hardware. There are tests for the accessible controller, front headphone input, personal assistive technology (PAT) device input, uninterruptible power supply, and printer-scanner.
 
@@ -22,4 +22,4 @@ If the headphone or PAT test fails, try to unplug and replug the device and try 
 
 The readiness report can be used as a record of system diagnostic verification. Select `Save Readiness Report` to save a copy to a USB drive.
 
-<figure><img src="../.gitbook/assets/vxmarkscan-readiness-report.png" alt="VxMarkScan readiness report listing configuration, storage, and hardware status" width="375"><figcaption><p>Example VxMarkScan Readiness Report</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxmarkscan-readiness-report.png" alt="VxMarkScan readiness report listing configuration, storage, and hardware status" width="375"><figcaption></figcaption></figure>

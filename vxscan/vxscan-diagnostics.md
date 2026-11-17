@@ -32,4 +32,4 @@ The readiness report can be used as a record of system diagnostic verification.
 
 * [ ] Select `Save Readiness Report` to save a copy to a USB drive
 
-<figure><img src="../.gitbook/assets/vxscan-readiness-report.png" alt="VxScan readiness report listing configuration, storage, scanner, printer, speaker, and UPS status" width="375"><figcaption><p>Example VxScan Readiness Report</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-readiness-report.png" alt="VxScan readiness report listing configuration, storage, scanner, printer, speaker, and UPS status" width="375"><figcaption></figcaption></figure>

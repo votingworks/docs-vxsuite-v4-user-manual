@@ -8,7 +8,7 @@ These steps must be completed by a system administrator.
 
 Smart cards are used to configure and operate equipment. It's the same technology as the chip in your credit card, but is instead used to provide election administrators and poll workers a secure means to configure and operate the equipment. There are three user roles and cards: system administrator, election manager, and poll worker.
 
-<figure><img src="../.gitbook/assets/diagram-smart-card-types.png" alt="Illustration of the three smart card types: System Administrator, Election Manager, and Poll Worker." width="375"><figcaption><p>Smart cards</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/diagram-smart-card-types.png" alt="Illustration of the three smart card types: System Administrator, Election Manager, and Poll Worker." width="563"><figcaption><p>Smart cards</p></figcaption></figure>
 
 ### System Administrator
 
@@ -66,7 +66,7 @@ For each election, you will create election manager and poll worker cards specif
 * [ ] Log in with a system administrator card
 * [ ] Select `Smart Cards` from the side menu
 
-<div><figure><img src="../.gitbook/assets/vxadmin-smart-cards-no-card.png" alt="VxAdmin Smart Cards screen with no card inserted, prompting to insert a smart card." width="375"><figcaption><p>Smart cards screen without card inserted</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-laptop-insert-smart-card.png" alt="Hand inserting a System Administrator smart card, chip first, into the laptop card reader." width="375"><figcaption><p>Insert smart card</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxadmin-smart-cards-no-card.png" alt="VxAdmin Smart Cards screen with no card inserted, prompting to insert a smart card." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-laptop-insert-smart-card.png" alt="Hand inserting a System Administrator smart card, chip first, into the laptop card reader." width="375"><figcaption><p>Insert smart card</p></figcaption></figure></div>
 
 * [ ] Insert the card you want to program
 * [ ] Select the button for the type of card you want to program

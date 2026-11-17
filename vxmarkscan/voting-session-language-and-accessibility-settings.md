@@ -2,7 +2,7 @@
 
 Voters have a number of options to change the VxMarkScan interface to suit their individual needs.
 
-<figure><img src="../.gitbook/assets/vxmarkscan-voting-language-and-settings-highlighted.png" alt="VxMarkScan contest screen with the language and Settings buttons in the header highlighted" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxmarkscan-voting-language-and-settings-highlighted.png" alt="VxMarkScan contest screen with the language and Settings buttons in the header highlighted" width="188"><figcaption></figcaption></figure>
 
 ## Ballot Language
 
@@ -12,7 +12,7 @@ To change the language from English to another language:
 * [ ] Select the preferred language from the language buttons that appear
 * [ ] Select `Done`
 
-<figure><img src="../.gitbook/assets/vxmarkscan-voting-language-settings.png" alt="Select Your Ballot Language screen with English selected and a Done button." width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxmarkscan-voting-language-settings.png" alt="Select Your Ballot Language screen with English selected and a Done button." width="188"><figcaption></figcaption></figure>
 
 ## Visual Settings
 
@@ -39,9 +39,9 @@ Audio is always on by default when headphones are plugged in. Instructions for a
 
 Select `Mute Audio` to mute all sound. Select `Enable Audio-Only Mode` to hide the screen. Voters using only audio to navigate through the ballot may want to hide the screen for privacy. Additionally, a voter who has a T-coil neckloop may unplug the headphones and plug that device into the headphone jack.
 
-Sanitize headphones after a voting session using the audio-tactile interface. To do so, discard the headphone ear covers and replace with a new set of ear covers. Disposable ear covers suitable for VxMarkScan are listed in the [supply-list.md](../miscellaneous/supply-list.md "mention").
+Sanitize headphones after a voting session using the audio-tactile interface. To do so, discard the headphone ear covers and replace with a new set of ear covers. Disposable ear covers suitable for VxMarkScan are listed in the [Supply List](../miscellaneous/supply-list.md "mention").
 
-<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-audio.png" alt="Voter Settings screen on the Audio tab with mute, volume, rate of speech, and audio-only mode controls" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-audio-only-mode.png" alt="Audio-Only Mode screen with an Exit Audio-Only Mode button" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-audio.png" alt="Voter Settings screen on the Audio tab with mute, volume, rate of speech, and audio-only mode controls" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-settings-audio-only-mode.png" alt="Audio-Only Mode screen with an Exit Audio-Only Mode button" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 All selections above are made for a specific voting session and reset with the next voter.

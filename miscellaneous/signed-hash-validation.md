@@ -17,6 +17,6 @@ The image above is taken from a development unit, so it does not have a full sys
 
 The site validates the QR code data and verifies the software is the same as the certified version.
 
-<figure><img src="../.gitbook/assets/diagram-signed-hash-validation-check-site-verified.png" alt="The check.voting.works Hash Validation page on a phone showing a green check with machine ID, timestamp and election ID." width="237"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/diagram-signed-hash-validation-check-site-verified.png" alt="The check.voting.works Hash Validation page on a phone showing a green check with machine ID, timestamp and election ID." width="188"><figcaption></figcaption></figure>
 
 {% include "../.gitbook/includes/if-the-hash-is-not-validate....md" %}

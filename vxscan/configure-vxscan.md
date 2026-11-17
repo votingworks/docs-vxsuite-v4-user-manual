@@ -4,12 +4,12 @@
 These steps must be completed by an election manager.
 {% endhint %}
 
-Before you configure VxScan, set up the machine with the [vxscan-setup.md](../election-day-guides/vxscan-setup.md "mention") guide.
+Before you configure VxScan, set up the machine with the [VxScan Setup](../election-day-guides/vxscan-setup.md "mention") guide.
 
 To configure VxScan, you must do two things in VxAdmin:
 
-* [ ] [Save the election package](../vxadmin-system-setup/save-election-package.md "mention") to a USB drive
-* [ ] [Create an election manager card](../vxadmin-system-setup/programming-cards.md "mention")
+* [ ] Save the election package to a USB drive ([Save Election Package](../vxadmin-system-setup/save-election-package.md "mention"))
+* [ ] Create an election manager card ([Smart Cards and User Roles](../vxadmin-system-setup/programming-cards.md "mention"))
 
 ## Load the Election Package
 
@@ -26,7 +26,7 @@ Only one USB drive should be plugged into VxScan at a time. The other USB port i
 
 After you insert the USB drive, VxScan automatically begins loading all ballot styles for the election. After the election package is done loading, the election manager menu is displayed and VxScan is in test ballot mode.
 
-<figure><img src="../.gitbook/assets/vxscan-em-election-manager-menu.png" alt="VxScan election manager Configuration tab after loading the election package" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-em-election-manager-menu.png" alt="VxScan election manager Configuration tab after loading the election package" width="375"><figcaption></figcaption></figure>
 
 To finish configuring VxScan:
 
@@ -36,11 +36,11 @@ Jurisdictions with only one polling place skip this step.
 
 ## Set the Ballot Mode
 
-The machine must be in official ballot mode on election day. Review the [l-and-a-overview.md](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md "mention") instructions to understand which mode to use during logic and accuracy (L&A) testing.
+The machine must be in official ballot mode on election day. Review the [L\&A Overview](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md "mention") instructions to understand which mode to use during logic and accuracy (L&A) testing.
 
 * [ ] Use the toggle button to switch between `Test Ballot Mode` and `Official Ballot Mode`
 
-<figure><img src="../.gitbook/assets/vxscan-em-official-ballot-mode-button.png" alt="VxScan election manager Configuration tab with the Official Ballot Mode button highlighted" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-em-official-ballot-mode-button.png" alt="VxScan election manager Configuration tab with the Official Ballot Mode button highlighted" width="375"><figcaption></figcaption></figure>
 
 ## Remove the Election Configuration
 

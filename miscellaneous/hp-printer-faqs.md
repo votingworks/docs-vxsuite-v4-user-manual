@@ -4,7 +4,7 @@ This FAQ applies to VxAdmin, VxPrint, and VxMark.
 
 ## Do We Need to Install Toner?
 
-New printers come with toner pre-installed, see the [Supply List](supply-list.md) for replacement options. To install a new toner cartridge, follow [HP's instructions](https://support.hp.com/us-en/document/ish_5455373-5578919-16).
+New printers come with toner pre-installed, see the [Supply List](supply-list.md "mention") for replacement options. To install a new toner cartridge, follow [HP's instructions](https://support.hp.com/us-en/document/ish_5455373-5578919-16).
 
 ## The Printer Displays "Select Language" and Won't Print. What Do I Do?
 

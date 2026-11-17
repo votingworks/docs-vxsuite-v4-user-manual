@@ -2,7 +2,7 @@
 
 VxCentralScan is a central scanner that allows you to quickly scan large batches of ballots. VxCentralScan is often used to scan absentee and provisional ballots, but can be used to scan any ballot. VxCentralScan can also be used to quickly verify a test deck or re-tabulate an out-of-balance precinct.
 
-Follow the [vxcentralscan-hardware-setup.md](vxcentralscan-hardware-setup.md "mention") instructions to prepare the system for use.
+Follow the [VxCentralScan Hardware Setup](vxcentralscan-hardware-setup.md "mention") instructions to prepare the system for use.
 
 ## Scan Ballot Batches
 

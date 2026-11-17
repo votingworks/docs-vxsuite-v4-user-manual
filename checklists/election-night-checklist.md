@@ -10,17 +10,18 @@ description: >-
 These steps must be completed by an election manager.
 {% endhint %}
 
-On election night, you need [VxAdmin](../vxadmin-system-setup/vxadmin-hardware-setup.md) (laptop, printer, and APC uninterruptible power supply (UPS)). If scanning ballots centrally, you'll also need the [VxCentralScan](../vxcentralscan/vxcentralscan-hardware-setup.md) (laptop, scanner, and APC UPS) and the [Election Night Checklist - VxCentralScan](../vxcentralscan/election-night-checklist-vxcentralscan.md).
+On election night, you need VxAdmin (laptop, printer, and APC uninterruptible power supply (UPS)); see [VxAdmin Hardware Setup](../vxadmin-system-setup/vxadmin-hardware-setup.md "mention"). If scanning ballots centrally, you'll also need VxCentralScan (laptop, scanner, and APC UPS; see [VxCentralScan Hardware Setup](../vxcentralscan/vxcentralscan-hardware-setup.md "mention")) and the [Election Night Checklist - VxCentralScan](../vxcentralscan/election-night-checklist-vxcentralscan.md "mention").
 
 ## Tally and Save Results
 
 * [ ] Set up VxAdmin
 * [ ] Log in with an election manager card
-* [ ] Select `Tally` from the side menu and verify there are no CVRs on VxAdmin
+* [ ] Select `Tally` from the side menu
+* [ ] Verify there are no cast vote records (CVRs) on VxAdmin
 * [ ] Select `Reports` from the side menu
 * [ ] Print an unofficial `Full Election Tally Report` as the zero report
 * [ ] Select `Tally` from the side menu
-* [ ] Load cast vote records (CVRs) from USB drive(s)
+* [ ] Load CVRs from USB drive(s)
 * [ ] Verify the CVR counts
 * [ ] If applicable, adjudicate write-ins and marginal marks by selecting `Adjudication` from the side menu
 * [ ] If applicable, add manual tallies by selecting `Tally` from the side menu and then `Manual Tallies`

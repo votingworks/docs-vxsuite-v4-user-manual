@@ -4,7 +4,7 @@
 
 See [Central Scanning](scanning-ballots.md "mention") for details on each step.
 
-* [ ] [VxCentralScan Hardware Setup](vxcentralscan-hardware-setup.md)
+* [ ] [VxCentralScan Hardware Setup](vxcentralscan-hardware-setup.md "mention")
 * [ ] Confirm VxCentralScan is in official ballot mode and has a "Total Sheets" count of 0
   * [ ] If not, toggle the scanner to official ballot mode from the `Settings` screen or select `Delete All Batches` from the `Batch History` screen
 * [ ] Scan ballots in batches

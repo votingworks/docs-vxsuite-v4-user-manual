@@ -33,7 +33,7 @@ After cleaning:
 * [ ] Close the access door
 * [ ] Close the poll worker door
 
-To confirm the scanner is clean and producing clear images, you may either run the [scanner diagnostic](vxscan-diagnostics.md) or start scanning—if streaks are detected in the images, VxScan alerts you.
+To confirm the scanner is clean and producing clear images, you may either run the scanner diagnostic ([VxScan Diagnostics](vxscan-diagnostics.md "mention")) or start scanning—if streaks are detected in the images, VxScan alerts you.
 
 ## Double Sheet Detection
 

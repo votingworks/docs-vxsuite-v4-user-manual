@@ -21,13 +21,13 @@ There are no required steps for maintaining the software or firmware. The softwa
 
 ### Data Maintenance
 
-As VxAdmin and VxCentralScan are used for an election, they gradually store more and more data. VxCentralScan stores ballot images and interpretations for all scanned ballots and VxAdmin stores imported cast vote records, which often include images as well. It is the responsibility of the election manager using VxAdmin and VxCentralScan to monitor data usage. VxPrint does not store meaningful amounts of data so no monitoring is required.
+As VxAdmin and VxCentralScan are used for an election, they gradually store more and more data. VxCentralScan stores ballot images and interpretations for all scanned ballots and VxAdmin stores imported cast vote records (CVRs), which often include images as well. It is the responsibility of the election manager using VxAdmin and VxCentralScan to monitor data usage. VxPrint does not store meaningful amounts of data so no monitoring is required.
 
 System administrators and election managers can see the free disk space available on VxAdmin and VxCentralScan by selecting `Diagnostics` from the side menu. When free disk space hits 0%, the application is no longer able to add data, whether that's in the form of a scanned ballot or imported CVRs. As long as you stay within the specified [System Limits](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-performance-and-specifications/system-limits "mention"), VxAdmin and VxCentralScan shouldn't hit 0%.
 
 When you unconfigure the machine or clear ballot data, the disk space is recovered. The free disk space may not appear to return to 100%, but new files eventually replace old files and the disk space is reused.
 
-VotingWorks recommends that all scanned ballot data is backed up from VxCentralScan to a USB drive before being cleared from the application. VxCentralScan requires you to perform the backup. VotingWorks recommends a 64 GB SanDisk Ultra Flair USB 3.0 Drive (PN: SDCZ73-064G-G46) for most operations and the faster 128 GB SanDisk Extreme PRO USB 3.2 Drive (PN: SDCZ880-128G-G46) for very large backups. See [retaining-and-removing-files-vxcentralscan.md](../vxcentralscan/retaining-and-removing-files-vxcentralscan.md "mention") for details.
+VotingWorks recommends that all scanned ballot data is backed up from VxCentralScan to a USB drive before being cleared from the application. VxCentralScan requires you to perform the backup. VotingWorks recommends a 64 GB SanDisk Ultra Flair USB 3.0 Drive (PN: SDCZ73-064G-G46) for most operations and the faster 128 GB SanDisk Extreme PRO USB 3.2 Drive (PN: SDCZ880-128G-G46) for very large backups. See [Retaining and Removing Files - VxCentralScan](../vxcentralscan/retaining-and-removing-files-vxcentralscan.md "mention") for details.
 
 ## Printer Maintenance
 
@@ -45,7 +45,7 @@ The printer comes with toner installed, which should last for many elections or 
 
 ### Diagnostics & Troubleshooting
 
-VxAdmin and VxPrint feature diagnostics for troubleshooting the printer. After authenticating and navigating to the `Diagnostics` menu, you can select `Print Test Page` to print a mock report. The diagnostics interface also shows the printer status, including if paper is jammed or toner is low. For the most common issues, refer to the [hp-printer-faqs.md](../miscellaneous/hp-printer-faqs.md "mention"). For other issues, refer directly to the [manufacturer user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-user-guide.pdf).
+VxAdmin and VxPrint feature diagnostics for troubleshooting the printer. After authenticating and navigating to the `Diagnostics` menu, you can select `Print Test Page` to print a mock report. The diagnostics interface also shows the printer status, including if paper is jammed or toner is low. For the most common issues, refer to the [HP Printer FAQs](../miscellaneous/hp-printer-faqs.md "mention"). For other issues, refer directly to the [manufacturer user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-user-guide.pdf).
 
 ## VxCentralScan Scanner Maintenance
 

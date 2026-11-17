@@ -8,7 +8,7 @@ VotingWorks recommends completing the following setup inspection procedures befo
 
 ## Software Inspection
 
-Any election official can use [signed-hash-validation.md](../miscellaneous/signed-hash-validation.md "mention") on each device to verify that the software is certified VotingWorks software and has not been tampered with. The software on each device should not change between elections except in cases of VotingWorks-managed upgrades.
+Any election official can use [Signed Hash Validation](../miscellaneous/signed-hash-validation.md "mention") on each device to verify that the software is certified VotingWorks software and has not been tampered with. The software on each device should not change between elections except in cases of VotingWorks-managed upgrades.
 
 ## Equipment Cleaning and Calibration
 
@@ -16,7 +16,7 @@ All devices with a scanner (VxScan, VxCentralScan, and VxMarkScan) should be cle
 
 ## Equipment Readiness Inspection
 
-Election managers can use each device's diagnostic interface to confirm the machine is ready for an election. The diagnostic interfaces and the exportable readiness reports are documented for each device in [vxadmin-diagnostics.md](../vxadmin-system-setup/vxadmin-diagnostics.md "mention"), [vxscan-diagnostics.md](../vxscan/vxscan-diagnostics.md "mention"), [diagnostics.md](../vxmark/diagnostics.md "mention"), [diagnostics.md](../vxmarkscan/diagnostics.md "mention"), [vxcentralscan-diagnostics.md](../vxcentralscan/vxcentralscan-diagnostics.md "mention"), and [vxprint-diagnostics.md](../vxprint/vxprint-diagnostics.md "mention"). For each device:
+Election managers can use each device's diagnostic interface to confirm the machine is ready for an election. The diagnostic interfaces and the exportable readiness reports are documented for each device in [VxAdmin Diagnostics](../vxadmin-system-setup/vxadmin-diagnostics.md "mention"), [VxScan Diagnostics](../vxscan/vxscan-diagnostics.md "mention"), [VxMark Diagnostics](../vxmark/diagnostics.md "mention"), [VxMarkScan Diagnostics](../vxmarkscan/diagnostics.md "mention"), [VxCentralScan Diagnostics](../vxcentralscan/vxcentralscan-diagnostics.md "mention"), and [VxPrint Diagnostics](../vxprint/vxprint-diagnostics.md "mention"). For each device:
 
 * [ ] Verify configuration information matches election
 * [ ] Verify "Free Disk Space" is greater than 90%
@@ -39,9 +39,9 @@ Election managers should confirm that the VxScan and VxMarkScan ballot boxes are
 
 ## USB Drive Inspection
 
-USB drives should be properly formatted and free of data from previous elections before pre-election testing. While it is possible to inspect the USB drives manually on most computers, VotingWorks recommends using the [usb-formatting.md](../vxadmin-system-setup/usb-formatting.md "mention") feature on VxAdmin to ensure all drives are formatted and clear.
+USB drives should be properly formatted and free of data from previous elections before pre-election testing. While it is possible to inspect the USB drives manually on most computers, VotingWorks recommends using the [USB Formatting](../vxadmin-system-setup/usb-formatting.md "mention") feature on VxAdmin to ensure all drives are formatted and clear.
 
-USB drives and the device's internal hard disk are the only voting device storage locations that hold election information that can change during the election. USB drive inspection and the aforementioned storage capacity check as part of [#equipment-readiness-inspection](setup-inspection.md#equipment-readiness-inspection "mention") ensure all storage locations are inspected pre-election.
+USB drives and the device's internal hard disk are the only voting device storage locations that hold election information that can change during the election. USB drive inspection and the aforementioned storage capacity check as part of [Equipment Readiness Inspection](setup-inspection.md#equipment-readiness-inspection "mention") ensure all storage locations are inspected pre-election.
 
 ## Consumables Inspection
 
@@ -85,11 +85,11 @@ All seals should start with `VX-` and should appear whole and free of defects.
 
 The setup inspection procedures described above are intended to be completed before, during, or after logic and accuracy testing for each election in addition to the jurisdiction-specific logic and accuracy testing which validates the election configuration, the ballots, and full system operation. The steps below may be completed in a variety of orders depending on your logic and accuracy procedures:
 
-* [ ] Complete [signed-hash-validation.md](../miscellaneous/signed-hash-validation.md "mention") on all devices to verify that only certified software is installed
-* [ ] Calibrate [#double-sheet-detection](../vxscan/scanner-management.md#double-sheet-detection "mention") on VxScan for the upcoming election's ballot paper weight
+* [ ] Complete [Signed Hash Validation](../miscellaneous/signed-hash-validation.md "mention") on all devices to verify that only certified software is installed
+* [ ] Calibrate [Double Sheet Detection](../vxscan/scanner-management.md#double-sheet-detection "mention") on VxScan for the upcoming election's ballot paper weight
 * [ ] Clean scanners for each VxScan, VxCentralScan, and VxMarkScan
-* [ ] Complete an [#equipment-readiness-inspection](setup-inspection.md#equipment-readiness-inspection "mention") for each device
-* [ ] Format all USB drives as part of the [#usb-drive-inspection](setup-inspection.md#usb-drive-inspection "mention")
+* [ ] Complete an [Equipment Readiness Inspection](setup-inspection.md#equipment-readiness-inspection "mention") for each device
+* [ ] Format all USB drives as part of the [USB Drive Inspection](setup-inspection.md#usb-drive-inspection "mention")
 * [ ] Confirm backup power supplies are at full charge
 * [ ] Confirm factory seals are present for each device
 

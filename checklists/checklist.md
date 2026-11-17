@@ -38,7 +38,7 @@ Complete these tasks during early voting and/or on election day.
 
 ## Open Polls
 
-For details, see [Opening Polls](../election-day-guides/opening-polls.md).
+For details, see [Opening Polls](../election-day-guides/opening-polls.md "mention").
 
 * [ ] Insert the poll worker card
 * [ ] Select `Open Polls`
@@ -76,7 +76,7 @@ The polls closed report prints.
 * [ ] Remove the USB drive and secure as required
 
 {% hint style="warning" %}
-Single polling place jurisdictions may want to skip to the [Election Night Checklist](election-night-checklist.md) at this time to verify cast vote records (CVRs) were properly saved before packing up equipment.
+Single polling place jurisdictions may want to skip to the [Election Night Checklist](election-night-checklist.md "mention") at this time to verify cast vote records (CVRs) were properly saved before packing up equipment.
 {% endhint %}
 
 ## Pack Up VxScan

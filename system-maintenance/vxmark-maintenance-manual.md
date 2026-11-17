@@ -29,7 +29,7 @@ VotingWorks recommends cleaning the screen, accessible controller, and USB port 
 
 ### VxMark Printer Maintenance <a href="#vxmark-printer-maintenance" id="vxmark-printer-maintenance"></a>
 
-VxMark uses a HP LaserJet Pro 4001dn printer to print ballots. The [manufacturer specifications ](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-datasheet.pdf)and [manufacturer user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-user-guide.pdf) are included in the documentation repository. For more troubleshooting tips on the printer, consult the [hp-printer-faqs.md](../miscellaneous/hp-printer-faqs.md "mention") section.
+VxMark uses a HP LaserJet Pro 4001dn printer to print ballots. The [manufacturer specifications](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-datasheet.pdf) and [manufacturer user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-user-guide.pdf) are included in the documentation repository. For more troubleshooting tips on the printer, consult the [HP Printer FAQs](../miscellaneous/hp-printer-faqs.md "mention") section.
 
 #### Paper Specifications <a href="#paper-specifications" id="paper-specifications"></a>
 

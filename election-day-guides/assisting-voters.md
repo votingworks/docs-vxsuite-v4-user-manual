@@ -118,19 +118,19 @@ VxScan also supports ballot casting over an audio-tactile interface via an acces
 Accessibility devices must be connected to VxScan before scanning a ballot, for a voter using the audio-tactile interface.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/photo-vxscan-pat-and-headphones-attached.jpg" alt="VxScan front panel with a two-switch PAT device and headphones plugged into the accessibility ports" width="563"><figcaption><p>PAT device and headphones plugged into the front left ports</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo-vxscan-pat-and-headphones-attached.jpg" alt="VxScan front panel with a two-switch PAT device and headphones plugged into the accessibility ports" width="375"><figcaption><p>PAT device and headphones plugged into the front left ports</p></figcaption></figure>
 
 {% include "../.gitbook/includes/sanitizing-headphones-instructions.md" %}
 
-Voters can navigate with the PAT device. When first plugging in the PAT device, a 3-step tutorial first shows up to test the device, as shown in the following screens:
+Voters can navigate with the PAT device. When first plugging in the PAT device, a 3-step tutorial first shows up to test the device, as shown in the following screens. The tutorial asks the voter to activate a PAT input, then to identify the "Move" input, then to identify the "Select" input.
 
-<figure><img src="../.gitbook/assets/vxscan-pat-intro.png" alt="VxScan PAT identification step 1 of 3 Test Your Device, asking to activate either input" width="375"><figcaption><p>Step 1: Activate a PAT input.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-pat-intro.png" alt="VxScan PAT identification step 1 of 3 Test Your Device, asking to activate either input" width="375"><figcaption></figcaption></figure>
 
-<div><figure><img src="../.gitbook/assets/vxscan-pat-identify-move.png" alt="VxScan PAT identification step 2 of 3 asking the voter to activate the Move input" width="375"><figcaption><p>Step 2: Identify the "Move" input.</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pat-move-identified.png" alt="VxScan PAT identification step 2 of 3 confirming the Move input was identified" width="375"><figcaption><p>Input identified</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxscan-pat-identify-move.png" alt="VxScan PAT identification step 2 of 3 asking the voter to activate the Move input" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pat-move-identified.png" alt="VxScan PAT identification step 2 of 3 confirming the Move input was identified" width="375"><figcaption></figcaption></figure></div>
 
-<div><figure><img src="../.gitbook/assets/vxscan-pat-identify-select.png" alt="VxScan PAT device tutorial step 3, identify the Select input" width="375"><figcaption><p>Step 3: Identify the "Select" input.</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pat-select-identified.png" alt="VxScan PAT device tutorial, Select input identified" width="375"><figcaption><p>Input identified</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxscan-pat-identify-select.png" alt="VxScan PAT device tutorial step 3, identify the Select input" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pat-select-identified.png" alt="VxScan PAT device tutorial, Select input identified" width="375"><figcaption></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/vxscan-pat-device-identified.png" alt="VxScan PAT device identification complete screen with Continue and Back buttons" width="375"><figcaption><p>PAT setup complete</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-pat-device-identified.png" alt="VxScan PAT device identification complete screen with Continue and Back buttons" width="375"><figcaption></figcaption></figure>
 
 Voters can adjust the volume using the volume control interface in the `Settings` menu. Audio settings can be modified by selecting the `Settings` button in the top header and finding options under the `Audio` tab, as shown in the screen below.
 

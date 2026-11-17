@@ -11,7 +11,7 @@ Never try to perform complex repairs on VxMarkScan. Only VotingWorks should perf
 
 ### Scanner Cleaning
 
-Clean the scanner for every election, before pre-election testing and again after pre-election testing. For instructions, see the [#cleaning-vxmarkscan](../vxmarkscan/vxmarkscan-hardware-setup.md#cleaning-vxmarkscan "mention") section in the user manual. VotingWorks recommends using Ricoh Cleaner F1 (PN: PA03950-0352) with cleaning wipes (PN: CG90000-120001) or equivalent. You can also use other scanner-specific cleaning fluids or greater than 70% isopropyl alcohol for the cleaning fluid, and a microfiber or lint-free cloth for the wipe.
+Clean the scanner for every election, before pre-election testing and again after pre-election testing. For instructions, see [Cleaning VxMarkScan](../vxmarkscan/vxmarkscan-hardware-setup.md#cleaning-vxmarkscan) in the user manual. VotingWorks recommends using Ricoh Cleaner F1 (PN: PA03950-0352) with cleaning wipes (PN: CG90000-120001) or equivalent. You can also use other scanner-specific cleaning fluids or greater than 70% isopropyl alcohol for the cleaning fluid, and a microfiber or lint-free cloth for the wipe.
 
 ### Other Maintenance Tasks
 

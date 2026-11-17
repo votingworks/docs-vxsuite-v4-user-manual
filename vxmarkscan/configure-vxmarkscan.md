@@ -4,18 +4,18 @@
 These steps must be completed by an election manager.
 {% endhint %}
 
-Before you configure VxMarkScan, you must set up the machine. Follow [VxMarkScan Hardware Setup](vxmarkscan-hardware-setup.md) steps.
+Before you configure VxMarkScan, you must set up the machine. Follow the steps in [VxMarkScan Hardware Setup](vxmarkscan-hardware-setup.md "mention").
 
 To configure VxMarkScan, you must do two things in VxAdmin:
 
-* [ ] Save the election package to a USB drive (see [save-election-package.md](../vxadmin-system-setup/save-election-package.md "mention"))
-* [ ] Create an election manager card (see [programming-cards.md](../vxadmin-system-setup/programming-cards.md "mention"))
+* [ ] Save the election package to a USB drive (see [Save Election Package](../vxadmin-system-setup/save-election-package.md "mention"))
+* [ ] Create an election manager card (see [Smart Cards and User Roles](../vxadmin-system-setup/programming-cards.md "mention"))
 
 ## Insert Smart Cards and USB Drives
 
 The smart card reader is beneath the accessible controller. The USB port is accessible at the ballot box attachment point. The ballot box must be removed to insert a USB drive. Seal and document the ballot box as required.
 
-<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-smart-card-reader.jpg" alt="Smart card reader slot (yellow) in the recess beside the headphones on VxMarkScan." width="375"><figcaption><p>Smart card reader under accessible controller</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-usb-port.jpg" alt="Arrow pointing to the USB port under the VxMarkScan unit, next to a blue port lock." width="563"><figcaption><p>USB port hidden by the ballot box</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-smart-card-reader.jpg" alt="Smart card reader slot (yellow) in the recess beside the headphones on VxMarkScan." width="375"><figcaption><p>Smart card reader under accessible controller</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-usb-port.jpg" alt="Arrow pointing to the USB port under the VxMarkScan unit, next to a blue port lock." width="375"><figcaption><p>USB port hidden by the ballot box</p></figcaption></figure></div>
 
 ## Load the Election Package
 
@@ -35,9 +35,9 @@ If your election package defines only one polling place, there is no need to sel
 
 ## Set the Ballot Mode
 
-Use the toggle button to switch between `Test Ballot Mode` and `Official Ballot Mode`. The machine must be in official ballot mode on election day. Review the [l-and-a-overview.md](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md "mention") instructions to understand which mode to use during logic and accuracy testing.
+Use the toggle button to switch between `Test Ballot Mode` and `Official Ballot Mode`. The machine must be in official ballot mode on election day. Review the [L&A Overview](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md "mention") instructions to understand which mode to use during logic and accuracy testing.
 
-<div><figure><img src="../.gitbook/assets/vxmarkscan-em-menu-official-ballot-mode-highlighted.png" alt="Election Manager Menu with the Official Ballot Mode button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-em-menu-test-ballot-mode-highlighted.png" alt="VxMarkScan election manager menu with the Test Ballot Mode button highlighted" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-em-menu-official-ballot-mode-highlighted.png" alt="Election Manager Menu with the Official Ballot Mode button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-em-menu-test-ballot-mode-highlighted.png" alt="VxMarkScan election manager menu with the Test Ballot Mode button highlighted" width="188"><figcaption></figcaption></figure></div>
 
 ## Remove Configuration and Election Data
 
@@ -47,6 +47,6 @@ To remove election configuration (and all data) from VxMarkScan:
 * [ ] Select `Unconfigure Machine`
 * [ ] Confirm by selecting `Delete All Election Data`
 
-<div><figure><img src="../.gitbook/assets/vxmarkscan-em-menu-unconfigure-highlighted.png" alt="VxMarkScan election manager menu with the Unconfigure Machine button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-em-unconfigure-modal.png" alt="VxMarkScan election manager menu with the Unconfigure Machine confirmation dialog and Delete All Election Data button." width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-em-menu-unconfigure-highlighted.png" alt="VxMarkScan election manager menu with the Unconfigure Machine button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-em-unconfigure-modal.png" alt="VxMarkScan election manager menu with the Unconfigure Machine confirmation dialog and Delete All Election Data button." width="188"><figcaption></figcaption></figure></div>
 
 You can now re-configure VxMarkScan with a different election package.

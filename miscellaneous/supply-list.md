@@ -27,7 +27,7 @@ VotingWorks recommends using a new USB drive for each election and each voting d
 
 ## Backup Drives
 
-VxAdmin saves election backups to a dedicated backup drive rather than a general-purpose USB drive; see [backup-and-restore.md](../vxadmin-system-setup/backup-and-restore.md "mention"). VotingWorks recommends the Western Digital 8 TB Elements Desktop external hard drive (WDBWLG0080HBK), but any drive meeting the specifications below can be used. A backup drive must be prepared by VotingWorks before it can be used, whether it is purchased from VotingWorks or elsewhere.
+VxAdmin saves election backups to a dedicated backup drive rather than a general-purpose USB drive; see [Backup and Restore](../vxadmin-system-setup/backup-and-restore.md "mention"). VotingWorks recommends the Western Digital 8 TB Elements Desktop external hard drive (WDBWLG0080HBK), but any drive meeting the specifications below can be used. A backup drive must be prepared by VotingWorks before it can be used, whether it is purchased from VotingWorks or elsewhere.
 
 | Attribute   | Requirement              |
 | ----------- | ------------------------ |
@@ -96,4 +96,4 @@ VotingWorks recommends cleaning the scanner for each election. VotingWorks also 
 
 ## Additional Information
 
-For part numbers not listed above or details on long-term maintenance, consult the System Maintenance section, in particular the [approved-parts-list.md](../system-maintenance/approved-parts-list.md "mention").
+For part numbers not listed above or details on long-term maintenance, consult the System Maintenance section, in particular the [Approved Parts List](../system-maintenance/approved-parts-list.md "mention").
