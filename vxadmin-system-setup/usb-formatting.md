@@ -4,11 +4,11 @@
 The following steps must be completed by a system administrator.
 {% endhint %}
 
-Before using a USB drive, whether it's brand new or has been used in a previous election, it should be formatted.
+A USB drive with a single FAT32 or exFAT partition works without reformatting. If VxSuite reports that a drive can't be used, format it from VxAdmin.
 
-VxAdmin formats USB drives with the exFAT filesystem, which can be read on Windows and macOS and has no limit on the size of individual files. A USB drive that is already formatted as FAT32 or exFAT can be used without reformatting; a drive in any other format will not be recognized until it is formatted at VxAdmin.
+VxAdmin formats USB drives with the exFAT filesystem, which can be read on Windows and macOS and has no limit on the size of individual files. A drive in any other format is not recognized until it is formatted.
 
-In VxAdmin, select `Settings` from the side menu and select `Format USB Drive.`
+In VxAdmin, select `Settings` from the side menu and select `Format USB Drive`.
 
 <figure><img src="../.gitbook/assets/vxadmin-format-usb-drive-button.png" alt="VxAdmin Settings screen with the Format USB Drive button highlighted." width="375"><figcaption></figcaption></figure>
 
