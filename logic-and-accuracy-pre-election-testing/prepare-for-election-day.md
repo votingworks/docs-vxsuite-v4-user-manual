@@ -24,7 +24,7 @@ A USB drive is required to use VxScan on election day. After testing, you may re
 
 ### Toggle All Devices to Official Ballot Mode
 
-If you used test ballot mode to conduct your L&A be sure to put all other devices into official ballot mode. Toggle the ballot mode on the election manager menu for VxMark or VxMarkScan or on the `Settings` page for VxCentralScan or VxPrint.
+If you used test ballot mode to conduct your L&A be sure to put all devices into official ballot mode. Toggle the ballot mode on the election manager menu for VxScan, VxMark, or VxMarkScan or on the `Settings` page for VxCentralScan or VxPrint.
 
 <div><figure><img src="../.gitbook/assets/vxmark-em-menu-official-ballot-mode-highlighted.png" alt="Election Manager Menu with the Official Ballot Mode button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxcentralscan-em-settings-official-ballot-mode-button.png" alt="VxCentralScan Settings screen in test ballot mode with the Official Ballot Mode button highlighted." width="375"><figcaption></figcaption></figure></div>
 
