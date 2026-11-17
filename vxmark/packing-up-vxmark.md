@@ -6,7 +6,7 @@ Pack up VxMark after the polls are closed through the following steps:
    * [ ] Insert the poll worker card
    * [ ] Select `Power Down` to turn VxMark off
 
-   <figure><img src="../.gitbook/assets/vxmark-pw-menu-polls-closed.png" alt="Poll Worker Menu with polls closed showing Open Polls and Power Down buttons" width="188"><figcaption></figcaption></figure>
+   <figure><img src="../.gitbook/assets/vxmark-pw-menu-polls-closed-final.png" alt="Poll Worker Menu after polls are closed, showing Signed Hash Validation and Power Down" width="188"><figcaption></figcaption></figure>
 
    * [ ] Unplug the VxMark power cable from the Goldenmate 1500VA/1000W uninterruptible power supply (UPS)
    * [ ] Unplug the UPS from the power outlet

@@ -31,7 +31,7 @@ The polls opened report starts printing.
 
 The polls are now open. The number of ballots scanned should be zero.
 
-<figure><img src="../.gitbook/assets/vxscan-insert-ballot-election-info.png" alt="VxScan Insert Your Ballot screen with the election name and precinct in the footer highlighted" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-insert-ballot.png" alt="VxScan Insert Your Ballot screen with the election name, date, and polling place in the footer" width="375"><figcaption></figcaption></figure>
 
 Below is an example of the polls opened report. All totals should be zero.
 

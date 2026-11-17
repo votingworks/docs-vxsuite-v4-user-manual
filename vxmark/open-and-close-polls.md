@@ -22,7 +22,7 @@ To open the polls:
 * [ ] Verify the number of ballots printed is zero
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/vxmark-pw-menu-polls-closed.png" alt="Poll Worker Menu with polls closed showing Open Polls and Power Down buttons" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pw-open-polls-modal.png" alt="Open Polls confirmation dialog with the Open Polls button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pw-menu-polls-open.png" alt="Poll Worker Menu with polls open showing Close Polls and Pause Voting buttons" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmark-pw-menu-open-polls-highlighted.png" alt="Poll Worker Menu with polls closed and the Open Polls button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pw-open-polls-modal.png" alt="Open Polls confirmation dialog with the Open Polls button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pw-menu-polls-open.png" alt="Poll Worker Menu with polls open showing Close Polls and Pause Voting buttons" width="188"><figcaption></figcaption></figure></div>
 
 The polls are now open and voting can begin.
 
@@ -33,7 +33,7 @@ The polls are now open and voting can begin.
 * [ ] Confirm by selecting `Close Polls` again
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/vxmark-pw-menu-polls-open-close-polls-highlighted.png" alt="VxMark poll worker menu with polls open and the Close Polls button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pw-close-polls-modal.png" alt="VxMark poll worker menu with the Close Polls confirmation dialog and the Close Polls button highlighted." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pw-menu-polls-closed.png" alt="Poll Worker Menu with polls closed showing Open Polls and Power Down buttons" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmark-pw-menu-polls-open-close-polls-highlighted.png" alt="VxMark poll worker menu with polls open and the Close Polls button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pw-close-polls-modal.png" alt="VxMark poll worker menu with the Close Polls confirmation dialog and the Close Polls button highlighted." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pw-menu-polls-closed-final.png" alt="Poll Worker Menu after polls are closed, showing only Signed Hash Validation and Power Down" width="188"><figcaption></figcaption></figure></div>
 
 The polls are now closed and voting is complete.
 

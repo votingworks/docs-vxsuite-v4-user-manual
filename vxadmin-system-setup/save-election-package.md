@@ -14,6 +14,8 @@ To configure VxScan, VxCentralScan, VxMark, VxMarkScan, or VxPrint, you must fir
 
 VxAdmin saves the election package to the USB drive.
 
+<figure><img src="../.gitbook/assets/vxadmin-sa-election-package-saved.png" alt="VxAdmin Election Package Saved dialog with Close and Eject USB buttons" width="375"><figcaption></figcaption></figure>
+
 * [ ] Select `Eject USB`
 
 VxAdmin confirms once it is safe to remove the USB drive.

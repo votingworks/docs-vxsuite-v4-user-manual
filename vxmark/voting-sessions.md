@@ -46,7 +46,7 @@ To enter a write-in candidate:
 
 After working through all contests, a "Review Your Votes" screen appears that allows the voter to change any vote by selecting `Change`. Once selections have been reviewed, select `Print My Ballot`. After the ballot prints, the voter should retrieve and review the printed ballot.
 
-<div><figure><img src="../.gitbook/assets/vxmark-voting-review.png" alt="Review Your Votes screen listing selections with Change buttons and Print My Ballot" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-printing.png" alt="Printing Your Ballot screen" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-almost-done.png" alt="You're Almost Done screen listing verify and scan your ballot steps with a Done button" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmark-voting-review.png" alt="Review Your Votes screen listing selections with Change buttons and Print My Ballot" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-almost-done.png" alt="You're Almost Done screen listing verify and scan your ballot steps with a Done button" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 If the voter wants to make changes to their ballot after it has printed, they must complete a new voting session. The previous ballot must be spoiled.

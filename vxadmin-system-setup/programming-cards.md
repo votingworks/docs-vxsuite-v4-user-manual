@@ -90,3 +90,5 @@ If you insert an already programmed card, you are presented with options to modi
 `Unprogram Card` removes the election configuration from the card, after which it can be programmed for a new election. System administrator cards cannot be unprogrammed.
 
 `Reset Card PIN` resets the card PIN. The old PIN is no longer valid. Note the new PIN and keep it secure. The PIN can only be reset on cards that match the current election.
+
+<div><figure><img src="../.gitbook/assets/vxadmin-smart-cards-sa-pin-reset-confirm.png" alt="VxAdmin Reset System Administrator Card PIN dialog warning that the old PIN will no longer work, with Cancel and Reset System Administrator Card PIN" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-smart-cards-sa-pin-reset.png" alt="VxAdmin Smart Cards screen after a PIN reset, showing the new PIN to record" width="375"><figcaption></figcaption></figure></div>

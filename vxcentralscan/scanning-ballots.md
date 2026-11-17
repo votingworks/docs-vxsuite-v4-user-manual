@@ -12,7 +12,7 @@ Before scanning the first batch of ballots:
 * [ ] If the test ballot mode banner is present, go to `Settings` to switch to official ballot mode
 * [ ] If the counts are not zero, you may go to `Batch History` and select `Delete All Batches`
 
-<figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-empty-batch-stats-highlight.png" alt="Scan Ballots screen ready to scan with the Total Batches and Total Sheets counters highlighted" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-empty.png" alt="Scan Ballots screen in official ballot mode with zeroes for Total Batches and Total Sheets" width="375"><figcaption></figcaption></figure>
 
 * [ ] Load a stack of ballots into the feeder tray of the scanner
 
@@ -28,7 +28,7 @@ The ballots need to be in a neat stack, unfolded and lying flat, but ballots can
 
 The "Sheets" count goes up as the scanner processes each ballot.
 
-<div><figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-empty-start-scanning-button.png" alt="Scan Ballots screen ready to scan with the Start Scanning button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-scanning.png" alt="Scan Ballots screen actively scanning a batch with a Pause Scanning button" width="375"><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-scanning.png" alt="Scan Ballots screen actively scanning a batch with a Pause Scanning button" width="375"><figcaption></figcaption></figure>
 
 Once the input tray is empty, you have the option to save the batch, discard the batch, or continue scanning:
 
@@ -82,6 +82,8 @@ VxCentralScan shows an "Unreadable" ballot screen if it's unable to interpret th
 
 The ballot also might be rejected because it doesn't match how the scanner is configured. For example, the ballot may be from the wrong election, may be in the wrong mode (test vs. official), or may be from a precinct that VxCentralScan is not configured to accept.
 
+<div><figure><img src="../.gitbook/assets/vxcentralscan-adjudication-wrong-election.png" alt="Ballot Not Counted screen for a ballot from the wrong election with Confirm Ballot Removed" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxcentralscan-adjudication-wrong-precinct.png" alt="Ballot Not Counted screen for a ballot from a precinct outside the selected polling place with Confirm Ballot Removed" width="375"><figcaption></figcaption></figure></div>
+
 ## Imprinting
 
 Imprinters are an optional add-on for VxCentralScan's commercial off-the-shelf (COTS) scanners - see [VxCentralScan Hardware Setup > Imprinting](vxcentralscan-hardware-setup.md#imprinting) for additional details. If an imprinter is installed, an audit ID is printed on the edge of each ballot sheet. The audit ID is a shortened version of the batch ID plus the number of the ballot within the batch.
@@ -103,9 +105,6 @@ If a batch was scanned incorrectly or accidentally, an election manager may use 
 To export CVRs for loading into VxAdmin for further adjudication and reporting:
 
 * [ ] Select the `Save CVRs` button in the top right
-
-<figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-save-cvrs-button.png" alt="VxCentralScan Batch History screen with the Save CVRs button highlighted." width="375"><figcaption></figcaption></figure>
-
 * [ ] When prompted, insert a USB drive
 * [ ] Once the USB drive is recognized, select `Save`
 * [ ] Select `Eject USB`

@@ -20,3 +20,5 @@ To remove the election configuration and all election data from VxMark:
 
 * [ ] Select `Unconfigure Machine` from the election manager or system administrator menu
 * [ ] Confirm by selecting `Delete All Election Data`
+
+<div><figure><img src="../.gitbook/assets/vxmark-em-menu-unconfigure-highlighted.png" alt="Election Manager Menu with the Unconfigure Machine button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-em-unconfigure-modal.png" alt="VxMark election manager menu with the Unconfigure Machine confirmation dialog and Delete All Election Data button." width="188"><figcaption></figcaption></figure></div>

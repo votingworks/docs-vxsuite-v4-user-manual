@@ -6,7 +6,7 @@ Poll workers open the polls on VxMarkScan before voting begins and close them wh
 
 After VxMarkScan is turned on, the screen shows "Polls Closed":
 
-<figure><img src="../.gitbook/assets/vxmarkscan-unauthenticated-polls-closed-final.png" alt="VxMarkScan Polls Closed screen with election name and precinct in the footer" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxmarkscan-unauthenticated-polls-closed.png" alt="VxMarkScan Polls Closed screen asking to insert a poll worker card to open, with election name and precinct in the footer" width="188"><figcaption></figcaption></figure>
 
 Verify the election name, election date, and polling place are correct in the bottom left corner.
 
@@ -22,7 +22,7 @@ To open the polls:
 * [ ] Verify the number of ballots printed is zero
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-smart-card-reader.jpg" alt="Smart card reader slot (yellow) in the recess beside the headphones on VxMarkScan." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-open-polls-highlighted.png" alt="VxMarkScan poll worker menu with polls closed and the Open Polls button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-open-polls-modal.png" alt="VxMarkScan Open Polls confirmation dialog with the Open Polls button highlighted" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-smart-card-reader.jpg" alt="Smart card reader slot (yellow) in the recess beside the headphones on VxMarkScan." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-open-polls-highlighted.png" alt="VxMarkScan poll worker menu with polls closed and the Open Polls button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-open-polls-modal.png" alt="VxMarkScan Open Polls confirmation dialog with the Open Polls button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-polls-open.png" alt="VxMarkScan poll worker menu with polls open and zero ballots printed" width="188"><figcaption></figcaption></figure></div>
 
 The polls are now open and voting can begin.
 
@@ -35,7 +35,7 @@ The polls are now open and voting can begin.
 * [ ] Confirm by selecting `Close Polls` again
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-polls-open-close-polls-highlighted.png" alt="VxMarkScan poll worker menu with polls open and the Close Polls button highlighted." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-close-polls-modal.png" alt="VxMarkScan Close Polls confirmation dialog with the Close Polls button highlighted." width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-ballot-bin-seal.png" alt="Seal loop on the right side of the VxMarkScan ballot bin" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-polls-open-close-polls-highlighted.png" alt="VxMarkScan poll worker menu with polls open and the Close Polls button highlighted." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-close-polls-modal.png" alt="VxMarkScan Close Polls confirmation dialog with the Close Polls button highlighted." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-polls-closed-final.png" alt="VxMarkScan poll worker menu after polls are closed, showing only Signed Hash Validation" width="188"><figcaption></figcaption></figure></div>
 
 The polls are now closed and voting is complete.
 
@@ -48,7 +48,7 @@ The `Pause Voting` action is generally used by jurisdictions conducting early vo
 * [ ] Confirm by selecting `Pause Voting` again
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-pause-voting-highlighted.png" alt="VxMarkScan poll worker menu with polls open and the Pause Voting button highlighted." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-pause-voting-modal.png" alt="VxMarkScan Pause Voting confirmation dialog with the Pause Voting button highlighted." width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-pause-voting-highlighted.png" alt="VxMarkScan poll worker menu with polls open and the Pause Voting button highlighted." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-pause-voting-modal.png" alt="VxMarkScan Pause Voting confirmation dialog with the Pause Voting button highlighted." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-polls-paused.png" alt="VxMarkScan poll worker menu with voting paused showing Resume Voting and Close Polls buttons" width="188"><figcaption></figcaption></figure></div>
 
 Voting is now paused. When you want to resume voting:
 

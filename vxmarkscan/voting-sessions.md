@@ -13,7 +13,7 @@ To start a new voting session on VxMarkScan:
 * [ ] Insert a poll worker card into the card reader beneath the accessible controller
 * [ ] Select the voter's ballot style
 
-<div><figure><img src="../.gitbook/assets/vxmarkscan-unauthenticated-polls-opened.png" alt="VxMarkScan Insert Card screen shown while polls are open and no card is inserted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-polls-open.png" alt="VxMarkScan poll worker menu with polls open, showing Start a New Voting Session and Insert Printed Ballot" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-start-voting-session-button.png" alt="VxMarkScan poll worker menu with the ballot style button under Start a New Voting Session highlighted" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-unauthenticated-polls-opened.png" alt="VxMarkScan Insert Card screen shown while polls are open and no card is inserted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-start-voting-session-button.png" alt="VxMarkScan poll worker menu with the ballot style button under Start a New Voting Session highlighted" width="188"><figcaption></figcaption></figure></div>
 
 * [ ] When prompted, feed one sheet of paper into the front input tray
 
@@ -22,7 +22,7 @@ Once the sheet is loaded, the screen shows that the voting session is active.
 * [ ] Review the precinct and ballot style to ensure it was selected correctly for the voter
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/vxmarkscan-pw-load-ballot-sheet.png" alt="VxMarkScan Load Ballot Sheet prompt asking to feed one sheet into the front input tray" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-loading-sheet.png" alt="VxMarkScan Loading Sheet screen with a spinner while the ballot sheet is pulled in" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-remove-card-to-vote.png" alt="VxMarkScan Remove Card to Begin Voting Session screen showing the selected ballot style" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-pw-load-ballot-sheet.png" alt="VxMarkScan Load Ballot Sheet prompt asking to feed one sheet into the front input tray" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-remove-card-to-vote.png" alt="VxMarkScan Remove Card to Begin Voting Session screen showing the selected ballot style" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 If the wrong ballot style or precinct was selected, insert the poll worker card (if not already inserted) and select `Cancel Voting Session` to return to the poll worker menu.
@@ -60,7 +60,7 @@ The "Ballots Printed" count in VxMarkScan intentionally increments up by one for
 
 The final "Review Your Votes" screen is displayed to compare the official ballot selections with the screen. Select `Cast My Ballot` to cast the ballot.
 
-<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-review.png" alt="Review Your Votes screen listing selections with Change buttons and Print My Ballot" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-printing.png" alt="VxMarkScan Printing Your Ballot screen asking the voter not to remove the ballot" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-post-print-review.png" alt="Review Your Votes screen after scanning the printed ballot, with My Ballot is Incorrect and Cast My Ballot buttons." width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-review.png" alt="Review Your Votes screen listing selections with Change buttons and Print My Ballot" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-post-print-review.png" alt="Review Your Votes screen after scanning the printed ballot, with My Ballot is Incorrect and Cast My Ballot buttons." width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 If the voter removes the ballot from the printer to review, VxMarkScan asks if they are still voting. They must reload their ballot to cast it. If the ballot is not reloaded, VxMarkScan clears the ballot after five minutes of inactivity.
@@ -68,7 +68,7 @@ If the voter removes the ballot from the printer to review, VxMarkScan asks if t
 
 The screen shows the ballot being cast and verifies it was cast and dropped into the ballot bin.
 
-<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-casting-ballot.png" alt="VxMarkScan Casting Ballot screen shown while the printed ballot is scanned and cast" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-ballot-cast.png" alt="VxMarkScan confirmation that the voter's ballot was cast" width="188"><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/vxmarkscan-voting-ballot-cast.png" alt="VxMarkScan confirmation that the voter's ballot was cast" width="188"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If headphones are used, VotingWorks recommends using earpad covers and replacing them after each use. See [Supply List](../miscellaneous/supply-list.md "mention") for more information.
