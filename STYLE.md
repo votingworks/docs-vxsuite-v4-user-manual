@@ -113,6 +113,38 @@ part of the technical data package.
 
 ## Figures
 
+### When to Add a Screenshot
+
+- The screen where the reader acts, the first time a procedure reaches it.
+- Every confirmation dialog for a destructive or irreversible action
+  (unconfigure, delete, format, remove CVRs, mark results official).
+- The result the reader checks: wherever the text says what "should" appear
+  (CVRs loaded, the polls opened report).
+- Anything the reader has to read or compare: voter-facing warnings, error
+  screens, reports.
+- A photo for a physical step whose location or part words can't make
+  obvious (ports, latches, seals, card slots); one photo can cover a group
+  of steps.
+
+Not for: a step on a screen already shown when the control is obvious, a
+loading or transient screen, a message the text already quotes, checklists
+(link to the full page instead), or reference pages other than error
+screens. Don't show the same image twice on a page.
+
+### Highlights
+
+- Highlight the control the step tells the reader to select when the screen
+  offers several choices (menus, settings screens) or the control is small
+  or out of the way. One highlight per screenshot.
+- No highlight on result screens or screens shown for reading. In a
+  confirmation dialog, highlight the confirm button only when it is one of
+  several buttons of similar weight.
+- Highlighted captures carry a `highlight` field in the screenshot catalog;
+  new ones end in `-highlighted`. To get one that doesn't exist, request it
+  in vxsuite-screenshots ("highlight `Unconfigure Machine`").
+
+### Markup
+
 - GitBook figure markup with alt text that says what the figure shows.
 - Width 375 for landscape screenshots and photos; 188 for portrait (VxMark
   and VxMarkScan) screenshots and small detail photos; 563 for wide diagrams.
