@@ -51,10 +51,7 @@ The polls opened report prints.
 
 ### Help a Voter Cast Their Ballot at VxScan
 
-* [ ] Instruct the voter to insert their ballot in any orientation
-* [ ] If the ballot scans successfully, let the voter know their vote has been cast
-* [ ] If the ballot does not scan successfully, help the voter understand the issues with their ballot specified on the screen
-* [ ] If the ballot does not scan successfully, explain the voter's options, which could include casting their ballot as marked, adding marks to their ballot, or receiving a new ballot
+Instruct the voter to insert their ballot in any orientation. If the ballot scans successfully, let the voter know their vote has been cast. If it doesn't, help the voter understand the issues shown on the screen and explain their options, which can include casting the ballot as marked, adding marks to the ballot, or receiving a new ballot.
 
 ## Close Polls
 
