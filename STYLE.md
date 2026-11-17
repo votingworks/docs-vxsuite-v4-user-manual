@@ -136,9 +136,8 @@ screens. Don't show the same image twice on a page.
 - Highlight the control the step tells the reader to select when the screen
   offers several choices (menus, settings screens) or the control is small
   or out of the way. One highlight per screenshot.
-- No highlight on result screens or screens shown for reading. In a
-  confirmation dialog, highlight the confirm button only when it is one of
-  several buttons of similar weight.
+- No highlight on result screens, screens shown for reading, or
+  confirmation dialogs and prompts.
 - Highlighted captures carry a `highlight` field in the screenshot catalog;
   new ones end in `-highlighted`. To get one that doesn't exist, request it
   in vxsuite-screenshots ("highlight `Unconfigure Machine`").

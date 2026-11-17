@@ -15,7 +15,7 @@ To open the polls:
 
 The polls opened report starts printing.
 
-<div><figure><img src="../.gitbook/assets/photo-vxscan-insert-poll-worker-card.png" alt="Hand inserting a Poll Worker smart card into the VxScan card reader slot" width="375"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-open-polls-button.png" alt="VxScan poll worker prompt Do you want to open the polls with the Open Polls button highlighted" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxscan-insert-poll-worker-card.png" alt="Hand inserting a Poll Worker smart card into the VxScan card reader slot" width="375"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-open-polls-prompt.png" alt="VxScan poll worker prompt asking Do you want to open the polls" width="375"><figcaption></figcaption></figure></div>
 
 * [ ] Gently tear the report against the tear bar
 * [ ] If you see the `Print Next Report` button, select it

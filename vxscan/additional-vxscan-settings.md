@@ -16,7 +16,7 @@ While in early voting mode, an "Early Voting" status is always displayed on the 
 
 The default action for poll workers in early voting mode is `Pause Voting` rather than `Close Polls`. Poll workers should select `Pause Voting` at the end of each voting day and select `Resume Voting` at the beginning of each voting day.
 
-<figure><img src="../.gitbook/assets/vxscan-pw-pause-voting-prompt-button.png" alt="VxScan poll worker pause voting prompt with the Pause Voting button highlighted" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-pw-pause-voting-prompt.png" alt="VxScan poll worker prompt asking Do you want to pause voting" width="375"><figcaption></figcaption></figure>
 
 ## Save CVRs
 
