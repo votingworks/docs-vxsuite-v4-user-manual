@@ -1,8 +1,10 @@
 # Open and Close Polls
 
+Poll workers open the polls on VxMark before voting begins and close them when voting is complete. They can also pause and resume voting in between.
+
 ## Open Polls on VxMark
 
-After VxMark is turned on, the screen will show "Polls Closed":
+After VxMark is turned on, the screen shows "Polls Closed":
 
 <figure><img src="../.gitbook/assets/vxmark-unauthenticated-polls-closed.png" alt="Polls Closed screen asking to insert a poll worker card to open" width="188"><figcaption></figcaption></figure>
 
@@ -12,7 +14,7 @@ Verify the election name, election date, and polling place are correct in the bo
 If there is an orange callout that says "Test Ballot Mode" on the screen, contact your election administrator immediately to prepare the machine for the election.
 {% endhint %}
 
-**In order to open the polls:**
+To open the polls:
 
 * [ ] Insert the poll worker card into the card reader in the back right
 * [ ] Select `Open Polls`
@@ -53,6 +55,6 @@ Voting is now paused. When you want to resume voting:
 * [ ] Confirm by selecting `Resume Voting` again
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/vxmark-pw-menu-resume-voting-highlighted.png" alt="VxMark poll worker menu with voting paused and the Resume Voting button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pw-resume-voting-modal.png" alt="Resume Voting confirmation dialog with the Resume Voting button highlighted" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmark-pw-menu-resume-voting-highlighted.png" alt="VxMark poll worker menu with voting paused and the Resume Voting button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-pw-resume-voting-modal.png" alt="Resume Voting confirmation dialog with the Resume Voting button highlighted" width="188"><figcaption></figcaption></figure></div>
 
 Voting can now continue.

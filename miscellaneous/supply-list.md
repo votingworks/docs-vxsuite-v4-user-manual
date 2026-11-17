@@ -8,26 +8,26 @@ Ballots must be printed according to [paper ballot specifications](https://app.g
 
 ### Marking Utensils
 
-The marking utensil for hand marked ballots should be a black or blue ink pen that dries quickly. Never use markers or highlighters.
+The marking utensil for hand-marked paper ballots should be a black or blue ink pen that dries quickly. Never use markers or highlighters.
 
 ## USB Drives
 
-VotingWorks recommends the 64GB SanDisk Ultra Flair USB 3.0 drive (SDCZ73-064G-G46) as a cost-effective general purpose USB drive, but any USB drive meeting the specifications below can be used.
+VotingWorks recommends the 64 GB SanDisk Ultra Flair USB 3.0 drive (SDCZ73-064G-G46) as a cost-effective general-purpose USB drive, but any USB drive meeting the specifications below can be used.
 
-| Attribute  | Requirement                              |
-| ---------- | ---------------------------------------- |
-| Protocol   | 3.0 minimum                              |
-| Capacity   | 64GB minimum                             |
-| Length     | 55mm maximum, measured from inserted tip |
-| Read Speed | 60 Mbps minimum                          |
+| Attribute  | Requirement                               |
+| ---------- | ----------------------------------------- |
+| Protocol   | 3.0 minimum                               |
+| Capacity   | 64 GB minimum                             |
+| Length     | 55 mm maximum, measured from inserted tip |
+| Read Speed | 60 Mbps minimum                           |
 
-A faster drive may be necessary when exporting large volumes of ballots from VxCentralScan, for which the 128GB SanDisk Extreme PRO USB 3.2 drive (SDCZ880-128G-G46) is recommended.
+A faster drive may be necessary when exporting large volumes of ballots from VxCentralScan, for which the 128 GB SanDisk Extreme PRO USB 3.2 drive (SDCZ880-128G-G46) is recommended.
 
-VotingWorks recommends using a new USB drive for each election and each voting device as well as separate USBs for L&A testing.
+VotingWorks recommends using a new USB drive for each election and each voting device as well as separate USB drives for logic and accuracy (L&A) testing.
 
 ## Backup Drives
 
-VxAdmin saves election backups to a dedicated backup drive rather than a general purpose USB drive; see [backup-and-restore.md](../vxadmin-system-setup/backup-and-restore.md "mention"). VotingWorks recommends the Western Digital 8TB Elements Desktop external hard drive (WDBWLG0080HBK), but any drive meeting the specifications below can be used. A backup drive must be prepared by VotingWorks before it can be used, whether it is purchased from VotingWorks or elsewhere.
+VxAdmin saves election backups to a dedicated backup drive rather than a general-purpose USB drive; see [Back Up and Restore](../vxadmin-system-setup/backup-and-restore.md "mention"). VotingWorks recommends the Western Digital 8 TB Elements Desktop external hard drive (WDBWLG0080HBK), but any drive meeting the specifications below can be used. A backup drive must be prepared by VotingWorks before it can be used, whether it is purchased from VotingWorks or elsewhere.
 
 | Attribute   | Requirement              |
 | ----------- | ------------------------ |
@@ -35,11 +35,11 @@ VxAdmin saves election backups to a dedicated backup drive rather than a general
 | Read Speed  | 100 MB/s minimum         |
 | Write Speed | 100 MB/s minimum         |
 
-No minimum capacity is specified. A backup drive holds one backup per election, and the size of each backup depends on the number of ballots cast, the ballot size and number of sheets per ballot, the tabulator used (VxScan or VxCentralScan), the configured ballot image bit depth, and other factors that determine CVR and ballot image sizes. As a point of reference, for a jurisdiction with a turnout of 250,000 voters per election, single-sheet ballots, and standard system settings, a 1TB drive should hold at least 10 elections. Jurisdictions can extrapolate from this figure or ask VotingWorks for a recommendation.
+No minimum capacity is specified. A backup drive holds one backup per election, and the size of each backup depends on the number of ballots cast, the ballot size and number of sheets per ballot, the tabulator used (VxScan or VxCentralScan), the configured ballot image bit depth, and other factors that determine cast vote record (CVR) and ballot image sizes. As a point of reference, for a jurisdiction with a turnout of 250,000 voters per election, single-sheet ballots, and standard system settings, a 1 TB drive should hold at least 10 elections. Jurisdictions can extrapolate from this figure or ask VotingWorks for a recommendation.
 
 ## Seals
 
-Cases should be secured with single use tamper evident numbered seals, such as heavy-duty pull-tight seals. You may use different seals as preferred by your jurisdiction and may choose to use different types of seals, or even locks, if you confirm they fit through the seal points and properly secure the seal point. Lock shackles must be less than 5mm (3/16") in size to fit in all seal points.
+Cases should be secured with single-use tamper-evident numbered seals, such as heavy-duty pull-tight seals. You may use different seals as preferred by your jurisdiction and may choose to use different types of seals, or even locks, if you confirm they fit through the seal points and properly secure the seal point. Lock shackles must be less than 5 mm (3/16") in size to fit in all seal points.
 
 ## Scanner Cleaning Supplies
 
@@ -96,4 +96,4 @@ VotingWorks recommends cleaning the scanner for each election. VotingWorks also 
 
 ## Additional Information
 
-For part numbers not listed above or details on long-term maintenance, consult the System Maintenance section, in particular the [approved-parts-list.md](../system-maintenance/approved-parts-list.md "mention").
+For part numbers not listed above or details on long-term maintenance, consult the System Maintenance section, in particular the [Approved Parts List](../system-maintenance/approved-parts-list.md "mention").
