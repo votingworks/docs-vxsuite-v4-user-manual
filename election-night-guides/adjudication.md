@@ -24,13 +24,7 @@ Selecting a contest brings you into the contest view. On the left side is an enl
 
 <figure><img src="../.gitbook/assets/vxadmin-qualified-write-in-adjudication-contest.png" alt="Contest view for Mayor with Write-In checked and a Click to adjudicate dropdown" width="375"><figcaption></figcaption></figure>
 
-To adjudicate a write-in:
-
-* [ ] Select the `Click to adjudicate` dropdown below the write-in option
-* [ ] Select an existing option, or type in the name and select `Press enter to add: [Name]`
-* [ ] If the write-in is not valid, select `Invalid`
-
-An invalid write-in is treated as an undervote. If your jurisdiction requires write-in candidates to be pre-qualified, you won't have the option to add new write-in candidates.
+To adjudicate a write-in, select the `Click to adjudicate` dropdown below the write-in option. Select an existing option, or type in the name and select `Press enter to add: [Name]`. If the write-in is not valid, select `Invalid`. An invalid write-in is treated as an undervote. If your jurisdiction requires write-in candidates to be pre-qualified, you won't have the option to add new write-in candidates.
 
 <div><figure><img src="../.gitbook/assets/vxadmin-adjudication-write-in-dropdown-open.png" alt="Write-in adjudication dropdown open showing Invalid and the contest's candidate options" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-adjudication-write-in-add-candidate.png" alt="Write-in dropdown with Bill Withers typed in and a Press enter to add candidate option" width="375"><figcaption></figcaption></figure></div>
 
@@ -48,17 +42,12 @@ The `Adjudication` screen shows your progress as you work through the ballots.
 
 ## Adjudicate Marginal Marks
 
-If your jurisdiction adjudicates marginal marks, the text "Review Marginal Mark" appears over any marginally marked contest option.
-
-* [ ] Select the contest option to adjudicate it as a valid mark, or select `Dismiss` to adjudicate it as a stray or invalid mark
+If your jurisdiction adjudicates marginal marks, the text "Review Marginal Mark" appears over any marginally marked contest option. Select the contest option to adjudicate it as a valid mark, or select `Dismiss` to adjudicate it as a stray or invalid mark.
 
 <div><figure><img src="../.gitbook/assets/vxadmin-adjudication-marginal-contest-view.png" alt="Contest view for Controller showing a Review marginal mark warning with a Dismiss option" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-adjudication-marginal-dismissed.png" alt="Contest view for Controller after the marginal mark was dismissed and marked adjudicated as invalid" width="375"><figcaption></figcaption></figure></div>
 
 ## Adjudicate Blank Ballots
 
-If your jurisdiction adjudicates blank ballots, no specific contests are flagged for adjudication. Instead, a "Blank Ballot Detected" banner appears with the option to flip to the back.
-
-* [ ] If the ballot is indeed blank, select `Accept`
-* [ ] If the ballot is not actually blank, adjudicate individual contests according to your jurisdiction's rules
+If your jurisdiction adjudicates blank ballots, no specific contests are flagged for adjudication. Instead, a "Blank Ballot Detected" banner appears with the option to flip to the back. If the ballot is indeed blank, select `Accept`. If the ballot is not actually blank, adjudicate individual contests according to your jurisdiction's rules.
 
 <figure><img src="../.gitbook/assets/vxadmin-adjudication-blank-ballot-view.png" alt="Adjudication ballot view with a Blank Ballot Detected warning, View Back and Accept buttons" width="375"><figcaption></figcaption></figure>

@@ -68,11 +68,7 @@ If the voter would like to change their ballot, they should select `Return Ballo
 
 ### Adjust Color and Size
 
-Simple changes to the screen's color and size can be very helpful for voters with low vision and other cognitive disabilities. The `Settings` button provides the voter with different options:
-
-* [ ] Select `Settings` in the upper left hand corner of the screen
-* [ ] Select `Color` to change the text and background color
-* [ ] Select `Text Size` to change the text size
+Simple changes to the screen's color and size can be very helpful for voters with low vision and other cognitive disabilities. Selecting `Settings` in the upper left hand corner of the screen gives the voter different options. Select `Color` to change the text and background color, or select `Text Size` to change the text size.
 
 <div><figure><img src="../.gitbook/assets/vxscan-settings-button.png" alt="VxScan Insert Your Ballot screen with the Settings button in the header highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-settings-color.png" alt="VxScan voter Settings screen on the Color tab with Dark text, light background selected" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-settings-text-size.png" alt="VxScan voter Settings screen on the Text Size tab with Medium selected" width="375"><figcaption></figcaption></figure></div>
 

@@ -8,8 +8,6 @@ The printer status indicates whether the printer is ready to print, in sleep mod
 
 The list of ballot styles loaded as part of the election definition is also listed. The ballot style information lists all information about the ballot such as contests, allowable number of candidates, tabulation method, associated precincts, and more. As part of pre-election preparation, election officials should review this list of configured ballot styles and compare to the associated PDFs for each style to confirm the election definition configuration is accurate.
 
-The readiness report can be used as a record of system diagnostic verification.
-
-* [ ] Select `Save Readiness Report` to save a copy to a USB drive
+The readiness report can be used as a record of system diagnostic verification. Select `Save Readiness Report` to save a copy to a USB drive.
 
 <figure><img src="../.gitbook/assets/vxadmin-readiness-report.png" alt="Printed VxAdmin Readiness Report showing configuration, battery, storage, printer and ballot style checks." width="375"><figcaption></figcaption></figure>

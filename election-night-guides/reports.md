@@ -11,9 +11,7 @@ To review results:
 
 A preview appears.
 
-* [ ] Select `Print Report` to print the report, `Export Report PDF` to save the election tally report to a USB drive as a .pdf file, or `Export Report CSV` to save the election tally report to a USB drive as a .csv file
-
-Files are saved to a `reports/` folder on the USB drive.
+Select `Print Report` to print the report, `Export Report PDF` to save the election tally report to a USB drive as a .pdf file, or `Export Report CSV` to save the election tally report to a USB drive as a .csv file. Files are saved to a `reports/` folder on the USB drive.
 
 <div><figure><img src="../.gitbook/assets/vxadmin-reports-full-election-tally-highlighted.png" alt="VxAdmin Election Reports screen with the Full Election Tally Report button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-full-election-tally-report-actions-highlighted.png" alt="VxAdmin Full Election Tally Report preview with the Print and Export action buttons highlighted" width="375"><figcaption></figcaption></figure></div>
 

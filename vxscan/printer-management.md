@@ -1,15 +1,10 @@
 # Printer Management
 
-To replace a paper roll or print a test page:
-
-* [ ] Select the `Printer` tab in the election manager menu
-* [ ] Select `Load Paper` or `Print Test Page`
+To replace a paper roll or print a test page, select the `Printer` tab in the election manager menu and select `Load Paper` or `Print Test Page`.
 
 <figure><img src="../.gitbook/assets/vxscan-em-printer-tab.png" alt="VxScan election manager Printer tab with Load Paper and Print Test Page buttons" width="375"><figcaption></figcaption></figure>
 
-If loading a new paper roll, the screen walks you through removing the paper roll holder and loading a new paper roll.
-
-* [ ] Select `Print Test Page` to confirm the paper was loaded properly
+If loading a new paper roll, the screen walks you through removing the paper roll holder and loading a new paper roll. Select `Print Test Page` to confirm the paper was loaded properly.
 
 <div><figure><img src="../.gitbook/assets/vxscan-em-printer-remove-roll-holder.png" alt="VxScan Remove Paper Roll Holder dialog with instructions for opening the access door" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-em-printer-load-new-roll.png" alt="VxScan election manager Load New Paper Roll dialog with loading instructions" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-em-printer-paper-detected.png" alt="VxScan election manager Paper Detected dialog offering to print a test page" width="375"><figcaption></figcaption></figure></div>
 

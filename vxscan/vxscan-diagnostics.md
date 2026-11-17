@@ -6,19 +6,13 @@ In preparation for an election or in response to issues, the diagnostics interfa
 
 The VxScan diagnostics screen shows information about how the machine is configured, how much storage is left on the device, and the current status of the scanner and printer. Prior to each election, walk through each test to verify each component is in working order. During normal operations, if one of the components fails, VxScan displays an error message on screen.
 
-* [ ] Select `Perform Test Scan`
-* [ ] When prompted, insert a blank sheet of paper
+Select `Perform Test Scan` and insert a blank sheet of paper when prompted. This test verifies the scanner is clean and ballot images are clear. If the test fails, you'll be prompted to clean the scanner. The test also fails if the sheet is not blank.
 
-This test verifies the scanner is clean and ballot images are clear. If the test fails, you'll be prompted to clean the scanner. The test also fails if the sheet is not blank.
+Select `Print Test Page` to check that the paper roll is installed properly. If the paper roll was installed backwards, nothing prints. When the test print completes, indicate whether the print was successful or not.
 
-* [ ] Select `Print Test Page`
-* [ ] When the test print completes, indicate whether the print was successful or not
+Select `Test Sound` to verify the speaker is working properly.
 
-The test page checks that the paper roll is installed properly. If the paper roll was installed backwards, nothing prints.
-
-* [ ] Select `Test Sound` to verify the speaker is working properly
-
-* [ ] Select `Test Uninterruptible Power Supply` to confirm that the uninterruptible power supply (UPS) is connected and fully charged
+Select `Test Uninterruptible Power Supply` to confirm that the uninterruptible power supply (UPS) is connected and fully charged.
 
 The most recent test result for each piece of hardware is shown on the diagnostics screen and included in the readiness report.
 
@@ -26,8 +20,6 @@ The most recent test result for each piece of hardware is shown on the diagnosti
 
 ## Readiness Report
 
-The readiness report can be used as a record of system diagnostic verification.
-
-* [ ] Select `Save Readiness Report` to save a copy to a USB drive
+The readiness report can be used as a record of system diagnostic verification. Select `Save Readiness Report` to save a copy to a USB drive.
 
 <figure><img src="../.gitbook/assets/vxscan-readiness-report.png" alt="VxScan readiness report listing configuration, storage, scanner, printer, speaker, and UPS status" width="375"><figcaption></figcaption></figure>

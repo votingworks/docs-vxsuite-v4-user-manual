@@ -10,8 +10,6 @@ The printer status indicates whether the printer is ready to print, in sleep mod
 
 ## Readiness Report
 
-The readiness report can be used as a record of system diagnostic verification.
-
-* [ ] Select `Save Readiness Report` to save a copy to a USB drive
+The readiness report can be used as a record of system diagnostic verification. Select `Save Readiness Report` to save a copy to a USB drive.
 
 <figure><img src="../.gitbook/assets/vxprint-readiness-report.png" alt="VxPrint readiness report listing configuration, ballot styles, battery, storage, and printer status" width="375"><figcaption></figcaption></figure>

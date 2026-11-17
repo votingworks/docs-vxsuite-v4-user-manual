@@ -12,9 +12,7 @@ Your printer is not fully configured. Configure the printer by responding to the
 
 ## How Do I Fix Streaks, Lines, or Otherwise Poor Print Quality?
 
-Print a cleaning page:
-
-* [ ] On the printer LCD screen, select `Setup` > `Printer Maintenance` > `Print Quality Tools` > `Cleaning Page`
+Print a cleaning page. On the printer LCD screen, select `Setup` > `Printer Maintenance` > `Print Quality Tools` > `Cleaning Page`.
 
 Printing the cleaning page usually clears the printer's rollers of stray ink that is causing print issues.
 
@@ -22,9 +20,7 @@ Printing the cleaning page usually clears the printer's rollers of stray ink tha
 
 It's possible the paper you are using is not compatible with the printer. When toner doesn't print properly to a page, it can end up on the rollers where it causes streaks on later pages. Try printing another cleaning page or try a different type of compatible paper.
 
-You may also try adjusting the default paper type:
-
-* [ ] On the printer LCD screen, select `Setup` > `Tray Management` > `Default Paper Type` > `Mid-Weight 96-110g`
+You may also try adjusting the default paper type. On the printer LCD screen, select `Setup` > `Tray Management` > `Default Paper Type` > `Mid-Weight 96-110g`.
 
 Although printing is slower with this setting, it often fixes print quality issues.
 

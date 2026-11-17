@@ -61,8 +61,8 @@ When the scanner stops:
 * [ ] Remove the last ballot sheet scanned from the scanner output tray
 * [ ] Confirm it matches the ballot sheet displayed on screen
 * [ ] Follow your jurisdiction's review requirements
-* [ ] If the ballot needs to be reviewed by someone not operating the scanner or needs to be duplicated to be tabulated properly, select `Confirm Ballot Removed`
-* [ ] If the ballot should be tabulated as-is, meaning that overvoted contests and marginal marks are ignored but any other valid votes are counted, select `Tabulate Ballot`
+
+If the ballot needs to be reviewed by someone not operating the scanner or needs to be duplicated to be tabulated properly, select `Confirm Ballot Removed`. If the ballot should be tabulated as-is, meaning that overvoted contests and marginal marks are ignored but any other valid votes are counted, select `Tabulate Ballot`.
 
 <div><figure><img src="../.gitbook/assets/vxcentralscan-adjudication-overvote.png" alt="Ballot Not Counted screen for an overvote with the Mayor contest highlighted on the ballot" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxcentralscan-adjudication-blank-ballot.png" alt="Ballot Not Counted screen for a blank ballot with Confirm Ballot Removed and Tabulate Ballot" width="375"><figcaption></figcaption></figure></div>
 
