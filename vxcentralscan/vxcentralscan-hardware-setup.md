@@ -20,7 +20,7 @@ Three models of scanner are supported:
 
 Backup power for the scanner is provided by the APC uninterruptible power supply (UPS).
 
-## **VxCentralScan** Setup
+## Set Up VxCentralScan
 
 **VxCentralScan** can be set up through the following steps:
 
@@ -52,7 +52,7 @@ Backup power for the scanner is provided by the APC uninterruptible power supply
 
 ![Remove laptop](../.gitbook/assets/photo-vxcentralscan-laptop-in-case.jpg) ![Remove components](../.gitbook/assets/photo-vxcentralscan-peripherals-in-case.jpg) ![Plug components in](../.gitbook/assets/photo-vxcentralscan-setup.jpg)
 
-### Packing Up VxCentralScan
+## Pack Up VxCentralScan
 
 To pack up VxCentralScan, place all of the components back into the case as displayed above and package the batch document scanner. Secure the laptop case as required by sealing the eyelets highlighted below.
 

@@ -1,10 +1,12 @@
 # Tally Results
 
 {% hint style="info" %}
-The following steps must be completed by the election manager.
+These steps must be completed by an election manager.
 {% endhint %}
 
-Navigate to the tally screen by selecting `Tally` from the side menu. You see the list of polling places in your election. After loading all cast vote records (CVRs), there should typically be results loaded for every single polling place. You may use the progress bar under "Locations" and the summary statistics next to "Scanners" and "CVRs" to monitor your progress.
+To tally results, load the cast vote records (CVRs) from each VxScan or VxCentralScan USB drive into VxAdmin.
+
+Navigate to the tally screen by selecting `Tally` from the side menu. You see the list of polling places in your election. After loading all CVRs, there should typically be results loaded for every single polling place. You may use the progress bar under "Locations" and the summary statistics next to "Scanners" and "CVRs" to monitor your progress.
 
 Select `Load` to begin loading cast vote records. One at a time, insert each USB drive containing CVR exports from VxScan or VxCentralScan. The screen displays the list of all CVR exports on the USB drive. Often there is only one export. If there are multiple, identify the correct export(s) by polling place, timestamp, or CVR count. Click the CVR export(s) you want to load.
 

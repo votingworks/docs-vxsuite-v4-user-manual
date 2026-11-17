@@ -1,7 +1,7 @@
 # Configure VxMarkScan
 
 {% hint style="info" %}
-The following steps must be completed by an election manager.
+These steps must be completed by an election manager.
 {% endhint %}
 
 Before you configure VxMarkScan, you must set up the machine. Follow [VxMarkScan Hardware Setup](vxmarkscan-hardware-setup.md) steps.
@@ -11,13 +11,13 @@ To configure **VxMarkScan**, you must do two things in **VxAdmin**:
 1. [Save the election package](../vxadmin-system-setup/save-election-package.md "mention") to a USB drive.
 2. [Create an election manager card](../vxadmin-system-setup/programming-cards.md "mention").
 
-## Inserting Smart Cards & USB Drives
+## Insert Smart Cards and USB Drives
 
 The smart card reader is beneath the accessible controller. The USB port is accessible at the ballot box attachment point. The ballot box must be removed to insert a USB drive. Seal and document the ballot box as required.
 
 <div><figure><img src="../.gitbook/assets/photo-vxmarkscan-smart-card-reader.jpg" alt="Smart card reader slot (yellow) in the recess beside the headphones on VxMarkScan." width="375"><figcaption><p>Smart card reader under accessible controller</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-usb-port.jpg" alt="Arrow pointing to the USB port under the VxMarkScan unit, next to a blue port lock." width="563"><figcaption><p>USB port hidden by the ballot box</p></figcaption></figure></div>
 
-## Loading The Election Package
+## Load the Election Package
 
 An unconfigured machine prompts you to insert an election manager card to log in and then a USB drive with the election package saved from VxAdmin to configure.
 
@@ -33,13 +33,13 @@ Use the `Select a polling place...` dropdown to choose a polling place. Only bal
 If your election package defines only one polling place, there is no need to select one and the `Select a polling place...` dropdown isn't visible.
 {% endhint %}
 
-## Setting Ballot Mode
+## Set the Ballot Mode
 
 Use the toggle button to switch between `Test Ballot Mode` and `Official Ballot Mode`. The machine must be in official ballot mode on election day. Review the [l-and-a-overview.md](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md "mention") instructions to understand which mode to use during logic and accuracy testing.
 
 <div><figure><img src="../.gitbook/assets/vxmarkscan-em-menu-official-ballot-mode-highlighted.png" alt="Election Manager Menu with the Official Ballot Mode button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-em-menu-test-ballot-mode-highlighted.png" alt="VxMarkScan election manager menu with the Test Ballot Mode button highlighted" width="375"><figcaption></figcaption></figure></div>
 
-## Remove Election Data & Configuration
+## Remove Configuration and Election Data
 
 To remove election configuration (and all data) from VxMarkScan:
 

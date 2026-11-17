@@ -6,7 +6,7 @@ The system settings in the election package determine which ballots are flagged 
 
 The system settings may also be configured to count VxCentralScan ballots only after adjudication. If so, ballots scanned on VxCentralScan that need adjudication are not included in tally reports until they have been adjudicated. Ballot count reports still include these ballots and can be filtered by reporting status to show which ballots are counted and which are not yet counted.
 
-## Qualified Write-Ins
+## Add Qualified Write-In Candidates
 
 If only qualified (also known as "certified") write-ins are allowed in your jurisdiction, then you must input the names of those qualified write-in candidates prior to starting adjudication. Navigate to the `Adjudication` page in VxAdmin and select `Add Candidates`.
 
@@ -26,7 +26,7 @@ The added candidates are the only options for write-in adjudication. If no candi
 
 Multiple VxAdmins can be networked together to perform adjudication at multiple stations. Large jurisdictions with a high volume of ballots to adjudicate typically need multiple stations.
 
-### Network Setup
+### Set Up the Network
 
 The pieces of equipment needed for multi-station adjudication:
 
@@ -50,7 +50,7 @@ If there is a problem with your network, a status indicator appears on the host'
 
 <figure><img src="../.gitbook/assets/vxadmin-adjudication-multi-station-network-offline.png" alt="VxAdmin Adjudication screen showing a Network Offline warning in the Multi-Station Adjudication panel and header." width="375"><figcaption></figcaption></figure>
 
-### Adjudication
+### Run Multi-Station Adjudication
 
 The adjudication stations can only adjudicate if the host has turned on multi-station adjudication. To do so, log in as an election manager at the host VxAdmin and select `Enable Multi-Station`.
 

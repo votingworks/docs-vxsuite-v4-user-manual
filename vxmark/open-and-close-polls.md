@@ -1,5 +1,11 @@
 # Open and Close Polls
 
+{% hint style="info" %}
+These steps must be completed by a poll worker.
+{% endhint %}
+
+Poll workers open the polls on VxMark before voting begins and close them when voting is complete. They can also pause and resume voting in between.
+
 ## Open Polls on VxMark
 
 After VxMark is turned on, the screen shows "Polls Closed":
@@ -12,7 +18,7 @@ Verify the election name, election date, and polling place are correct in the bo
 If there is an orange callout that says "Test Ballot Mode" on the screen, contact your election administrator immediately to prepare the machine for the election.
 {% endhint %}
 
-**In order to open the polls:**
+To open the polls:
 
 * [ ] Insert the poll worker card into the card reader in the back right
 * [ ] Select `Open Polls`

@@ -1,7 +1,7 @@
 # Configure VxScan
 
 {% hint style="info" %}
-The following steps must be completed by an election manager.
+These steps must be completed by an election manager.
 {% endhint %}
 
 Before you configure VxScan, set up the machine with the [vxscan-setup.md](../election-day-guides/vxscan-setup.md "mention") guide.
@@ -11,7 +11,7 @@ To configure **VxScan**, you must do two things in **VxAdmin**:
 1. [Save the election package](../vxadmin-system-setup/save-election-package.md "mention") to a USB drive
 2. [Create an election manager card](../vxadmin-system-setup/programming-cards.md "mention")
 
-## Loading The Election Package
+## Load the Election Package
 
 An unconfigured machine prompts you to insert an election manager card to log in and then insert a USB drive with the election package saved from VxAdmin.
 
@@ -27,17 +27,17 @@ After you insert the USB drive, VxScan automatically begins loading all ballot s
 
 To finish configuring VxScan, you must select a polling place. Jurisdictions with only one polling place skip this step.
 
-## Setting Ballot Mode
+## Set the Ballot Mode
 
 Use the toggle button to switch between `Test Ballot Mode` and `Official Ballot Mode`. The machine must be in official ballot mode on election day. Review the [l-and-a-overview.md](../logic-and-accuracy-pre-election-testing/l-and-a-overview.md "mention") instructions to understand which mode to use during logic and accuracy (L&A) testing.
 
 <figure><img src="../.gitbook/assets/vxscan-em-official-ballot-mode-button.png" alt="VxScan election manager Configuration tab with the Official Ballot Mode button highlighted" width="563"><figcaption></figcaption></figure>
 
-## Removing Election Configuration
+## Remove the Election Configuration
 
 There are two ways to remove the election configuration and all scanned ballot data.
 
-**Removing Election Configuration - Election Manager**
+### Remove as an Election Manager
 
 * [ ] Insert an election manager card
 * [ ] Select `Unconfigure Machine`
@@ -47,7 +47,7 @@ There are two ways to remove the election configuration and all scanned ballot d
 
 You can now configure VxScan with a different election package.
 
-**Removing Election Configuration - System Administrator**
+### Remove as a System Administrator
 
 * [ ] Insert a system administrator card
 * [ ] Select `Unconfigure Machine`

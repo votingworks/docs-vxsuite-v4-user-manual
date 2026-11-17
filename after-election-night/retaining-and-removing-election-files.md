@@ -1,8 +1,12 @@
 # Retaining & Removing Election Files
 
-### Retaining Election Files
+{% hint style="info" %}
+These steps must be completed by an election manager, except removing election files from VxAdmin, which must be completed by a system administrator.
+{% endhint %}
 
 After certification of an election and before configuring a new election, save all election files and data and remove the previous election's election package.
+
+## Retain Election Files
 
 VotingWorks recommends retaining the following files after each election:
 
@@ -58,7 +62,7 @@ VxScan CVRs include the VxScan's CVRs and ballot images. The log file contains t
 **Log files** contain records of interactions with the machine (e.g., election officials and poll workers unlocking the machine, voters casting ballots, etc.) as well as internal system information (e.g., the status of paper running through the scanner, errors, etc.). [A detailed description for each event in the log can be found in GitHub](https://github.com/votingworks/vxsuite/blob/main/libs/logging/VotingWorksLoggingDocumentation.md).
 {% endhint %}
 
-### Removing Election Files
+## Remove Election Files
 
 In VxAdmin, log in with a system administrator card, select `Election` from the side menu and select `Unconfigure Machine`.
 

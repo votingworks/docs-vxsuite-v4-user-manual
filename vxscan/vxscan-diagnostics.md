@@ -1,5 +1,9 @@
 # VxScan Diagnostics
 
+{% hint style="info" %}
+These steps must be completed by a system administrator or an election manager.
+{% endhint %}
+
 The diagnostics interface is used to test hardware before or between elections and monitor the status of the machine. It is accessible from both the election manager and system administrator menus.
 
 <div><figure><img src="../.gitbook/assets/vxscan-em-diagnostics.png" alt="VxScan election manager menu with the Diagnostics button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-sa-diagnostics.png" alt="VxScan system administrator menu with the Diagnostics button highlighted" width="375"><figcaption></figcaption></figure></div>

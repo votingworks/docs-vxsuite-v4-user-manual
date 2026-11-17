@@ -1,6 +1,12 @@
 # Assisting Voters
 
-## Casting Ballots
+{% hint style="info" %}
+These steps must be completed by a poll worker.
+{% endhint %}
+
+Poll workers help voters cast their ballots on VxScan, respond to ballot review warnings, and use the accessibility settings.
+
+## Cast Ballots
 
 VxScan is ready to accept a new ballot whenever it displays "Insert Your Ballot":
 
@@ -64,7 +70,7 @@ If a voter has multiple issues on their ballot and a state requires review of al
 
 If the voter would like to change their ballot, they should select `Return Ballot` and VxScan returns the ballot to the voter. If the voter would like to count the ballot as is, they should select `Cast Ballot`.
 
-### Adjusting Color and Size
+### Adjust Color and Size
 
 Simple changes to the screen's color and size can be very helpful for voters with low vision and other cognitive disabilities. Selecting `Settings` in the upper left hand corner of the screen provides the voter with different options. Select `Color` to change the text and background color and select `Text Size` to change the text size.
 

@@ -1,7 +1,7 @@
 # USB Formatting
 
 {% hint style="info" %}
-The following steps must be completed by a system administrator.
+These steps must be completed by a system administrator.
 {% endhint %}
 
 A USB drive with a single FAT32 or exFAT partition works without reformatting. If VxSuite reports that a drive can't be used, format it from VxAdmin.

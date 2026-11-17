@@ -1,7 +1,7 @@
 # Configure VxCentralScan
 
 {% hint style="info" %}
-The following steps must be completed by an election manager.
+These steps must be completed by an election manager.
 {% endhint %}
 
 Before you configure VxCentralScan, you must set up the machine. Follow the steps in the [vxcentralscan-hardware-setup.md](vxcentralscan-hardware-setup.md "mention").
@@ -11,7 +11,7 @@ To configure **VxCentralScan**, you must do two things in **VxAdmin**:
 1. [save-election-package.md](../vxadmin-system-setup/save-election-package.md "mention") to a USB drive.
 2. [programming-cards.md](../vxadmin-system-setup/programming-cards.md "mention").
 
-## Load Election Package
+## Load the Election Package
 
 Once the election package is saved to a USB drive, you can load the file to VxCentralScan.
 
@@ -35,7 +35,7 @@ The `Scan Ballots` page should show zeroes for "Total Batches" and "Total Sheets
 
 <figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-empty-batch-stats-highlight.png" alt="Scan Ballots screen ready to scan with the Total Batches and Total Sheets counters highlighted" width="375"><figcaption></figcaption></figure>
 
-#### Polling Places
+### Polling Places
 
 There's usually no need to set the polling place on VxCentralScan. For most jurisdictions, it defaults to an absentee polling place like "Central Scanning" or "Absentee Voting" that covers all precincts in the jurisdiction. If VxCentralScan must be limited to certain precincts, select a different polling place from the dropdown. If ballots outside the selected polling place are scanned, VxCentralScan stops on those ballots and doesn't allow tabulating them. The polling place cannot be changed once ballots have been scanned.
 

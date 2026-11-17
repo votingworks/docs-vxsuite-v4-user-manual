@@ -1,8 +1,14 @@
 # Printing Ballots
 
-## Printing Ballots: The Basics
+{% hint style="info" %}
+These steps must be completed by a poll worker or an election manager.
+{% endhint %}
 
-For both poll workers and election managers, ballots are printed from the `Print` page. Select the attributes of the ballot you want to print and then select `Print Ballot`:
+Poll workers and election managers print ballots from the `Print` page, one ballot style at a time or, for election managers, several at once.
+
+## Print a Ballot
+
+Select the attributes of the ballot you want to print and then select `Print Ballot`:
 
 1. Select the precinct
 2. Select the precinct split (applicable only to precincts with splits)
@@ -16,7 +22,7 @@ The options vary depending on the jurisdiction, election, and configuration. If 
 
 <figure><img src="../.gitbook/assets/vxprint-pw-print-no-split-with-selections.png" alt="VxPrint poll worker Print screen limited to one precinct, with party and language selected" width="375"><figcaption></figcaption></figure>
 
-## Printing Ballots: Election Manager Options
+## Election Manager Printing Options
 
 Election managers have a few additional options for printing. Regardless of how VxPrint is configured, election managers are always able to print ballot styles for any precinct. They are also able to print absentee ballots and print multiple ballot copies at once:
 

@@ -6,14 +6,14 @@ description: >-
 
 # L&A Testing Checklist
 
-#### VxAdmin - Part 1
+## VxAdmin - Part 1
 
 * [ ] Set up VxAdmin
 * [ ] Log in with election manager card
 * [ ] Select `Tally` from the side menu and verify there are no cast vote records (CVRs)
 * [ ] Select `Reports` from the side menu, print a `Full Election Tally Report` as the Zero Report
 
-#### VxScan
+## VxScan
 
 * [ ] Set up VxScan
 * [ ] Log in with election manager card
@@ -47,7 +47,7 @@ description: >-
 * [ ] Clean the scanning unit
 * [ ] Close, seal, and document the VxScan case as required
 
-#### VxAdmin - Part 2
+## VxAdmin - Part 2
 
 * [ ] Log in with the election manager card
 * [ ] Select `Tally` from the side menu and load CVRs from the USB drive(s)

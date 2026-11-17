@@ -1,7 +1,7 @@
 # Backup and Restore
 
 {% hint style="info" %}
-A backup can be saved by a system administrator or an election manager. Restoring from a backup must be done by a system administrator.
+These steps must be completed by a system administrator or an election manager.
 {% endhint %}
 
 VxAdmin can save a backup of its election data to a backup drive. A backup includes the election, all loaded cast vote records (CVRs) and ballot images, adjudications, and manual tallies. If a VxAdmin laptop fails or must be replaced, the backup can be restored onto an unconfigured VxAdmin so that work does not need to be repeated.
@@ -12,7 +12,7 @@ Backups are saved to a dedicated backup drive prepared by VotingWorks. Recommend
 
 A backup drive holds one backup per election. Saving a new backup of the same election replaces the previous backup on the drive.
 
-## Saving a Backup
+## Save a Backup
 
 Select `Election` from the side menu and select `Save Backup`. If no backup drive is connected, VxAdmin prompts you to connect one.
 
@@ -32,9 +32,9 @@ When the backup is complete, VxAdmin shows the details of the saved backup. Sele
 When to save a backup is up to your jurisdiction's policies. One common approach is to save a backup at the end of each day on which CVRs are loaded or ballots are adjudicated, since VxAdmin cannot be used for other work while a backup is running.
 {% endhint %}
 
-## Restoring from a Backup
+## Restore from a Backup
 
-A backup can only be restored onto an unconfigured VxAdmin, and restoring requires restarting the machine in Restore Mode. A backup can be restored onto a different VxAdmin from the one that saved it, such as a replacement laptop, as long as it belongs to the same jurisdiction.
+Restoring from a backup must be done by a system administrator. A backup can only be restored onto an unconfigured VxAdmin, and restoring requires restarting the machine in Restore Mode. A backup can be restored onto a different VxAdmin from the one that saved it, such as a replacement laptop, as long as it belongs to the same jurisdiction.
 
 * [ ] Log in as a system administrator
 * [ ] Select `Election` from the side menu and select `Restore from Backup...`

@@ -1,6 +1,6 @@
 # Voting Sessions
 
-### Activating a Voting Session
+## Activate a Voting Session
 
 {% hint style="warning" %}
 A voter may bring their own personal assistive technology (PAT) device (e.g., jelly bean switch or sip-and-puff device) or headphones. It must have a 3.5 mm plug or connector. Once plugged in, a test screen pops up to assist in configuration. See [VxMarkScan Diagnostics](diagnostics.md) for instructions.
@@ -26,7 +26,7 @@ If a voter chooses to use VxMarkScan:
 If the wrong ballot style or precinct was selected, insert the poll worker card (if not already inserted) and select `Cancel Voting Session` to return to the poll worker menu.
 {% endhint %}
 
-### Marking a Ballot
+## Mark a Ballot
 
 Let the voter know they can begin voting by selecting `Start Voting`.
 
@@ -38,13 +38,13 @@ One contest will display at a time. The voter selects the candidate(s) of their 
 If a voter would like to change a selection, they must first deselect a candidate previously selected.
 {% endhint %}
 
-### Entering a Write-In
+## Enter a Write-In
 
 To enter a write-in candidate, select `add write-in candidate` and use the keyboard to type in the candidate's name. Select `Accept` when finished.
 
 <div><figure><img src="../.gitbook/assets/vxmark-voting-write-in-button.png" alt="Controller contest screen with the add write-in candidate option highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-write-in-keyboard.png" alt="Write-In dialog for the Controller contest with the on-screen keyboard and the name NEMO entered." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-write-in-accepted.png" alt="Controller contest screen with write-in candidate NEMO selected" width="375"><figcaption></figcaption></figure></div>
 
-### Reviewing Votes
+## Review Votes
 
 After working through all contests, a "Review Your Votes" screen appears that allows the voter to change any vote by selecting `Change`. Once selections have been reviewed, select `Print My Ballot`. The ballot prints and is displayed for review.
 

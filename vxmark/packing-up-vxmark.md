@@ -1,6 +1,6 @@
 # Packing Up VxMark
 
-## VxMark Pack Up
+## Pack Up VxMark
 
 First, power down VxMark with the `Power Down` button in the poll worker menu:
 
@@ -29,7 +29,7 @@ Then, pack up VxMark:
 * [ ] Close the back compartment
 * [ ] Seal VxMark per your jurisdiction's processes
 
-## Printer Pack Up
+## Pack Up the Printer
 
 * [ ] Turn off the printer by pressing the power button on the front
 

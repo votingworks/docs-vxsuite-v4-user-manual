@@ -1,12 +1,16 @@
 # Setup Inspection
 
-VotingWorks recommends completing the following setup inspection procedures before, during, or after logic and accuracy testing for each election. All readiness inspection tasks can be completed by an election manager.
+{% hint style="info" %}
+These steps must be completed by an election manager.
+{% endhint %}
+
+VotingWorks recommends completing the following setup inspection procedures before, during, or after logic and accuracy testing for each election.
 
 ## Software Inspection
 
 Any election official can use [signed-hash-validation.md](../miscellaneous/signed-hash-validation.md "mention") on each device to verify that the software is certified VotingWorks software and has not been tampered with. The software on each device should not change between elections except in cases of VotingWorks-managed upgrades.
 
-## Equipment Cleaning & Calibration
+## Equipment Cleaning and Calibration
 
 All devices with a scanner (VxScan, VxCentralScan, and VxMarkScan) should be cleaned and VxScan double sheet detection should be calibrated.
 

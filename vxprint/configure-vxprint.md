@@ -1,15 +1,17 @@
 # Configure VxPrint
 
 {% hint style="info" %}
-The following steps must be completed by an election manager. You may configure VxPrint without the printer unpacked and set up.
+These steps must be completed by an election manager.
 {% endhint %}
+
+You can configure VxPrint without the printer unpacked and set up.
 
 To configure **VxPrint**, you must do two things in **VxAdmin**:
 
 1. [save-election-package.md](../vxadmin-system-setup/save-election-package.md "mention") to a USB drive
 2. [programming-cards.md](../vxadmin-system-setup/programming-cards.md "mention")
 
-## Inserting Smart Cards
+## Insert Smart Cards
 
 The smart card reader is located on the side of the laptop to the left of the trackpad. Insert a smart card with the chip facing up.
 
@@ -17,7 +19,7 @@ The smart card reader is located on the side of the laptop to the left of the tr
 
 The picture above shows someone inserting a system administrator card into the laptop. To configure VxPrint, you need to insert an election manager card.
 
-## Loading The Election Package
+## Load the Election Package
 
 After you log in with an election manager card, VxPrint prompts you to insert a USB drive with the election package saved from VxAdmin.
 
@@ -37,7 +39,7 @@ The selected polling place limits which ballot styles poll workers can print. El
 If your election package defines only one polling place, it is selected automatically and the `Select a Polling Place...` dropdown isn't visible.
 {% endhint %}
 
-## Changing Ballot Mode
+## Set the Ballot Mode
 
 By default, VxPrint is in `Official Ballot Mode` and all ballots printed are official ballots. If you intend to use VxPrint for testing with the rest of the voting system, navigate to the `Settings` page and use the toggle button to switch to `Test Ballot Mode`. In `Test Ballot Mode`, all ballots printed are test ballots and a `Test Ballot Mode` banner displays in the top bar at all times.
 
@@ -49,7 +51,7 @@ Switching ballot modes clears the ballot printed counts.
 Remember to switch VxPrint back to `Official Ballot Mode` after logic and accuracy testing is complete.
 {% endhint %}
 
-## Removing Configuration & Election Data
+## Remove Configuration and Election Data
 
 To remove election configuration (and all data) from VxPrint:
 
@@ -65,7 +67,7 @@ You can now re-configure VxPrint with a different election package.
 The system administrator card also can be used to unconfigure a machine, which may be useful if the election manager card for a previous election is no longer available.
 {% endhint %}
 
-### System Administrator Settings <a href="#system-administrator-settings" id="system-administrator-settings"></a>
+## System Administrator Settings <a href="#system-administrator-settings" id="system-administrator-settings"></a>
 
 The system administrator can always access the `Settings` page, regardless of the election that VxPrint is configured for or whether VxPrint is configured at all. The system administrator has the same `Settings` functionality as the election manager: saving logs, setting the date and time, and verifying the integrity of the software via `Signed Hash Validation`. The system administrator can always unconfigure the election. This is especially useful in the case where VxPrint is configured for a previous election but election manager cards programmed for the previous election are no longer available.
 

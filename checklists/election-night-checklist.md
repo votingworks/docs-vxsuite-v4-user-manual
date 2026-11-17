@@ -6,9 +6,13 @@ description: >-
 
 # Election Night Checklist
 
+{% hint style="info" %}
+These steps must be completed by an election manager.
+{% endhint %}
+
 On election night, you need [VxAdmin](../vxadmin-system-setup/vxadmin-hardware-setup.md) (laptop, printer, and APC uninterruptible power supply (UPS)). If scanning ballots centrally, you'll also need the [VxCentralScan](../vxcentralscan/vxcentralscan-hardware-setup.md) (laptop, scanner, and APC UPS) and the [Election Night Checklist - VxCentralScan](../vxcentralscan/election-night-checklist-vxcentralscan.md).
 
-## Tallying and Saving Results
+## Tally and Save Results
 
 * [ ] Set up VxAdmin
 * [ ] Log in with election manager card

@@ -1,12 +1,18 @@
 # L&A Cleanup
 
-### Remove CVRs from VxAdmin
+{% hint style="info" %}
+These steps must be completed by an election manager.
+{% endhint %}
 
-When logic and accuracy (L&A) testing is complete, select `Tally` from the side menu, then select `Remove All` to clear VxAdmin of cast vote records (CVRs) to prepare for election day. Confirm by selecting `Remove All CVRs` in the popup confirmation screen.
+After logic and accuracy (L&A) testing, clear the test results from VxAdmin and put every device into official ballot mode for election day.
+
+## Remove CVRs from VxAdmin
+
+When L&A testing is complete, select `Tally` from the side menu, then select `Remove All` to clear VxAdmin of cast vote records (CVRs) to prepare for election day. Confirm by selecting `Remove All CVRs` in the popup confirmation screen.
 
 <figure><img src="../.gitbook/assets/vxadmin-tally-screen-with-cvrs-remove-all-highlighted.png" alt="VxAdmin Tally screen with CVRs loaded and the Remove All button highlighted." width="375"><figcaption></figcaption></figure>
 
-### Toggle VxScan to Official Ballot Mode
+## Toggle VxScan to Official Ballot Mode
 
 If you used test ballot mode to conduct your L&A be sure to put VxScan into official ballot mode. Insert the election manager card into VxScan and select `Official Ballot Mode`.
 
@@ -22,7 +28,7 @@ Remove the election manager card and confirm that the VxScan is in official ball
 A USB drive is required to use VxScan on election day. After testing, you may re-insert the USB drive used during testing or a new USB drive into the USB port and seal the machine until a poll worker accesses it on election day. If official ballot mode was used, VotingWorks strongly recommends using a new USB drive for election day.
 {% endhint %}
 
-### Toggle All Devices to Official Ballot Mode
+## Toggle All Devices to Official Ballot Mode
 
 If you used test ballot mode to conduct your L&A be sure to put all devices into official ballot mode. Toggle the ballot mode on the election manager menu for VxScan, VxMark, or VxMarkScan or on the `Settings` page for VxCentralScan or VxPrint.
 

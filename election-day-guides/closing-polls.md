@@ -1,5 +1,11 @@
 # Closing Polls
 
+{% hint style="info" %}
+These steps must be completed by a poll worker.
+{% endhint %}
+
+Close the polls on VxScan at the end of voting to print the polls closed report.
+
 * [ ] Insert the poll worker card
 * [ ] Select `Close Polls`
 * [ ] The polls closed report will print

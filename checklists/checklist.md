@@ -6,7 +6,13 @@ description: >-
 
 # Poll Worker Checklist
 
-### [VxScan Setup](checklist.md#vxscan-setup)
+{% hint style="info" %}
+These steps must be completed by a poll worker.
+{% endhint %}
+
+Complete these tasks during early voting and/or on election day.
+
+## Set Up VxScan
 
 **Set up the ballot box:**
 
@@ -31,7 +37,9 @@ description: >-
 * [ ] Plug the Goldenmate UPS into an outlet
 * [ ] Turn the Goldenmate UPS on
 
-### [Open Polls](../election-day-guides/opening-polls.md)
+## Open Polls
+
+For details, see [Opening Polls](../election-day-guides/opening-polls.md).
 
 * [ ] Insert the poll worker card
 * [ ] Select `Open Polls`
@@ -42,15 +50,15 @@ description: >-
 * [ ] Sign, retain and/or display the polls opened report as instructed by your election administrator
 * [ ] Remove the poll worker card
 
-### [Assisting Voters](checklist.md#assisting-voters)
+## Assist Voters
 
-#### Helping a voter cast their ballot at VxScan
+### Help a Voter Cast Their Ballot at VxScan
 
 * [ ] Instruct the voter to insert their ballot in any orientation
 * [ ] _If ballot scans successfully_, let the voter know their vote has been cast
 * [ ] _If ballot does **not** scan successfully,_ help the voter understand the issues with their ballot specified on the screen. Explain their options, which could include casting their ballot as marked, adding marks to their ballot, or receiving a new ballot
 
-### [Close Polls](checklist.md#close-polls)
+## Close Polls
 
 * [ ] Insert the poll worker card
 * [ ] Select `Close Polls`
@@ -67,7 +75,7 @@ description: >-
 Single polling place jurisdictions may want to skip to the [Election Night Checklist](election-night-checklist.md) at this time to verify CVRs were properly saved before packing up equipment
 {% endhint %}
 
-### [Packing Up VxScan](checklist.md#packing-up-vxscan)
+## Pack Up VxScan
 
 **Pack up the scanner**:
 

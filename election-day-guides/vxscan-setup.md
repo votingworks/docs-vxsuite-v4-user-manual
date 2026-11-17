@@ -11,9 +11,8 @@ description: >-
 
 <figure><img src="../.gitbook/assets/photo-vxscan-components-packed.jpg" alt="Closed VxScan case next to the collapsed ballot box with its telescoping handle raised" width="375"><figcaption></figcaption></figure>
 
-## VxScan Setup
+## Set Up VxScan
 
-\
 **VxScan** can be set up through the following steps:
 
 1. **Set up the ballot box:**

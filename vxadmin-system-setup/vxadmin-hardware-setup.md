@@ -6,13 +6,13 @@ description: >-
 
 # VxAdmin Hardware Setup
 
-### Hardware Overview
+## Hardware Overview
 
 **VxAdmin** is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software and an optional printer. All USB drives, cords, adapters, and programmable smart cards needed to operate the system are included and stored in an orange case. An APC uninterruptible power supply (UPS) provides backup power to the VxAdmin printer.
 
 <div><figure><img src="../.gitbook/assets/photo-vxadmin-case-closed.png" alt="Closed orange VxAdmin carrying case with VotingWorks label on a table." width="188"><figcaption><p>VxAdmin stored in case</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxadmin-setup.jpg" alt="VxAdmin laptop showing the locked screen, connected to a mouse, USB hub and HP LaserJet printer." width="375"><figcaption><p>VxAdmin fully set up</p></figcaption></figure></div>
 
-### **VxAdmin** Setup
+## Set Up VxAdmin
 
 1. **Unbox and Set Up Printer**:
    * [ ] Remove the printer and power cord from the case
@@ -42,7 +42,7 @@ An optional mouse is included. Plug it into the USB hub to use.
 
 <div><figure><img src="../.gitbook/assets/photo-vxadmin-laptop-in-case.jpg" alt="Open orange VxAdmin case with the HP laptop seated in the foam insert." width="188"><figcaption><p>Remove laptop</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxadmin-peripherals-in-case.jpg" alt="Open orange VxAdmin case with the laptop removed, showing the power adapter, cables and mouse." width="188"><figcaption><p>Remove peripherals</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxadmin-setup-labeled.jpg" alt="VxAdmin laptop, mouse, USB hub and HP printer connected, with power cord, hub and printer cable labeled A, B, C." width="563"><figcaption><p>Connect peripherals</p></figcaption></figure></div>
 
-### Packing Up VxAdmin
+## Pack Up VxAdmin
 
 To pack up VxAdmin, place all of the components back into the case as displayed above. Secure the case as required by sealing the eyelets highlighted below. Disconnect the printer power cord from the APC UPS. Pack up the printer and its power cord and the APC UPS.
 

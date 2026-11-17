@@ -1,8 +1,10 @@
 # Additional Poll Worker Actions
 
 {% hint style="info" %}
-The following steps must be completed by a poll worker.
+These steps must be completed by a poll worker.
 {% endhint %}
+
+Poll workers can pause and resume voting on VxScan and print additional copies of reports.
 
 ## Pause or Resume Voting
 
@@ -29,7 +31,7 @@ Voting is now paused. To resume voting:
 
 The polls are now open.
 
-## Printing Previous Reports
+## Print Previous Reports
 
 If additional copies of a report need to be printed at any time, insert a poll worker card and select `Menu` to access the poll worker menu. Select `Print [Type] Report` to print additional copies.
 
@@ -37,7 +39,7 @@ If additional copies of a report need to be printed at any time, insert a poll w
 
 Additional reports can only be printed as long as no ballots have been scanned since the original report was printed.
 
-## Printing Write-In Image Reports
+## Print Write-In Image Reports
 
 If your jurisdiction enables write-in image reports on VxScan, the `Print Write-In Image Report` option appears after polls are closed. Select `Print Write-In Image Report` and print additional copies as needed.
 

@@ -1,6 +1,10 @@
 # VxMark Diagnostics
 
-In preparation for an election or in response to issues, the diagnostics interface can help verify VxMark is functioning as expected or pinpoint problems that do arise. Both election managers and system administrators can access the diagnostic interface.
+{% hint style="info" %}
+These steps must be completed by a system administrator or an election manager.
+{% endhint %}
+
+In preparation for an election or in response to issues, the diagnostics interface can help verify VxMark is functioning as expected or pinpoint problems that do arise.
 
 <div><figure><img src="../.gitbook/assets/vxmark-em-menu-diagnostics-highlighted.png" alt="VxMark election manager menu with the Diagnostics button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-sa-menu-diagnostics-highlighted.png" alt="System Administrator Menu with the Diagnostics button highlighted" width="188"><figcaption></figcaption></figure></div>
 
@@ -8,7 +12,7 @@ The diagnostics screen shows information about how the machine is configured, ho
 
 <figure><img src="../.gitbook/assets/vxmark-em-diagnostics-full.png" alt="VxMark System Diagnostics screen, full page, with test buttons for printer, controller, PAT, audio and UPS." width="375"><figcaption></figcaption></figure>
 
-### Readiness Report
+## Readiness Report
 
 The readiness report can be used as a record of system diagnostic verification. Select `Save Readiness Report` to save a copy to a USB drive.
 

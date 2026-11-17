@@ -1,6 +1,10 @@
 # VxMarkScan Diagnostics
 
-In preparation for an election or in response to issues, the diagnostics interface can help verify VxMarkScan is functioning as expected or pinpoint problems that do arise. Both election managers and system administrators can access the diagnostic interface.
+{% hint style="info" %}
+These steps must be completed by a system administrator or an election manager.
+{% endhint %}
+
+In preparation for an election or in response to issues, the diagnostics interface can help verify VxMarkScan is functioning as expected or pinpoint problems that do arise.
 
 <div><figure><img src="../.gitbook/assets/vxmarkscan-em-menu-diagnostics-highlighted.png" alt="Election Manager Menu with the Diagnostics button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-sa-menu-diagnostics-highlighted.png" alt="VxMarkScan system administrator menu with the Diagnostics button highlighted" width="375"><figcaption></figcaption></figure></div>
 
@@ -14,7 +18,7 @@ For each component test, select `Test [Component]` and follow the instructions o
 If the headphone or PAT test fails, try to unplug and replug the device and try again. If any test continues to fail, restart VxMarkScan and try again.
 {% endhint %}
 
-### Readiness Report
+## Readiness Report
 
 The readiness report can be used as a record of system diagnostic verification. Select `Save Readiness Report` to save a copy to a USB drive.
 

@@ -1,12 +1,12 @@
 # VxMarkScan Hardware Setup
 
-## VxMarkScan Setup
+## Set Up VxMarkScan
 
 Part of the Precinct System, VxMarkScan is a free-standing accessible ballot-marking device (BMD) that gives voters the ability to mark their choices and print their ballot from a touchscreen.
 
 **VxMarkScan** can be set up through the following steps:
 
-**Set up the stand**:
+### Set Up the Stand
 
 * [ ] With the legs facing up, raise a leg until it snaps in place
 * [ ] Continue until all legs are raised
@@ -23,7 +23,7 @@ Part of the Precinct System, VxMarkScan is a free-standing accessible ballot-mar
 
 <div><figure><img src="../.gitbook/assets/photo-vxmarkscan-power-block-holder.png" alt="Hand holding the power block holder above the slotted center of the VxMarkScan stand." width="188"><figcaption><p>Add power block holder</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-power-block-in-holder.png" alt="Power block seated in the holder on the back center of the VxMarkScan stand" width="188"><figcaption><p>Insert power block into the holder</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-stand-power-block-installed.png" alt="Assembled VxMarkScan stand with the power block holder and cords installed" width="188"><figcaption><p>Power block and holder installed</p></figcaption></figure></div>
 
-**Set up the BMD:**
+### Set Up the BMD
 
 * [ ] Using two people, lift and place the BMD on the stand by aligning the stand bars with the bottom
 
@@ -55,7 +55,7 @@ The VxMarkScan is set up.
 
 {% include "../.gitbook/includes/sanitizing-headphones-instructions.md" %}
 
-## Cleaning VxMarkScan
+## Clean VxMarkScan <a href="#cleaning-vxmarkscan" id="cleaning-vxmarkscan"></a>
 
 Clean the scanner for every election with scanner cleaning solution (see [supply-list.md](../miscellaneous/supply-list.md "mention")) and a lint-free or microfiber cloth.
 

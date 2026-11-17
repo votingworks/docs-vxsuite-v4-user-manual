@@ -1,10 +1,10 @@
 # VxPrint Hardware Setup
 
-### Hardware Overview
+## Hardware Overview
 
 **VxPrint** is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software alongside a COTS laser printer.
 
-### **VxPrint** Setup
+## Set Up VxPrint
 
 1. **Unbox and Set Up Printer**:
    * [ ] Remove the printer and power cord from the case
@@ -33,7 +33,7 @@ An optional mouse is included. Plug it into the USB hub to use.
 
 <figure><img src="../.gitbook/assets/photo-vxadmin-setup-labeled.jpg" alt="VxAdmin laptop, mouse, USB hub and HP printer connected, with power cord, hub and printer cable labeled A, B, C." width="563"><figcaption></figcaption></figure>
 
-### Packing Up VxPrint
+## Pack Up VxPrint
 
 To pack up VxPrint, place all of the components back into the case as displayed above. Secure the case as required by sealing the eyelets.
 

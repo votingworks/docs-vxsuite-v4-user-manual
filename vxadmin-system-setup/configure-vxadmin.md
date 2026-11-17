@@ -1,12 +1,12 @@
 # Configure VxAdmin
 
-For each election, you configure VxAdmin by loading an election package provided by VotingWorks or downloaded from VxHub. The [full election package specifications](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/election-package) can be found in the technical data package.
-
 {% hint style="info" %}
-The following steps must be completed by a system administrator.
+These steps must be completed by a system administrator.
 {% endhint %}
 
-## Load Election Package
+For each election, you configure VxAdmin by loading an election package provided by VotingWorks or downloaded from VxHub. The [full election package specifications](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/election-package) can be found in the technical data package.
+
+## Load the Election Package
 
 When VxAdmin is not configured, the screen prompts you to insert a USB drive containing an election package. After inserting the USB drive, VxAdmin automatically lists the election package(s) available. Select the file name of the correct election package to configure VxAdmin. If the file is not automatically listed, select `Select Other File...` and manually select the file from the USB drive.
 
@@ -14,7 +14,7 @@ Once configured, the election screen displays the title and date of your electio
 
 <div><figure><img src="../.gitbook/assets/vxadmin-election-screen-unconfigured.png" alt="VxAdmin unconfigured Election screen prompting to insert a USB drive containing an election package." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-election-screen-select-election-package.png" alt="VxAdmin Election screen listing an election package file on the USB drive to select for configuration." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-election-screen-configured.png" alt="VxAdmin Election screen showing the configured election with Save Election Package and Unconfigure Machine buttons." width="375"><figcaption></figcaption></figure></div>
 
-## Remove Election
+## Remove the Election
 
 If you need to change an election package or reset VxAdmin for the next election, you must unconfigure the machine.
 

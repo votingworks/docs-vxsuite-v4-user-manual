@@ -2,7 +2,7 @@
 
 VotingWorks recommends that someone cleans the scanner and calibrates double sheet detection before every election.
 
-## Scanner Cleaning
+## Clean the Scanner
 
 The scanner must be clean to accurately detect marks on ballots. In order to clean the scanner:
 
@@ -38,7 +38,7 @@ To confirm the scanner is clean and producing clear images, you may either run t
 ## Double Sheet Detection
 
 {% hint style="info" %}
-The following steps can only be completed by an election manager.
+These steps must be completed by an election manager.
 {% endhint %}
 
 In order to prevent voters attempting to scan two ballots at once, VxScan has a double sheet detection feature. To manage double sheet detection, navigate to the `Scanner` tab of the election manager menu.
@@ -52,7 +52,7 @@ The `Disable Double Sheet Detection` feature is used to disable the ultrasonic s
 ## Image Sensor Calibration
 
 {% hint style="info" %}
-The following step can only be completed by a system administrator.
+These steps must be completed by a system administrator.
 {% endhint %}
 
 Image sensor calibration is recommended as part of [regular long-term maintenance](../system-maintenance/vxscan-maintenance-manual.md#long-term-hardware-maintenance) every 100,000 scans or every 3 years. Under exceedingly rare circumstances, you may need to calibrate the scanner image sensors more often. In this calibration, the scanner reads a blank white sheet of paper to ensure proper conversion from physical paper to digital image.

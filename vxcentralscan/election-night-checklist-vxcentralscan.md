@@ -1,6 +1,8 @@
 # Election Night Checklist - VxCentralScan
 
-### [Central Scanning](scanning-ballots.md)
+## Central Scanning
+
+See [Central Scanning](scanning-ballots.md "mention") for details on each step.
 
 * [ ] [VxCentralScan Hardware Setup](vxcentralscan-hardware-setup.md)
 * [ ] Confirm VxCentralScan is in official ballot mode and has a "Total Sheets" count of 0

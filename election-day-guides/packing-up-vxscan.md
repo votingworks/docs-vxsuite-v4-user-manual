@@ -1,6 +1,10 @@
 # Packing Up VxScan
 
-Pack up **VxScan** through the following steps:
+{% hint style="info" %}
+These steps must be completed by a poll worker.
+{% endhint %}
+
+Pack up **VxScan** after the polls are closed through the following steps:
 
 1. **Pack up the scanner**:
 

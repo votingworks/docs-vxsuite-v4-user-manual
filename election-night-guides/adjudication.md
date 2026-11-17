@@ -1,8 +1,14 @@
 # Adjudication
 
-## The Adjudication Workflow
+{% hint style="info" %}
+These steps must be completed by an election manager, or by a poll worker at an adjudication station connected to VxAdmin.
+{% endhint %}
 
-Once cast vote records (CVRs) have been loaded, the adjudication process can begin. Log in with an election manager card and select `Adjudication` from the side menu. If you are using an adjudication station connected to VxAdmin, you may also log in with a poll worker card.
+Once cast vote records (CVRs) have been loaded, the adjudication process can begin. Adjudicate the contests that need attention according to your jurisdiction's rules.
+
+## Adjudicate Ballots
+
+Log in with an election manager card and select `Adjudication` from the side menu. If you are using an adjudication station connected to VxAdmin, you may also log in with a poll worker card.
 
 Select the `Adjudicate` button to begin adjudication.
 
@@ -30,13 +36,13 @@ The `Adjudication` screen shows your progress as you work through the ballots.
 
 <figure><img src="../.gitbook/assets/vxadmin-adjudication-complete.png" alt="VxAdmin Adjudication screen showing all ballots adjudicated at 100% with a Review button." width="375"><figcaption></figcaption></figure>
 
-## Marginal Marks
+## Adjudicate Marginal Marks
 
 If your jurisdiction adjudicates marginal marks, the text "Review Marginal Mark" appears over any marginally marked contest option. Select the contest option to adjudicate as a valid mark or select `Dismiss` to adjudicate it as a stray or invalid mark.
 
 <div><figure><img src="../.gitbook/assets/vxadmin-adjudication-marginal-contest-view.png" alt="Contest view for Controller showing a Review marginal mark warning with a Dismiss option" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-adjudication-marginal-dismissed.png" alt="Contest view for Controller after the marginal mark was dismissed and marked adjudicated as invalid" width="375"><figcaption></figcaption></figure></div>
 
-## Blank Ballots
+## Adjudicate Blank Ballots
 
 If your jurisdiction adjudicates blank ballots, no specific contests are flagged for adjudication. Instead, a "Blank Ballot Detected" banner appears with the option to flip to the back. If the ballot is indeed blank, select `Accept`. If the ballot is not actually blank, adjudicate individual contests according to your jurisdiction's rules.
 

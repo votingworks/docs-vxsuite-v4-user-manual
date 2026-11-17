@@ -1,5 +1,9 @@
 # Printing Blank Ballots
 
+{% hint style="info" %}
+These steps must be completed by a poll worker.
+{% endhint %}
+
 If your jurisdiction has enabled blank ballot printing, poll workers can print an unmarked ballot from VxMark for a voter to mark by hand. Blank ballots can only be printed while polls are open.
 
 {% hint style="info" %}

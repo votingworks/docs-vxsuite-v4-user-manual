@@ -6,11 +6,15 @@ description: >-
 
 # Pre-Election Setup Checklist
 
-To prepare for an election, complete the following steps:
+{% hint style="info" %}
+These steps must be completed by a system administrator and an election manager, as noted in each section.
+{% endhint %}
 
-### Retain Previous Election Files
+To prepare for an election, complete these steps after you download or receive the election package from VotingWorks and before logic and accuracy (L&A) testing.
 
-**VxAdmin**
+## Retain Previous Election Files
+
+### VxAdmin
 
 * [ ] Log in with election manager card
 * [ ] Select `Reports` from the side menu
@@ -20,7 +24,7 @@ To prepare for an election, complete the following steps:
 * [ ] Select `Settings` from the side menu
 * [ ] Select `Save Logs`
 
-**VxScan**
+### VxScan
 
 * [ ] Set up the VxScan, without the ballot box
 * [ ] Log in with election manager card
@@ -29,20 +33,20 @@ To prepare for an election, complete the following steps:
 * [ ] Select `Save CVRs`
 * [ ] Select `Save Logs`
 
-### Remove Previous Election Files
+## Remove Previous Election Files
 
-**VxAdmin**
+### VxAdmin
 
 * [ ] Log in with system administrator card
 * [ ] Select `Election` from the side menu
 * [ ] Select `Unconfigure Machine`
 
-**VxScan**
+### VxScan
 
 * [ ] Log in with election manager card
 * [ ] Select `Unconfigure Machine`
 
-### Configure VxAdmin
+## Configure VxAdmin
 
 * [ ] Set up VxAdmin
 * [ ] Log in with system administrator card
@@ -52,7 +56,7 @@ To prepare for an election, complete the following steps:
 * [ ] Select `Settings` from the side menu and verify the current time and date are correct
 * [ ] Lock VxAdmin (skip if continuing to the next section)
 
-### Create Election Manager & Poll Worker Cards
+## Create Election Manager & Poll Worker Cards
 
 * [ ] Log in with system administrator card
 * [ ] Select `Smart Cards` from the side menu
@@ -62,7 +66,7 @@ To prepare for an election, complete the following steps:
 * [ ] Lock VxAdmin (skip if continuing to the next section)
 * [ ] Securely store all cards
 
-### Format USB Drives
+## Format USB Drives
 
 * [ ] Log in with system administrator card
 * [ ] Select `Settings` from the side menu and select `Format USB Drive`
@@ -70,7 +74,7 @@ To prepare for an election, complete the following steps:
 * [ ] Repeat for all USB drives you need to format
 * [ ] Lock VxAdmin (skip if continuing to the next section)
 
-### Save Election Package
+## Save Election Package
 
 * [ ] Log in with system administrator card
 * [ ] Select `Election` from the side menu in VxAdmin
@@ -80,7 +84,7 @@ To prepare for an election, complete the following steps:
 * [ ] Select `Eject USB`
 * [ ] After VxAdmin confirms USB ejection, it is safe to remove the USB drive
 
-### Configure VxScan
+## Configure VxScan
 
 * [ ] Log in with election manager card
 * [ ] Insert USB drive with the election package from VxAdmin

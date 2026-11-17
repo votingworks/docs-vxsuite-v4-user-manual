@@ -1,6 +1,6 @@
 # Reporting & Logs
 
-### Reporting
+## Reporting
 
 Election managers and poll workers can view the number of ballots printed on the `Report` page. The page lists the number of precinct, absentee, and total ballots printed for each ballot style. You may use the search bar to narrow down the list to certain precincts or precinct splits:
 
@@ -10,7 +10,7 @@ The report can be printed with the `Print Report` button or exported to a USB dr
 
 <figure><img src="../.gitbook/assets/vxprint-pw-ballots-printed-report.png" alt="Printed Ballots Printed Report listing print totals by precinct, party, and language" width="375"><figcaption></figcaption></figure>
 
-### Saving Logs <a href="#saving-logs" id="saving-logs"></a>
+## Save Logs <a href="#saving-logs" id="saving-logs"></a>
 
 To save logs, navigate to the `Settings` page and select `Save Logs`. Insert a USB drive. VotingWorks recommends the `Default` format unless instructed otherwise. Select `Save` and VxPrint saves the logs to the USB drive.
 

@@ -1,8 +1,8 @@
 # VxMark Checklist
 
-### Hardware Setup
+## Hardware Setup
 
-**Set up VxMark**:
+### Set Up VxMark
 
 * [ ] Place the VxMark case on a standard height table
 * [ ] Open the VxMark case; breaking and documenting seals per the jurisdiction's procedures
@@ -11,7 +11,7 @@
 * [ ] Open the compartment on the back of the case by lifting the inner latch behind the screen to reveal the power cable and printer USB cable
 * [ ] Connect the power cable to an outlet
 
-**Set up the printer:**
+### Set Up the Printer
 
 * [ ] Remove the printer from its case and set it next to VxMark
 * [ ] Connect the printer power cable to the printer
@@ -19,9 +19,9 @@
 * [ ] Connect the printer USB cable exiting the back of VxMark to the USB port on the printer
 * [ ] Press the power button on the front of the printer
 
-### Open Polls, Activate Voting Session, and Close Polls
+## Open Polls, Activate Voting Session, and Close Polls
 
-**To open the polls:**
+### To Open the Polls
 
 * [ ] Insert the poll worker card into the card reader in the back right
 * [ ] Select `Open Polls`
@@ -29,38 +29,38 @@
 * [ ] Verify the number of ballots printed is zero
 * [ ] Remove the poll worker card
 
-**To activate a voting session:**
+### To Activate a Voting Session
 
 * [ ] Insert a poll worker card into the card reader in the back right
 * [ ] Select the voter's ballot style
 * [ ] Remove the poll worker card to begin the voting session
 
-**To close the polls:**
+### To Close the Polls
 
 * [ ] Insert the poll worker card into the card reader in the back right
 * [ ] Select `Close Polls`
 * [ ] Confirm by selecting `Close Polls` again
 * [ ] Remove the poll worker card
 
-### Pause Voting and Resume Voting
+## Pause Voting and Resume Voting
 
-**To pause voting:**
+### To Pause Voting
 
 * [ ] Insert the poll worker card into the card reader in the back right
 * [ ] Select `Pause Voting`
 * [ ] Confirm by selecting `Pause Voting` again
 * [ ] Remove the poll worker card
 
-**To resume voting:**
+### To Resume Voting
 
 * [ ] Insert the poll worker card into the card reader in the back right
 * [ ] Select `Resume Voting`
-* [ ] Confirm by selecting `Resume Voting` again&#x20;
+* [ ] Confirm by selecting `Resume Voting` again
 * [ ] Remove the poll worker card
 
-### Hardware Tear Down
+## Hardware Tear Down
 
-**Pack up the VxMark**:
+### Pack Up the VxMark
 
 * [ ] First, power down VxMark with the `Power Down` button in the poll worker menu
 * [ ] Unplug the VxMark power cable from the outlet
@@ -76,7 +76,7 @@
 * [ ] Close the back compartment
 * [ ] Seal VxMark per the jurisdiction's processes
 
-**Pack up the printer:**
+### Pack Up the Printer
 
 * [ ] Turn off the printer by pressing the power button on the front
 * [ ] Unplug the power cable from the outlet and the printer

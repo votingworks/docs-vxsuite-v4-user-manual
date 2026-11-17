@@ -1,16 +1,16 @@
 # HP Printer FAQs
 
-**This FAQ document applies to VxAdmin, VxPrint, and VxMark.**
+This FAQ applies to VxAdmin, VxPrint, and VxMark.
 
-**Do we need to install toner?**
+## Do We Need to Install Toner?
 
 New printers come with toner pre-installed, see the [Supply List](supply-list.md) for replacement options. To install a new toner cartridge, follow [HP's instructions](https://support.hp.com/us-en/document/ish_5455373-5578919-16).
 
-**The printer displays "Select Language" and won't print. What do I do?**
+## The Printer Displays "Select Language" and Won't Print. What Do I Do?
 
 Your printer is not fully configured. Configure the printer by responding to the on-screen prompts. You can press the "OK" button repeatedly, selecting all the defaults, until it says "Ready."
 
-**How do I fix streaks, lines, or otherwise poor print quality?**
+## How Do I Fix Streaks, Lines, or Otherwise Poor Print Quality?
 
 Print a "Cleaning Page." Navigate through the following options on the printer LCD screen:
 
@@ -21,7 +21,7 @@ Print a "Cleaning Page." Navigate through the following options on the printer L
 
 Printing the cleaning page usually clears the printer's rollers of stray ink that is causing print issues.
 
-**What if printing a "Cleaning Page" helps, but the issue keeps coming back?**
+## What If Printing a Cleaning Page Helps, but the Issue Keeps Coming Back?
 
 It's possible the paper you are using is not compatible with the printer. When toner doesn't print properly to a page, it can end up on the rollers where it causes streaks on later pages. Try printing another cleaning page or try a different type of compatible paper.
 

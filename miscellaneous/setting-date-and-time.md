@@ -1,5 +1,9 @@
 # Setting Date & Time
 
+{% hint style="info" %}
+These steps must be completed by a system administrator or an election manager.
+{% endhint %}
+
 Because VotingWorks machines do not connect to an external network, the internal clocks may drift slightly. Over time, this can lead to report timestamps being out of date or authentication failures. As a result, a system administrator or election manager should check the date and time of each machine during pre-election setup or logic and accuracy testing and update the time if necessary.
 
 {% hint style="info" %}
