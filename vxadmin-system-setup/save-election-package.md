@@ -19,5 +19,5 @@ VxAdmin saves the election package to the USB drive.
 VxAdmin confirms once it is safe to remove the USB drive.
 
 {% hint style="info" %}
-The election package saved at VxAdmin is different from the election package used to configure your VxAdmin. VxScan, VxCentralScan, VxMark, VxMarkScan, and VxPrint can only be configured with election packages saved at VxAdmin.
+If you configured VxAdmin by loading an election package, the election package saved at VxAdmin is different from the one you loaded. VxScan, VxCentralScan, VxMark, VxMarkScan, and VxPrint can only be configured with election packages saved at VxAdmin.
 {% endhint %}

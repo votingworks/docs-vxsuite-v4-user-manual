@@ -44,6 +44,8 @@ To prepare for an election, complete these steps after you download or receive t
 
 ## Configure VxAdmin
 
+If you're creating the election on VxAdmin, complete [Create an Election](../vxadmin-system-setup/create-an-election/README.md) instead of loading an election package, then continue from "Verify the title and date of election are correct".
+
 * [ ] Set up VxAdmin
 * [ ] Log in with a system administrator card
 * [ ] Insert USB drive containing the election package
