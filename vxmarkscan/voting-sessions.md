@@ -34,7 +34,7 @@ Let the voter know they can begin voting by selecting `Start Voting`.
 
 One contest will display at a time. The voter selects the candidate(s) of their choice. The voter moves to the next contest by selecting `Next`. The voter can skip a contest by selecting `Next` without making a selection. To return to a previous contest, select `Back`. A `More` button displays if there are more candidates or text than fit on a single screen. The `View All` button can be used to jump to a review screen summarizing all contest selections, described in greater detail below.
 
-<div><figure><img src="../.gitbook/assets/vxmark-voting-start-screen.png" alt="Voting start screen showing the election name, polling place and a Start Voting button" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-single-seat-selection.png" alt="VxMarkScan Mayor contest with one candidate selected and zero votes remaining" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-start-screen.png" alt="Voting start screen showing the election name, polling place and a Start Voting button" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-single-seat-selection.png" alt="VxMarkScan Mayor contest with one candidate selected and zero votes remaining" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 If a voter would like to change a selection, they must first deselect a candidate previously selected.
@@ -48,7 +48,7 @@ To enter a write-in candidate:
 * [ ] Use the keyboard to type in the candidate's name
 * [ ] Select `Accept`
 
-<div><figure><img src="../.gitbook/assets/vxmark-voting-write-in-button.png" alt="Controller contest screen with the add write-in candidate option highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-write-in-keyboard.png" alt="Write-In dialog for the Controller contest with the on-screen keyboard and the name NEMO entered." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-voting-write-in-accepted.png" alt="Controller contest screen with write-in candidate NEMO selected" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-write-in-button.png" alt="Controller contest screen with the add write-in candidate option highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-write-in-keyboard.png" alt="Write-In dialog for the Controller contest with the on-screen keyboard and the name NEMO entered." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-write-in-accepted.png" alt="Controller contest screen with write-in candidate NEMO selected" width="188"><figcaption></figcaption></figure></div>
 
 ## Review Votes
 
@@ -60,7 +60,7 @@ The "Ballots Printed" count in VxMarkScan intentionally increments up by one for
 
 The final "Review Your Votes" screen is displayed to compare the official ballot selections with the screen. Select `Cast My Ballot` to cast the ballot.
 
-<div><figure><img src="../.gitbook/assets/vxmark-voting-review.png" alt="Review Your Votes screen listing selections with Change buttons and Print My Ballot" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-printing.png" alt="VxMarkScan Printing Your Ballot screen asking the voter not to remove the ballot" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-post-print-review.png" alt="Review Your Votes screen after scanning the printed ballot, with My Ballot is Incorrect and Cast My Ballot buttons." width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-review.png" alt="Review Your Votes screen listing selections with Change buttons and Print My Ballot" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-printing.png" alt="VxMarkScan Printing Your Ballot screen asking the voter not to remove the ballot" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-post-print-review.png" alt="Review Your Votes screen after scanning the printed ballot, with My Ballot is Incorrect and Cast My Ballot buttons." width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 If the voter removes the ballot from the printer to review, VxMarkScan asks if they are still voting. They must reload their ballot to cast it. If the ballot is not reloaded, VxMarkScan clears the ballot after five minutes of inactivity.
