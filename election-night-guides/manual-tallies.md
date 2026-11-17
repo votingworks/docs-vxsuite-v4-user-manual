@@ -1,4 +1,4 @@
-# Manual Tallies
+# Enter Manual Tallies
 
 {% hint style="info" %}
 These steps must be completed by an election manager.

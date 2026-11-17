@@ -1,4 +1,4 @@
-# L&A Cleanup
+# Clean Up After L&A
 
 {% hint style="info" %}
 These steps must be completed by an election manager.

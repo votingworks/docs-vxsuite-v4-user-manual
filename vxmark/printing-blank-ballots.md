@@ -1,4 +1,4 @@
-# Printing Blank Ballots
+# Print Blank Ballots
 
 {% hint style="info" %}
 These steps must be completed by a poll worker.

@@ -1,4 +1,4 @@
-# Assisting Voters
+# Assist Voters
 
 {% hint style="info" %}
 These steps must be completed by a poll worker.

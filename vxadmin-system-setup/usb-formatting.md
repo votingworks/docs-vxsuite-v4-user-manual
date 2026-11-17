@@ -1,4 +1,4 @@
-# USB Formatting
+# Format USB Drives
 
 {% hint style="info" %}
 These steps must be completed by a system administrator.
@@ -24,5 +24,5 @@ Formatting the USB drive deletes all files on the USB drive.
 VxAdmin then confirms your USB drive is ready for use. Repeat these steps for all other USB drives.
 
 {% hint style="info" %}
-Backup drives are not formatted at VxAdmin. See [Backup and Restore](backup-and-restore.md "mention").
+Backup drives are not formatted at VxAdmin. See [Back Up and Restore](backup-and-restore.md "mention").
 {% endhint %}

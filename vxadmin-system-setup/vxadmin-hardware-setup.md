@@ -4,7 +4,7 @@ description: >-
   administrators to program elections and aggregate results on election night.
 ---
 
-# VxAdmin Hardware Setup
+# Set Up VxAdmin
 
 ## Hardware Overview
 
@@ -12,7 +12,7 @@ VxAdmin is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWor
 
 <div><figure><img src="../.gitbook/assets/photo-vxadmin-case-closed.png" alt="Closed orange VxAdmin carrying case with VotingWorks label on a table." width="375"><figcaption><p>VxAdmin stored in case</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxadmin-setup.jpg" alt="VxAdmin laptop showing the locked screen, connected to a mouse, USB hub and HP LaserJet printer." width="375"><figcaption><p>VxAdmin fully set up</p></figcaption></figure></div>
 
-## Set Up VxAdmin
+## Set Up the Hardware
 
 1. **Set up the printer:**
    * [ ] Remove the printer and power cord from the case

@@ -1,4 +1,4 @@
-# Packing Up VxScan
+# Pack Up VxScan
 
 {% hint style="info" %}
 These steps must be completed by a poll worker.

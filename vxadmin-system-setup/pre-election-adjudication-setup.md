@@ -1,4 +1,4 @@
-# Pre-Election Adjudication Setup
+# Set Up Pre-Election Adjudication
 
 ## System Settings
 

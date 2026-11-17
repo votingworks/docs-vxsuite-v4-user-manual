@@ -1,6 +1,6 @@
-# Packing Up VxMark
+# Pack Up VxMark
 
-## Pack Up VxMark
+## Pack Up the VxMark Unit
 
 * [ ] Power down VxMark with the `Power Down` button in the poll worker menu
 

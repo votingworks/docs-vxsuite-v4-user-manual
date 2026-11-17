@@ -1,4 +1,4 @@
-# Printing Ballots
+# Print Ballots
 
 {% hint style="info" %}
 These steps must be completed by a poll worker or an election manager.

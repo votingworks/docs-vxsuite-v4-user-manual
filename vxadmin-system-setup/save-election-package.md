@@ -1,4 +1,4 @@
-# Save Election Package
+# Save the Election Package
 
 {% hint style="info" %}
 These steps must be completed by a system administrator or an election manager.

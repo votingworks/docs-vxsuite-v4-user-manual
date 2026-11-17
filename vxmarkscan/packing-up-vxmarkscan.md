@@ -1,4 +1,4 @@
-# Packing Up VxMarkScan
+# Pack Up VxMarkScan
 
 Pack up VxMarkScan through the following steps:
 

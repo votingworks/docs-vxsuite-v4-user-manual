@@ -1,4 +1,4 @@
-# Retaining & Removing Election Files
+# Retain and Remove Election Files
 
 {% hint style="info" %}
 These steps must be completed by an election manager, except removing election files from VxAdmin, which must be completed by a system administrator.
@@ -53,7 +53,7 @@ Machine log files are saved in the `/logs` folder on the USB drive.
 
 ### VxScan CVR Files
 
-VxScan CVRs include the VxScan's CVRs and ballot images. The log file contains the logs. To save the VxScan files, set up VxScan without the ballot box (see [VxScan Setup](../election-day-guides/vxscan-setup.md "mention")) and follow these steps:
+VxScan CVRs include the VxScan's CVRs and ballot images. The log file contains the logs. To save the VxScan files, set up VxScan without the ballot box (see [Set Up VxScan](../election-day-guides/vxscan-setup.md "mention")) and follow these steps:
 
 * [ ] Insert the election manager card
 * [ ] Select `CVRs and Logs` from the side menu

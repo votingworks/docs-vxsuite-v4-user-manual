@@ -38,7 +38,7 @@ Complete these tasks during early voting and/or on election day.
 
 ## Open Polls
 
-For details, see [Opening Polls](../election-day-guides/opening-polls.md "mention").
+For details, see [Open Polls](../election-day-guides/opening-polls.md "mention").
 
 * [ ] Insert the poll worker card
 * [ ] Select `Open Polls`
