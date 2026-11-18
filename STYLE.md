@@ -137,13 +137,17 @@ the page (packing up after setting up) can show it again.
 
 ### Highlights
 
-- Highlight the control the step tells the reader to select when the screen
-  offers several choices (menus, settings screens) or the control is small
-  or out of the way. One highlight per screenshot.
-- No highlight on result screens, screens shown for reading, or
-  confirmation dialogs and prompts, except to mark the one area of a
-  result screen the text asks the reader to check (the election
-  information panel after configuring).
+- Highlight the control the step tells the reader to select. One highlight
+  per screenshot.
+- Don't highlight it when it is the screen's only control, or when it is
+  the one primary (highest-weight) option of a dialog or a full-screen
+  prompt, such as `Confirm` over `Cancel`. A dialog or prompt step that
+  selects a lesser option, or one of buttons of equal weight, gets a
+  highlight. On menus and app pages, highlight the control even when it is
+  the primary button.
+- No highlight on result screens or screens shown for reading, except to
+  mark the one area of a result screen the text asks the reader to check
+  (the election information panel after configuring).
 - Highlighted captures carry a `highlight` field in the screenshot catalog;
   new ones end in `-highlighted`. To get one that doesn't exist, request it
   in vxsuite-screenshots ("highlight `Unconfigure Machine`").
