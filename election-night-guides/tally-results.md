@@ -18,7 +18,7 @@ The screen displays the list of all CVR exports on the USB drive. Often there is
 * [ ] If there are multiple exports, identify the correct export(s) by polling place, timestamp, or CVR count
 * [ ] Select the CVR export(s) you want to load
 
-<div><figure><img src="../.gitbook/assets/vxadmin-tally-screen-empty.png" alt="VxAdmin Tally screen on the Cast Vote Records tab with no CVRs loaded for any location." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-load-cvrs.png" alt="Load CVRs screen listing a CVR export found on the USB drive with a Load button" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxadmin-tally-screen-empty.png" alt="VxAdmin Tally screen on the Cast Vote Records tab with no CVRs loaded for any location." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-load-cvrs-load-highlighted.png" alt="Load CVRs screen listing a CVR export found on the USB drive with its Load button highlighted" width="375"><figcaption></figcaption></figure></div>
 
 The selected CVR export should show as "Loaded".
 
