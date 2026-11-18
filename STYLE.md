@@ -129,8 +129,8 @@ part of the technical data package.
   of steps.
 
 Not for: a step on a screen already shown when the control is obvious, a
-loading or transient screen (except one voters see with every ballot, such
-as VxScan's scanning screen), a message the text already quotes, checklists
+loading or transient screen (except one voters see with every ballot:
+VxScan's scanning screen, the "Printing Your Ballot" screen), a message the text already quotes, checklists
 (link to the full page instead), or reference pages other than error
 screens. Don't repeat an image within a procedure; a later procedure on
 the page (packing up after setting up) can show it again.
