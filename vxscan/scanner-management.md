@@ -43,13 +43,13 @@ These steps must be completed by an election manager.
 
 In order to prevent voters attempting to scan two ballots at once, VxScan has a double sheet detection feature.
 
-<figure><img src="../.gitbook/assets/vxscan-em-scanner-tab.png" alt="VxScan election manager Scanner tab with Calibrate and Disable Double Sheet Detection buttons" width="375"><figcaption></figcaption></figure>
-
 You need two sheets of blank paper that have the same paper weight as the ballots for the election.
 
 * [ ] Select the `Scanner` tab of the election manager menu
 * [ ] Select `Calibrate Double Sheet Detection`
 * [ ] Follow the instructions on screen
+
+<figure><img src="../.gitbook/assets/vxscan-em-scanner-calibrate-double-sheet-detection-highlighted.png" alt="VxScan election manager Scanner tab with the Calibrate Double Sheet Detection button highlighted" width="375"><figcaption></figcaption></figure>
 
 The `Disable Double Sheet Detection` feature is used to disable the ultrasonic sensor in the event that it fails and improperly rejects single sheets as multiple sheets. If VxScan stops taking ballots or repeatedly displays the "Ballot Not Counted - Multiple sheets detected" error message, contact VotingWorks support. This setting should only be used if advised by VotingWorks support.
 
