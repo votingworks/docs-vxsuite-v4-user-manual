@@ -29,3 +29,5 @@ By default, the manual tally ballot count is the same for all contests but can b
 * [ ] Select `Finish` after entering vote tallies for the last contest
 
 <div><figure><img src="../.gitbook/assets/vxadmin-manual-tallies-total-ballots-cast.png" alt="Edit Tallies screen with the Manual Tally Ballot Count field set to 10" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-manual-tallies-contest.png" alt="Edit Tallies contest screen for Governor with vote counts entered and Save and Next" width="375"><figcaption></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/vxadmin-manual-tallies-tab-filled.png" alt="VxAdmin Manual Tallies tab listing the entered tally by ballot style and voting method with its ballot count" width="375"><figcaption></figcaption></figure>

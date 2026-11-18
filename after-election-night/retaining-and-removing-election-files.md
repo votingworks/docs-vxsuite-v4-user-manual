@@ -70,12 +70,14 @@ In VxAdmin:
 * [ ] Log in with a system administrator card
 * [ ] Select `Election` from the side menu
 * [ ] Select `Unconfigure Machine`
+* [ ] Confirm by selecting `Delete All Election Data`
 
-<figure><img src="../.gitbook/assets/vxadmin-unconfigure-button.png" alt="VxAdmin system administrator Election screen with the Unconfigure Machine button highlighted" width="375"><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/vxadmin-unconfigure-button.png" alt="VxAdmin system administrator Election screen with the Unconfigure Machine button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-confirm-unconfigure-modal.png" alt="VxAdmin Unconfigure Machine confirmation dialog" width="375"><figcaption></figcaption></figure></div>
 
 In VxScan:
 
 * [ ] Log in with an election manager card
 * [ ] Select `Unconfigure Machine`
+* [ ] Confirm by selecting `Delete All Election Data`
 
-<figure><img src="../.gitbook/assets/vxscan-em-unconfigure-machine-button.png" alt="VxScan election manager Configuration tab with the Unconfigure Machine button highlighted" width="375"><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/vxscan-em-unconfigure-machine-button.png" alt="VxScan election manager Configuration tab with the Unconfigure Machine button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-em-unconfigure-machine-modal.png" alt="VxScan election manager Unconfigure Machine dialog with Cancel and Delete All Election Data" width="375"><figcaption></figcaption></figure></div>

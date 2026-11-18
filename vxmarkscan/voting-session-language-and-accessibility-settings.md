@@ -25,13 +25,17 @@ Four different color options are available to voters. The descriptions below say
 * `Dark text, light background` - the default setting, used by most people.
 * `Black text, white background` - used by people who need the highest contrast because of low vision or color perception disabilities or aging.
 
-<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-color-1.png" alt="Settings Color tab with White text, black background selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-color-2.png" alt="Settings Color tab with Gray text, dark background selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-color-3.png" alt="Settings Color tab with Dark text, light background selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-color-4.png" alt="Settings Color tab with Black text, white background selected" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-color-1.png" alt="Settings Color tab with White text, black background selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-color-2.png" alt="Settings Color tab with Gray text, dark background selected" width="188"><figcaption></figcaption></figure></div>
+
+<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-color-3.png" alt="Settings Color tab with Dark text, light background selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-color-4.png" alt="Settings Color tab with Black text, white background selected" width="188"><figcaption></figcaption></figure></div>
 
 ### Text Size
 
 The default text size is `Medium`. A voter can select `Small`, `Large`, or `Extra-Large` based on their preferences. Select `Done` to save the selection.
 
-<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-text-size-4.png" alt="Settings Text Size tab with Extra-Large selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-text-size-3.png" alt="Settings Text Size tab with Large selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-text-size-2.png" alt="Settings Text Size tab with Medium selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-text-size-1.png" alt="Settings Text Size tab with Small selected" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-text-size-4.png" alt="Settings Text Size tab with Extra-Large selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-text-size-3.png" alt="Settings Text Size tab with Large selected" width="188"><figcaption></figcaption></figure></div>
+
+<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-text-size-2.png" alt="Settings Text Size tab with Medium selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-text-size-1.png" alt="Settings Text Size tab with Small selected" width="188"><figcaption></figcaption></figure></div>
 
 ## Audio Settings
 
@@ -50,3 +54,5 @@ All selections above are made for a specific voting session and reset with the n
 ## PAT Settings
 
 VxMarkScan has a personal assistive technology (PAT) input port into which a voter can plug a dual-switch input such as a sip-and-puff device. When a PAT input is attached during a voting session, VxMarkScan enters a calibration flow where the voter maps their two inputs to "move" and "select." Different voters can calibrate their sip-and-puff devices differently such that sip is "move" for one and "select" for another. After calibration, a voter can access all VxMarkScan functionality throughout the voting session.
+
+<figure><img src="../.gitbook/assets/vxmarkscan-voting-pat-device-connected.png" alt="PAT device identification step 1 Test Your Device screen with Skip Identification" width="188"><figcaption></figcaption></figure>
