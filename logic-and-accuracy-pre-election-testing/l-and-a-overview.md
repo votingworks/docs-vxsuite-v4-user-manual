@@ -11,7 +11,7 @@ Before starting the testing process:
 * [ ] Select `Reports` from the side menu
 * [ ] Select `Full Election Tally Report` to print a zero report
 
-<figure><img src="../.gitbook/assets/vxadmin-reports-full-election-tally-highlighted.png" alt="VxAdmin Election Reports screen with the Full Election Tally Report button highlighted." width="375"><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/vxadmin-reports-full-election-tally-highlighted.png" alt="VxAdmin Election Reports screen with the Full Election Tally Report button highlighted." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-full-election-tally-report-zero.png" alt="VxAdmin Full Election Tally Report preview with zero votes in every contest" width="375"><figcaption></figcaption></figure></div>
 
 ## Test Ballot vs. Official Ballot Mode
 

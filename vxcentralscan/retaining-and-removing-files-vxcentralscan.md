@@ -14,6 +14,8 @@ VotingWorks recommends retaining a backup of the cast vote records (CVRs) and th
 
 <div><figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-save-cvrs-button.png" alt="VxCentralScan Batch History screen with the Save CVRs button highlighted." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxcentralscan-em-settings-save-logs-button.png" alt="VxCentralScan Settings screen with the Save Logs button highlighted." width="375"><figcaption></figcaption></figure></div>
 
+<figure><img src="../.gitbook/assets/vxcentralscan-save-logs-modal-formats.png" alt="VxCentralScan Save Logs dialog showing the log format options" width="375"><figcaption></figcaption></figure>
+
 ## Remove Election Files
 
 To remove the election configuration and all election data from VxCentralScan:

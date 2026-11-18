@@ -58,6 +58,9 @@ VxAdmin restarts in restore mode, which is marked by a banner at the top of ever
 * [ ] Connect the backup drive
 * [ ] Select the backup you want to restore
 * [ ] Select `Restore` to confirm
+
+<div><figure><img src="../.gitbook/assets/vxadmin-restore-mode-backup-list.png" alt="VxAdmin in restore mode listing the backups on the connected backup drive" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-restore-mode-confirm-modal.png" alt="VxAdmin restore confirmation dialog for the selected backup" width="375"><figcaption></figcaption></figure></div>
+
 * [ ] When the restore is complete, disconnect the backup drive
 * [ ] Select `Restart`
 

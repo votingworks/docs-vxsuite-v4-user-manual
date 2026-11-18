@@ -32,4 +32,4 @@ You may search the list of polling places by typing in the "Search Locations" ba
 
 Select a polling place to view all of its associated CVR exports. For each CVR export, the list shows the number of CVRs, the loading time, and the ID of the scanner. To remove an export from VxAdmin, select the trash can icon next to it.
 
-<figure><img src="../.gitbook/assets/vxadmin-tally-screen-location-cvrs-panel-remove-highlighted.png" alt="Tally screen with North Lincoln selected and the CVR export's trash icon highlighted" width="375"><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/vxadmin-tally-screen-location-cvrs-panel-remove-highlighted.png" alt="Tally screen with North Lincoln selected and the CVR export's trash icon highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-remove-cvr-file-modal.png" alt="VxAdmin Remove CVR File confirmation dialog" width="375"><figcaption></figcaption></figure></div>

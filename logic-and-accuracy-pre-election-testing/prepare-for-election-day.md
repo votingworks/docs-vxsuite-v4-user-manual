@@ -10,7 +10,7 @@ When L&A testing is complete, clear VxAdmin of cast vote records (CVRs) to prepa
 * [ ] Select `Remove All`
 * [ ] Select `Remove All CVRs` in the popup confirmation screen
 
-<figure><img src="../.gitbook/assets/vxadmin-tally-screen-with-cvrs-remove-all-highlighted.png" alt="VxAdmin Tally screen with CVRs loaded and the Remove All button highlighted." width="375"><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/vxadmin-tally-screen-with-cvrs-remove-all-highlighted.png" alt="VxAdmin Tally screen with CVRs loaded and the Remove All button highlighted." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-remove-all-cvrs-modal.png" alt="VxAdmin Remove All CVRs confirmation dialog" width="375"><figcaption></figcaption></figure></div>
 
 ## Toggle VxScan to Official Ballot Mode
 
