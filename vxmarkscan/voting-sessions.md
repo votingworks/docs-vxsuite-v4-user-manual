@@ -60,7 +60,7 @@ The "Ballots Printed" count in VxMarkScan intentionally increments up by one for
 
 The final "Review Your Votes" screen is displayed to compare the official ballot selections with the screen. Select `Cast My Ballot` to cast the ballot.
 
-<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-review.png" alt="Review Your Votes screen listing selections with Change buttons and Print My Ballot" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-post-print-review.png" alt="Review Your Votes screen after scanning the printed ballot, with My Ballot is Incorrect and Cast My Ballot buttons." width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-review.png" alt="Review Your Votes screen listing selections with Change buttons and Print My Ballot" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-printing.png" alt="VxMarkScan Printing Your Ballot screen asking the voter not to remove the ballot" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-post-print-review.png" alt="Review Your Votes screen after scanning the printed ballot, with My Ballot is Incorrect and Cast My Ballot buttons." width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 If the voter removes the ballot from the printer to review, VxMarkScan asks if they are still voting. They must reload their ballot to cast it. If the ballot is not reloaded, VxMarkScan clears the ballot after five minutes of inactivity.

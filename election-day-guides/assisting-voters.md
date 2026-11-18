@@ -8,7 +8,9 @@ VxScan is ready to accept a new ballot whenever it displays "Insert Your Ballot"
 
 <figure><img src="../.gitbook/assets/vxscan-insert-ballot.png" alt="VxScan Insert Your Ballot screen ready to accept a ballot sheet" width="375"><figcaption></figcaption></figure>
 
-A voter can then push their ballot onto the tray and into the scanner. When a ballot is properly inserted, the scanner grips the ballot. If a ballot is inserted at an angle, the scanner may push the ballot back into the voter's hands without scanning, in which case the voter should reinsert their ballot. VxScan then scans the ballot by pulling it in.
+A voter can then push their ballot onto the tray and into the scanner. When a ballot is properly inserted, the scanner grips the ballot. If a ballot is inserted at an angle, the scanner may push the ballot back into the voter's hands without scanning, in which case the voter should reinsert their ballot. VxScan then scans the ballot by pulling it in while showing the following screen:
+
+<figure><img src="../.gitbook/assets/vxscan-scanning.png" alt="VxScan Please wait screen shown while scanning the marks on a ballot" width="375"><figcaption></figcaption></figure>
 
 If the ballot has no issues, the ballot goes into the ballot box and the screen shows that the ballot has been counted. Notice that the "Sheets Scanned" count goes up.
 

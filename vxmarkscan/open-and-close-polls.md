@@ -22,7 +22,9 @@ To open the polls:
 * [ ] Verify the number of ballots printed is zero
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-smart-card-reader.jpg" alt="Smart card reader slot (yellow) in the recess beside the headphones on VxMarkScan." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-open-polls-highlighted.png" alt="VxMarkScan poll worker menu with polls closed and the Open Polls button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-open-polls-modal.png" alt="VxMarkScan Open Polls confirmation dialog" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-polls-open.png" alt="VxMarkScan poll worker menu with polls open and zero ballots printed" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-smart-card-reader.jpg" alt="Smart card reader slot (yellow) in the recess beside the headphones on VxMarkScan." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-open-polls-highlighted.png" alt="VxMarkScan poll worker menu with polls closed and the Open Polls button highlighted" width="188"><figcaption></figcaption></figure></div>
+
+<div><figure><img src="../.gitbook/assets/vxmarkscan-pw-open-polls-modal.png" alt="VxMarkScan Open Polls confirmation dialog" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-polls-open.png" alt="VxMarkScan poll worker menu with polls open and zero ballots printed" width="188"><figcaption></figcaption></figure></div>
 
 The polls are now open and voting can begin.
 
@@ -35,7 +37,9 @@ The polls are now open and voting can begin.
 * [ ] Confirm by selecting `Close Polls` again
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-ballot-bin-seal.png" alt="Seal loop on the right side of the VxMarkScan ballot bin" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-polls-open-close-polls-highlighted.png" alt="VxMarkScan poll worker menu with polls open and the Close Polls button highlighted." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-close-polls-modal.png" alt="VxMarkScan Close Polls confirmation dialog." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-polls-closed-final.png" alt="VxMarkScan poll worker menu after polls are closed, showing only Signed Hash Validation" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxmarkscan-ballot-bin-seal.png" alt="Seal loop on the right side of the VxMarkScan ballot bin" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-polls-open-close-polls-highlighted.png" alt="VxMarkScan poll worker menu with polls open and the Close Polls button highlighted." width="188"><figcaption></figcaption></figure></div>
+
+<div><figure><img src="../.gitbook/assets/vxmarkscan-pw-close-polls-modal.png" alt="VxMarkScan Close Polls confirmation dialog." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-menu-polls-closed-final.png" alt="VxMarkScan poll worker menu after polls are closed, showing only Signed Hash Validation" width="188"><figcaption></figcaption></figure></div>
 
 The polls are now closed and voting is complete.
 

@@ -34,7 +34,9 @@ VxCentralScan can be set up through the following steps:
    * [ ] Turn on the UPS
    * [ ] Press the power button (E) to turn the scanner on
 
-   <div><figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-ricoh-fi8170.jpg" alt="Remove scanner and power cord from case" width="188"><figcaption><p>Remove the scanner and power cord from the case</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-trays-labeled.jpg" alt="Attach and pull out paper trays" width="188"><figcaption><p>Attach and pull out the paper trays</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-rear-ports-labeled.jpg" alt="Plug cords in" width="188"><figcaption><p>Plug in the cords</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-power-button-labeled.jpg" alt="Press the power button to turn on" width="188"><figcaption><p>Press the power button to turn on</p></figcaption></figure></div>
+   <div><figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-ricoh-fi8170.jpg" alt="Remove scanner and power cord from case" width="188"><figcaption><p>Remove the scanner and power cord from the case</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-trays-labeled.jpg" alt="Attach and pull out paper trays" width="188"><figcaption><p>Attach and pull out the paper trays</p></figcaption></figure></div>
+
+   <div><figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-rear-ports-labeled.jpg" alt="Plug cords in" width="188"><figcaption><p>Plug in the cords</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-power-button-labeled.jpg" alt="Press the power button to turn on" width="188"><figcaption><p>Press the power button to turn on</p></figcaption></figure></div>
 
 2. **Set up the VxCentralScan laptop:**
    * [ ] Remove and document seals as necessary
@@ -48,7 +50,7 @@ VxCentralScan can be set up through the following steps:
    * [ ] Pull the scanner cord (C) out and plug into the USB hub and the scanner
    * [ ] Turn the laptop on
 
-   <div><figure><img src="../.gitbook/assets/photo-vxcentralscan-laptop-in-case.jpg" alt="Remove laptop" width="188"><figcaption><p>Remove the laptop</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-peripherals-in-case.jpg" alt="Remove components" width="188"><figcaption><p>Remove the components</p></figcaption></figure></div>
+   <div><figure><img src="../.gitbook/assets/photo-vxcentralscan-laptop-in-case.jpg" alt="Remove laptop" width="188"><figcaption><p>Remove the laptop</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-peripherals-in-case.jpg" alt="Remove components" width="188"><figcaption><p>Remove the components</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-setup.jpg" alt="Plug components in" width="188"><figcaption><p>Plug in the components</p></figcaption></figure></div>
 
 ## Pack Up VxCentralScan
 
@@ -56,7 +58,9 @@ To pack up VxCentralScan:
 
 * [ ] Place all of the components back into the case as displayed above
 * [ ] Package the batch document scanner
-* [ ] Secure the laptop case as required by sealing the eyelets shown above
+* [ ] Secure the laptop case as required by sealing the eyelets highlighted below
+
+<figure><img src="../.gitbook/assets/photo-vxcentralscan-case-seals.png" alt="Closed tan VxCentralScan case with red tamper-evident seals on both latches circled." width="375"><figcaption><p>Seal the case</p></figcaption></figure>
 
 ## Imprinting
 

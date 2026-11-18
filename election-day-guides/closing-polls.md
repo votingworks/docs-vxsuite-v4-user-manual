@@ -9,7 +9,9 @@ The polls closed report prints.
 
 * [ ] Tear to remove the report
 
-<div><figure><img src="../.gitbook/assets/photo-vxscan-insert-poll-worker-card.png" alt="Hand inserting a Poll Worker smart card into the VxScan card reader slot" width="375"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-close-polls-prompt.png" alt="VxScan poll worker prompt asking Do you want to close the polls" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-report-printing.png" alt="VxScan printing a report from the slot below the screen while the screen shows a progress indicator" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxscan-insert-poll-worker-card.png" alt="Hand inserting a Poll Worker smart card into the VxScan card reader slot" width="375"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-close-polls-prompt.png" alt="VxScan poll worker prompt asking Do you want to close the polls" width="375"><figcaption></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/photo-vxscan-report-printing.png" alt="VxScan printing a report from the slot below the screen while the screen shows a progress indicator" width="375"><figcaption></figcaption></figure>
 
 * [ ] Select `Reprint Polls Closed Report` to print more reports as necessary
 * [ ] Remove the poll worker card
