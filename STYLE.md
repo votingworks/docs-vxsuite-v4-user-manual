@@ -141,7 +141,9 @@ the page (packing up after setting up) can show it again.
   offers several choices (menus, settings screens) or the control is small
   or out of the way. One highlight per screenshot.
 - No highlight on result screens, screens shown for reading, or
-  confirmation dialogs and prompts.
+  confirmation dialogs and prompts, except to mark the one area of a
+  result screen the text asks the reader to check (the election
+  information panel after configuring).
 - Highlighted captures carry a `highlight` field in the screenshot catalog;
   new ones end in `-highlighted`. To get one that doesn't exist, request it
   in vxsuite-screenshots ("highlight `Unconfigure Machine`").

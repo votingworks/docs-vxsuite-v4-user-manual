@@ -31,7 +31,7 @@ VxCentralScan is now configured and in test ballot mode. The election summary in
 
 * [ ] Confirm that the election summary information is correct
 
-<figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-test-mode.png" alt="VxCentralScan Scan Ballots screen in test ballot mode with the election summary information in the bottom left corner" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-test-mode-election-info-highlight.png" alt="VxCentralScan Scan Ballots screen in test ballot mode with the election summary information in the bottom left corner highlighted" width="375"><figcaption></figcaption></figure>
 
 ## Select a Polling Place
 
