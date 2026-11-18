@@ -8,7 +8,7 @@ description: >-
 
 ## Hardware Overview
 
-VxAdmin is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software and an optional printer. All USB drives, cords, adapters, and programmable smart cards needed to operate the system are included and stored in an orange case. An APC uninterruptible power supply (UPS) provides backup power to the VxAdmin printer.
+VxAdmin is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software and an optional printer. All USB drives, cords, adapters, and programmable smart cards needed to operate the system are included and stored in an orange case.
 
 <div><figure><img src="../.gitbook/assets/photo-vxadmin-case-closed.png" alt="Closed orange VxAdmin carrying case with VotingWorks label on a table." width="375"><figcaption><p>VxAdmin stored in case</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxadmin-setup.jpg" alt="VxAdmin laptop showing the locked screen, connected to a mouse, USB hub and HP LaserJet printer." width="375"><figcaption><p>VxAdmin fully set up</p></figcaption></figure></div>
 
@@ -17,8 +17,7 @@ VxAdmin is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWor
 1. **Set up the printer:**
    * [ ] Remove the printer and power cord from the case
    * [ ] Plug the power cord into the back of the printer
-   * [ ] Plug the power cord into the APC UPS
-   * [ ] Plug the APC UPS into a power outlet
+   * [ ] Plug the power cord into an outlet
    * [ ] Press the power button to turn the printer on
    * [ ] Load paper into the lower paper tray
 
@@ -54,8 +53,7 @@ To pack up VxAdmin:
 
 * [ ] Place all of the components back into the case as shown above
 * [ ] Secure the case as required by sealing the eyelets highlighted below
-* [ ] Disconnect the printer power cord from the APC UPS
+* [ ] Disconnect the printer power cord from the outlet
 * [ ] Pack up the printer and its power cord
-* [ ] Pack up the APC UPS
 
 <figure><img src="../.gitbook/assets/photo-vxadmin-case-seals.png" alt="Closed orange VxAdmin case with red tamper-evident seals on both latches circled." width="375"><figcaption><p>Seal the case</p></figcaption></figure>
