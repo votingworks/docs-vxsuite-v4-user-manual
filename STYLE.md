@@ -129,7 +129,8 @@ part of the technical data package.
 Not for: a step on a screen already shown when the control is obvious, a
 loading or transient screen, a message the text already quotes, checklists
 (link to the full page instead), or reference pages other than error
-screens. Don't show the same image twice on a page.
+screens. Don't repeat an image within a procedure; a later procedure on
+the page (packing up after setting up) can show it again.
 
 ### Highlights
 
