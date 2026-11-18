@@ -45,7 +45,7 @@ When testing is complete, switch VxCentralScan to official ballot mode on the `S
 
 The `Scan Ballots` page should show zeroes for "Total Batches" and "Total Sheets," and there should also be no test ballot mode banner. VxCentralScan is now ready for the election.
 
-<figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-empty.png" alt="Scan Ballots screen in official ballot mode with zeroes for Total Batches and Total Sheets" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxcentralscan-scan-ballots-empty-batch-stats-highlight.png" alt="Scan Ballots screen ready to scan with the Total Batches and Total Sheets counters highlighted" width="375"><figcaption></figcaption></figure>
 
 ## Remove Configuration and Election Data
 
