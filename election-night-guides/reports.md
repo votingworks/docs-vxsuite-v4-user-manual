@@ -30,7 +30,7 @@ To create a filtered and/or grouped report:
 * [ ] Select `Add Filter`
 * [ ] Select a filter type, e.g., ballot style, voting method, or precinct
 
-<div><figure><img src="../.gitbook/assets/vxadmin-tally-report-builder.png" alt="VxAdmin Tally Report Builder with no filters added and no Report By options selected." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-tally-report-builder-filter-dropdown-open.png" alt="VxAdmin Tally Report Builder with a new filter's type dropdown open listing ballot style, batch, precinct and more." width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxadmin-tally-report-builder-add-filter-highlighted.png" alt="VxAdmin Tally Report Builder with no filters added and the Add Filter button highlighted." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-tally-report-builder-filter-dropdown-open.png" alt="VxAdmin Tally Report Builder with a new filter's type dropdown open listing ballot style, batch, precinct and more." width="375"><figcaption></figcaption></figure></div>
 
 * [ ] Specify any specific ballot style(s), voting method(s), or precinct(s)
 * [ ] If needed, select `Add Filter` to add an additional filter

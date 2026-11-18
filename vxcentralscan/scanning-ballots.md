@@ -111,6 +111,8 @@ To export CVRs for loading into VxAdmin for further adjudication and reporting:
 * [ ] Once the USB drive is ejected, remove it
 * [ ] If using multiple VxCentralScan stations, repeat saving CVRs for each one
 
+<figure><img src="../.gitbook/assets/vxcentralscan-save-cvrs-modal-usb-inserted.png" alt="VxCentralScan Save CVRs dialog with a USB drive inserted and the Save button" width="375"><figcaption></figcaption></figure>
+
 {% hint style="warning" %}
 Seal tabulated ballots into a secure container after tabulation and record the seal number as required. Follow state guidelines to ensure proper retention.
 {% endhint %}

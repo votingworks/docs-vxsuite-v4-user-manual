@@ -12,7 +12,7 @@ Select the attributes of the ballot you want to print and then select `Print Bal
 * [ ] If the ballot style has multiple languages, change the language if necessary
 * [ ] Select `Print Ballot`
 
-<div><figure><img src="../.gitbook/assets/vxprint-pw-print-split-no-selections.png" alt="VxPrint poll worker Print screen showing precinct, split, party, and language options before selection" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxprint-pw-print-split-with-selections.png" alt="VxPrint poll worker Print screen with precinct, split, party, and language selected" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxprint-pw-print-split-no-selections.png" alt="VxPrint poll worker Print screen showing precinct, split, party, and language options before selection" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxprint-pw-print-selections-print-ballot-highlighted.png" alt="VxPrint poll worker Print screen with precinct, split, party, and language selected and the Print Ballot button highlighted" width="375"><figcaption></figcaption></figure></div>
 
 The options vary depending on the jurisdiction, election, and configuration. If the election manager has configured VxPrint for a specific precinct, the poll worker's options are limited to ballot styles for that precinct:
 

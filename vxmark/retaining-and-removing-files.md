@@ -12,7 +12,7 @@ Logs are saved in the `/logs` folder on the USB drive. To save logs:
 * [ ] Select a log format (VotingWorks recommends the `Default` format unless instructed otherwise)
 * [ ] Select `Save`
 
-<div><figure><img src="../.gitbook/assets/vxmark-em-menu-save-logs-highlighted.png" alt="Election Manager Menu with the Save Logs button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-sa-menu-save-logs-highlighted.png" alt="System Administrator Menu with the Save Logs button highlighted." width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmark-em-menu-save-logs-highlighted.png" alt="Election Manager Menu with the Save Logs button highlighted" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-sa-menu-save-logs-highlighted.png" alt="System Administrator Menu with the Save Logs button highlighted." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmark-em-save-logs-modal-formats.png" alt="VxMark Save Logs dialog showing the log format options" width="188"><figcaption></figcaption></figure></div>
 
 ## Remove Election Files
 
