@@ -75,7 +75,9 @@ For each election, you will create election manager and poll worker cards specif
 
 When creating an election manager or system administrator card, the screen shows you a unique PIN for that card. Keep the PIN secure. When creating a poll worker card, the screen confirms the card is created.
 
-<div><figure><img src="../.gitbook/assets/vxadmin-smart-cards-sa-programmed.png" alt="VxAdmin Smart Cards screen after programming a system administrator card, showing the new PIN." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-smart-cards-em-programmed.png" alt="VxAdmin Smart Cards screen after programming an election manager card, showing the new PIN." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-smart-cards-pw-programmed.png" alt="VxAdmin Smart Cards screen after programming a poll worker card, prompting to remove the card." width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxadmin-smart-cards-sa-programmed.png" alt="VxAdmin Smart Cards screen after programming a system administrator card, showing the new PIN." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-smart-cards-em-programmed.png" alt="VxAdmin Smart Cards screen after programming an election manager card, showing the new PIN." width="375"><figcaption></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/vxadmin-smart-cards-pw-programmed.png" alt="VxAdmin Smart Cards screen after programming a poll worker card, prompting to remove the card." width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If VxAdmin is not configured with an election, you can only program system administrator cards because election manager and poll worker cards are election-specific.
@@ -85,8 +87,12 @@ If VxAdmin is not configured with an election, you can only program system admin
 
 If you insert an already programmed card, you are presented with options to modify the card.
 
-<div><figure><img src="../.gitbook/assets/vxadmin-smart-cards-sa-existing.png" alt="VxAdmin Smart Cards screen with an existing system administrator card and the Reset Card PIN button." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-smart-cards-pw-existing.png" alt="VxAdmin Smart Cards screen with an existing poll worker card and the Unprogram Card button." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-smart-cards-em-existing.png" alt="VxAdmin Smart Cards screen with an existing election manager card, Unprogram Card and Reset Card PIN buttons." width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxadmin-smart-cards-sa-existing.png" alt="VxAdmin Smart Cards screen with an existing system administrator card and the Reset Card PIN button." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-smart-cards-pw-existing.png" alt="VxAdmin Smart Cards screen with an existing poll worker card and the Unprogram Card button." width="375"><figcaption></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/vxadmin-smart-cards-em-existing.png" alt="VxAdmin Smart Cards screen with an existing election manager card, Unprogram Card and Reset Card PIN buttons." width="375"><figcaption></figcaption></figure>
 
 `Unprogram Card` removes the election configuration from the card, after which it can be programmed for a new election. System administrator cards cannot be unprogrammed.
 
 `Reset Card PIN` resets the card PIN. The old PIN is no longer valid. Note the new PIN and keep it secure. The PIN can only be reset on cards that match the current election.
+
+<div><figure><img src="../.gitbook/assets/vxadmin-smart-cards-sa-pin-reset-confirm-highlighted.png" alt="VxAdmin Reset System Administrator Card PIN dialog warning that the old PIN will no longer work, with the Reset System Administrator Card PIN button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-smart-cards-sa-pin-reset.png" alt="VxAdmin Smart Cards screen after a PIN reset, showing the new PIN to record" width="375"><figcaption></figcaption></figure></div>

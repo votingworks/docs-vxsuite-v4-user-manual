@@ -58,4 +58,4 @@ To pack up VxAdmin:
 * [ ] Pack up the printer and its power cord
 * [ ] Pack up the APC UPS
 
-<figure><img src="../.gitbook/assets/photo-vxadmin-case-seals.png" alt="Closed orange VxAdmin case with red tamper-evident seals on both latches circled." width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo-vxadmin-case-seals.png" alt="Closed orange VxAdmin case with red tamper-evident seals on both latches circled." width="375"><figcaption><p>Seal the case</p></figcaption></figure>

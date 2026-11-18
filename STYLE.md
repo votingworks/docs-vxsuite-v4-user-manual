@@ -83,7 +83,9 @@ part of the technical data package.
 - Conditional steps start with the condition: "If prompted, select the
   ballot language". No italics.
 - Close with the outcome: "The polls are now open and voting can begin."
-- Screenshots and photos follow the steps they illustrate.
+- Screenshots and photos follow the steps they illustrate. A result screen
+  that also holds the next step's control (a "saved" dialog with `Eject
+  USB`) follows that next step.
 
 ## User Interface
 
@@ -127,18 +129,25 @@ part of the technical data package.
   of steps.
 
 Not for: a step on a screen already shown when the control is obvious, a
-loading or transient screen, a message the text already quotes, checklists
+loading or transient screen (except one voters see with every ballot:
+VxScan's scanning screen, the "Printing Your Ballot" screen), a message the text already quotes, checklists
 (link to the full page instead), or reference pages other than error
-screens. Don't show the same image twice on a page.
+screens. Don't repeat an image within a procedure; a later procedure on
+the page (packing up after setting up) can show it again.
 
 ### Highlights
 
-- Highlight the control the step tells the reader to select when the screen
-  offers several choices (menus, settings screens) or the control is small
-  or out of the way. One highlight per screenshot.
-- No highlight on result screens or screens shown for reading. In a
-  confirmation dialog, highlight the confirm button only when it is one of
-  several buttons of similar weight.
+- Highlight the control the step tells the reader to select. One highlight
+  per screenshot.
+- Don't highlight it when it is the screen's only control, or when it is
+  the one primary (highest-weight) option of a dialog or a full-screen
+  prompt, such as `Confirm` over `Cancel`. A dialog or prompt step that
+  selects a lesser option, or one of buttons of equal weight, gets a
+  highlight. On menus and app pages, highlight the control even when it is
+  the primary button.
+- No highlight on result screens or screens shown for reading, except to
+  mark the one area of a result screen the text asks the reader to check
+  (the election information panel after configuring).
 - Highlighted captures carry a `highlight` field in the screenshot catalog;
   new ones end in `-highlighted`. To get one that doesn't exist, request it
   in vxsuite-screenshots ("highlight `Unconfigure Machine`").
@@ -148,7 +157,9 @@ screens. Don't show the same image twice on a page.
 - GitBook figure markup with alt text that says what the figure shows.
 - Width 375 for landscape screenshots and photos; 188 for portrait (VxMark
   and VxMarkScan) screenshots and small detail photos; 563 for wide diagrams.
-  One width per side-by-side row (`<div>` of figures).
+  One width per side-by-side row (`<div>` of figures). A row holds at most
+  three portrait screenshots or two landscape images; split a longer
+  sequence into rows as even as possible (four as two and two).
 - Screenshots have no caption; photos have a short sentence-case action
   caption ("Push the release lever"). No code in captions.
 - Screenshots use their gallery ID as the file name; the screenshots workflow

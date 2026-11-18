@@ -15,7 +15,7 @@ To open the polls:
 
 The polls opened report starts printing.
 
-<div><figure><img src="../.gitbook/assets/photo-vxscan-insert-poll-worker-card.png" alt="Hand inserting a Poll Worker smart card into the VxScan card reader slot" width="375"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-open-polls-button.png" alt="VxScan poll worker prompt Do you want to open the polls with the Open Polls button highlighted" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxscan-insert-poll-worker-card.png" alt="Hand inserting a Poll Worker smart card into the VxScan card reader slot" width="375"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-open-polls-prompt.png" alt="VxScan poll worker prompt asking Do you want to open the polls" width="375"><figcaption></figcaption></figure></div>
 
 * [ ] Gently tear the report against the tear bar
 * [ ] If you see the `Print Next Report` button, select it
@@ -31,7 +31,7 @@ The polls opened report starts printing.
 
 The polls are now open. The number of ballots scanned should be zero.
 
-<figure><img src="../.gitbook/assets/vxscan-insert-ballot-election-info.png" alt="VxScan Insert Your Ballot screen with the election name and precinct in the footer highlighted" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-insert-ballot.png" alt="VxScan Insert Your Ballot screen with the election name, date, and polling place in the footer" width="375"><figcaption></figcaption></figure>
 
 Below is an example of the polls opened report. All totals should be zero.
 

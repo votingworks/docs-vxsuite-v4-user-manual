@@ -22,4 +22,4 @@ To remove the election configuration and all election data from VxCentralScan:
 * [ ] Select `Unconfigure Machine`
 * [ ] Confirm by selecting `Delete All Election Data`
 
-<div><figure><img src="../.gitbook/assets/vxcentralscan-em-settings-unconfigure-machine-button.png" alt="VxCentralScan Settings screen with the Unconfigure Machine button highlighted." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxcentralscan-em-settings-confirm-unconfigure-button.png" alt="Unconfigure Machine dialog with the Delete All Election Data button highlighted" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxcentralscan-em-settings-unconfigure-machine-button.png" alt="VxCentralScan Settings screen with the Unconfigure Machine button highlighted." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxcentralscan-em-settings-confirm-unconfigure-modal.png" alt="Unconfigure Machine dialog" width="375"><figcaption></figcaption></figure></div>

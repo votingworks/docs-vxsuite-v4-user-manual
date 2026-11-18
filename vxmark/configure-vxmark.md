@@ -32,7 +32,7 @@ After the USB drive is inserted, VxMark automatically begins loading all ballot 
 
 Use the `Select a polling place...` dropdown to choose a polling place. Only ballot styles for the selected polling place are options for voting.
 
-<figure><img src="../.gitbook/assets/vxmark-em-menu-polling-place-selected.png" alt="Election Manager Menu with a polling place selected in the polling place dropdown" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxmark-em-menu-no-polling-place-highlighted.png" alt="VxMark election manager menu with the Select a polling place dropdown highlighted" width="188"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If your election package defines only one polling place, there is no need to select one and the `Select a polling place...` dropdown isn't visible.

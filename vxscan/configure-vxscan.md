@@ -32,6 +32,8 @@ After the USB drive is inserted, VxScan automatically begins loading all ballot 
 
 Use the `Select a polling place...` dropdown to choose a polling place.
 
+<figure><img src="../.gitbook/assets/vxscan-em-polling-place-not-selected-highlighted.png" alt="VxScan election manager Configuration tab with the Select a polling place dropdown highlighted" width="375"><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 If your election package defines only one polling place, there is no need to select one and the `Select a polling place...` dropdown isn't visible.
 {% endhint %}
@@ -62,6 +64,6 @@ You can now configure VxScan with a different election package.
 * [ ] Select `Unconfigure Machine`
 * [ ] Confirm by selecting `Delete All Election Data`
 
-<figure><img src="../.gitbook/assets/vxscan-sa-unconfigure-machine-button.png" alt="VxScan System Administrator Menu with the Unconfigure Machine button highlighted" width="375"><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/vxscan-sa-unconfigure-machine-button.png" alt="VxScan System Administrator Menu with the Unconfigure Machine button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-sa-unconfigure-machine-modal.png" alt="VxScan system administrator Unconfigure Machine dialog with Cancel and Delete All Election Data" width="375"><figcaption></figcaption></figure></div>
 
 You can now configure VxScan with a different election package.

@@ -20,7 +20,7 @@ Voting is now paused. To resume voting:
 
 * [ ] Insert a poll worker card and select `Resume Voting`
 
-<div><figure><img src="../.gitbook/assets/vxscan-pw-resume-voting-button.png" alt="VxScan poll worker prompt Do you want to resume voting with the Resume Voting button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pw-voting-resumed.png" alt="VxScan Voting Resumed screen confirming the report printed, with Reprint Voting Resumed Report" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxscan-pw-resume-voting-prompt.png" alt="VxScan poll worker prompt asking Do you want to resume voting" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pw-voting-resumed.png" alt="VxScan Voting Resumed screen confirming the report printed, with Reprint Voting Resumed Report" width="375"><figcaption></figcaption></figure></div>
 
 * [ ] Select `Reprint Voting Resumed Report` to print more reports as necessary
 * [ ] Remove the poll worker card

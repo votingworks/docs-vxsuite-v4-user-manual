@@ -16,7 +16,7 @@ While in early voting mode, an "Early Voting" status is always displayed on the 
 
 The default action for poll workers in early voting mode is `Pause Voting` rather than `Close Polls`. Poll workers should select `Pause Voting` at the end of each voting day and select `Resume Voting` at the beginning of each voting day.
 
-<figure><img src="../.gitbook/assets/vxscan-pw-pause-voting-prompt-button.png" alt="VxScan poll worker pause voting prompt with the Pause Voting button highlighted" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-pw-pause-voting-prompt.png" alt="VxScan poll worker prompt asking Do you want to pause voting" width="375"><figcaption></figcaption></figure>
 
 ## Save CVRs
 
@@ -37,7 +37,9 @@ The logs contain information about the regular operation of the hardware and sof
 * [ ] Select a log format (VotingWorks recommends the `Default` format unless instructed otherwise)
 * [ ] Select `Save`
 
-<div><figure><img src="../.gitbook/assets/vxscan-em-save-logs-button.png" alt="VxScan election manager CVRs and Logs tab with the Save Logs button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-sa-save-logs-button.png" alt="VxScan system administrator menu with the Save Logs button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-em-save-logs-modal.png" alt="VxScan election manager Save Logs dialog with log format options Default, Errors, and CDF" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxscan-em-save-logs-button.png" alt="VxScan election manager CVRs and Logs tab with the Save Logs button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-sa-save-logs-button.png" alt="VxScan system administrator menu with the Save Logs button highlighted" width="375"><figcaption></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/vxscan-em-save-logs-modal.png" alt="VxScan election manager Save Logs dialog with log format options Default, Errors, and CDF" width="375"><figcaption></figcaption></figure>
 
 ## Set the Date and Time
 
@@ -45,7 +47,9 @@ The time on VxScan should stay mostly accurate, including automatically adjustin
 
 * [ ] Select `Set Date and Time`
 
-<div><figure><img src="../.gitbook/assets/vxscan-em-set-date-time.png" alt="VxScan election manager More tab with the Set Date and Time button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-sa-set-date-time.png" alt="VxScan system administrator menu with the Set Date and Time button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-em-set-date-time-modal.png" alt="VxScan election manager Set Date and Time dialog with date, time, and time zone pickers" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxscan-em-set-date-time.png" alt="VxScan election manager More tab with the Set Date and Time button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-sa-set-date-time.png" alt="VxScan system administrator menu with the Set Date and Time button highlighted" width="375"><figcaption></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/vxscan-em-set-date-time-modal.png" alt="VxScan election manager Set Date and Time dialog with date, time, and time zone pickers" width="375"><figcaption></figcaption></figure>
 
 ## Mute Sounds
 

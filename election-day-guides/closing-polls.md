@@ -9,12 +9,14 @@ The polls closed report prints.
 
 * [ ] Tear to remove the report
 
-<div><figure><img src="../.gitbook/assets/photo-vxscan-insert-poll-worker-card.png" alt="Hand inserting a Poll Worker smart card into the VxScan card reader slot" width="375"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-close-polls-button.png" alt="VxScan poll worker prompt Do you want to close the polls with the Close Polls button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-report-printing.png" alt="VxScan printing a report from the slot below the screen while the screen shows a progress indicator" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxscan-insert-poll-worker-card.png" alt="Hand inserting a Poll Worker smart card into the VxScan card reader slot" width="375"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-close-polls-prompt.png" alt="VxScan poll worker prompt asking Do you want to close the polls" width="375"><figcaption></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/photo-vxscan-report-printing.png" alt="VxScan printing a report from the slot below the screen while the screen shows a progress indicator" width="375"><figcaption></figcaption></figure>
 
 * [ ] Select `Reprint Polls Closed Report` to print more reports as necessary
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/vxscan-reprint-polls-closed-report-button.png" alt="VxScan Polls Closed screen with the Reprint Polls Closed Report button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-polls-closed-final.png" alt="VxScan Polls Closed screen reading Voting is complete after the poll worker card is removed" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxscan-polls-closed-report.png" alt="VxScan Polls Closed screen after the report prints, with the Reprint Polls Closed Report button" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-polls-closed-final.png" alt="VxScan Polls Closed screen reading Voting is complete after the poll worker card is removed" width="375"><figcaption></figcaption></figure></div>
 
 * [ ] Unseal and document the poll worker door seal as required
 * [ ] Open the poll worker door
