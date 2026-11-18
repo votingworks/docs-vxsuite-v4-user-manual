@@ -83,7 +83,9 @@ part of the technical data package.
 - Conditional steps start with the condition: "If prompted, select the
   ballot language". No italics.
 - Close with the outcome: "The polls are now open and voting can begin."
-- Screenshots and photos follow the steps they illustrate.
+- Screenshots and photos follow the steps they illustrate. A result screen
+  that also holds the next step's control (a "saved" dialog with `Eject
+  USB`) follows that next step.
 
 ## User Interface
 
