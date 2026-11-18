@@ -22,7 +22,7 @@ Once the sheet is loaded, the screen shows that the voting session is active.
 * [ ] Review the precinct and ballot style to ensure it was selected correctly for the voter
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/vxmarkscan-pw-load-ballot-sheet.png" alt="VxMarkScan Load Ballot Sheet prompt asking to feed one sheet into the front input tray" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-remove-card-to-vote.png" alt="VxMarkScan Remove Card to Begin Voting Session screen showing the selected ballot style" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-pw-load-ballot-sheet.png" alt="VxMarkScan Load Ballot Sheet prompt asking to feed one sheet into the front input tray" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-loading-sheet.png" alt="VxMarkScan Loading Sheet screen with a spinner while the ballot sheet is pulled in" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-pw-remove-card-to-vote.png" alt="VxMarkScan Remove Card to Begin Voting Session screen showing the selected ballot style" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 If the wrong ballot style or precinct was selected, insert the poll worker card (if not already inserted) and select `Cancel Voting Session` to return to the poll worker menu.
@@ -68,7 +68,7 @@ If the voter removes the ballot from the printer to review, VxMarkScan asks if t
 
 The screen shows the ballot being cast and verifies it was cast and dropped into the ballot bin.
 
-<figure><img src="../.gitbook/assets/vxmarkscan-voting-ballot-cast.png" alt="VxMarkScan confirmation that the voter's ballot was cast" width="188"><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-casting-ballot.png" alt="VxMarkScan Casting Ballot screen shown while the printed ballot is scanned and cast" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-ballot-cast.png" alt="VxMarkScan confirmation that the voter's ballot was cast" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 If headphones are used, VotingWorks recommends using earpad covers and replacing them after each use. See [Supply List](../miscellaneous/supply-list.md "mention") for more information.
