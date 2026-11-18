@@ -10,7 +10,7 @@ To configure VxScan, VxCentralScan, VxMark, VxMarkScan, or VxPrint, you must fir
 * [ ] If a USB drive isn't already inserted, insert a USB drive
 * [ ] Select `Save`
 
-<figure><img src="../.gitbook/assets/vxadmin-sa-confirm-save-election-package-button.png" alt="VxAdmin Save Election Package dialog with the Save button highlighted." width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxadmin-sa-confirm-save-election-package-modal.png" alt="VxAdmin Save Election Package dialog." width="375"><figcaption></figcaption></figure>
 
 VxAdmin saves the election package to the USB drive.
 

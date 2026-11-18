@@ -62,7 +62,7 @@ To remove the election configuration and all election data from VxPrint:
 * [ ] Select `Unconfigure Machine`
 * [ ] Confirm by selecting `Delete All Election Data`
 
-<div><figure><img src="../.gitbook/assets/vxprint-em-election-unconfigure-highlighted.png" alt="VxPrint Election screen with the Unconfigure Machine button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxprint-em-unconfigure-modal.png" alt="VxPrint Unconfigure Machine dialog with the Delete All Election Data button highlighted" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxprint-em-election-unconfigure-highlighted.png" alt="VxPrint Election screen with the Unconfigure Machine button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxprint-em-unconfigure-modal.png" alt="VxPrint Unconfigure Machine dialog" width="375"><figcaption></figcaption></figure></div>
 
 You can now configure VxPrint with a different election package.
 

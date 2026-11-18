@@ -19,7 +19,7 @@ Formatting the USB drive deletes all files on the USB drive.
 
 * [ ] Select `Format USB Drive` to confirm
 
-<figure><img src="../.gitbook/assets/vxadmin-confirm-format-usb-drive-button.png" alt="VxAdmin Format USB Drive confirmation dialog with the Format USB Drive button highlighted." width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxadmin-confirm-format-usb-drive-modal.png" alt="VxAdmin Format USB Drive confirmation dialog." width="375"><figcaption></figcaption></figure>
 
 VxAdmin then confirms your USB drive is ready for use. Repeat these steps for all other USB drives.
 

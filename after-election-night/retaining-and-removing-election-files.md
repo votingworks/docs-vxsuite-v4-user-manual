@@ -72,7 +72,7 @@ In VxAdmin:
 * [ ] Select `Unconfigure Machine`
 * [ ] Confirm by selecting `Delete All Election Data`
 
-<div><figure><img src="../.gitbook/assets/vxadmin-unconfigure-button.png" alt="VxAdmin system administrator Election screen with the Unconfigure Machine button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-confirm-unconfigure-button.png" alt="VxAdmin Unconfigure Machine confirmation dialog with the Delete All Election Data button highlighted" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxadmin-unconfigure-button.png" alt="VxAdmin system administrator Election screen with the Unconfigure Machine button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-confirm-unconfigure-modal.png" alt="VxAdmin Unconfigure Machine confirmation dialog" width="375"><figcaption></figcaption></figure></div>
 
 In VxScan:
 
