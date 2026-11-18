@@ -25,13 +25,17 @@ Four different color options are available to voters. The descriptions below say
 * `Dark text, light background` - the default setting, used by most people.
 * `Black text, white background` - used by people who need the highest contrast because of low vision or color perception disabilities or aging.
 
-<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-color-1.png" alt="Settings Color tab with White text, black background selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-color-2.png" alt="Settings Color tab with Gray text, dark background selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-color-3.png" alt="Settings Color tab with Dark text, light background selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-color-4.png" alt="Settings Color tab with Black text, white background selected" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-color-1.png" alt="Settings Color tab with White text, black background selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-color-2.png" alt="Settings Color tab with Gray text, dark background selected" width="188"><figcaption></figcaption></figure></div>
+
+<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-color-3.png" alt="Settings Color tab with Dark text, light background selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-color-4.png" alt="Settings Color tab with Black text, white background selected" width="188"><figcaption></figcaption></figure></div>
 
 ### Text Size
 
 The default text size is `Medium`. A voter can select `Small`, `Large`, or `Extra-Large` based on their preferences. Select `Done` to save the selection.
 
-<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-text-size-4.png" alt="Settings Text Size tab with Extra-Large selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-text-size-3.png" alt="Settings Text Size tab with Large selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-text-size-2.png" alt="Settings Text Size tab with Medium selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-text-size-1.png" alt="Settings Text Size tab with Small selected" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-text-size-4.png" alt="Settings Text Size tab with Extra-Large selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-text-size-3.png" alt="Settings Text Size tab with Large selected" width="188"><figcaption></figcaption></figure></div>
+
+<div><figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-text-size-2.png" alt="Settings Text Size tab with Medium selected" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxmarkscan-voting-settings-text-size-1.png" alt="Settings Text Size tab with Small selected" width="188"><figcaption></figcaption></figure></div>
 
 ## Audio Settings
 

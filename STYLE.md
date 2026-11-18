@@ -153,7 +153,9 @@ the page (packing up after setting up) can show it again.
 - GitBook figure markup with alt text that says what the figure shows.
 - Width 375 for landscape screenshots and photos; 188 for portrait (VxMark
   and VxMarkScan) screenshots and small detail photos; 563 for wide diagrams.
-  One width per side-by-side row (`<div>` of figures).
+  One width per side-by-side row (`<div>` of figures). A row holds at most
+  three portrait screenshots or two landscape images; split a longer
+  sequence into rows as even as possible (four as two and two).
 - Screenshots have no caption; photos have a short sentence-case action
   caption ("Push the release lever"). No code in captions.
 - Screenshots use their gallery ID as the file name; the screenshots workflow

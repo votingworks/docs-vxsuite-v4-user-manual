@@ -37,7 +37,9 @@ The logs contain information about the regular operation of the hardware and sof
 * [ ] Select a log format (VotingWorks recommends the `Default` format unless instructed otherwise)
 * [ ] Select `Save`
 
-<div><figure><img src="../.gitbook/assets/vxscan-em-save-logs-button.png" alt="VxScan election manager CVRs and Logs tab with the Save Logs button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-sa-save-logs-button.png" alt="VxScan system administrator menu with the Save Logs button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-em-save-logs-modal.png" alt="VxScan election manager Save Logs dialog with log format options Default, Errors, and CDF" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxscan-em-save-logs-button.png" alt="VxScan election manager CVRs and Logs tab with the Save Logs button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-sa-save-logs-button.png" alt="VxScan system administrator menu with the Save Logs button highlighted" width="375"><figcaption></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/vxscan-em-save-logs-modal.png" alt="VxScan election manager Save Logs dialog with log format options Default, Errors, and CDF" width="375"><figcaption></figcaption></figure>
 
 ## Set the Date and Time
 
@@ -45,7 +47,9 @@ The time on VxScan should stay mostly accurate, including automatically adjustin
 
 * [ ] Select `Set Date and Time`
 
-<div><figure><img src="../.gitbook/assets/vxscan-em-set-date-time.png" alt="VxScan election manager More tab with the Set Date and Time button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-sa-set-date-time.png" alt="VxScan system administrator menu with the Set Date and Time button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-em-set-date-time-modal.png" alt="VxScan election manager Set Date and Time dialog with date, time, and time zone pickers" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxscan-em-set-date-time.png" alt="VxScan election manager More tab with the Set Date and Time button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-sa-set-date-time.png" alt="VxScan system administrator menu with the Set Date and Time button highlighted" width="375"><figcaption></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/vxscan-em-set-date-time-modal.png" alt="VxScan election manager Set Date and Time dialog with date, time, and time zone pickers" width="375"><figcaption></figcaption></figure>
 
 ## Mute Sounds
 

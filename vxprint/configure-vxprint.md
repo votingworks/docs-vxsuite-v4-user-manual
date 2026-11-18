@@ -28,7 +28,9 @@ An unconfigured machine prompts you to insert an election manager card to log in
 
 After the USB drive is inserted, VxPrint automatically begins loading all ballot styles for the election. After the election package is done loading, the election information appears.
 
-<div><figure><img src="../.gitbook/assets/vxprint-locked-unconfigured.png" alt="Locked VxPrint screen asking to insert an election manager card to configure VxPrint" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxprint-em-insert-usb.png" alt="Unconfigured VxPrint prompting to insert a USB drive containing an election package" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxprint-em-election-screen.png" alt="VxPrint Election screen after loading a package, with the polling place dropdown still unselected" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxprint-locked-unconfigured.png" alt="Locked VxPrint screen asking to insert an election manager card to configure VxPrint" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxprint-em-insert-usb.png" alt="Unconfigured VxPrint prompting to insert a USB drive containing an election package" width="375"><figcaption></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/vxprint-em-election-screen.png" alt="VxPrint Election screen after loading a package, with the polling place dropdown still unselected" width="375"><figcaption></figcaption></figure>
 
 ## Select a Polling Place
 

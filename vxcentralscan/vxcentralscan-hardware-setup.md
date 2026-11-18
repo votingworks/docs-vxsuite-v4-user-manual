@@ -34,7 +34,9 @@ VxCentralScan can be set up through the following steps:
    * [ ] Turn on the UPS
    * [ ] Press the power button (E) to turn the scanner on
 
-   <div><figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-ricoh-fi8170.jpg" alt="Remove scanner and power cord from case" width="188"><figcaption><p>Remove the scanner and power cord from the case</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-trays-labeled.jpg" alt="Attach and pull out paper trays" width="188"><figcaption><p>Attach and pull out the paper trays</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-rear-ports-labeled.jpg" alt="Plug cords in" width="188"><figcaption><p>Plug in the cords</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-power-button-labeled.jpg" alt="Press the power button to turn on" width="188"><figcaption><p>Press the power button to turn on</p></figcaption></figure></div>
+   <div><figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-ricoh-fi8170.jpg" alt="Remove scanner and power cord from case" width="188"><figcaption><p>Remove the scanner and power cord from the case</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-trays-labeled.jpg" alt="Attach and pull out paper trays" width="188"><figcaption><p>Attach and pull out the paper trays</p></figcaption></figure></div>
+
+   <div><figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-rear-ports-labeled.jpg" alt="Plug cords in" width="188"><figcaption><p>Plug in the cords</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-power-button-labeled.jpg" alt="Press the power button to turn on" width="188"><figcaption><p>Press the power button to turn on</p></figcaption></figure></div>
 
 2. **Set up the VxCentralScan laptop:**
    * [ ] Remove and document seals as necessary
