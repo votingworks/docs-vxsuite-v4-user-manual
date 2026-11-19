@@ -19,6 +19,7 @@ Pack up VxMarkScan after the polls are closed through the following steps:
 
    * [ ] Unplug the power cord from the APC uninterruptible power supply (UPS)
    * [ ] Unplug the power cord connector from the back of the BMD
+   * [ ] Pack up the UPS
 
    <div><figure><img src="../.gitbook/assets/photo-vxmarkscan-power-cord-plugged-into-ups.png" alt="VxMarkScan power cord plugged into an outlet on the APC Back-UPS 850 battery backup." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-power-plug.png" alt="Hand holding the three-prong AC plug of the VxMarkScan power cord beneath the unit." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-power-cord-connector-plugged-in.png" alt="Power cord connector plugged into the underside of VxMarkScan beside the power button and headphone jack." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxmarkscan-power-cord-connector.png" alt="Hand holding the round power cord connector, marked TOP, beneath the VxMarkScan unit." width="188"><figcaption></figcaption></figure></div>
 
