@@ -54,10 +54,10 @@ All required consumable levels should be checked:
   * [ ] Thermal ballot paper supply is sufficient for expected number of voters
   * [ ] Headphone ear cover supply is sufficient for expected number of voters
 * [ ] VxMark
-  * [ ] Toner level is greater than 10% (included in readiness report)
+  * [ ] Toner level, for each cartridge on a color printer, is greater than 10% (included in readiness report)
   * [ ] Paper is loaded, sufficient for printing your expected number of ballots
 * [ ] VxPrint
-  * [ ] Toner level is greater than 10% (included in readiness report)
+  * [ ] Toner level, for each cartridge on a color printer, is greater than 10% (included in readiness report)
   * [ ] Paper is loaded, sufficient for printing your expected number of ballots
 
 ## Backup Power Inspection

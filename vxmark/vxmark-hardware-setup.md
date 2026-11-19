@@ -2,7 +2,7 @@
 
 ## Hardware Overview
 
-VxMark has three primary components: the ballot-marking device (BMD) in a hard case, the printer, and a Goldenmate 1500VA/1000W uninterruptible power supply (UPS).
+VxMark has three primary components: the ballot-marking device (BMD) in a hard case, the printer, and a Goldenmate 1500VA/1000W uninterruptible power supply (UPS). The printer is either the HP LaserJet Pro 4001dn or, for jurisdictions with color requirements on their ballots, the HP Color LaserJet Pro 4201dn, which prints bubble ballots in color.
 
 ## Set Up VxMark
 
