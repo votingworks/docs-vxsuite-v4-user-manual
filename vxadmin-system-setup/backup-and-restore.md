@@ -55,13 +55,24 @@ Restoring from a backup must be done by a system administrator. A backup can onl
 VxAdmin restarts in restore mode, which is marked by a banner at the top of every screen. Restore mode only allows restoring from a backup. To leave restore mode without restoring, select `Exit Restore Mode` and confirm by selecting `Restart`; VxAdmin restarts normally.
 
 * [ ] Log in as a system administrator
-* [ ] Connect the backup drive
+* [ ] If prompted, connect the backup drive
+
+If no backup drive is connected, VxAdmin prompts you to connect one. Once the drive is connected, VxAdmin lists the backups saved on it.
+
+<div><figure><img src="../.gitbook/assets/vxadmin-restore-mode-connect-backup-drive.png" alt="VxAdmin in restore mode prompting to connect a backup drive" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-restore-mode-backup-list.png" alt="VxAdmin in restore mode listing the backups on the connected backup drive" width="375"><figcaption></figcaption></figure></div>
+
 * [ ] Select the backup you want to restore
-* [ ] Select `Restore` to confirm
+* [ ] Select `Restore` to begin
 
-<div><figure><img src="../.gitbook/assets/vxadmin-restore-mode-backup-list.png" alt="VxAdmin in restore mode listing the backups on the connected backup drive" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-restore-mode-confirm-modal.png" alt="VxAdmin restore confirmation dialog for the selected backup" width="375"><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/vxadmin-restore-mode-confirm-modal.png" alt="Restore confirmation dialog asking whether to restore from the selected backup" width="375"><figcaption></figcaption></figure>
 
-* [ ] When the restore is complete, disconnect the backup drive
+While the restore is in progress, VxAdmin cannot be used for other tasks. You can cancel the restore while it is in progress; VxAdmin is left unconfigured and the restore can be attempted again.
+
+When the restore is complete, VxAdmin prompts you to restart.
+
+* [ ] Disconnect the backup drive
 * [ ] Select `Restart`
 
-VxAdmin restarts configured with the restored election. If a restore is canceled or fails, VxAdmin is left unconfigured and the restore can be attempted again.
+<div><figure><img src="../.gitbook/assets/vxadmin-restore-mode-in-progress.png" alt="VxAdmin in restore mode with the restore progress shown and an option to cancel" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-restore-mode-restore-complete.png" alt="VxAdmin in restore mode showing the restore is complete, with a Restart button" width="375"><figcaption></figcaption></figure></div>
+
+VxAdmin restarts configured with the restored election. If a restore fails, VxAdmin is left unconfigured and the restore can be attempted again.
