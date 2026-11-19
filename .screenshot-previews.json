@@ -1,4 +1,14 @@
 {
+  "vxadmin-networked-scanners-screen": {
+    "sha256": "e5e5ca0d3a8adcc77337b4b95e72c56bc7f63aec13361344bef0365164d175a0",
+    "spec": "votingworks/vxsuite-screenshots#132",
+    "spec_sha": "bffba7bc609045d1471df7a5bbe2580bfe1cda99"
+  },
+  "vxadmin-tally-cvrs-network-scanners": {
+    "sha256": "a64e0b351b362fa30b4175373cfdd38062bfe46215e256c1d90fcfc8b1d620c4",
+    "spec": "votingworks/vxsuite-screenshots#132",
+    "spec_sha": "bffba7bc609045d1471df7a5bbe2580bfe1cda99"
+  },
   "vxcentralscan-network-batch-history-retry-highlighted": {
     "sha256": "33d95794f3ec765e997b1f6dc9b4bde8c1fa3dc980bca4a619aca205eb687603",
     "spec": "votingworks/vxsuite-screenshots#131",
