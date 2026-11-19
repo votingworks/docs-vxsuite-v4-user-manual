@@ -49,7 +49,7 @@ VxAdmin and VxPrint feature diagnostics for troubleshooting the printer. After a
 
 ## VxCentralScan Scanner Maintenance
 
-VxCentralScan supports scanning with the Ricoh fi-8170, fi-7600, and fi-8950.
+VxCentralScan supports scanning with the Ricoh fi-8170, fi-7600, and fi-8950 and the interScan DeskPro 631.
 
 ### fi-8170 Compact Desktop Scanner
 
@@ -74,6 +74,14 @@ The Ricoh fi-8950 [manufacturer specifications](https://github.com/votingworks/d
 The scanner must be periodically cleaned to ensure the scanner is clean and ballot images are clear, before every election and after every 10,000 sheets scanned within an election. If streaks are detected in an image while scanning, the software proactively alerts you to clean the scanner. To clean the scanner, follow the cleaning instructions in the [manufacturer's consumable replacement and cleaning guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-8950/ricoh-fi-8950-cleaning-guide.pdf). VotingWorks recommends using Ricoh Cleaner F1 (PN: PA03950-0352) with cleaning wipes (PN: CG90000-120001) or equivalent.
 
 The scanner's brake roller (PN: PA03830-K023), pick roller (PA03830-K021), and separation roller (PA03830-K022) must be replaced every 700,000 sheets or every year, whichever is sooner. To replace these consumables, follow the instructions in the [manufacturer's consumable replacement and cleaning guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-8950/ricoh-fi-8950-cleaning-guide.pdf). In order to get all consumables and cleaning supplies together, you may choose to purchase the fi-8950 ScanAid kit (PN: CG01000-310112).
+
+### DeskPro 631 Production Scanner
+
+The interScan DeskPro 631 [manufacturer specifications](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/interscan-deskpro-631/interscan-deskpro-6x1-datasheet.pdf) are included in the documentation repository.
+
+The scanner must be cleaned before every election to ensure ballot images are clear. If streaks are detected in an image while scanning, the software proactively alerts you to clean the scanner. To clean the scanner, follow the manufacturer's instructions.
+
+The scanner's rollers must be replaced periodically depending on scanning volume. Contact interScan for roller replacement and other service.
 
 ## Maintenance Support & Spare Recommendations
 
