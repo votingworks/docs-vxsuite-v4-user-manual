@@ -9,9 +9,19 @@
     "spec": "votingworks/vxsuite-screenshots#132",
     "spec_sha": "a6b029faed9b69dfd423534d797d0d1c5783def8"
   },
+  "vxcentralscan-network-batch-history": {
+    "sha256": "f5064bd7a5eb286fee14e739416da01d0ae167727a16f512ffc1a581c325914c",
+    "spec": "votingworks/vxsuite-screenshots#136",
+    "spec_sha": "956e1acebc16c0a66935b34d7bc82e66b0033f53"
+  },
   "vxcentralscan-network-batch-history-retry-highlighted": {
     "sha256": "33d95794f3ec765e997b1f6dc9b4bde8c1fa3dc980bca4a619aca205eb687603",
     "spec": "votingworks/vxsuite-screenshots#131",
     "spec_sha": "d4bf77becf61da8abed643f8990f4edef2bb6830"
+  },
+  "vxcentralscan-network-scan-ballots-vxcentralscan-host-detected-highlighted": {
+    "sha256": "c8f7c4ba021e92f14d1163ae181a71d488f94b1c0ea95ecd941871446ef855d1",
+    "spec": "votingworks/vxsuite-screenshots#135",
+    "spec_sha": "3093f1b9410e3a29d7eee3ac056099c3ca7f74ae"
   }
 }
