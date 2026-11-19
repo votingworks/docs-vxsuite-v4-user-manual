@@ -1,6 +1,6 @@
 # Network VxCentralScan
 
-VxCentralScan can be connected to the host VxAdmin over a wired network. When it's connected, each batch you save sends its cast vote records (CVRs) to VxAdmin automatically, so you don't need to carry them over on a USB drive. Set up the network before scanning begins, at the same time as the VxAdmin network for multi-station adjudication, if you use it.
+VxCentralScan can be connected to the host VxAdmin over a wired network. When it's connected, each batch you save sends its cast vote records (CVRs) to VxAdmin automatically, so you don't need to carry them over on a USB drive. Set up the network before scanning begins. If you also use multi-station adjudication, VxCentralScan joins the same network.
 
 ## Set Up the Network
 
@@ -56,7 +56,7 @@ If a batch could not be sent, for example because the network was disconnected:
 Sending a batch again is safe: VxAdmin ignores CVRs it has already loaded.
 
 {% hint style="info" %}
-Selecting `Delete` for a batch removes it from VxCentralScan only. If the batch was already sent, its CVRs stay on the host VxAdmin.
+Selecting `Delete` for a batch removes it from VxCentralScan only. If the batch was already sent, its CVRs stay on the host VxAdmin. To delete them there too, remove them on VxAdmin.
 {% endhint %}
 
 ## View Networked Scanners on VxAdmin
