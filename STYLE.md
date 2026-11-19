@@ -62,6 +62,10 @@ part of the technical data package.
   open and close polls, voting sessions, diagnostics, error messages,
   retaining and removing files, packing up, checklist. A change to one
   device's page is checked against its siblings.
+- A feature that spans devices (VxCentralScan sending CVRs to VxAdmin) has
+  one home page, which shows the screens from every device involved. Other
+  pages change only where what they say becomes wrong, and then by a
+  sentence and a link to the home page.
 
 ## Procedures
 
@@ -137,6 +141,13 @@ text already quotes, checklists
 screens. Don't repeat an image within a procedure; a later procedure on
 the page (packing up after setting up) can show it again.
 
+- A screenshot shows the state the text next to it describes: after "each
+  batch should show that it was sent", every batch shows as sent.
+- Don't show variants of a screen that differ only in a label or status.
+  Show the normal state and name the others in prose.
+- When a change adds to a screen the page already shows (a new section on
+  the diagnostics screen), replace that capture rather than adding a second.
+
 ### Highlights
 
 - Highlight the control the step tells the reader to select. One highlight
@@ -152,7 +163,9 @@ the page (packing up after setting up) can show it again.
   (the election information panel after configuring).
 - Highlighted captures carry a `highlight` field in the screenshot catalog;
   new ones end in `-highlighted`. To get one that doesn't exist, request it
-  in vxsuite-screenshots ("highlight `Unconfigure Machine`").
+  in vxsuite-screenshots ("highlight `Unconfigure Machine`"). Reusing an
+  existing capture doesn't waive a highlight these rules call for: request
+  the `-highlighted` variant.
 
 ### Markup
 
@@ -165,7 +178,7 @@ the page (packing up after setting up) can show it again.
 - Screenshots have no caption; photos have a short sentence-case action
   caption ("Push the release lever"). No code in captions.
 - Screenshots use their gallery ID as the file name; the screenshots workflow
-  keeps them current. Each device's pages show that device's screens. Photos
+  keeps them current. Photos
   are `photo-…` and diagrams `diagram-…`, kebab-case.
 
 ## Terminology
@@ -209,7 +222,9 @@ the Oxford comma.
 - Pages by GitBook mention link with the page title as link text; sections by
   relative link with an anchor. TDP pages by GitBook space mention. GitHub
   links to VotingWorks source repositories pinned to the latest official
-  release tag (currently `v4.1.1`), never `main`. Links into
+  release tag (currently `v4.1.1`), never `main`, even for a feature that
+  first appears in a later release: the links move to a new tag together.
+  Links into
   `docs-vxsuite-v4` (datasheets, guides, reports) stay on `main`: that
   repository has no release tags.
 - Error message pages: pipe tables. Columns `Error Message | Election
