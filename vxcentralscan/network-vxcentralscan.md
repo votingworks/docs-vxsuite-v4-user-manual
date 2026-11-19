@@ -25,16 +25,13 @@ No network configuration is required. Networking is turned on for each VxCentral
 
 Once VxCentralScan and the host VxAdmin are both running and configured for the same election, VxCentralScan finds the host VxAdmin on its own. The network status at the top of the screen should show "Connected".
 
-<figure><img src="../.gitbook/assets/vxcentralscan-network-scan-ballots-vxcentralscan-host-detected.png" alt="VxCentralScan Scan Ballots screen with the network status Connected at the top" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxcentralscan-network-scan-ballots-vxcentralscan-host-detected-highlighted.png" alt="VxCentralScan Scan Ballots screen with the network status Connected highlighted at the top" width="375"><figcaption></figcaption></figure>
 
 If it doesn't, the status tells you what to check:
 
 * "No Network" - VxCentralScan isn't connected to the network. Check the Ethernet cable, the adapter, and that the switch is powered on.
 * "No VxAdmin Connected" - VxCentralScan is on the network but hasn't connected to a host VxAdmin. Check that the host VxAdmin is turned on, connected to the switch, and configured for the same election as VxCentralScan.
 * "Network Error" - VxCentralScan found more than one host VxAdmin, or a host VxAdmin running a different software version. Make sure only one VxAdmin is the host and that all networked machines run the same software version.
-
-<div><figure><img src="../.gitbook/assets/vxcentralscan-network-scan-ballots-vxcentralscan-waiting-for-host.png" alt="VxCentralScan Scan Ballots screen with the network status No VxAdmin Connected" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxcentralscan-network-scan-ballots-vxcentralscan-multiple-hosts.png" alt="VxCentralScan Scan Ballots screen with the network status Network Error" width="375"><figcaption></figcaption></figure></div>
-
 The `Diagnostics` screen shows more detail about the network status; see [VxCentralScan Diagnostics](vxcentralscan-diagnostics.md "mention").
 
 ## Send CVRs to VxAdmin
@@ -47,7 +44,7 @@ To check that every batch has been sent:
 
 Each batch should show that it has been sent to VxAdmin.
 
-<figure><img src="../.gitbook/assets/vxcentralscan-network-batch-history.png" alt="VxCentralScan Batch History screen showing which batches were sent to VxAdmin and one batch that failed to send" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxcentralscan-network-batch-history.png" alt="VxCentralScan Batch History screen with every batch marked Sent in the VxAdmin Sync column" width="375"><figcaption></figcaption></figure>
 
 If a batch could not be sent, for example because the network was disconnected:
 
@@ -58,9 +55,22 @@ If a batch could not be sent, for example because the network was disconnected:
 
 Sending a batch again is safe: VxAdmin ignores CVRs it has already loaded.
 
+{% hint style="info" %}
+Selecting `Delete` for a batch removes it from VxCentralScan only. If the batch was already sent, its CVRs stay on the host VxAdmin.
+{% endhint %}
+
 ## View Networked Scanners on VxAdmin
 
-The host VxAdmin lists each networked VxCentralScan and its status in its "Networked Scanners" view; see [Set Up Pre-Election Adjudication > Networked VxCentralScans](../vxadmin-system-setup/pre-election-adjudication-setup.md#networked-vxcentralscans). CVRs sent by a networked VxCentralScan appear on the host VxAdmin's `Tally` screen without loading a USB drive; see [Tally Results](../election-night-guides/tally-results.md "mention").
+The host VxAdmin lists each networked VxCentralScan and its status. To see the list on the host VxAdmin:
+
+* [ ] Select `Tally` from the side menu
+* [ ] Select the `Networked Scanners` tab
+
+For each VxCentralScan, the list shows its polling place, its status, the number of CVRs and batches the host has received from it, and when it was last seen. Each VxCentralScan you use should show as "Connected". If one shows as "Offline", check its network status as described in [Check the Connection](#check-the-connection).
+
+<figure><img src="../.gitbook/assets/vxadmin-networked-scanners-screen.png" alt="Host VxAdmin Tally screen on the Networked Scanners tab listing three VxCentralScans, two Connected and one Offline" width="375"><figcaption></figcaption></figure>
+
+CVRs sent by a networked VxCentralScan appear on the host VxAdmin's `Tally` screen without loading a USB drive; see [Tally Results](../election-night-guides/tally-results.md "mention").
 
 ## Save CVRs to a USB Drive
 

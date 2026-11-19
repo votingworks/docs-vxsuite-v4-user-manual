@@ -69,14 +69,6 @@ If your network is properly set up, you should see the list of the connected adj
 
 If there is a problem with your network, a status indicator appears on the host's `Adjudication` page or on the adjudication station.
 
-<figure><img src="../.gitbook/assets/vxadmin-adjudication-multi-station-network-offline.png" alt="VxAdmin Adjudication screen showing a Network Offline warning in the Multi-Station Adjudication panel and header." width="375"><figcaption></figcaption></figure>
-
-### Networked VxCentralScans
-
-If VxCentralScans are connected to the network, the host VxAdmin lists each one and its status in its "Networked Scanners" view. Saved batches from these VxCentralScans are sent to the host VxAdmin automatically; see [Network VxCentralScan](../vxcentralscan/network-vxcentralscan.md "mention").
-
-<figure><img src="../.gitbook/assets/vxadmin-networked-scanners-screen.png" alt="Host VxAdmin Networked Scanners view listing networked VxCentralScans and their statuses" width="375"><figcaption></figcaption></figure>
-
 ### Run Multi-Station Adjudication
 
 The adjudication stations can only adjudicate if the host has turned on multi-station adjudication. To turn it on:

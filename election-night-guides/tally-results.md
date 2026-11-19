@@ -6,10 +6,6 @@ These steps must be completed by an election manager.
 
 To tally results, load the cast vote records (CVRs) from each VxScan or VxCentralScan USB drive into VxAdmin.
 
-{% hint style="info" %}
-CVRs from a VxCentralScan networked to the host VxAdmin arrive automatically each time a batch is saved, without a USB drive. They appear on the `Tally` screen alongside CVRs loaded from USB drives. See [Network VxCentralScan](../vxcentralscan/network-vxcentralscan.md "mention").
-{% endhint %}
-
 * [ ] Select `Tally` from the side menu
 
 You see the list of polling places in your election. After loading all CVRs, there should typically be results loaded for every single polling place. You may use the progress bar under "Locations" and the summary statistics next to "Scanners" and "CVRs" to monitor your progress.
@@ -33,10 +29,6 @@ The selected CVR export should show as "Loaded".
 You may search the list of polling places by typing in the "Search Locations" bar. You may also filter the list of polling places to only those that have already been loaded by selecting `Loaded` or only those that have not been loaded by selecting `Pending`.
 
 <div><figure><img src="../.gitbook/assets/vxadmin-cvrs-loaded.png" alt="Tally screen after loading, with the CVR export marked Loaded and a Done button" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-tally-screen-with-cvrs.png" alt="Tally screen listing polling places with CVRs loaded for North Lincoln" width="375"><figcaption></figcaption></figure></div>
-
-CVRs sent by networked VxCentralScans are included in the same list and counts.
-
-<figure><img src="../.gitbook/assets/vxadmin-tally-cvrs-network-scanners.png" alt="VxAdmin Tally screen on the Cast Vote Records tab with CVRs received from networked VxCentralScans" width="375"><figcaption></figcaption></figure>
 
 Select a polling place to view all of its associated CVR exports. For each CVR export, the list shows the number of CVRs, the loading time, and the ID of the scanner. To remove an export from VxAdmin, select the trash can icon next to it.
 
