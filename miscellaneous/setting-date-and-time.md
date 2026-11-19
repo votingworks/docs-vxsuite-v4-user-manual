@@ -9,6 +9,9 @@ The time is automatically updated for daylight saving time.
 The `Set Date and Time` button is in the `Settings` menu on VxAdmin, VxCentralScan, and VxPrint. On VxScan, VxMark, and VxMarkScan, it's on the election manager and system administrator menus. Within the VxScan election manager menu, the button is in the `More` tab.
 
 * [ ] Select `Set Date and Time`
+
+<figure><img src="../.gitbook/assets/vxadmin-sa-settings-set-date-time-highlighted.png" alt="VxAdmin Settings screen with the Set Date and Time button highlighted." width="375"><figcaption></figcaption></figure>
+
 * [ ] Update the date and time
 * [ ] Select `Save`
 
