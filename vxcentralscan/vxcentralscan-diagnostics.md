@@ -6,7 +6,9 @@ The VxCentralScan diagnostics screen shows information about the currently confi
 
 The scanner status indicates whether the scanner is connected or not. To test the scanner, select `Perform Test Scan` and insert a blank sheet of paper when prompted. This test verifies the scanner is clean and ballot images are clear. If the test fails, you'll be prompted to clean the scanner. The test also fails if the sheet is not blank.
 
-<figure><img src="../.gitbook/assets/vxcentralscan-diagnostics-screen.png" alt="Diagnostics screen with configuration, battery, storage, UPS and scanner status" width="375"><figcaption></figcaption></figure>
+If VxCentralScan is networked to the host VxAdmin, the screen also has a network section showing whether VxCentralScan is connected to the network and to a host VxAdmin, and if not, why. See [Network VxCentralScan](network-vxcentralscan.md "mention").
+
+<figure><img src="../.gitbook/assets/vxcentralscan-network-diagnostics.png" alt="Diagnostics screen with configuration, battery, storage, UPS, scanner and network status for a networked VxCentralScan" width="375"><figcaption></figcaption></figure>
 
 ## Readiness Report
 

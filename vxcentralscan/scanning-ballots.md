@@ -102,6 +102,10 @@ Navigate to the `Batch History` page to see the list of scanned batches. For eac
 
 If a batch was scanned incorrectly or accidentally, an election manager may use the `Delete` or `Delete All Batches` button.
 
+{% hint style="info" %}
+If VxCentralScan is networked to the host VxAdmin, saved batches are sent to VxAdmin automatically and you don't need to save CVRs to a USB drive. See [Network VxCentralScan](network-vxcentralscan.md "mention").
+{% endhint %}
+
 To export CVRs for loading into VxAdmin for further adjudication and reporting:
 
 * [ ] Select the `Save CVRs` button in the top right

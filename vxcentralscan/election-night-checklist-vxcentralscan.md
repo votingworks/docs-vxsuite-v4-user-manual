@@ -13,7 +13,8 @@ See [Central Scanning](scanning-ballots.md "mention") for details on each step.
 * [ ] Scan adjudicated ballots
 * [ ] Write down the number of ballots scanned by the scanner (displayed on `Scan Ballots` page)
 * [ ] Go to the `Batch History` page
-* [ ] Select `Save CVRs` to save the cast vote records (CVRs) to the USB drive
+* [ ] If VxCentralScan is networked to VxAdmin, confirm that all batches were sent to VxAdmin (see [Network VxCentralScan](network-vxcentralscan.md "mention"))
+* [ ] If VxCentralScan is not networked, select `Save CVRs` to save the cast vote records (CVRs) to the USB drive
 * [ ] Power down VxCentralScan using the keyboard power button
 
 VxCentralScan has shut down correctly when the screen is off and presents no content.
