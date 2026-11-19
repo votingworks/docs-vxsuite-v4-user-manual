@@ -2,7 +2,7 @@
 
 ## Hardware Overview
 
-VxPrint is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software alongside a COTS laser printer.
+VxPrint is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software alongside a COTS laser printer: the HP LaserJet Pro 4001dn or, for jurisdictions with color requirements on their ballots, the HP Color LaserJet Pro 4201dn, which prints bubble ballots in color.
 
 ## Set Up VxPrint
 

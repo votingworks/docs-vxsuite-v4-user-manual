@@ -31,17 +31,21 @@ VotingWorks recommends that all scanned ballot data is backed up from VxCentralS
 
 ## Printer Maintenance
 
-VxAdmin & VxPrint use the HP LaserJet Pro 4001dn printer. The [manufacturer specifications](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-datasheet.pdf) and [manufacturer user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-user-guide.pdf) are included in the documentation repository.
+VxAdmin uses the HP LaserJet Pro 4001dn printer. VxPrint uses either the HP LaserJet Pro 4001dn or, for jurisdictions with color requirements on their ballots, the HP Color LaserJet Pro 4201dn, which prints bubble ballots in color. The 4001dn [manufacturer specifications](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-datasheet.pdf) and [manufacturer user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-user-guide.pdf) and the 4201dn [manufacturer specifications](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-color-laserjet-pro-4201dn/hp-color-laserjet-pro-4201dn-datasheet.pdf) are included in the documentation repository.
 
 ### Paper Specifications
 
-VotingWorks recommends using only the printer's Tray 2, which is the bottom, higher capacity tray. The [manufacturer specifications](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-datasheet.pdf) allow for paper between 60 and 120 GSM, which roughly corresponds to between 16 lb and 32 lb bond paper. For the highest quality ballots and reports, VotingWorks recommends paper at the maximum supported paper weight, such as HP Premium 32 lb paper (PN: HPU1132) or equivalent. All report paper should be letter-sized. All ballot paper should match the length of the election's ballots. Using paper outside of the manufacturer specified weight range may result in jams and incorrect operation.
+VotingWorks recommends using only the printer's Tray 2, which is the bottom, higher capacity tray. The [manufacturer specifications](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/hp-laserjet-pro-4001dn/hp-laserjet-pro-4001dn-datasheet.pdf) allow for paper between 60 and 120 GSM, which roughly corresponds to between 16 lb and 32 lb bond paper. For the highest quality ballots and reports, VotingWorks recommends paper at the maximum supported paper weight, such as HP Premium 32 lb paper (PN: HPU1132) or equivalent. All report paper should be letter-sized. All ballot paper should match the length of the election's ballots. Using paper outside of the manufacturer specified weight range may result in jams and incorrect operation. The same paper recommendations apply to the HP Color LaserJet Pro 4201dn.
 
 ### Toner Specifications
 
 The HP LaserJet Pro 4001dn requires genuine HP toner cartridges. Both the HP 148A Black Original LaserJet Toner Cartridge and the HP 148X High Yield Black Original LaserJet Toner Cartridge are acceptable.
 
 The printer comes with toner installed, which should last for many elections or even for the lifetime of the system. Low toner is indicated on the printer's small LED screen and also in the diagnostics section. When replacing the toner, refer to the [manufacturer's instructions](https://support.hp.com/us-en/document/ish_5455373-5578919-16).
+
+The HP Color LaserJet Pro 4201dn requires four genuine HP toner cartridges: black, cyan, magenta, and yellow. Both the HP 210A Original LaserJet Toner Cartridges and the HP 210X High Yield Original LaserJet Toner Cartridges are acceptable.
+
+The 4201dn comes with introductory toner cartridges installed, which are rated for about 1,200 black pages and 1,000 color pages. Low toner is indicated on the printer's screen and also in the diagnostics section. When replacing toner, follow the instructions in HP's user guide for the printer.
 
 ### Diagnostics & Troubleshooting
 
@@ -85,4 +89,4 @@ The scanner's rollers must be replaced periodically depending on scanning volume
 
 ## Maintenance Support & Spare Recommendations
 
-For VxAdmin and VxPrint, VotingWorks recommends keeping an extra toner cartridge and an extra ream of report paper on hand at all times. For VxCentralScan, VotingWorks recommends keeping scanner cleaning materials on hand at all times. Maintenance tasks can be performed by election managers or system administrators at the central location where VxAdmin, VxCentralScan, and VxPrint are used or stored.
+For VxAdmin and VxPrint, VotingWorks recommends keeping an extra toner cartridge (for the HP Color LaserJet Pro 4201dn, one of each color) and an extra ream of report paper on hand at all times. For VxCentralScan, VotingWorks recommends keeping scanner cleaning materials on hand at all times. Maintenance tasks can be performed by election managers or system administrators at the central location where VxAdmin, VxCentralScan, and VxPrint are used or stored.

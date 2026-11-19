@@ -84,7 +84,7 @@ VotingWorks recommends cleaning the scanner for each election. VotingWorks also 
 | Item                 | Recommendation                           | Supplier |
 | -------------------- | ---------------------------------------- | -------- |
 | Printer Paper        | HP Premium 32, or equivalent             | Various  |
-| Printer Toner        | HP 148A or HP 148X Black Toner           | Various  |
+| Printer Toner        | HP 148A or HP 148X Black Toner (HP LaserJet Pro 4001dn); HP 210A or HP 210X Black, Cyan, Magenta, and Yellow Toner (HP Color LaserJet Pro 4201dn) | Various  |
 | Headphone Ear Covers | BBTO headphone ear covers, or equivalent | Various  |
 
 ## VxPrint Supply List
@@ -92,7 +92,9 @@ VotingWorks recommends cleaning the scanner for each election. VotingWorks also 
 | Item          | Recommendation                 | Supplier |
 | ------------- | ------------------------------ | -------- |
 | Printer Paper | HP Premium 32, or equivalent   | Various  |
-| Printer Toner | HP 148A or HP 148X Black Toner | Various  |
+| Printer Toner | HP 148A or HP 148X Black Toner (HP LaserJet Pro 4001dn); HP 210A or HP 210X Black, Cyan, Magenta, and Yellow Toner (HP Color LaserJet Pro 4201dn) | Various  |
+
+For the HP Color LaserJet Pro 4201dn, VotingWorks recommends having a backup cartridge of each color on hand for all elections. HP 210A cartridges are rated for 2,000 black or 1,800 color printed pages, and HP 210X cartridges are rated for 7,500 black or 5,500 color printed pages.
 
 ## Additional Information
 
