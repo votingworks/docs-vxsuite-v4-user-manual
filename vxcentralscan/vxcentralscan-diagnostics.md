@@ -8,6 +8,10 @@ The scanner status indicates whether the scanner is connected or not. To test th
 
 <figure><img src="../.gitbook/assets/vxcentralscan-diagnostics-screen.png" alt="Diagnostics screen with configuration, battery, storage, UPS and scanner status" width="375"><figcaption></figcaption></figure>
 
+If VxCentralScan is networked to the host VxAdmin, the diagnostics screen also shows the network status: whether VxCentralScan is connected to the network and to a host VxAdmin, and if not, why. See [Network VxCentralScan](network-vxcentralscan.md "mention").
+
+<figure><img src="../.gitbook/assets/vxcentralscan-network-diagnostics.png" alt="VxCentralScan Diagnostics screen with the network status section for a networked VxCentralScan" width="375"><figcaption></figcaption></figure>
+
 ## Readiness Report
 
 The readiness report can be used as a record of system diagnostic verification. Select `Save Readiness Report` to save a copy to a USB drive.
