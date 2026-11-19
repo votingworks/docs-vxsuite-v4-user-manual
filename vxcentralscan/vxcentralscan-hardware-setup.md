@@ -8,15 +8,16 @@ description: >-
 
 ## Hardware Overview
 
-VxCentralScan is a commercial off-the-shelf (COTS) laptop pre-installed with VxCentralScan software that connects to a Ricoh scanner.
+VxCentralScan is a commercial off-the-shelf (COTS) laptop pre-installed with VxCentralScan software that connects to a batch scanner.
 
 <div><figure><img src="../.gitbook/assets/photo-vxcentralscan-in-cases.png" alt="VxCentralScan in cases" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-setup.jpg" alt="VxCentralScan set up with fi-8170" width="375"><figcaption></figcaption></figure></div>
 
-Three models of scanner are supported:
+Four models of scanner are supported:
 
 * Ricoh fi-8170 - Small. Recommended maximum batch size of 30 ballots.
 * Ricoh fi-7600 - Medium. Recommended maximum batch size of 100 ballots.
 * Ricoh fi-8950 - Large. Recommended maximum batch size of 250 ballots.
+* interScan DeskPro 631 - Extra-large. Recommended maximum batch size of 250 ballots.
 
 Backup power for the scanner is provided by the APC uninterruptible power supply (UPS).
 
@@ -24,7 +25,7 @@ Backup power for the scanner is provided by the APC uninterruptible power supply
 
 VxCentralScan can be set up through the following steps:
 
-1. **Unbox and set up the scanner (Ricoh fi-8170):**
+1. **Unbox and set up the scanner.** For the Ricoh fi-8170:
    * [ ] Remove the scanner and power cord from the case
    * [ ] Attach and pull out the paper feed guide tray (A)
    * [ ] Pull out the paper holder tray (B)
@@ -35,6 +36,12 @@ VxCentralScan can be set up through the following steps:
    * [ ] Press the power button (E) to turn the scanner on
 
    <div><figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-ricoh-fi8170.jpg" alt="Remove scanner and power cord from case" width="188"><figcaption><p>Remove the scanner and power cord from the case</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-trays-labeled.jpg" alt="Attach and pull out paper trays" width="188"><figcaption><p>Attach and pull out the paper trays</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-rear-ports-labeled.jpg" alt="Plug cords in" width="188"><figcaption><p>Plug in the cords</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-scanner-power-button-labeled.jpg" alt="Press the power button to turn on" width="188"><figcaption><p>Press the power button to turn on</p></figcaption></figure></div>
+
+   For the interScan DeskPro 631:
+   * [ ] Set up the scanner, including the extended input tray and output hopper if used, as described in the manufacturer's instructions
+   * [ ] Plug the USB cord into the back of the scanner and into the USB hub
+   * [ ] Plug in the scanner's power cord
+   * [ ] Turn the scanner on
 
 2. **Set up the VxCentralScan laptop:**
    * [ ] Remove and document seals as necessary
@@ -62,11 +69,12 @@ To pack up VxCentralScan:
 
 ## Imprinting
 
-All three scanners can be used with an optional imprinter:
+All four scanners can be used with an optional imprinter:
 
 * Ricoh fi-8170 - Uses the fi-819PRB. See the [fi-819PRB user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-8170/ricoh-fi-819prb-user-guide.pdf) for assembly instructions.
 * Ricoh fi-7600 - Uses the fi-760PRB. See the [fi-760PRB user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-7600/ricoh-fi-760prb-user-guide.pdf) for assembly instructions.
 * Ricoh fi-8950 - Uses the fi-890PRB. See the [fi-890PRB user guide](https://github.com/votingworks/docs-vxsuite-v4/blob/main/hardware-assets/cots-documentation/central-system/ricoh-fi-8950/ricoh-fi-890prb-user-guide.pdf). The one-time installation must be performed by a Ricoh support technician.
+* interScan DeskPro 631 - Uses the HD Rear Imprinter (PN: 6X-IM-SPDPST-R), which prints on each ballot after it is scanned. The one-time installation must be performed by an interScan technician.
 
 For the detachable imprinters, the scanner must be off when attaching the imprinter. After the imprinter is attached, adjust the paper guides on the imprinter to match the paper width of each batch, which is 8.5 in. for hand-marked paper ballots and ballots printed by VxMark, or 8 in. for ballots printed by VxMarkScan.
 
@@ -74,4 +82,4 @@ For all imprinters, adjust the position of the imprinter to ensure that imprinti
 
 ## Scanner Maintenance
 
-Clean the scanner before every election. Replace the rollers occasionally depending on scanning volume. Consult [VxAdmin, VxCentralScan, & VxPrint Maintenance Manual](../system-maintenance/vxadmin-and-vxcentralscan-maintenance-manual.md "mention") for instructions on cleaning and maintaining the Ricoh scanners.
+Clean the scanner before every election. Replace the rollers occasionally depending on scanning volume. Consult [VxAdmin, VxCentralScan, & VxPrint Maintenance Manual](../system-maintenance/vxadmin-and-vxcentralscan-maintenance-manual.md "mention") for instructions on cleaning and maintaining each scanner.
