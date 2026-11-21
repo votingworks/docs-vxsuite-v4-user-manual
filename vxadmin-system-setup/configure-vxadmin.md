@@ -4,7 +4,7 @@
 These steps must be completed by a system administrator.
 {% endhint %}
 
-For each election, you configure VxAdmin by loading an election package provided by VotingWorks or downloaded from VxHub. The [full election package specifications](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/election-package) can be found in the technical data package.
+For each election, you configure VxAdmin in one of two ways: create the election on VxAdmin (see [Create an Election](create-an-election/README.md)), or load an election package provided by VotingWorks or downloaded from VxHub, as described on this page. The [full election package specifications](https://app.gitbook.com/s/Z4bC0rbmogHEUUuMLAUa/system-overview/election-package) can be found in the technical data package.
 
 ## Load the Election Package
 

@@ -12,9 +12,9 @@ Smart cards are used to configure and operate equipment. It's the same technolog
 
 ### System Administrator
 
-System administrator cards allow an election administrator to load an election definition, program smart cards, and remove the election definition from VxAdmin.
+System administrator cards allow an election administrator to create an election or load an election definition, program smart cards, and remove the election definition from VxAdmin.
 
-System administrator cards are typically only used at the very beginning and very end of an election. Keep this card in a secure location when not in use and in between elections.
+System administrator cards are typically only used at the very beginning and very end of an election, and while creating an election on VxAdmin. Keep this card in a secure location when not in use and in between elections.
 
 {% hint style="info" %}
 System administrators should be an election administrator (central election official, administrator, etc.) or their designee who is in charge of the voting system.
