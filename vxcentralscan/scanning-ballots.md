@@ -21,6 +21,7 @@ VotingWorks recommends the following batch sizes for typical, thick ballot paper
 * Ricoh fi-8170 - maximum 30 ballot sheets at a time
 * Ricoh fi-7600 - maximum 100 ballot sheets at a time
 * Ricoh fi-8950 - maximum 250 ballot sheets at a time
+* interScan DeskPro 631 - maximum 250 ballot sheets at a time
 
 The ballots need to be in a neat stack, unfolded and lying flat, but ballots can be in any orientation (e.g., upside down or backwards is fine).
 

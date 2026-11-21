@@ -5,6 +5,12 @@
 ## VxAdmin System Setup
 
 * [Set Up VxAdmin](vxadmin-system-setup/vxadmin-hardware-setup.md)
+* [Create an Election](vxadmin-system-setup/create-an-election/README.md)
+  * [Define the Election](vxadmin-system-setup/create-an-election/define-the-election.md)
+  * [Load Translations](vxadmin-system-setup/create-an-election/translations.md)
+  * [Load Audio](vxadmin-system-setup/create-an-election/audio.md)
+  * [Proof Ballots](vxadmin-system-setup/create-an-election/proof-ballots.md)
+  * [Finalize the Election](vxadmin-system-setup/create-an-election/finalize.md)
 * [Configure VxAdmin](vxadmin-system-setup/configure-vxadmin.md)
 * [Save the Election Package](vxadmin-system-setup/save-election-package.md)
 * [Smart Cards and User Roles](vxadmin-system-setup/programming-cards.md)
