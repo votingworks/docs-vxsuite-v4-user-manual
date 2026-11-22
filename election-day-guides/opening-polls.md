@@ -23,7 +23,7 @@ The polls opened report starts printing.
 * [ ] Repeat until there is no `Print Next Report` button
 * [ ] Select `Reprint Polls Opened Report` to print additional copies as necessary
 
-<div><figure><img src="../.gitbook/assets/photo-vxscan-polls-opened-report-printing.png" alt="VxScan screen showing Opening Polls with the polls opened report emerging from the printer slot" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-polls-opened.png" alt="VxScan Polls Opened screen confirming the report printed, with Reprint Polls Opened Report" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxscan-polls-opened-report-printing.png" alt="VxScan screen showing Opening Polls with the polls opened report emerging from the printer slot" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-polls-opened.review.png" alt="VxScan Polls Opened screen confirming the report printed, with Reprint Polls Opened Report" width="375"><figcaption></figcaption></figure></div>
 
 * [ ] Remove the poll worker card
 
