@@ -11,18 +11,18 @@ The `Pause Voting` action is generally used by jurisdictions conducting early vo
 
 <div><figure><img src="../.gitbook/assets/vxscan-pw-menu-button.png" alt="VxScan poll worker close polls prompt with the Menu button highlighted" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pw-pause-voting-button.png" alt="VxScan poll worker menu with polls open and the Pause Voting button highlighted" width="375"><figcaption></figcaption></figure></div>
 
-* [ ] Select `Reprint Voting Paused Report` to print more reports as necessary
+* [ ] Select `Print Another Copy` to print more reports as necessary
 * [ ] Remove the poll worker card
 
-<div><figure><img src="../.gitbook/assets/vxscan-pw-voting-paused.png" alt="VxScan Voting Paused screen confirming the report printed, with Reprint Voting Paused Report" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-voting-paused.png" alt="VxScan Voting Paused screen prompting to insert a poll worker card to resume voting" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxscan-pw-voting-paused.png" alt="VxScan Voting Paused screen confirming the report printed, with Print Another Copy" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-voting-paused.png" alt="VxScan Voting Paused screen prompting to insert a poll worker card to resume voting" width="375"><figcaption></figcaption></figure></div>
 
 Voting is now paused. To resume voting:
 
 * [ ] Insert a poll worker card and select `Resume Voting`
 
-<div><figure><img src="../.gitbook/assets/vxscan-pw-resume-voting-prompt.png" alt="VxScan poll worker prompt asking Do you want to resume voting" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pw-voting-resumed.png" alt="VxScan Voting Resumed screen confirming the report printed, with Reprint Voting Resumed Report" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxscan-pw-resume-voting-prompt.png" alt="VxScan poll worker prompt asking Do you want to resume voting" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-pw-voting-resumed.png" alt="VxScan Voting Resumed screen confirming the report printed, with Print Another Copy" width="375"><figcaption></figcaption></figure></div>
 
-* [ ] Select `Reprint Voting Resumed Report` to print more reports as necessary
+* [ ] Select `Print Another Copy` to print more reports as necessary
 * [ ] Remove the poll worker card
 
 Voting can now continue.

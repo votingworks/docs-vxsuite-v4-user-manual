@@ -42,7 +42,7 @@ For details, see [Open Polls](../election-day-guides/opening-polls.md "mention")
 The polls opened report prints.
 
 * [ ] Tear to remove the report
-* [ ] If needed, select `Reprint Polls Opened Report` to print more
+* [ ] If needed, select `Print Another Copy` to print more
 * [ ] Verify polling place name, election date, and totals are zero
 * [ ] Sign, retain and/or display the polls opened report as instructed by your election administrator
 * [ ] Remove the poll worker card
@@ -61,7 +61,7 @@ Instruct the voter to insert their ballot in any orientation. If the ballot scan
 The polls closed report prints.
 
 * [ ] Tear to remove the report
-* [ ] If needed, select `Reprint Polls Closed Report` to print more
+* [ ] If needed, select `Print Another Copy` to print more
 * [ ] Retain and/or display the polls closed report as instructed by your election administrator
 * [ ] Remove the poll worker card
 * [ ] Unseal and document the poll worker door seal as required
