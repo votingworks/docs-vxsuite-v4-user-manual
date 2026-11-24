@@ -22,7 +22,7 @@ Once configured, the election screen displays the title and date of your electio
 
 <div><figure><img src="../.gitbook/assets/vxadmin-election-screen-unconfigured.png" alt="VxAdmin unconfigured Election screen prompting to insert a USB drive containing an election package." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-election-screen-select-election-package.png" alt="VxAdmin Election screen listing an election package file on the USB drive to select for configuration." width="375"><figcaption></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/vxadmin-election-screen-configured.png" alt="VxAdmin Election screen showing the configured election with Save Election Package and Unconfigure Machine buttons." width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxadmin-election-screen-configured.png" alt="VxAdmin Election screen showing the configured election with Save Configuration Package and Unconfigure Machine buttons." width="375"><figcaption></figcaption></figure>
 
 ## Remove the Election
 

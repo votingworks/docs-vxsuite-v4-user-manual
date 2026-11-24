@@ -6,7 +6,7 @@
 
 * [Set Up VxAdmin](vxadmin-system-setup/vxadmin-hardware-setup.md)
 * [Configure VxAdmin](vxadmin-system-setup/configure-vxadmin.md)
-* [Save the Election Package](vxadmin-system-setup/save-election-package.md)
+* [Save the Configuration Package](vxadmin-system-setup/save-election-package.md)
 * [Smart Cards and User Roles](vxadmin-system-setup/programming-cards.md)
 * [Set Up Pre-Election Adjudication](vxadmin-system-setup/pre-election-adjudication-setup.md)
 * [Back Up and Restore](vxadmin-system-setup/backup-and-restore.md)

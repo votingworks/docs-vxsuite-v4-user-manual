@@ -8,25 +8,25 @@ Before you configure VxScan, you must set up the machine. Follow the steps in [S
 
 To configure VxScan, you must do two things in VxAdmin:
 
-* [ ] Save the election package to a USB drive (see [Save the Election Package](../vxadmin-system-setup/save-election-package.md "mention"))
+* [ ] Save the configuration package to a USB drive (see [Save the Configuration Package](../vxadmin-system-setup/save-election-package.md "mention"))
 * [ ] Create an election manager card (see [Smart Cards and User Roles](../vxadmin-system-setup/programming-cards.md "mention"))
 
-## Load the Election Package
+## Load the Configuration Package
 
-An unconfigured machine prompts you to insert an election manager card to log in and then insert a USB drive with the election package saved from VxAdmin.
+An unconfigured machine prompts you to insert an election manager card to log in and then insert a USB drive with the configuration package saved from VxAdmin.
 
 * [ ] Insert an election manager card
-* [ ] Insert a USB drive with the election package saved from VxAdmin
+* [ ] Insert a USB drive with the configuration package saved from VxAdmin
 
-<div><figure><img src="../.gitbook/assets/vxscan-unconfigured-screen.png" alt="VxScan unconfigured screen prompting to insert an election manager card to configure VxScan" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-em-insert-usb.png" alt="VxScan screen prompting to insert a USB drive containing an election package" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxscan-unconfigured-screen.png" alt="VxScan unconfigured screen prompting to insert an election manager card to configure VxScan" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-em-insert-usb.png" alt="VxScan screen prompting to insert a USB drive containing a configuration package" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Only one USB drive should be plugged into VxScan at a time. The other USB port is designed as a backup in the event of a failure.
 {% endhint %}
 
-After the USB drive is inserted, VxScan automatically begins loading all ballot styles for the election. After the election package is done loading, the election manager menu appears and VxScan is in test ballot mode.
+After the USB drive is inserted, VxScan automatically begins loading all ballot styles for the election. After the configuration package is done loading, the election manager menu appears and VxScan is in test ballot mode.
 
-<figure><img src="../.gitbook/assets/vxscan-em-election-manager-menu.png" alt="VxScan election manager Configuration tab after loading the election package" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vxscan-em-election-manager-menu.png" alt="VxScan election manager Configuration tab after loading the configuration package" width="375"><figcaption></figcaption></figure>
 
 ## Select a Polling Place
 

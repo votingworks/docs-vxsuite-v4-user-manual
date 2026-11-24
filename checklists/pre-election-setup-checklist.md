@@ -72,11 +72,11 @@ To prepare for an election, complete these steps after you download or receive t
 * [ ] Repeat for all USB drives you need to format
 * [ ] If you're not continuing to the next section, lock VxAdmin
 
-## Save Election Package
+## Save Configuration Package
 
 * [ ] Log in with a system administrator card
 * [ ] Select `Election` from the side menu in VxAdmin
-* [ ] Select `Save Election Package`
+* [ ] Select `Save Configuration Package`
 * [ ] When prompted, insert a USB drive
 * [ ] Select `Save`
 * [ ] Select `Eject USB`
@@ -85,6 +85,6 @@ To prepare for an election, complete these steps after you download or receive t
 ## Configure VxScan
 
 * [ ] Log in with an election manager card
-* [ ] Insert USB drive with the election package from VxAdmin
+* [ ] Insert USB drive with the configuration package from VxAdmin
 * [ ] If applicable, select the polling place VxScan is assigned to
 * [ ] Verify the title and date of election are correct

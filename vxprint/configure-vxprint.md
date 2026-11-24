@@ -8,7 +8,7 @@ You can configure VxPrint without the printer unpacked and set up.
 
 To configure VxPrint, you must do two things in VxAdmin:
 
-* [ ] Save the election package to a USB drive (see [Save the Election Package](../vxadmin-system-setup/save-election-package.md "mention"))
+* [ ] Save the configuration package to a USB drive (see [Save the Configuration Package](../vxadmin-system-setup/save-election-package.md "mention"))
 * [ ] Create an election manager card (see [Smart Cards and User Roles](../vxadmin-system-setup/programming-cards.md "mention"))
 
 ## Insert Smart Cards
@@ -19,16 +19,16 @@ The smart card reader is located on the side of the laptop to the left of the tr
 
 The picture above shows someone inserting a system administrator card into the laptop. To configure VxPrint, you need to insert an election manager card.
 
-## Load the Election Package
+## Load the Configuration Package
 
-An unconfigured machine prompts you to insert an election manager card to log in and then insert a USB drive with the election package saved from VxAdmin.
+An unconfigured machine prompts you to insert an election manager card to log in and then insert a USB drive with the configuration package saved from VxAdmin.
 
 * [ ] Insert an election manager card
-* [ ] Insert a USB drive with the election package saved from VxAdmin
+* [ ] Insert a USB drive with the configuration package saved from VxAdmin
 
-After the USB drive is inserted, VxPrint automatically begins loading all ballot styles for the election. After the election package is done loading, the election information appears.
+After the USB drive is inserted, VxPrint automatically begins loading all ballot styles for the election. After the configuration package is done loading, the election information appears.
 
-<div><figure><img src="../.gitbook/assets/vxprint-locked-unconfigured.png" alt="Locked VxPrint screen asking to insert an election manager card to configure VxPrint" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxprint-em-insert-usb.png" alt="Unconfigured VxPrint prompting to insert a USB drive containing an election package" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxprint-locked-unconfigured.png" alt="Locked VxPrint screen asking to insert an election manager card to configure VxPrint" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxprint-em-insert-usb.png" alt="Unconfigured VxPrint prompting to insert a USB drive containing a configuration package" width="375"><figcaption></figcaption></figure></div>
 
 <figure><img src="../.gitbook/assets/vxprint-em-election-screen.png" alt="VxPrint Election screen after loading a package, with the polling place dropdown still unselected" width="375"><figcaption></figcaption></figure>
 
