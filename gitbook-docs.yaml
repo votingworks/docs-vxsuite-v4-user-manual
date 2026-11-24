@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: VxSuite User Manual - v4.1
+  structure:
+    - type: space
+      key: space-user-manual
+      title: VxSuite User Manual - v4.1
+      path: vxsuite-user-manual-v4.1
+      default: true
+      content:
+        directory: ./
