@@ -15,13 +15,13 @@ To open the polls:
 
 The polls opened report starts printing.
 
-<div><figure><img src="../.gitbook/assets/photo-vxscan-insert-poll-worker-card.png" alt="Hand inserting a Poll Worker smart card into the VxScan card reader slot" width="375"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-open-polls-prompt.png" alt="VxScan poll worker prompt asking Do you want to open the polls" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxscan-insert-poll-worker-card.jpg" alt="Hand inserting a Poll Worker smart card into the VxScan card reader slot" width="375"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-open-polls-prompt.png" alt="VxScan poll worker prompt asking Do you want to open the polls" width="375"><figcaption></figcaption></figure></div>
 
 * [ ] Gently tear the report against the tear bar
 * [ ] If you see the `Print Next Copy` button, select it, gently tear off that copy, and repeat until the button no longer appears
 * [ ] Select `Print Another Copy` to print additional copies as necessary
 
-<div><figure><img src="../.gitbook/assets/photo-vxscan-polls-opened-report-printing.png" alt="VxScan screen showing Opening Polls with the polls opened report emerging from the printer slot" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-polls-opened.png" alt="VxScan Polls Opened screen confirming the report printed, with Print Another Copy" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxscan-polls-opened-report-printing.jpg" alt="VxScan screen showing Opening Polls with the polls opened report emerging from the printer slot" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-polls-opened.png" alt="VxScan Polls Opened screen confirming the report printed, with Print Another Copy" width="375"><figcaption></figcaption></figure></div>
 
 * [ ] Remove the poll worker card
 

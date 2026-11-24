@@ -10,7 +10,7 @@ description: >-
 
 VxAdmin is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWorks software and an optional printer. All USB drives, cords, adapters, and programmable smart cards needed to operate the system are included and stored in an orange case.
 
-<div><figure><img src="../.gitbook/assets/photo-vxadmin-case-closed.png" alt="Closed orange VxAdmin carrying case with VotingWorks label on a table." width="375"><figcaption><p>VxAdmin stored in case</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxadmin-setup.jpg" alt="VxAdmin laptop showing the locked screen, connected to a mouse, USB hub and HP LaserJet printer." width="375"><figcaption><p>VxAdmin fully set up</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxadmin-case-closed.jpg" alt="Closed orange VxAdmin carrying case with VotingWorks label on a table." width="375"><figcaption><p>VxAdmin stored in case</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxadmin-setup.jpg" alt="VxAdmin laptop showing the locked screen, connected to a mouse, USB hub and HP LaserJet printer." width="375"><figcaption><p>VxAdmin fully set up</p></figcaption></figure></div>
 
 ## Set Up the Hardware
 
@@ -21,14 +21,14 @@ VxAdmin is a commercial off-the-shelf (COTS) laptop pre-installed with VotingWor
    * [ ] Press the power button to turn the printer on
    * [ ] Load paper into the lower paper tray
 
-   <div><figure><img src="../.gitbook/assets/photo-printer-in-case.png" alt="HP LaserJet printer and its power cord packed in the open grey soft carrying case." width="188"><figcaption><p>Remove printer and power cord</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-printer-power-cord-port.png" alt="Rear of the HP LaserJet printer with the power cord socket circled." width="188"><figcaption><p>Plug the power cord into printer and an outlet</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-printer-power-button.png" alt="Front of the HP LaserJet Pro M404n printer with the power button circled." width="188"><figcaption><p>Press the power button to turn on</p></figcaption></figure></div>
+   <div><figure><img src="../.gitbook/assets/photo-printer-in-case.jpg" alt="HP LaserJet printer and its power cord packed in the open grey soft carrying case." width="188"><figcaption><p>Remove printer and power cord</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-printer-power-cord-port.jpg" alt="Rear of the HP LaserJet printer with the power cord socket circled." width="188"><figcaption><p>Plug the power cord into printer and an outlet</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-printer-power-button.jpg" alt="Front of the HP LaserJet Pro M404n printer with the power button circled." width="188"><figcaption><p>Press the power button to turn on</p></figcaption></figure></div>
 
 2. **Set up the VxAdmin laptop:**
 
    * [ ] Remove and document seals as necessary
    * [ ] Open the case by lifting the latches on the front
 
-   <div><figure><img src="../.gitbook/assets/photo-vxadmin-case-seals.png" alt="Closed orange VxAdmin case with red tamper-evident seals on both latches circled." width="375"><figcaption><p>Remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxadmin-case-latches.png" alt="Closed orange VxAdmin case with arrows pointing to the two front latches." width="375"><figcaption><p>Open the case by lifting the latches</p></figcaption></figure></div>
+   <div><figure><img src="../.gitbook/assets/photo-vxadmin-case-seals.jpg" alt="Closed orange VxAdmin case with red tamper-evident seals on both latches circled." width="375"><figcaption><p>Remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxadmin-case-latches.jpg" alt="Closed orange VxAdmin case with arrows pointing to the two front latches." width="375"><figcaption><p>Open the case by lifting the latches</p></figcaption></figure></div>
 
    * [ ] Remove the laptop
    * [ ] Pull the power cord (A) out
@@ -56,4 +56,4 @@ To pack up VxAdmin:
 * [ ] Disconnect the printer power cord from the outlet
 * [ ] Pack up the printer and its power cord
 
-<figure><img src="../.gitbook/assets/photo-vxadmin-case-seals.png" alt="Closed orange VxAdmin case with red tamper-evident seals on both latches circled." width="375"><figcaption><p>Seal the case</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo-vxadmin-case-seals.jpg" alt="Closed orange VxAdmin case with red tamper-evident seals on both latches circled." width="375"><figcaption><p>Seal the case</p></figcaption></figure>

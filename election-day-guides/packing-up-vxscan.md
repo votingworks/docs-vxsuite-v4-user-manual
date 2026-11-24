@@ -18,7 +18,7 @@ Pack up VxScan after the polls are closed through the following steps:
    * [ ] Pack up the UPS
    * [ ] Wrap the power cord in its storage space
 
-   <figure><img src="../.gitbook/assets/photo-vxscan-power-cord-storage.png" alt="Hand holding the plug end of the power cord wrapped in the storage recess on the back of the VxScan case" width="375"><figcaption><p>Remove and wrap the power cord</p></figcaption></figure>
+   <figure><img src="../.gitbook/assets/photo-vxscan-power-cord-storage.jpg" alt="Hand holding the plug end of the power cord wrapped in the storage recess on the back of the VxScan case" width="375"><figcaption><p>Remove and wrap the power cord</p></figcaption></figure>
 
    * [ ] Push the purple release button to the left to release the case from the ballot box
    * [ ] Close the poll worker door
@@ -27,7 +27,7 @@ Pack up VxScan after the polls are closed through the following steps:
    * [ ] Pull the case forward
    * [ ] Lift the case off of the ballot box
 
-   <div><figure><img src="../.gitbook/assets/photo-vxscan-security-bolt-release.jpg" alt="Thumb pushing the purple security bolt release inside the VxScan poll worker door" width="188"><figcaption><p>Push the security bolt release</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-case-latches.png" alt="Two hands working the latches on the closed VxScan case lid while it sits on the ballot box" width="188"><figcaption><p>Close the case lid, latch, and seal</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-slide-case-onto-ballot-box.png" alt="Hands sliding the closed VxScan case into the recess on top of the ballot box" width="188"><figcaption><p>Pull the case off the ballot box</p></figcaption></figure></div>
+   <div><figure><img src="../.gitbook/assets/photo-vxscan-security-bolt-release.jpg" alt="Thumb pushing the purple security bolt release inside the VxScan poll worker door" width="188"><figcaption><p>Push the security bolt release</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-case-latches.jpg" alt="Two hands working the latches on the closed VxScan case lid while it sits on the ballot box" width="188"><figcaption><p>Close the case lid, latch, and seal</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-slide-case-onto-ballot-box.jpg" alt="Hands sliding the closed VxScan case into the recess on top of the ballot box" width="188"><figcaption><p>Pull the case off the ballot box</p></figcaption></figure></div>
 
 2. **Pack up the ballot box:**
 

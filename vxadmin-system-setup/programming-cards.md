@@ -66,7 +66,7 @@ For each election, you will create election manager and poll worker cards specif
 * [ ] Log in with a system administrator card
 * [ ] Select `Smart Cards` from the side menu
 
-<div><figure><img src="../.gitbook/assets/vxadmin-smart-cards-no-card.png" alt="VxAdmin Smart Cards screen with no card inserted, prompting to insert a smart card." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-laptop-insert-smart-card.png" alt="Hand inserting a System Administrator smart card, chip first, into the laptop card reader." width="375"><figcaption><p>Insert smart card</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxadmin-smart-cards-no-card.png" alt="VxAdmin Smart Cards screen with no card inserted, prompting to insert a smart card." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-laptop-insert-smart-card.jpg" alt="Hand inserting a System Administrator smart card, chip first, into the laptop card reader." width="375"><figcaption><p>Insert smart card</p></figcaption></figure></div>
 
 * [ ] Insert the card you want to program
 * [ ] Select the button for the type of card you want to program

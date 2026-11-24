@@ -19,7 +19,7 @@ Once the configuration package is saved to a USB drive, you can load the file to
 * [ ] Turn on the VxCentralScan laptop
 * [ ] Insert an election manager card to unlock the machine
 
-<div><figure><img src="../.gitbook/assets/vxcentralscan-unconfigured-screen.png" alt="Unconfigured screen asking to insert an election manager card to configure VxCentralScan" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-laptop-insert-smart-card.png" alt="Hand inserting a System Administrator smart card, chip first, into the laptop card reader." width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxcentralscan-unconfigured-screen.png" alt="Unconfigured screen asking to insert an election manager card to configure VxCentralScan" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-laptop-insert-smart-card.jpg" alt="Hand inserting a System Administrator smart card, chip first, into the laptop card reader." width="375"><figcaption></figcaption></figure></div>
 
 * [ ] Insert a USB drive with the configuration package saved from VxAdmin
 

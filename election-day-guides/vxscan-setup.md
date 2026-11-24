@@ -74,7 +74,7 @@ To open the auxiliary bin:
 * [ ] Pull the bin toward you, stopping at the midway point
 * [ ] Seal the auxiliary bin when in use
 
-<div><figure><img src="../.gitbook/assets/photo-vxscan-auxiliary-bin-location.png" alt="Fully assembled VxScan with a blue arrow pointing to the auxiliary bin handle on the ballot box door." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-auxiliary-bin-seal-highlighted.png" alt="Front of the VxScan ballot box with a blue box highlighting the sealed auxiliary bin latch." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-auxiliary-bin-insert-ballot.png" alt="A hand inserting a ballot into the VxScan auxiliary (emergency) bin slot on the front of the ballot box." width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxscan-auxiliary-bin-location.jpg" alt="Fully assembled VxScan with a blue arrow pointing to the auxiliary bin handle on the ballot box door." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-auxiliary-bin-seal-highlighted.jpg" alt="Front of the VxScan ballot box with a blue box highlighting the sealed auxiliary bin latch." width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-auxiliary-bin-insert-ballot.jpg" alt="A hand inserting a ballot into the VxScan auxiliary (emergency) bin slot on the front of the ballot box." width="188"><figcaption></figcaption></figure></div>
 
 To verify the bin is empty or to remove the ballots from the auxiliary bin:
 

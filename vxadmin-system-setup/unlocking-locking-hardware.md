@@ -10,7 +10,7 @@ All devices are locked after turning on. To unlock the machine:
 * [ ] Enter the PIN
 * [ ] Remove your card
 
-<div><figure><img src="../.gitbook/assets/vxadmin-machine-locked-unconfigured.png" alt="VxAdmin Locked screen asking to insert a system administrator card to unlock." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-laptop-insert-smart-card.png" alt="Hand inserting a System Administrator smart card, chip first, into the laptop card reader." width="375"><figcaption><p>Insert smart card into card reader</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-enter-card-pin.png" alt="VxAdmin Enter Card PIN screen with a numeric keypad." width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/vxadmin-machine-locked-unconfigured.png" alt="VxAdmin Locked screen asking to insert a system administrator card to unlock." width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-laptop-insert-smart-card.jpg" alt="Hand inserting a System Administrator smart card, chip first, into the laptop card reader." width="375"><figcaption><p>Insert smart card into card reader</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxadmin-enter-card-pin.png" alt="VxAdmin Enter Card PIN screen with a numeric keypad." width="375"><figcaption></figcaption></figure></div>
 
 ## Lock the Machine
 
