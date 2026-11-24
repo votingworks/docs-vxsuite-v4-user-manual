@@ -10,7 +10,7 @@ description: >-
 
 VxCentralScan is a commercial off-the-shelf (COTS) laptop pre-installed with VxCentralScan software that connects to a Ricoh scanner.
 
-<div><figure><img src="../.gitbook/assets/photo-vxcentralscan-in-cases.png" alt="VxCentralScan in cases" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-setup.jpg" alt="VxCentralScan set up with fi-8170" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxcentralscan-in-cases.jpg" alt="VxCentralScan in cases" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-setup.jpg" alt="VxCentralScan set up with fi-8170" width="375"><figcaption></figcaption></figure></div>
 
 Three models of scanner are supported:
 
@@ -42,7 +42,7 @@ VxCentralScan can be set up through the following steps:
    * [ ] Remove and document seals as necessary
    * [ ] Open the case by lifting the latches on the front
 
-   <div align="left"><figure><img src="../.gitbook/assets/photo-vxcentralscan-case-seals.png" alt="Closed tan VxCentralScan case with red tamper-evident seals on both latches circled." width="375"><figcaption><p>Remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-case-latches.png" alt="Closed tan VxCentralScan case with arrows pointing to the two front latches." width="375"><figcaption><p>Lift the latches</p></figcaption></figure></div>
+   <div align="left"><figure><img src="../.gitbook/assets/photo-vxcentralscan-case-seals.jpg" alt="Closed tan VxCentralScan case with red tamper-evident seals on both latches circled." width="375"><figcaption><p>Remove and document seals as necessary</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxcentralscan-case-latches.jpg" alt="Closed tan VxCentralScan case with arrows pointing to the two front latches." width="375"><figcaption><p>Lift the latches</p></figcaption></figure></div>
 
    * [ ] Remove the laptop
    * [ ] Pull the power cord (A) out and plug into the laptop and an outlet
@@ -60,7 +60,7 @@ To pack up VxCentralScan:
 * [ ] Package the batch document scanner
 * [ ] Secure the laptop case as required by sealing the eyelets highlighted below
 
-<figure><img src="../.gitbook/assets/photo-vxcentralscan-case-seals.png" alt="Closed tan VxCentralScan case with red tamper-evident seals on both latches circled." width="375"><figcaption><p>Seal the case</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo-vxcentralscan-case-seals.jpg" alt="Closed tan VxCentralScan case with red tamper-evident seals on both latches circled." width="375"><figcaption><p>Seal the case</p></figcaption></figure>
 
 ## Imprinting
 

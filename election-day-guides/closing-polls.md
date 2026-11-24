@@ -10,9 +10,9 @@ The polls closed report prints.
 * [ ] Tear to remove the report
 * [ ] If you see the `Print Next Copy` button, select it, gently tear off that copy, and repeat until the button no longer appears
 
-<div><figure><img src="../.gitbook/assets/photo-vxscan-insert-poll-worker-card.png" alt="Hand inserting a Poll Worker smart card into the VxScan card reader slot" width="375"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-close-polls-prompt.png" alt="VxScan poll worker prompt asking Do you want to close the polls" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxscan-insert-poll-worker-card.jpg" alt="Hand inserting a Poll Worker smart card into the VxScan card reader slot" width="375"><figcaption><p>Insert poll worker card</p></figcaption></figure> <figure><img src="../.gitbook/assets/vxscan-close-polls-prompt.png" alt="VxScan poll worker prompt asking Do you want to close the polls" width="375"><figcaption></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/photo-vxscan-report-printing.png" alt="VxScan printing a report from the slot below the screen while the screen shows a progress indicator" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo-vxscan-report-printing.jpg" alt="VxScan printing a report from the slot below the screen while the screen shows a progress indicator" width="375"><figcaption></figcaption></figure>
 
 * [ ] Select `Print Another Copy` to print more reports as necessary
 * [ ] Remove the poll worker card
@@ -24,7 +24,7 @@ The polls closed report prints.
 * [ ] Remove the USB drive from the poll worker door
 * [ ] Secure the USB drive as required
 
-<div><figure><img src="../.gitbook/assets/photo-vxscan-poll-worker-door-seal.png" alt="Numbered green plastic security seal threaded through the VxScan poll worker door latch" width="188"><figcaption><p>Unseal and document the poll worker door</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-usb-drive-inserted.png" alt="USB drive inserted into the port behind the VxScan poll worker door, circled in blue" width="188"><figcaption><p>Remove the USB drive</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/photo-vxscan-poll-worker-door-seal.jpg" alt="Numbered green plastic security seal threaded through the VxScan poll worker door latch" width="188"><figcaption><p>Unseal and document the poll worker door</p></figcaption></figure> <figure><img src="../.gitbook/assets/photo-vxscan-usb-drive-inserted.jpg" alt="USB drive inserted into the port behind the VxScan poll worker door, circled in blue" width="188"><figcaption><p>Remove the USB drive</p></figcaption></figure></div>
 
 The polls are now closed. Below is an example of the polls closed report.
 

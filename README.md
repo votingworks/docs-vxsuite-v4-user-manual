@@ -29,7 +29,7 @@ VotingWorks Precinct System consists of three portable, self-contained products:
 2. VxMark: a tabletop accessible ballot-marking device with a printer that produces a voter-verifiable paper ballot.
 3. VxMarkScan: a free-standing accessible ballot-marking device with a printer that produces a voter-verifiable paper ballot.
 
-<div><figure><img src=".gitbook/assets/photo-vxscan-full-setup.png" alt="VxScan case open on top of the expanded ballot box, screen off, poll worker door and ballot box door closed" width="375"><figcaption><p>VxScan</p></figcaption></figure> <figure><img src=".gitbook/assets/photo-vxmarkscan-full-setup.png" alt="VxMarkScan assembled in its privacy booth with the controller, headphones, touchscreen, and printer-scanner tray" width="375"><figcaption><p>VxMarkScan</p></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/photo-vxscan-full-setup.png" alt="VxScan case open on top of the expanded ballot box, screen off, poll worker door and ballot box door closed" width="375"><figcaption><p>VxScan</p></figcaption></figure> <figure><img src=".gitbook/assets/photo-vxmarkscan-full-setup.jpg" alt="VxMarkScan assembled in its privacy booth with the controller, headphones, touchscreen, and printer-scanner tray" width="375"><figcaption><p>VxMarkScan</p></figcaption></figure></div>
 
 <figure><img src=".gitbook/assets/photo-vxmark-full-setup.jpg" alt="VxMark in its open case beside an HP LaserJet printer and headphones, screen asking for an election manager card" width="375"><figcaption><p>VxMark</p></figcaption></figure>
 
