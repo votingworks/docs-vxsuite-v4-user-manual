@@ -275,6 +275,18 @@ GitBook site's style guide.
   action really differs.
 - **UM-1307** "Multiple possible values" for a variable log field.
 
+## Photos
+
+- **UM-1401** Photos are JPEG files.
+- **UM-1402** A photo is 4:3 landscape at 1600×1200 or 3:4 portrait at
+  1200×1600.
+- **UM-1403** A photo never shares a row with a screenshot: give it its own
+  row.
+- **UM-1404** Photos in one row have the same shape, all 4:3 or all 3:4.
+- **UM-1405** A photo's file name is `photo-<device>-<subject>.jpg`, in
+  lowercase kebab-case: `photo-vxscan-power-cord.jpg`.
+- **UM-1406** A photo carries no metadata: no location, camera or date.
+
 ## Guidance
 
 Advice and reasons, not rules to flag.
@@ -303,3 +315,17 @@ Advice and reasons, not rules to flag.
   using. Deleting any image makes GitBook rebuild the whole space, so its
   diff marks every page as edited. An unused image is harmless; remove
   unused images in a separate cleanup pull request.
+- **Taking photos.** Shoot in the phone's 4:3 mode, the default on iPhone
+  and Pixel, and fill the frame with the subject on a plain background.
+  Shoot landscape for setups and portrait for tall subjects. Set the camera
+  to save JPEG ("Most Compatible" on iPhone) and turn off location tagging.
+  Crop to 4:3 or 3:4 and resize to 1600 px on the long side before adding a
+  photo.
+- **The photos check** on pull requests fails on location metadata, since
+  this repository is public, and warns on the other photo rules (UM-1401 to
+  UM-1405). Strip metadata with `exiftool -all= -tagsfromfile @
+  -icc_profile <file>`, which keeps the colors and changes no pixels.
+- **Why photos and screenshots don't share rows:** screenshots come in three
+  shapes (16:10 on VxAdmin, VxCentralScan and VxPrint, 16:9 on VxScan, 9:16
+  on VxMark and VxMarkScan), and a 4:3 or 3:4 photo beside any of them
+  renders at a different height.
