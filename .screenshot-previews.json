@@ -1,7 +1,1 @@
-{
-  "vxmark-print-blank-ballot-barcode-scanned-highlighted": {
-    "sha256": "6e8216292fb31199c9c5730e2e577c9373d15ffd5bfe966619098c4f1e26134a",
-    "spec": "votingworks/vxsuite-screenshots#159",
-    "spec_sha": "f7808668e2cac917bee4cffaadeae2f150eeecdb"
-  }
-}
+{}
